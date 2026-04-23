@@ -118,11 +118,11 @@
 	</row>
 	<row id="msg_0824_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Venepic</language>
+		<language name="English">Pokémon Vénépic</language>
 	</row>
 	<row id="msg_0824_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Venepic</language>
+		<language name="English">Pokémon Vénépic</language>
 	</row>
 	<row id="msg_0824_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
@@ -130,11 +130,11 @@
 	</row>
 	<row id="msg_0824_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Venepic</language>
+		<language name="English">Pokémon Vénépic</language>
 	</row>
 	<row id="msg_0824_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Venepic</language>
+		<language name="English">Pokémon Vénépic</language>
 	</row>
 	<row id="msg_0824_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
@@ -1382,7 +1382,7 @@
 	</row>
 	<row id="msg_0824_00345" index="345">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Lis D’Eau</language>
+		<language name="English">Pokémon Lis d’Eau</language>
 	</row>
 	<row id="msg_0824_00346" index="346">
 		<attribute name="window_context_name">used</attribute>
@@ -1474,7 +1474,7 @@
 	</row>
 	<row id="msg_0824_00368" index="368">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Mer Du Sud</language>
+		<language name="English">Pokémon Mer du Sud</language>
 	</row>
 	<row id="msg_0824_00369" index="369">
 		<attribute name="window_context_name">used</attribute>

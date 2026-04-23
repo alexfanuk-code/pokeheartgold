@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="msg_0023_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s an Apricorn Tree!\r</language>
+		<language name="English">Il y a un Noigrumier!\r</language>
 	</row>
 	<row id="msg_0023_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...It’s a {STRVAR_1 8, 1, 0}!\r</language>
+		<language name="English">... C’est un {STRVAR_1 8, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0023_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are no Apricorns...</language>
+		<language name="English">Il n’y a pas de Noigrume.</language>
 	</row>
 	<row id="msg_0023_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} obtained\nthe {STRVAR_1 8, 1, 0}!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} obtient\nun {STRVAR_1 8, 1, 0}!</language>
 	</row>
 	<row id="msg_0023_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} put the {STRVAR_1 8, 1, 0}\nin the Apricorn Box!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} met le {STRVAR_1 8, 1, 0}\ndans la Boîte Noigrume.</language>
 	</row>
 	<row id="msg_0023_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Well, that’s what was going to\nhappen, except there’s no Apricorn\fBox yet!\r{STRVAR_1 3, 0, 0} gave up on the\n{STRVAR_1 8, 1, 0}...</language>
+		<language name="English">... Mais vous n’avez rien pour ranger\nles Noigrumes!\r{STRVAR_1 3, 0, 0} laisse le {STRVAR_1 8, 1, 0}.</language>
 	</row>
 	<row id="msg_0023_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Well, that’s what was going to\nhappen, except...\fThe Apricorn Box is full!\r{STRVAR_1 3, 0, 0} gave up on the\n{STRVAR_1 8, 1, 0}...</language>
+		<language name="English">... Mais la Boîte Noigrume est pleine!\r{STRVAR_1 3, 0, 0} laisse le {STRVAR_1 8, 1, 0}.</language>
 	</row>
 	<row id="msg_0023_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Since there’s nothing to put it in,\nthere’s no reason to take it...</language>
+		<language name="English">Vous ne cueillez pas le Noigrume, car\nvous n’avez rien pour le ranger.</language>
 	</row>
 </body>

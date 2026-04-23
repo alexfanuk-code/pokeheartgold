@@ -2,54 +2,54 @@
 <body language="English">
 	<row id="msg_0114_D35R0104_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: {STRVAR_1 3, 0, 0}!\nIn order to unlock the door to the\fradio transmitter, you need the voice\fof a certain person.\rThe name of the person is Petrel,\nthe Team Rocket Executive!\rI have found out he is hiding in their\nleader’s office!\rUnfortunately though, that room is\nalso protected with a password...\r{STRVAR_1 3, 0, 0}!\nWe need the password to their leader’s\foffice first!\r</language>
+		<language name="English">Peter: {STRVAR_1 3, 0, 0}!\rPour déverrouiller la porte de\nl’engin qui émet ces ondes radio, il faut\fla voix d’une certaine personne...\rEt ce n’est nul autre que... le\nCommandant Lambda de la Team Rocket!\rJ’ai découvert qu’il se cachait dans la\nchambre de leur boss!\rMais...\nCette chambre est protégée par un\fmot de passe...\r{STRVAR_1 3, 0, 0}!\nNous devons d’abord trouver le mot de\fpasse de cette chambre!\r</language>
 	</row>
 	<row id="msg_0114_D35R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: {STRVAR_1 3, 0, 0}!\nIn order to unlock the door to the\fradio transmitter, you need the voice\fof a certain person.\rThe name of the person is Petrel,\nthe Team Rocket Executive!\rI have found out he is hiding in their\nleader’s office!\rUnfortunately though, that room is\nalso protected with a password...\r{STRVAR_1 3, 0, 0}!\nWe need the password to their leader’s\foffice first!\r</language>
+		<language name="English">Peter: {STRVAR_1 3, 0, 0}!\rPour déverrouiller la porte de\nl’engin qui émet ces ondes radio, il faut\fla voix d’une certaine personne...\rEt ce n’est nul autre que... le\nCommandant Lambda de la Team Rocket!\rJ’ai découvert qu’il se cachait dans la\nchambre de leur boss!\rMais...\nCette chambre est protégée par un\fmot de passe...\r{STRVAR_1 3, 0, 0}!\nNous devons d’abord trouver le mot de\fpasse de cette chambre!\r</language>
 	</row>
 	<row id="msg_0114_D35R0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Urrggh...\nThe guy in the cape is incredibly\ftough...and I had no choice\fbut to tell him all the secrets about\fthis hideout...\rExcept that our leader’s office is\nprotected with two passwords!\n</language>
+		<language name="English">Gueuuh...\nLe type avec la cape est trop balèze!\rJ’ai dû lui révéler tous les secrets du\nrepaire... Mais je me suis retenu de lui\fdire que la chambre du boss était\fprotégée par deux mots de passe\fdifférents!</language>
 	</row>
 	<row id="msg_0114_D35R0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...\rSo you are messing with them again.\rHumph, you must really like Team Rocket\nso much.\r...Tell me, who was the guy in the cape\nwho used Dragon-type Pokémon?\rMy Pokémon were no match at all.\rI don’t care that I lost. I can beat\nhim by getting stronger Pokémon.\rIt’s what he said that bothers me...\nHe told me that I don’t love and\ftrust my Pokémon enough.\rI’m furious that I lost to a bleeding\nheart like him.\r...Humph! I don’t have the time for the\nlikes of you!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ...\rEh bien, aujourd’hui, c’est ici que\nje te retrouve?\rPfff! Tu l’aimes tant que ça,\ncette Team Rocket?\r... Bah, je m’en fiche.\nCe qui m’intrigue, moi,\fc’est ce Dracologue au manteau...\rC’est qui? Ses Pokémon ont écrasé même\nles miens...\rJe me fiche d’avoir perdu, je n’aurai\nqu’à en capturer de meilleurs pour\fprendre ma revanche sur lui!\rNon, ce que je n’aime pas, c’est ce\nqu’il m’a dit...\rComme quoi j’aurais pas assez d’amour\nou de considération pour mes Pokémon...\rÇa m’énerve de penser que j’ai perdu\ncontre un mollasson pareil!\r... Pfff. J’ai pas de temps à perdre\navec toi!\r</language>
 	</row>
 	<row id="msg_0114_D35R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Muhahaha, we’ve been waiting for you.\nSo, you are {STRVAR_1 3, 0, 0}...\rMe?\nYou don’t know who I am?\rIt is me, Giovanni.\nThe majestic Giovanni himself!\fWahahaha!\r</language>
+		<language name="English">Gnihihi... Enfin...\nC’est donc toi, {STRVAR_1 3, 0, 0}...?\rQuoi?\nTu ne sais pas qui je suis?\rJe suis Giovanni! Le maître Giovanni!\nWahahaha!\r</language>
 	</row>
 	<row id="msg_0114_D35R0104_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Huh?\nI don’t sound anything like Giovanni?\rI don’t even look like Giovanni?\nHow come? I’ve worked so hard\fto mimic him!\r</language>
+		<language name="English">... Hein?\rComment ça, je ne lui ressemble pas?\rArgh!! Dire que je me suis entraîné\ntous les soirs pour l’imiter!\r</language>
 	</row>
 	<row id="msg_0114_D35R0104_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Petrel: I am a Team Rocket Executive!\rYou must be trying to sneak into the\nradio-transmitter room.\fWell, that’s not going to happen.\rThat room is protected with a special\npassword. The password is\f“Hail Giovanni.”\fSurprised to hear it from me?\rKnowing the password won’t help\nyou though.\rThe door won’t open unless I say the\npassword. It only reacts to my voice.\r</language>
+		<language name="English">Lambda: Je suis le Commandant Lambda,\nde la Team Rocket!\rT’es là pour t’introduire dans la salle\nde l’émetteur d’ondes folles, hein?\rMais ça se passera pas comme ça!\rCet endroit est protégé par une\nserrure spéciale!\rLe mot de passe est “Vive Giovanni”!\rHahaha, ça te surprend que je te le\nrévèle aussi facilement?\rMais je me fiche que tu connaisses le\nmot de passe...\rParce que la porte ne s’ouvrira que si\nc’est moi qui le prononce!\r</language>
 	</row>
 	<row id="msg_0114_D35R0104_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Petrel: Since disbanding Team Rocket\nthree years ago, our Giovanni has\fbeen missing.\rBut we’re certain he’s been waiting\nfor the right time for our revival...\rWahahaha!\rLosing to you won’t change the fact\nthat you are unable to get in the\fradio-transmitter room!\rYou need my voice to unlock it!\r</language>
+		<language name="English">Lambda: Notre maître Giovanni a dissous\nla Team Rocket il y a 3 ans avant de\fdisparaître...\rMais je suis sûr qu’il attend le moment\nopportun pour revenir...\rHahaha!\rJe me fiche d’avoir perdu contre toi,\nça ne me fait rien!\rTu ne pourras pas ouvrir la porte de\nl’émetteur sans ma voix de toute façon!\r</language>
 	</row>
 	<row id="msg_0114_D35R0104_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MURKROW: Hail Giovanni.\r</language>
+		<language name="English">CORNEBRE: VIVE GIOVANNI!\r</language>
 	</row>
 	<row id="msg_0114_D35R0104_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MURKROW is mimicking\nthe voice of Petrel!\rYou may be able to...!?\r</language>
+		<language name="English">Le CORNEBRE imite parfaitement\nla voix de Lambda!\rSerait-il possible que...?!\r</language>
 	</row>
 	<row id="msg_0114_D35R0104_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MURKROW: Hail Giovanni.\r</language>
+		<language name="English">CORNEBRE: VIVE GIOVANNI!\r</language>
 	</row>
 	<row id="msg_0114_D35R0104_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The door’s closed...\rIt needs two passwords\nto open it.</language>
+		<language name="English">La porte est fermée...\rIl faut deux mots de passe.</language>
 	</row>
 	<row id="msg_0114_D35R0104_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The door’s closed...\r{STRVAR_1 3, 0, 0} entered the\ntwo passwords.\rThe door opened!\r</language>
+		<language name="English">La porte est fermée...\r{STRVAR_1 3, 0, 0} tape les deux\nmots de passe...\rLa porte s’ouvre!\r</language>
 	</row>
 </body>

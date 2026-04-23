@@ -2,38 +2,38 @@
 <body language="English">
 	<row id="msg_0604_T26_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\rYou again?\rThere’s no need to be alert.\nI don’t bother with wimps like you.\rSpeaking of weaklings, the city’s\nGym Leader isn’t here, and\fis supposedly taking care of a\fsick Pokémon at the Lighthouse.\rHumph! Boo-hoo!\nJust let sick Pokémon go!\rA Pokémon that can’t battle\nis worthless!\rWhy don’t you go train at\nthe Lighthouse?\rWho knows? It may make you a bit\nof a better Trainer!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ...\rEncore toi?\rTu commences vraiment à me courir!\nJe ne veux pas me battre contre des\fmoucherons dans ton genre!\r... En parlant de moucherons, le\nChampion de la ville n’est pas là.\rIl est au phare en train de s’occuper\nde Pokémon débiles!\rQuelle perte de temps! Un Pokémon\nfaible, on s’en débarrasse et puis\fc’est tout!\rIls servent à rien s’ils ne peuvent pas\nse battre!\rEt si tu allais prendre des leçons au\nphare?\rTu pourrais peut-être t’améliorer un\npeu, qui sait!\r</language>
 	</row>
 	<row id="msg_0604_T26_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dark roads are dangerous at night.\rBut, in the pitch-black night,\nthe sea is even more treacherous!\rWithout the beacon of the Lighthouse\nto guide her, no ship can sail.</language>
+		<language name="English">Les mers, comme les routes plongées\ndans le noir, recèlent mille dangers!\rSans la lumière du phare, les bateaux\nne peuvent pas prendre la mer!</language>
 	</row>
 	<row id="msg_0604_T26_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That thing you have--\nit’s a Pokégear, right?\fWow, that’s cool.</language>
+		<language name="English">Ce serait pas un Pokématos\nque tu as là?\fQuelle chance! Qu’il est beau!</language>
 	</row>
 	<row id="msg_0604_T26_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you have a Pokémon!\nThat is just so awesome.</language>
+		<language name="English">Ce serait pas un Pokédex\nque tu as là?\fQuelle chance! Qu’il est beau!</language>
 	</row>
 	<row id="msg_0604_T26_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You, young Trainer!\nThe sea is sweet!\rSing with me!\fThe sea is blue!\nThe sea is salty!</language>
+		<language name="English">Un jeune Dresseur!\nEt la mer est bonne!\rMaman les p’tits bateaux\nqui vont sur l’eau...</language>
 	</row>
 	<row id="msg_0604_T26_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City\nThe Port with Sea Breezes</language>
+		<language name="English">Oliville\nLe port des embruns</language>
 	</row>
 	<row id="msg_0604_T26_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine Port\nFast-Ship Pier</language>
+		<language name="English">Port d’Oliville\nEmbarcadère pour l’Express</language>
 	</row>
 	<row id="msg_0604_T26_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City Pokémon Gym\nLeader: Jasmine\fThe Steel-Clad Defense Girl</language>
+		<language name="English">Arène d’Oliville\nChampion: Jasmine\fLa demoiselle à la défense d’acier</language>
 	</row>
 	<row id="msg_0604_T26_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine’s Lighthouse\rIt is also known as\nthe Glitter Lighthouse.</language>
+		<language name="English">Phare d’Oliville\rAussi connu sous le nom de\nphare étincelant</language>
 	</row>
 </body>

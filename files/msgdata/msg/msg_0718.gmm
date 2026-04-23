@@ -3,26 +3,26 @@
 	<row id="msg_0718_00000" index="0">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0718_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0718_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0718_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0718_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 </body>

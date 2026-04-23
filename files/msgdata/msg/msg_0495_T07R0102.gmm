@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="msg_0495_T07R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I just recently became a Trainer.\fMy son encouraged me to do it.\rI’m impressed by the selection of\nconvenient items.</language>
+		<language name="English">Je commence à me mettre au dressage de\nPokémon, à cause de l’influence\fde mon fils...\rIls ont vraiment beaucoup d’objets\nintéressants, par ici!</language>
 	</row>
 	<row id="msg_0495_T07R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My dad’s having a hard time learning\nthe names of items and how they are\fsupposed to be used...</language>
+		<language name="English">Mon père a du mal à retenir tous les\nobjets et leurs fonctions...</language>
 	</row>
 	<row id="msg_0495_T07R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Top Grade Items for Trainers!\n2F: Trainer’s Market</language>
+		<language name="English">De bons objets pour de bons Dresseurs!\n1¹: Marché du Dresseur</language>
 	</row>
 	<row id="msg_0495_T07R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wake: Hmm... Hmm... Humm...\r</language>
+		<language name="English">Lovis: Hum hum hum, hum hum hum, hum!\r</language>
 	</row>
 	<row id="msg_0495_T07R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wake: Ha! This is quite a mask...\r</language>
+		<language name="English">Lovis: Oh!\nEn voilà un masque intéressant...\r</language>
 	</row>
 	<row id="msg_0495_T07R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wake: Huh? You talking to me?\rYour eyes...are on my\nCrasher Wake mask?\rNo, no, no!\nI can never let it go!\r...\nHuh? That’s not it?\fYou want the other mask?\rHmm.\nOK.\r</language>
+		<language name="English">Lovis: Hein? Tu veux quelque chose?\rCe regard...\nNe... Ne me dis pas que...!\rTu veux mon magnifique masque\nde Lovis le Teigneux?!\rImpossible! Jamais! Je ne m’en\nséparerais pour rien au monde!\r...\nAh bon? C’était pas ça?\fC’est ce masque-là que tu veux?\rMmmh...\nBah, dans ce cas, ça va, alors.\r</language>
 	</row>
 	<row id="msg_0495_T07R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wake: What?\nThat’s not enough?\rYou’re quite a negotiator for your\nage... All right, I’ll give you this, too!\r</language>
+		<language name="English">Lovis: Hein?\nÇa te suffit pas?\rHmm, t’es peut-être jeune, mais tu\nsais marchander!\rC’est bon! Je te donne ça aussi!\r</language>
 	</row>
 	<row id="msg_0495_T07R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wake: ...\rArrr, all right, all right! I will give you\nthis much-valued one as well!\r</language>
+		<language name="English">Lovis: ...\r...\rC’est bon! J’ai compris! J’ai compris!\nExceptionnellement je t’offre ça aussi!\r</language>
 	</row>
 	<row id="msg_0495_T07R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wake: It’s OK.\nI’ve already paid for you.\rPresents for you from the one\nwho wears masks the best.\fDon’t be shy.\fHa ha ha!\r</language>
+		<language name="English">Lovis: C’est bon, t’inquiète pas!\nJ’ai déjà payé pour toi!\rC’est un cadeau de moi, qui porte\nsi bien les masques, à toi,\fqui les aimes tant!\rQuand y’a de la gêne,\ny’a pas de plaisir!\rWahahahaha!!\r</language>
 	</row>
 	<row id="msg_0495_T07R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wake: Hmm... Hmm... Humm...\rHa! This is quite a mask...</language>
+		<language name="English">Lovis: Hum hum hum, hum hum hum, hum!\rOh!\nEn voilà un masque intéressant...</language>
 	</row>
 </body>

@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0517_T08R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My grandpa is at my brother Bill’s\non Cerulean Cape.</language>
+		<language name="English">Mon grand-père est chez mon\nfrère Léo au Cap d’Azuria.</language>
 	</row>
 	<row id="msg_0517_T08R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I saw these weird, slow Pokémon on\nCycling Road.</language>
+		<language name="English">J’ai vu un Pokémon qui bougeait\nbizarrement sur la Piste Cyclable...</language>
 	</row>
 </body>

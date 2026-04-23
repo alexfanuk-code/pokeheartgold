@@ -2,23 +2,23 @@
 <body language="English">
 	<row id="msg_0386_R34R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, honey. You’re making a Pokédex?\rYou must be battling all kinds\nof Pokémon.\rTry using this TM for a change.</language>
+		<language name="English">Oh! Tu travailles sur un Pokédex?\nDonc tu te bats avec des tas de\fPokémon, alors?\rTu aurais peut-être besoin\nde cette CT, dans ce cas...</language>
 	</row>
 	<row id="msg_0386_R34R0201_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0386_R34R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s Taunt.\rUse it and the target Pokémon\ncan only use moves that do damage\fto your Pokémon for a while.</language>
+		<language name="English">C’est Provoc.\rSi tu l’utilises sur un Pokémon,\nil ne pourra plus utiliser que des\fcapacités offensives...</language>
 	</row>
 	<row id="msg_0386_R34R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUTTERFREE: Freeh!</language>
+		<language name="English">PAPILUSION: Piii!</language>
 	</row>
 	<row id="msg_0386_R34R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you see the shrine that pays homage\nto the protector?\rThis protector watches over the forest\nfrom across time.\rI think that it must be a\nGrass-type Pokémon.</language>
+		<language name="English">As-tu vu l’autel en l’honneur du\ngardien de la forêt?\rIl protège le Bois aux Chênes depuis\nla nuit des temps.\rJe suis sûre que c’est un Pokémon de\ntype Plante.</language>
 	</row>
 </body>

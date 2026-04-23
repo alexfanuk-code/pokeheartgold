@@ -2,66 +2,66 @@
 <body language="English">
 	<row id="msg_0255_P01R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to Fast Ship S.S. Aqua.\r...Except that the engine-maintenance\nteam is taking some time off, and we\fdon’t know when we can depart...</language>
+		<language name="English">Bienvenue sur le Bateau Express\nAquaria!\r... Hélas, nous sommes en train\nd’effectuer la maintenance de la salle\fdes moteurs, ça va prendre du temps...\rOn ne sait toujours pas quand on va\npouvoir reprendre la mer...</language>
 	</row>
 	<row id="msg_0255_P01R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to Fast Ship S.S. Aqua.\nMay I see your S.S. Ticket?\r</language>
+		<language name="English">Bienvenue sur l’Aquaria!\rPuis-je voir votre ticket\ns’il vous plaît?\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} tried to show the\nS.S. Ticket...\r...But no Ticket here!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} voudrait bien montrer son\nPasse Bateau...\rMais...\n{STRVAR_1 3, 0, 0} n’en a pas!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m sorry...\rAnother person without a Ticket\nwouldn’t make much of a difference,\fI think.\rBut a rule is a rule.\nSorry, kiddo.</language>
+		<language name="English">Ah bon...\rSi ça ne tenait qu’à moi, je vous\nlaisserais monter gratuitement, mais\fles règles sont les règles... Désolé!</language>
 	</row>
 	<row id="msg_0255_P01R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} flashed the S.S. Ticket.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} montre son Passe\nà l’employé!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, you have a Ticket!\rWe’re departing soon.\nGet on board quick!\r</language>
+		<language name="English">C’est le bon Passe!\nNous allons bientôt partir,\fmontez sans tarder!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What?\nYou already showed me the Ticket.</language>
+		<language name="English">Oui?\nJ’ai déjà vu votre Passe...</language>
 	</row>
 	<row id="msg_0255_P01R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the S.S. Aqua!\rYour Ticket is...right there.\nPlease come through.\r</language>
+		<language name="English">Bienvenue sur le Bateau Express\nAquaria! Puis-je voir votre...\fAh, vous en avez un, vous. Passez!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Operating a ship every day can wear\nyou out!\fIt’s not running today.\rIt leaves for Vermilion City on Mondays\nand Fridays!</language>
+		<language name="English">Qu’est-ce que c’est fatigant de faire\nnaviguer ce bateau tous les jours...\fAujourd’hui, c’est le jour de l’express.\rLe bateau qui va à Carmin sur Mer est le\nlundi et le vendredi!</language>
 	</row>
 	<row id="msg_0255_P01R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Hello!\nYou are starting to have the\fattitude of a Champion, {STRVAR_1 3, 0, 0}!\rIt’s time for your Pokédex to match\nwho you are.\fLet me see your Pokédex for a second.\rI’ll upgrade your Pokédex with\nthe National Mode.\r</language>
+		<language name="English">Chen: Oh, {STRVAR_1 3, 0, 0}!\nJe ne saurais pas dire précisément\fpourquoi, mais tu as l’allure\fd’un Maître!\rEt maintenant que tu l’es, il faut que\nton Pokédex soit digne de ton rang!\rAllez, passe-le-moi un instant...\nJe vais t’ajouter le Mode National!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Hello!\nYou are starting to have the...\fattitude of a Champion, {STRVAR_1 3, 0, 0}!\rIt’s time for your Pokédex to match\nwho you are.\fLet me see your Pokédex for a second.\rI’ll upgrade your Pokédex with\nthe National Mode.\r</language>
+		<language name="English">Chen: Oh, {STRVAR_1 3, 0, 0}!\nJe ne saurais pas dire précisément\fpourquoi, mais tu as l’allure\fd’un Maître!\rEt maintenant que tu l’es, il faut que\nton Pokédex soit digne de ton rang!\rAllez, passe-le moi un instant...\nJe vais t’ajouter le Mode National!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Pokédex was upgraded\nwith the National Mode!</language>
+		<language name="English">Le Mode National a été ajouté au\nPokédex de {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0255_P01R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: It won’t be easy to\ncomplete the National Pokédex...\rHowever, I’m sure you will make an\nhonest attempt on our behalf!\r</language>
+		<language name="English">Chen: Je sais que c’est extrêmement\ndur de remplir le Pokédex National...\fFais de ton mieux!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, time flies!\rI have a radio show to record\nat Goldenrod Radio Tower.\rYou must be heading for Kanto.\rIf you come near Pallet Town, do drop\nby my Pokémon Research Lab!\r</language>
+		<language name="English">Quoi!\nC’est déjà si tard?!\rJe dois être à Doublonville pour mon\némission de radio...\rTu vas tenter ta chance à Kanto\nmaintenant, non?\rMon Laboratoire se trouve dans un\npetit village appelé Bourg Palette.\rSi tu passes par là, viens me montrer\nton Pokédex!\r</language>
 	</row>
 	<row id="msg_0255_P01R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The S.S. Aqua uses jets to travel.\nIt skims over water!</language>
+		<language name="English">L’Aquaria avance en projetant des jets\nd’eau! Il touche à peine la surface de\fl’océan quand il avance!</language>
 	</row>
 	<row id="msg_0255_P01R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve been to Kanto already?\rI hear many rare Pokémon live\nover there.\rSounds exciting.\nI’d love to visit!</language>
+		<language name="English">Tu vas à Kanto?\rOn dit qu’il y a plein de Pokémon\nrares là-bas! Quelle chance...\fJ’aimerais bien y aller...</language>
 	</row>
 </body>

@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0489_T06R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know about the Magnet Train?\rIt’s a railway that connects\nKanto and Johto.</language>
+		<language name="English">Tu connais le Train Magnétique?\rC’est un train qui relie Kanto et Johto.</language>
 	</row>
 	<row id="msg_0489_T06R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saffron! Saffron!\nI want to go to Saffron City to see\fthe Magnet Train.\rMagnet Train!</language>
+		<language name="English">Safrania! Safrania!\nEmmène-moi à Safrania!\rLe train! Le train!\nJe veux voir le Train Magnétique!</language>
 	</row>
 </body>

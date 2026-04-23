@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0132_D46R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: I came to Kanto to look for\nBug-type Pokémon, so I can become\fa stronger Bug-type Pokémon Trainer!\rHey, why don’t we swap phone\nnumbers? {YESNO 0}</language>
+		<language name="English">Hector: Je suis venu à Kanto pour\ntrouver de nouveaux Pokémon Insecte!\rJe veux devenir un Dresseur de Pokémon\nInsecte encore meilleur!\rAh, j’ai une idée!\nDonne-moi ton numéro\fde téléphone! {YESNO 0}</language>
 	</row>
 	<row id="msg_0132_D46R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Bugsy\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré Hector\ndans son Pokématos!</language>
 	</row>
 	<row id="msg_0132_D46R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: We can battle around lunch\non Thursdays!\fGive me a call!</language>
+		<language name="English">Hector: Je suis libre pour me battre\navec toi tous les jeudis en journée!\fSi tu en as envie, téléphone-moi!</language>
 	</row>
 	<row id="msg_0132_D46R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Oh, well...\nThat’s OK...</language>
+		<language name="English">Hector: Ah bon...\nAlors dans ce cas, tant pis...</language>
 	</row>
 	<row id="msg_0132_D46R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bugsy: Will you give me your phone\nnumber? {YESNO 0}</language>
+		<language name="English">Hector: Tu veux bien me donner\nton numéro de téléphone? {YESNO 0}</language>
 	</row>
 </body>

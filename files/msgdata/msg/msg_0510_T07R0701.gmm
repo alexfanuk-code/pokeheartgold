@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="msg_0510_T07R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi!\rWe’re holding an eatathon contest.\nWe can’t serve you right now. Sorry.</language>
+		<language name="English">Bienvenue!\r... Du moins, j’aimerais bien vous\ndire ça, mais on est en plein\fconcours de gloutonnerie...\rSi ça vous intéresse, vous pouvez\nregarder les concurrents manger.</language>
 	</row>
 	<row id="msg_0510_T07R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huff... Huff... Munch... Munch...\nHuff... Huff... Munch... Munch...\rWhen it comes to eating contests,\nI’m quite confident.\rBut I can’t handle hot food.\fIf I have to hurry eating, my mouth...\fHot, hot, hot!\r</language>
+		<language name="English">Ouf... Ouf... miom miom miom...\nOuf... Ouf... miom miom miom...\rJ’ai confiance en mon estomac, mais il\nfaut faire attention...\rQuand on mange trop vite, on risque de\nse mordre la... Aïe! Aïe! Aïe!!!\r</language>
 	</row>
 	<row id="msg_0510_T07R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chomp, chew, munch...\n(Please don’t talk to me now!)\rChomp, chew, cough...\n(Food is gonna come out of my mouth...)\r</language>
+		<language name="English">NMMH MMMHH NMMHMMMNH!!!\n(Ne me parle pas maintenant!)\rMMHH HHHHMMMM MHNNMM HHMM...\n(Je risque de tout recracher...)\r</language>
 	</row>
 	<row id="msg_0510_T07R0701_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Munch munch munch...\n...What? This is the eatathon contest?\rOuch!\rI thought it was the speed-eating\ncontest...\r</language>
+		<language name="English">BAFFRE BAFFRE BAFFRE\r... Hein? Ici, c’est la quantité avalée\nqu’on juge?\rOh non!\rJe croyais que c’était à qui finirait\nson plat le premier...\r</language>
 	</row>
 	<row id="msg_0510_T07R0701_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Crunch... Crunch...\rI can keep eating!\nMore, chef!\r</language>
+		<language name="English">MIOM MIOM MIOM!\rJe peux encore manger!\rChef! Une autre!\r</language>
 	</row>
 	<row id="msg_0510_T07R0701_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Crunch... Crunch...\rI can keep eating!\nMore, chef!\r</language>
+		<language name="English">MIOM MIOM MIOM!\rJe peux encore manger!\rChef! Une autre!\r</language>
 	</row>
 	<row id="msg_0510_T07R0701_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Maylene: Munch munch munch...\nThe eatathon contest!\rI never dreamed of such a\nwonderful thing.\rAfter a strict diet during training,\nI can eat like a HIPPOWDON.\rThe winner eats for free, too.\nThat’s just a dream come true!\r</language>
+		<language name="English">Mélina: (BAFFRE BAFFRE BAFFRE)\nAh, les concours de gloutonnerie!\fJe ne savais pas qu’une chose aussi\f(BAFFRE BAFFRE) formidable existait!\rJ’avais suivi un régime particulier pour\nmon entraînement, alors là, je peux\favaler autant qu’ils veulent!\rNon seulement c’est délicieux, mais en\nplus (BAFFRE BAFFRE) si je gagne, c’est\fgratuit!!! C’est le paradis, ici!\r</language>
 	</row>
 	<row id="msg_0510_T07R0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eatathon Contest!\nNo time limit!\fA battle without end!\rThe biggest eater gets it\nall for free!</language>
+		<language name="English">Concours de Gloutonnerie!\nPas de temps limite!\fUn combat sans fin!\fEt c’est gratuit pour le vainqueur!</language>
 	</row>
 </body>

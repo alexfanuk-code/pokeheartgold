@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0359_R18R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cycling Road is all uphill from this end.\nIt’s really challenging.\rAlthough, it may be interesting to go up\nonce pushing really hard on the pedals.</language>
+		<language name="English">Si tu rentres sur la Piste Cyclable par\nici, tu vas devoir monter toute la côte.\fC’est vraiment rude...\rMais si tu aimes vraiment la Bicyclette,\nça vaut le coup de suer sang et eau\fet de la grimper au moins une fois!</language>
 	</row>
 	<row id="msg_0359_R18R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you!\rCycling Road is for cyclists only.\nYou have to be on a Bicycle if you want\fto proceed!\r</language>
+		<language name="English">Hé! Toi, là!\rLa Piste Cyclable est réservée à ceux\nqui sont à Bicyclette.\rSi tu veux vraiment passer,\nil t’en faut une!\r</language>
 	</row>
 </body>

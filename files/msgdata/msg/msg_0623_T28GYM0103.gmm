@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="msg_0623_T28GYM0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce is a veteran who has trained\nPokémon for some 50 years.\rAs you’ll find, his attacks will make\nyou shiver in this freezing Gym.\rAre you ready to be frozen solid?\rI mean--keep up a hot fighting spirit\nagainst ice!</language>
+		<language name="English">Frédo est un vétéran qui entraîne\ndes Pokémon depuis plus de 50 ans.\rEt comme tu peux le voir, son Arène est\ncouverte de glace et fait trembler ses\fadversaires de froid!\rOn est partant pour le grand frisson?\rAh!\nMais ta volonté brûlante devrait te\fmener sans encombre jusqu’au bout!</language>
 	</row>
 	<row id="msg_0623_T28GYM0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce is something, but you’re\nsomething else!\rThat was a hot battle that\nspanned the generations!</language>
+		<language name="English">Frédo, c’est quelqu’un, mais toi, tu\nn’es pas n’importe qui non plus!\rC’était un combat chaud bouillant qui a\nrapproché les générations!</language>
 	</row>
 	<row id="msg_0623_T28GYM0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mahogany Town Pokémon Gym</language>
+		<language name="English">Arène d’Acajou</language>
 	</row>
 	<row id="msg_0623_T28GYM0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mahogany Town Pokémon Gym\rLeader: Pryce\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Arène d’Acajou\rChampion: Frédo\nDresseur estimé:\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

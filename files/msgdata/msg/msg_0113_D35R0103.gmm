@@ -2,114 +2,114 @@
 <body language="English">
 	<row id="msg_0113_D35R0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Are you all right?\rYour Pokémon are hurt and tired.\nHere, give them some of my medicine.\r</language>
+		<language name="English">Peter: Tu vas bien?\rTon équipe de Pokémon semble\ntrès fatiguée.\fTiens, partageons ces médicaments.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: {STRVAR_1 3, 0, 0}, let’s give our\nbest for Pokémon.\r</language>
+		<language name="English">Peter: Allez, {STRVAR_1 3, 0, 0}!\nBattons-nous pour les Pokémon!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: {STRVAR_1 3, 0, 0}, let’s give our\nbest for Pokémon.\r</language>
+		<language name="English">Peter: Allez, {STRVAR_1 3, 0, 0}!\nBattons-nous pour les Pokémon!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ariana: Hold it right there!</language>
+		<language name="English">Ariane: On ne bouge plus!</language>
 	</row>
 	<row id="msg_0113_D35R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ariana: We can’t let a brat like you\ndo as you please forever.\rIt’ll hurt Team Rocket’s pride over and\nover again. Making it lessen, you see.\r...So, it’s time to finish you. However\nstrong you may be, if the two of us\ffight at the same time, you’ll have no\fchance of winning. Don’t you agree?\rHee hee hee! Sorry, baby. Now, get\nready to be thrashed.\r</language>
+		<language name="English">Ariane: On ne va pas te laisser fouiner\npartout comme ça! La fierté de la Team\fRocket ne le permettrait pas!\fIl est donc temps d’en finir.\rTa force est bien réelle, mais\ntu n’as aucune chance contre nous deux\fen même temps!\rHu, hu, hu, hu...\nDésolée, mais ton voyage s’arrête là!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Hold it!\rA two-on-one battle?\nThat is so unfair!\rTypical of Team Rocket to be so sneaky.\nAllow me to join the battle!\r</language>
+		<language name="English">Peter: Pas un geste!\r2 contre 1, c’est un combat\ninégal!\rVous êtes bien dignes d’appartenir à la\nTeam Rocket, bande de lâches!\rIl va falloir vous adapter, parce que je\ncompte bien participer aussi au combat!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ariana: What? You had an accomplice?\nWhere is your sense of dignity?\rAs interim boss in place of Giovanni,\nI’ll show you how wrong it is to meddle\fwith Team Rocket!\r</language>
+		<language name="English">Ariane: Quoi? Tu avais un complice?\nÇa me plaît de moins en moins...\rIl est temps pour moi, qui ai l’honneur\nde remplacer temporairement notre\fMaître Giovanni, de vous montrer\fce qu’il arrive quand on se frotte\fà la Team Rocket!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tch, you really are strong.\nIt’s too bad.\rIf you were to join Team Rocket, you\ncould become an Executive.\r</language>
+		<language name="English">Eh bien, quelle force!\rQuel dommage...\nTu pourrais devenir Commandant si\ftu joignais la Team Rocket!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ariana: But that’s fine. The broadcast\nexperiment was a total success.\rIt doesn’t matter what happens to this\nhideout now.\rWe have much bigger plans.\nYou’ll come to appreciate Team\fRocket’s true power soon enough.\rEnjoy yourself while you can...\nHee hee hee...\r</language>
+		<language name="English">Ariane: Bah, ce n’est pas grave.\rCette expérience avec les ondes radio\na été concluante. Ce repaire ne nous\fest plus d’aucune utilité!\rNous visons loin, beaucoup plus loin.\rTu prendras bientôt la mesure de notre\npuissance!\rAmuse-toi tant qu’il est temps.\nHu huhuhuhu hu...\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: That did it. We defeated all the\nmembers of Team Rocket here.\rBut I’m concerned about the young guy\nwith red hair I battled in the\fprocess...\r</language>
+		<language name="English">Peter: ... Bien. Il semble que l’on\nait battu tous les membres de la Team\fRocket du repaire.\rMais ce jeune garçon aux cheveux\nrouges que nous avons croisé en chemin\fm’intrigue...\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry, {STRVAR_1 3, 0, 0}. I saw how well you\nwere doing, so I just hung back.\rNow all there is left to do is to turn\noff that odd radio signal.\r</language>
+		<language name="English">Excuse-moi, {STRVAR_1 3, 0, 0}.\nComme tu te débrouillais plutôt bien,\fje ne me suis pas battu à fond.\rTout ce qu’il nous reste à faire,\nc’est arrêter le signal radio.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry, {STRVAR_1 3, 0, 0}. I saw how well you\nwere doing, so I just hung back.\rNow all there is left to do is to turn\noff that odd radio signal.\r</language>
+		<language name="English">Excuse-moi, {STRVAR_1 3, 0, 0}.\nComme tu te débrouillais plutôt bien,\fje ne me suis pas battu à fond.\rTout ce qu’il nous reste à faire,\nc’est arrêter le signal radio.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s this machine that’s causing all the\nproblems. I don’t see a switch on it...\rWe have no choice. We have to make all\nthe ELECTRODE faint.\rThat should stop this machine from\ntransmitting that strange signal.\rIt’s no fault of the ELECTRODE, so it\nmakes me feel sad.\r{STRVAR_1 3, 0, 0}, let’s split the job.\r</language>
+		<language name="English">Voilà la machine...\nJe ne vois pas d’interrupteur.\rNous n’avons pas le choix: il faut\nmettre K.O. tous les ELECTRODE.\rCela devrait arrêter cette machine\net du même coup le signal.\rCe n’est pourtant pas de leur faute,\nles pauvres...\r{STRVAR_1 3, 0, 0}. Je prends à droite,\ncharge-toi de la gauche.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s this machine that’s causing all the\nproblems. I don’t see a switch on it...\rWe have no choice. We have to make all\nthe ELECTRODE faint.\rThat should stop this machine from\ntransmitting that strange signal.\rIt’s no fault of the ELECTRODE, so it\nmakes me feel sad.\r{STRVAR_1 3, 0, 0}, let’s split the job.\r</language>
+		<language name="English">Voilà la machine...\nJe ne vois pas d’interrupteur.\rNous n’avons pas le choix: il faut\nmettre K.O. tous les ELECTRODE.\rCela devrait arrêter cette machine\net du même coup le signal.\rCe n’est pourtant pas de leur faute,\nles pauvres...\r{STRVAR_1 3, 0, 0}. Je prends à droite,\ncharge-toi de la gauche.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Leave this side to me.\r</language>
+		<language name="English">Peter: Je m’occupe de ce côté.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: That odd signal has finally\nstopped. The lake should be back to\fnormal. You’re the best!\rLet me thank you on behalf of all the\nPokémon. Oh, yes. You should take this.\rI found it here, but I don’t have any\nneed for it.\r</language>
+		<language name="English">Peter: Nous avons réussi à couper le\nsignal. Le lac doit avoir retrouvé son\fétat normal.\rEt c’est grâce à toi!\nAu nom de tous les Pokémon, merci!\rAh, aussi!\rPrends ceci! Je l’ai trouvée là, mais\nje n’en ai pas besoin.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received HM05 from Lance!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit la CS05 de la part\nde Peter!</language>
 	</row>
 	<row id="msg_0113_D35R0103_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: That’s Whirlpool.\rTeach it to a Pokémon to get across wild\nwater. But keep this in mind.\rYou can use that out of battle only with\nthe Badge from Mahogany Gym.\r</language>
+		<language name="English">Peter: C’est Siphon.\rApprends-le à un Pokémon pour\ntraverser les tourbillons!\rMais sache que tu auras besoin du\nBadge de l’Arène d’Acajou pour cela.\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}...\rThe journey to becoming the Pokémon\nChampion is long and difficult.\rKnowing that, will you keep going?\r..................\rI see. No, you’re right.\rIf you would give up that easily,\nyou would have never chased that\fdream in the first place.\rI look forward to seeing you again!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}!\rLa route est longue et difficile avant\nde devenir le meilleur des Dresseurs...\rEs-tu sûr de vouloir continuer?\r...\rJe vois.\rJe m’y attendais.\rSi tu devais abandonner maintenant, tu\nne te serais même pas lancé dans\fl’aventure. Nous nous retrouverons!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}...\rThe journey to becoming the Pokémon\nChampion is long and difficult.\rKnowing that, will you keep going?\r..................\rI see. No, you’re right.\rIf you would give up that easily,\nyou would have never chased that\fdream in the first place.\rI look forward to seeing you again!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}!\rLa route est longue et difficile avant\nde devenir le meilleur des Dresseurs...\rEs-tu sûre de vouloir continuer?\r...\rJe vois.\rJe m’y attendais.\rSi tu devais abandonner maintenant, tu\nne te serais même pas lancée dans\fl’aventure. Nous nous retrouverons!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“The Radio Transmitter”\rIt seems that this door checks the\nvoice of the person saying the password\fbefore it opens...</language>
+		<language name="English">“Emetteur d’ondes folles”\rCette porte ne s’ouvre que si la bonne\npersonne prononce le mot de passe...</language>
 	</row>
 	<row id="msg_0113_D35R0103_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The door’s closed...\r{STRVAR_1 3, 0, 0} entered the password.\rThe door opened!\r</language>
+		<language name="English">La porte est fermée...\r{STRVAR_1 3, 0, 0} tape le mot de passe.\rLa porte s’ouvre!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s the radio transmitter that’s\nsending the sinister signal.\rIt’s working at full capacity.</language>
+		<language name="English">C’est l’émetteur d’ondes maléfiques.\nIl est réglé au maximum.</language>
 	</row>
 	<row id="msg_0113_D35R0103_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The radio transmitter has finally\nstopped its evil broadcast.</language>
+		<language name="English">C’est l’émetteur d’ondes maléfiques.\nIl semble arrêté.</language>
 	</row>
 	<row id="msg_0113_D35R0103_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MURKROW: The password is...\fHail Giovanni.\r</language>
+		<language name="English">CORNEBRE: VIVE GIOVANNI!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MURKROW: The password is...\fHail Giovanni.\r</language>
+		<language name="English">CORNEBRE: VIVE GIOVANNI!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MURKROW: The password is...\fHail Giovanni.\r</language>
+		<language name="English">CORNEBRE: VIVE GIOVANNI!\r</language>
 	</row>
 	<row id="msg_0113_D35R0103_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MURKROW screamed the password,\nmimicking the voice of Petrel.\r..................\rThe voice-recognition system unlocked\nthe door!\r</language>
+		<language name="English">Le CORNEBRE a crié le mot de passe\navec exactement la même voix que\fLambda!\r...\rLa serrure à reconnaissance vocale\nest ouverte!\r</language>
 	</row>
 </body>

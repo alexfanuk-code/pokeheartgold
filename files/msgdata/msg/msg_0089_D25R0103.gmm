@@ -3,46 +3,46 @@
 	<row id="msg_0089_D25R0103_00000" index="0">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0089_D25R0103_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0089_D25R0103_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0089_D25R0103_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0089_D25R0103_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0089_D25R0103_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0089_D25R0103_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0089_D25R0103_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0089_D25R0103_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 </body>

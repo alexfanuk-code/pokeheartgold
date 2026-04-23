@@ -3,118 +3,118 @@
 	<row id="msg_0559_T22PC0101_00000" index="0">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0559_T22PC0101_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0559_T22PC0101_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0559_T22PC0101_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0559_T22PC0101_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0559_T22PC0101_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0559_T22PC0101_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0559_T22PC0101_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0559_T22PC0101_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0559_T22PC0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A guy named Bill made the Pokémon\nPC storage system.\rYou can access the Pokémon storage\nsystem using the PC at the reception\fthere. Why don’t you try it once?</language>
+		<language name="English">La personne qui a créé le système qui\npermet de déposer ses Pokémon dans\fun PC s’appelle Léo.\rTu peux te connecter à la Gestion\nde Stocks en utilisant le PC posé\fsur le comptoir, là-bas.\fTu devrais essayer!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It was about three years ago.\nThis group of thugs called Team Rocket\fwas involved in wrongdoing. They were\fabusing Pokémon.\rBut!\nBad things never last!\rA boy did a wonderful job and\nTeam Rocket was disbanded!\n\n</language>
+		<language name="English">Ça doit remonter à 3 ans, maintenant...\rUn groupe appelé la Team Rocket\nutilisait des Pokémon à des fins\fcriminelles.\rMais...\nLe mal est toujours puni!\rUn enfant les a anéantis!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon are really smart.\nTraded Pokémon might not listen to you\fright away. For example, high-level\fPokémon sometimes refuse to obey\fwhen you don’t have enough Gym Badges.</language>
+		<language name="English">Les Pokémon sont\ndes êtres intelligents.\rCertains Pokémon que tu reçois dans un\néchange n’obéiront pas à tes ordres.\rTu auras besoin de quelques Badges\nd’Arène pour te faire obéir par\fceux qui ont un très haut niveau!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: Hello!\nI should be a familiar face to every\fPokémon fan. I’m from the TV show,\f“The Show Me Show!”\rI am Primo, the big brother!\rToday, would you, one of my fans,\ntell me what you think of me? {YESNO 0}</language>
+		<language name="English">Castor: Salut là-dedans!\rC’est moi, Castor! Tous les fans\nde Pokémon connaissent mon émission\f“Télé ABC”!\rAlors, tu voudrais bien me dire\ncomment tu me trouves,\faujourd’hui? {YESNO 0}</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: Oh my...!\nIs that how you feel about me?!\rI never thought of it that way before.\nBy the way, how do you like the\fway I am so exciting and fun?\r</language>
+		<language name="English">Castor: Quoi?!\nJ’ai vraiment l’air comme ça?!\rOn a raison de dire qu’on ne se\nconnaît jamais soi-même...\rEt alors, qu’est-ce que tu penses\nde mon style à la télé?\r</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: Truly?\rThat gives me all-new energy so\nI can work even harder!\rGreat feedback! It’ll help me a lot.\nThank you for your continued support!</language>
+		<language name="English">Castor: Ah ouais?\rFaudra vraiment que je me dépasse\npour les prochaines émissions!\rMerci pour tes réponses instructives!\rNe rate pas ma prochaine émission!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You cannot possibly mean that you are\nnot interested in the big brother...?\rArrgh, that cannot be true!\nYou are just busy right now,\faren’t you? That must be it!\rWhy don’t you answer my questions\nwhen you’ve got time for me?\rSee you!</language>
+		<language name="English">Ne... Ne me dis pas que\nje ne t’intéresse pas!\rMais non, mais non, impossible.\nC’est juste que tu dois avoir plein de\fchoses à faire, c’est ça, hein? Hein?\rSi tu as du temps un jour, ça me ferait\nplaisir si tu pouvais répondre\fà mes questions!\rA la prochaine!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou’re a Trainer, right?\nI’ll pull some strings for you.\rI think I can swing a deal to get you\na new wallpaper for your PC Boxes.\rMake sure you keep your channel\ntuned to “The Show Me Show!”\rAnd don’t forget about me, the\nbig brother!</language>
+		<language name="English">Castor: ... Hein?\rSi tu connais ces mots, tu dois être\nquelqu’un de spécial...\rTu es un Dresseur, hein?\nAlors, grâce à mon réseau, je vais\fte donner un fond pour tes Boîtes!\rNe rate pas ma prochaine émission!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou are a Trainer, right?\nI’ll pull some strings for you.\rI think I can swing a deal so you\ncan receive a Mystery Gift.\rMake sure you keep your channel\ntuned to “The Show Me Show!”\rAnd don’t forget about me, the\nbig brother!</language>
+		<language name="English">Castor: ... Hein?\rSi tu connais ces mots, tu dois être\nquelqu’un de spécial...\rTu es un Dresseur, hein?\nAlors, grâce à mon réseau, je vais\fte faire parvenir un cadeau!\rNe rate pas ma prochaine émission!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou are a Trainer, right?\nI’ll pull some strings for you.\rI think I can swing a deal and\ngive you this Egg.\fYou take good care of it!\r</language>
+		<language name="English">Castor: ... Hein?\rSi tu connais ces mots, tu dois être\nquelqu’un de spécial...\rTu es un Dresseur, hein?\nAlors, grâce à mon réseau, je vais\fte donner cet Oeuf! Prends-en soin!\r</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received the\n{STRVAR_1 0, 1, 0} Egg from Primo!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit un Oeuf de\n{STRVAR_1 0, 1, 0} de la part de Castor!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Primo: ...!\rYou are no ordinary fan, knowing such\na thing!\rYou are a Trainer, right?\nI’ll pull some strings for you.\rI think I can swing a deal and\ngive you this Egg.\fYou take good care of it!\r...\rYour party is full, and I can’t\ngive it to you!</language>
+		<language name="English">Castor: ... Hein?\rSi tu connais ces mots, tu dois être\nquelqu’un de spécial...\rTu es un Dresseur, hein?\nAlors, grâce à mon réseau, je vais\fte donner cet Oeuf! Prends-en soin!\r...\rMais si tu n’as plus de place, je ne\npeux pas te le donner...</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm...\rCan you tell me what kind of Trainer\nyou like best?\r</language>
+		<language name="English">Hmmm...\rPourrais-tu me dire quel est ton style\nde Dresseur préféré?\r</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which kind of Trainer would you like\nto be? {YESNO 0}</language>
+		<language name="English">Quel type de Dresseur aimerais-tu\nêtre? {YESNO 0}</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 14, 0, 0} is the kind of Trainer\nyou want to be? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 14, 0, 0}? C’est ce que tu\naimerais être? {YESNO 0}</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see! So {STRVAR_1 14, 0, 0} is the kind\nof Trainer you like.\rIf that’s the case, others may\ncome to see you in the same way.\r</language>
+		<language name="English">{STRVAR_1 14, 0, 0}, donc...\nTrès bien, très bien...\rSi tu aimes autant ce type de\nDresseurs, alors peut-être que les\fgens te voient ainsi!\r</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Talk to me again if you want to\nlet me know what kind of Trainer\fyou like best.</language>
+		<language name="English">Si un jour tu veux me dire ton type de\nDresseur préféré, reviens me voir!</language>
 	</row>
 	<row id="msg_0559_T22PC0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello! You’ve been mistaken for\n{STRVAR_1 14, 0, 0}, haven’t you?\rBut I think you can also pass for\na different kind of Trainer.\rSo, how about telling me what kind of\nTrainer you like?\r</language>
+		<language name="English">Ça ne t’est jamais arrivé qu’on vienne\nte dire “Tu serais pas {STRVAR_1 14, 0, 0}?”\rMais moi, quand je te regarde,\nje trouve que tu ressembles\faussi aux autres Dresseurs.\rEt donc...\rTu ne voudrais pas me dire à nouveau\nton type de Dresseur préféré?\r</language>
 	</row>
 </body>

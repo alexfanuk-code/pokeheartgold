@@ -2,51 +2,51 @@
 <body language="English">
 	<row id="msg_0614_T27GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: It’s good of you to have come.\rHere in Ecruteak, Pokémon have long\nbeen revered.\rIt’s said that a rainbow-hued\nPokémon will come down to appear\fbefore a truly powerful Trainer.\rI believed that tale, so I have\nsecretly trained here all my life.\rAs a result, I can now see what\nothers cannot.\rI see a shadow of the person who\nwill make the Pokémon appear.\rI believe that person is me!\rYou’re going to help me reach\nthat level!\r</language>
+		<language name="English">Mortimer: Bienvenue.\rIci à Rosalia, les Pokémon sont vénérés\ndepuis des temps immémoriaux.\rIl est dit qu’un Pokémon légendaire\napparaîtra face à un Dresseur\fd’exception.\rJe crois à ce récit, et dans ce but, je\nm’entraîne ici depuis ma naissance.\rC’est ainsi que je peux voir ce\nque les autres ne voient pas.\rJe sais qui pourra faire venir le\nPokémon de la légende...\rC’est moi, je suis l’élu!\rEt toi, tu vas m’aider à m’améliorer\nici et maintenant!\r</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: I don’t think our potentials are\nso different. But you seem to have\fsomething more than that...\rSo be it. This Badge is yours.\r</language>
+		<language name="English">Mortimer: Je n’aurais jamais dû\nperdre pourtant...\rToi... toi... tu as quelque chose qui...\rTout est clair.\nReçois ce Badge de mes mains.\r</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Fog Badge from Morty!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit le Badge Brume\nde Mortimer.</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: By having the Fog Badge,\nPokémon up to Lv. 50, including traded\fPokémon, will obey you.\rAlso, Pokémon will be able to use Surf.\rHere is another thing...\nI want you to have this, too.\r</language>
+		<language name="English">Mortimer: Grâce à ce Badge Brume, tu\npourras te faire obéir de tous les\fPokémon que tu auras reçus jusqu’au\fniveau 50.\rCe n’est pas tout.\nIl t’est possible d’utiliser la capacité\fSurf à tout moment.\rEnfin...\nCeci est également pour toi.\r</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: It’s Shadow Ball. It causes\ndamage and may reduce Special Defense.\fUse it if it appeals to you.</language>
+		<language name="English">Mortimer: Cette Capsule contient\nla capacité Ball’Ombre.\rCette dernière ne fait pas que causer\ndes dégâts, elle réduit également la\fDéfense Spéciale.\rUtilise-la comme bon te semble.</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: I get it...\rThe person the Kimono Girls were\ntalking about must be you...\rNever mind.\rYou should be strong enough to go\nacross the sea.\rWhen you go west and then south,\nyou’ll reach Olivine City.\fWhy don’t you head for it?</language>
+		<language name="English">Mortimer: Ainsi...\rLes femmes en kimono parlaient de toi\nen fin de compte...\rOh! Non! Rien! Je me parlais\nà moi-même...\rAvec une force pareille, tu pourras\ntraverser les océans sans encombre.\rPars vers l’ouest, puis dirige-toi vers\nle sud, et tu arriveras à Oliville.\fVa maintenant, poursuis ton chemin...</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo! Champ in the making!\nThe Trainers here use Ghost-type\fPokémon at will.\rA ghost is like a shade or a phantom...\nIt won’t do any good to use physical\fstrength alone.</language>
+		<language name="English">Salut! Futur Maître!\rLes Dresseurs de cette Arène\nmaîtrisent les Pokémon Spectre!\rLes Pokémon de ce type sont des\nfantômes, des illusions...\rIls sont insensibles à la force brute!</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whew, {STRVAR_1 3, 0, 0}.\nYou did great!\rI was cowering in the corner out of\npure terror!</language>
+		<language name="English">Waouh, {STRVAR_1 3, 0, 0}!\nBien joué!\rJ’avais tellement peur que j’étais\nplanqué dans un coin!</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have business with the Gym Leader?\rMorty, the Gym Leader, has gone to\nthe Burned Tower.\rSorry, but you’ll have to leave.\nHo ho ho.\r</language>
+		<language name="English">Qu’est-ce que tu veux au Champion?\rMortimer est parti faire une balade à\nla Tour Cendrée.\rDésolé mais tu dois partir.\nHohoho!\r</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecruteak City Pokémon Gym</language>
+		<language name="English">Arène de Rosalia</language>
 	</row>
 	<row id="msg_0614_T27GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecruteak City Pokémon Gym\rLeader: Morty\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Arène de Rosalia\rChampion: Mortimer\nDresseur estimé:\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

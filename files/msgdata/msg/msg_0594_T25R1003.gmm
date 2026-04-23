@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0594_T25R1003_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I-I-I’m really impatient!\rI use X Speed in battle to speed up\nmy Pokémon.</language>
+		<language name="English">J-j-je ne tiens pas en place,\na-a-alors dans un combat, j’utilise\fVitesse + pour monter la Vitesse\fde mon Pokémon!</language>
 	</row>
 	<row id="msg_0594_T25R1003_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh my...\nTeam Rocket has reached here already!</language>
+		<language name="English">Quoi? La main noire de la Team Rocket\nest parvenue jusqu’ici?!</language>
 	</row>
 	<row id="msg_0594_T25R1003_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey! When you battle, do you use\nX Special?\rIt’s awesome. It really jacks up\nSpecial Attack!</language>
+		<language name="English">Hé! Quand tu te bats, tu utilises\ndu Spécial +?\rÇa booste ton Attaque Spéciale,\nc’est super!</language>
 	</row>
 	<row id="msg_0594_T25R1003_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I never thought about it, but\nTeam Rocket does go shopping...</language>
+		<language name="English">Oh? Même la Team Rocket a besoin\nde faire les courses?</language>
 	</row>
 	<row id="msg_0594_T25R1003_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For Victory Seekers\n3F Battle Collection</language>
+		<language name="English">Gagnez vos combats!\n2⁴: Collection de Combat</language>
 	</row>
 </body>

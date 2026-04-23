@@ -2,276 +2,276 @@
 <body language="English">
 	<row id="msg_0115_D36R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, man... My boss is going to be\nangry...\rThe FARFETCH’D that cut trees for\ncharcoal took off in the forest.\rCan you catch them for me?\nFARFETCH’D have sensitive ears.\rIf you step on a branch, they will face\ntoward you. That’s your chance.\rSneak up from behind and catch them...\nDo you think you can do that?</language>
+		<language name="English">Ah, comment faire...\nMon chef va être furax!\rLes CANARTICHO qui coupaient le bois\ndont on fait du charbon se sont\fenfuis dans la forêt!\fTu crois que tu pourrais les attraper?\rIls ont une ouïe très fine, et dès qu’on\nmarche sur des brindilles, ils se\ftournent vers le bruit. Si tu\fréussissais à attirer leur attention\fainsi pour les prendre à revers...\fTu t’en sens capable?</language>
 	</row>
 	<row id="msg_0115_D36R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! You found a FARFETCH’D!\nThank you!\rBut...\nThere is one more missing.\rIf you step on a branch, it will face\nthat way, remember?\rThat’s your chance to catch it.\nSneak up on it slowly from behind.</language>
+		<language name="English">Wah! Tu as réussi à attraper\nnotre CANARTICHO!\fMerci! Merci beaucoup!\rMais...\nIl en reste un deuxième...\rSouviens-toi: dès qu’on marche sur des\nbrindilles, il va se tourner vers le\fbruit. Il faut en profiter pour le\fprendre à revers discrètement!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nYou got me both of them.\fThank you so much!\rMy boss’s Pokémon won’t obey me,\nbecause I don’t have a Badge.\rPhew. You saved me.</language>
+		<language name="English">Wah!\nTu as attrapé les deux CANARTICHO!\fMerci beaucoup!\rLes Pokémon de mon chef ne m’obéissent\npas parce que je n’ai pas de Badge.\rAh... Heureusement que tu étais là!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FARFETCH’D: Kwaa!\r</language>
+		<language name="English">CANARTICHO: Ticho!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FARFETCH’D: Kwaa!</language>
+		<language name="English">CANARTICHO: Ticho!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} caught the FARFETCH’D!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a attrapé un\nCANARTICHO!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah!\nMy Far and Fetch’d!\rYou found them for us, kid?\nWithout them, we wouldn’t be able to\fcut trees for charcoal.\rThanks, kid!\rNow, how can I thank you...?\nI know! Here, take this.\r</language>
+		<language name="English">Ah!\nMes CANARTICHO!\rEst-ce que...\rC’est toi qui les as retrouvés?\rSans eux pour couper du bois, je ne\npeux plus faire de charbon!\rMerci!\nBon. Comment te remercier...\rJe sais!\nPrends ceci!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0115_D36R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s the HM Cut. Teach that to a\nPokémon to clear small trees.\rOf course, you have to have the Gym\nBadge from Azalea to use it.</language>
+		<language name="English">C’est la CS Coupe!!\nSi tu as le Badge de l’Arène d’Ecorcia,\fles Pokémon qui l’ont apprise pourront\fcouper les petits arbres!\rMais!\rLes techniques apprises ainsi ne\ns’oublient pas facilement!\rRéfléchis bien avant d’apprendre\ncelle-ci à l’un de tes Pokémon!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0115_D36R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to apprentice as a charcoal\nmaker with me?\rYou’ll be first-rate in ten years!</language>
+		<language name="English">Tu veux travailler ici? Tu vas voir, dans\ndix ans, tu en sauras autant que moi!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What am I doing?\rI’m shaking trees using Headbutt.\rIt’s fun. Here, you try it with your\nPokémon, too! {YESNO 0}</language>
+		<language name="English">Ce que je fais?\rJe secoue les arbres avec\nmon Coup d’Boule.\rSi tu veux faire pareil avec tes\nPokémon, je peux leur apprendre. {YESNO 0}</language>
 	</row>
 	<row id="msg_0115_D36R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to try it with your\nPokémon? {YESNO 0}</language>
+		<language name="English">Je peux apprendre Coup d’Boule\nà un Pokémon si tu veux... {YESNO 0}</language>
 	</row>
 	<row id="msg_0115_D36R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nTake care of its head.</language>
+		<language name="English">Ah bon... T’as raison.\nFaut prendre soin de sa tête.</language>
 	</row>
 	<row id="msg_0115_D36R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Pokémon should learn it?\r</language>
+		<language name="English">A quel Pokémon tu veux que j’apprenne\nmon truc?\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmm...\nEven I couldn’t teach an Egg a move.\r</language>
+		<language name="English">Euh... Même moi, je suis pas capable\nd’enseigner une capacité à un Oeuf...\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry...\nThat Pokémon cannot learn Headbutt.\r</language>
+		<language name="English">Désolé... Je crois pas que ce Pokémon\npuisse apprendre Coup d’Boule...\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is trying to learn\nHeadbutt.\rBut {STRVAR_1 1, 0, 0} can’t learn more\nthan four moves.\rDelete an older move to make\nroom for Headbutt? {YESNO 0}</language>
+		<language name="English">{STRVAR_1 1, 0, 0} tente d’apprendre\nCoup d’Boule.\rMais {STRVAR_1 1, 0, 0} ne peut pas\napprendre plus de quatre capacités.\rEffacer une capacité pour\nCoup d’Boule? {YESNO 0}</language>
 	</row>
 	<row id="msg_0115_D36R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is it OK to forget the\nmove {STRVAR_1 6, 1, 0}? {YESNO 0}</language>
+		<language name="English">Ce Pokémon va oublier la capacité\n{STRVAR_1 6, 1, 0}. Continuer? {YESNO 0}</language>
 	</row>
 	<row id="msg_0115_D36R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stop trying to teach Headbutt? {YESNO 0}</language>
+		<language name="English">Voulez-vous arrêter d’apprendre\nCoup d’Boule? {YESNO 0}</language>
 	</row>
 	<row id="msg_0115_D36R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1,{PAUSE 20} 2,{PAUSE 20} and...{PAUSE 20} ...{PAUSE 20} Poof!</language>
+		<language name="English">1{PAUSE 20}, 2{PAUSE 20} et...{PAUSE 20} ...{PAUSE 20} ... Tadaa!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1,{PAUSE 20} 2,{PAUSE 20} and...{PAUSE 20} ...{PAUSE 20} Poof!</language>
+		<language name="English">1{PAUSE 20}, 2{PAUSE 20} et...{PAUSE 20} ...{PAUSE 20} ... Yahaa!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There. How do you like it?\nYour {STRVAR_1 0, 0, 0} looks stronger!</language>
+		<language name="English">Haha, t’en dis quoi?\nTon {STRVAR_1 0, 0, 0} est vachement plus\fimpressionnant tout d’un coup, hein?</language>
 	</row>
 	<row id="msg_0115_D36R0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your {STRVAR_1 0, 0, 0}\nhas already learned Headbutt.\r</language>
+		<language name="English">Ton {STRVAR_1 0, 0, 0} connaît déjà\nCoup d’Boule!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} forgot how to\nuse {STRVAR_1 6, 1, 0}.\rAnd...</language>
+		<language name="English">{STRVAR_1 1, 0, 0} oublie {STRVAR_1 6, 1, 0}.\nEt...!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} learned Headbutt.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} apprend Coup d’Boule!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} learned Headbutt!</language>
+		<language name="English">{STRVAR_1 1, 0, 0} a appris\nCoup d’Boule!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips!\rIlex Forest is so overgrown with trees\nthat you can’t see the sky.\rPlease watch out for items that may\nhave been dropped.</language>
+		<language name="English">Conseils aux Dresseurs!\rLe Bois aux Chênes est si dense que\nles feuilles cachent le ciel.\rFaites attention aux objets\ntombés au sol.</language>
 	</row>
 	<row id="msg_0115_D36R0101_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ilex Forest Shrine...\rIt’s a tribute to the forest’s\nprotector...</language>
+		<language name="English">L’Autel du Bois aux Chênes...\nLa divinité de la forêt est vénérée ici.</language>
 	</row>
 	<row id="msg_0115_D36R0101_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kimono Girl, Kimono Girl, lost and all\nalone. Poor girl lost in the dark\fIlex Forest.\r</language>
+		<language name="English">La danseuse égarée danse dans les bois\ndangereux...\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What?\nYou remember me from Violet City?\fYou must be imagining.\rAnyway, will you show me\nhow to get out of this forest? {YESNO 0}</language>
+		<language name="English">Comment donc? Ce ne serait pas\nnotre première rencontre?\fEn la cité de Mauville?\fC’est une simple méprise...\rDis-moi plutôt, saurais-tu où se\ntrouve la sortie de cette forêt? {YESNO 0}</language>
 	</row>
 	<row id="msg_0115_D36R0101_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You will...?\nAren’t you lost in the forest as well?\fHow do you know how to get out of here?\r</language>
+		<language name="English">Oui, dis-tu... Mais comment peux-tu\nle savoir si tu n’as pas toi-même\fatteint cette sortie?\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Me oh my...\nYou are lost yourself, aren’t you?\r</language>
+		<language name="English">Oh, ciel!\nTu n’en as pas la moindre idée non plus?\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! Are you going to\nshow me how to get out?\fYou are such a smart Pokémon!\r</language>
+		<language name="English">Vraiment? Tu pourrais nous guider\nvers la sortie?\fQuel Pokémon intelligent...\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">See you.\r</language>
+		<language name="English">Permettez que je parte la première...\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FARFETCH’D noticed you!\nIt seems to face the direction of the\fnoise when you step on a branch.</language>
+		<language name="English">Le CANARTICHO vous a remarqué!\nIl se tourne dans la direction où\fil entend les branches craquer!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You need to catch it from behind.</language>
+		<language name="English">Il n’y a pas d’autre choix pour\nl’attraper que de le prendre à revers.</language>
 	</row>
 	<row id="msg_0115_D36R0101_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You snuck up and caught it from\nbehind before it noticed you!</language>
+		<language name="English">Vous l’avez attrapé sans vous\nfaire remarquer!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a PICHU...!\nOne of its ears is spiky!\r</language>
+		<language name="English">C’est un PICHU...!\rUne de ses oreilles est ébouriffée!\nÇa lui fait comme trois épis!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It wants to join your party.\nLet it join you!\r</language>
+		<language name="English">Il semble vouloir vous accompagner...\nL’acceptez-vous dans votre équipe?\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spiky-eared PICHU has joined\nyour party!</language>
+		<language name="English">Le PICHU Troizépi a rejoint\nvotre équipe!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Your party is full!\r</language>
+		<language name="English">... L’équipe est au complet!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Your party is full!\rFirst go store a Pokémon in a PC Box.</language>
+		<language name="English">... L’équipe est au complet!\rDéposez un Pokémon dans le PC.</language>
 	</row>
 	<row id="msg_0115_D36R0101_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spiky-eared PICHU: Zapzap chu!\r</language>
+		<language name="English">PICHU Troizépi: Pichi pichi chu!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received the Poké Ball!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit une\nPoké Ball!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to give a nickname\nto the Spiky-eared PICHU? {YESNO 0}</language>
+		<language name="English">Voulez-vous donner un surnom au\nPICHU Troizépi? {YESNO 0}</language>
 	</row>
 	<row id="msg_0115_D36R0101_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, hey!\nYou should not tamper with that shrine!\fPeople are said to disappear.\r</language>
+		<language name="English">Eh bien, eh bien...\nTenez-vous tranquilles devant\fcet Autel!\rVous risquez d’être emportés par\nles divinités!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kids and Pokémon sometimes disappear\naround this shrine.\rIt is believed that a Pokémon which\nwanders across time does that.\rIt is truly a strange thing...\r</language>
+		<language name="English">Il arrive que des enfants ou des\nPokémon disparaissent près de l’Autel.\rOn dit même que c’est à cause d’un\nPokémon qui aurait le pouvoir de se\fpromener librement à travers le temps.\fC’est vraiment un grand mystère...\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, well, this must be...\rThis must be the PICHU that has lived in\nthis forest for some time.\rWhen I saw it the first time, it looked\nlonely. It is full of energy today.\r</language>
+		<language name="English">Eh bien, eh bien...\rJe ne sais pas depuis combien de temps\nce PICHU vit dans cette forêt...\rIl avait l’air très triste, la première\nfois que je l’ai rencontré...\fMais aujourd’hui, il déborde d’énergie!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see.\nIt seems that these old friends\ffinally meet again after a long time.\r</language>
+		<language name="English">Je vois, je vois...\nIl a retrouvé un ami qu’il n’avait plus\fvu depuis longtemps...\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are carrying a lot of Pokémon.\rWhy don’t you store one of them\nat the Pokémon Center?\fI will take care of it in the mean time.</language>
+		<language name="English">Allons bon... Tu transportes trop de\nPokémon...\rNe crains rien, il va rester avec moi\npendant que tu iras en déposer un\fdans un Centre Pokémon.</language>
 	</row>
 	<row id="msg_0115_D36R0101_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Being with friends should make it happy.\nTake good care of it.\r</language>
+		<language name="English">Les Pokémon sont heureux quand ils\nse promènent avec leurs amis...\fPrends-en bien soin.\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, here it is!\nYoung Pokémon Trainer,\fI will give you this Poké Ball.\rI used to use them when I was younger.\rDon’t worry.\nIt’s still in good condition.\r</language>
+		<language name="English">Ah, à propos!\nTiens, jeune Dresseur, je t’offre\fcette Poké Ball!\rJe l’utilisais lorsque j’étais plus jeune\net plus vigoureux...\rQuoi? Allons, ne crains rien.\nElle est encore utilisable!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It seems that Spiky-eared PICHU\nwants to stay in your Poké Ball.\r</language>
+		<language name="English">Ooh... Le PICHU ébouriffé a l’air de\nvouloir entrer dans ta Poké Ball...\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You named it {STRVAR_1 1, 0, 0}?\nSuch a cute name!\r</language>
+		<language name="English">Tu l’as appelé {STRVAR_1 1, 0, 0}?\nBien, bien... C’est un joli nom...\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s been waiting for you\nall this time.\rTalk to it. That’ll make it happy.</language>
+		<language name="English">Il attendait tranquillement ton retour.\rVa lui parler, il va être content!</language>
 	</row>
 	<row id="msg_0115_D36R0101_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Hi, {STRVAR_1 3, 0, 0}.\nHave you heard of the legend of\fthe shrine?\rThey say that people disappear when\nthey tamper with it.\r</language>
+		<language name="English">Luth: Salut, {STRVAR_1 3, 0, 0}!\nTu sais ce qu’on dit sur cet Autel?\rSi on joue trop près, on se fait enlever\ndans un autre monde...!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}.\nHave you heard of the legend of\fthe shrine?\rThey say that people disappear when\nthey tamper with it.\r</language>
+		<language name="English">Célesta: Salut, {STRVAR_1 3, 0, 0}!\nTu sais ce qu’on dit sur cet Autel?\rSi on joue trop près, on se fait enlever\ndans un autre monde...!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: ...\nWhat was that?\r</language>
+		<language name="English">Luth: ???\nC’était quoi, ça?!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: ...\nWhat was that?\r</language>
+		<language name="English">Célesta: ???\nC’était quoi, ça?!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Traveling through time\nsure doesn’t feel good.\r</language>
+		<language name="English">Luth: C’est vraiment pas agréable,\nles voyages temporels...\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Traveling through time\nsure doesn’t feel good.\r</language>
+		<language name="English">Célesta: C’est vraiment pas agréable,\nles voyages temporels...\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, my MARILL!\r</language>
+		<language name="English">Ah! Mon MARILL!!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, my MARILL!\r</language>
+		<language name="English">Ah! Mon MARILL!!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I thought I would never see you again!\rWait a sec...\nSo we must be back to our time!\r</language>
+		<language name="English">Je ne pensais plus te revoir!\rEst-ce que ça veut dire qu’on est\nretournés à notre temps de départ?\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I missed you so much!\rWait a sec...\nSo we must be back to our time!\r</language>
+		<language name="English">Tu m’as manqué!\rEst-ce que ça veut dire qu’on est\nretournés à notre temps de départ?\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It was all so bizarre.\nBut now that we are safely back to our\ftime and Team Rocket’s terrible design\ffell through, we can say...\fall’s well that ends well, right?\r{STRVAR_1 3, 0, 0}, you never cease to\ninspire great adventures!\rIt sure was an exhausting day, though.\nI better get going.\rSee you!\r</language>
+		<language name="English">Quelle expérience étrange... Mais bon!\nOn a pu revenir sans encombre, et on\fa empêché la Team Rocket de réaliser\fson plan, alors tout va pour le mieux!\rIl se passe toujours des choses\nincroyables quand on est avec toi,\f{STRVAR_1 3, 0, 0}!\fC’était épuisant, tout ça...\rJe rentre chez moi. Au revoir!\r</language>
 	</row>
 	<row id="msg_0115_D36R0101_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It was all so bizarre.\nBut now that we are safely back to our\ftime and Team Rocket’s terrible design\ffell through, we can say...\fall’s well that ends well, right?\r{STRVAR_1 3, 0, 0}, you never cease to\ninspire great adventures!\rIt sure was an exhausting day, though.\nI better get going.\rSee you!\r</language>
+		<language name="English">Quelle expérience étrange... Mais bon!\nOn a pu revenir sans encombre, et on\fa empêché la Team Rocket de réaliser\fson plan, alors tout va pour le mieux!\rIl se passe toujours des choses\nincroyables quand on est avec toi,\f{STRVAR_1 3, 0, 0}!\fC’était épuisant, tout ça...\rJe rentre chez moi. Au revoir!\r</language>
 	</row>
 </body>

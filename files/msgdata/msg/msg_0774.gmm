@@ -2,94 +2,94 @@
 <body language="English">
 	<row id="msg_0774_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enter Battle Room Number (01-{STRVAR_1 51, 0, 0})\n...B Button: Cancel {YESNO 0}</language>
+		<language name="English">Entrez le Numéro de la Salle de\nCombat (01-{STRVAR_1 51, 0, 0}). {YESNO 0}\n</language>
 	</row>
 	<row id="msg_0774_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Receiving data for Rank {STRVAR_1 51, 1, 0},\nRoom {STRVAR_1 52, 0, 0}...</language>
+		<language name="English">Réception des données\ndu Rang {STRVAR_1 51, 1, 0}, Salle {STRVAR_1 52, 0, 0}...</language>
 	</row>
 	<row id="msg_0774_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may not challenge that Battle\nRoom until the next update.\r</language>
+		<language name="English">Vous ne pouvez pas entrer dans cette\nSalle de Combat pour le moment.\rVeuillez attendre la\nprochaine mise à jour.\r</language>
 	</row>
 	<row id="msg_0774_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Data has been received.\r</language>
+		<language name="English">Les données ont été reçues.\r</language>
 	</row>
 	<row id="msg_0774_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cancel your challenge?</language>
+		<language name="English">Annuler votre défi? {YESNO 0}</language>
 	</row>
 	<row id="msg_0774_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enter the Rank of the Battle Room\n(01-10) to check your records.{YESNO 0}</language>
+		<language name="English">Entrez le Rang de la Salle de Combat\npour afficher les données (01-10). {YESNO 0}</language>
 	</row>
 	<row id="msg_0774_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enter the Battle Room\nNumber. ...(01-{STRVAR_1 51, 0, 0}) {YESNO 0}</language>
+		<language name="English">Entrez le Numéro de la Salle de\nCombat (01-{STRVAR_1 51, 0, 0}). {YESNO 0}</language>
 	</row>
 	<row id="msg_0774_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sending your record data...</language>
+		<language name="English">Envoi de vos données...</language>
 	</row>
 	<row id="msg_0774_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your data has been sent.\r</language>
+		<language name="English">Vos données ont été envoyées.\r</language>
 	</row>
 	<row id="msg_0774_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to cancel your data\ndownload?</language>
+		<language name="English">Annuler le téléchargement des données?</language>
 	</row>
 	<row id="msg_0774_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enter the Battle Room\nNumber. ...(001-{STRVAR_1 52, 0, 0}) {YESNO 0}</language>
+		<language name="English">Entrez le Numéro de la Salle de\nCombat (001-{STRVAR_1 52, 0, 0}). {YESNO 0}</language>
 	</row>
 	<row id="msg_0774_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enter the Battle Room\nNumber. ...(001-{STRVAR_1 52, 0, 0}) {YESNO 0}</language>
+		<language name="English">Entrez le Numéro de la Salle de\nCombat (001-{STRVAR_1 52, 0, 0}). {YESNO 0}</language>
 	</row>
 	<row id="msg_0774_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nintendo Wi-Fi Connection</language>
+		<language name="English">Connexion Wi-Fi Nintendo</language>
 	</row>
 	<row id="msg_0774_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Wi-Fi Battle Tower is currently in\nmaintenance. Please try again later.\r</language>
+		<language name="English">La Tour de Combat Wi-Fi est en\ncours de maintenance.\rVeuillez réessayer ultérieurement.\r</language>
 	</row>
 	<row id="msg_0774_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Wi-Fi Battle Tower is very crowded.\nPlease try again later.\r</language>
+		<language name="English">La Tour de Combat Wi-Fi connaît\nun trafic trop important.\rVeuillez réessayer ultérieurement.\r</language>
 	</row>
 	<row id="msg_0774_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unable to connect to the Wi-Fi\nBattle Tower.\rReturning to the reception counter.\r</language>
+		<language name="English">Impossible de se connecter\nà la Tour de Combat Wi-Fi.\rRetour à la réception.\r</language>
 	</row>
 	<row id="msg_0774_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You were disconnected from\nthe Wi-Fi Battle Tower.\rReturning to the reception counter.\r</language>
+		<language name="English">Vous avez été déconnecté\nde la Tour de Combat Wi-Fi.\rRetour à la réception.\r</language>
 	</row>
 	<row id="msg_0774_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That number cannot be specified for\nthe Wi-Fi Battle Tower.\r</language>
+		<language name="English">Ce numéro n’est pas valide\npour la Tour de Combat Wi-Fi.\r</language>
 	</row>
 	<row id="msg_0774_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Disconnecting from Nintendo Wi-Fi\nConnection...</language>
+		<language name="English">Déconnexion de la connexion Wi-Fi\nNintendo...</language>
 	</row>
 	<row id="msg_0774_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are now disconnected from Nintendo\nWi-Fi Connection.</language>
+		<language name="English">Vous n’êtes plus connecté à la\nconnexion Wi-Fi Nintendo.</language>
 	</row>
 	<row id="msg_0774_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Return</language>
+		<language name="English">{ALN_CENTER}Retour</language>
 	</row>
 	<row id="msg_0774_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Confirm</language>
+		<language name="English">{ALN_CENTER}Confirmer</language>
 	</row>
 	<row id="msg_0774_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Quit</language>
+		<language name="English">{ALN_CENTER}Annuler</language>
 	</row>
 </body>

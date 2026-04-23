@@ -6,63 +6,63 @@
 	</row>
 	<row id="msg_0045_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TEXT SPEED</language>
+		<language name="English">VITESSE DU TEXTE</language>
 	</row>
 	<row id="msg_0045_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE SCENE</language>
+		<language name="English">ANIMAT. COMBAT</language>
 	</row>
 	<row id="msg_0045_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE STYLE</language>
+		<language name="English">STYLE DE COMBAT</language>
 	</row>
 	<row id="msg_0045_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SOUND</language>
+		<language name="English">SON</language>
 	</row>
 	<row id="msg_0045_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUTTON MODE</language>
+		<language name="English">MODE BOUTONS</language>
 	</row>
 	<row id="msg_0045_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FRAME</language>
+		<language name="English">FENETRE</language>
 	</row>
 	<row id="msg_0045_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}CONFIRM</language>
+		<language name="English">{ALN_CENTER}CONFIRMER</language>
 	</row>
 	<row id="msg_0045_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}QUIT</language>
+		<language name="English">{ALN_CENTER}FERMER</language>
 	</row>
 	<row id="msg_0045_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOW</language>
+		<language name="English">1</language>
 	</row>
 	<row id="msg_0045_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MID</language>
+		<language name="English">2</language>
 	</row>
 	<row id="msg_0045_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FAST</language>
+		<language name="English">3</language>
 	</row>
 	<row id="msg_0045_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ON</language>
+		<language name="English">OUI</language>
 	</row>
 	<row id="msg_0045_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OFF</language>
+		<language name="English">NON</language>
 	</row>
 	<row id="msg_0045_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SHIFT</language>
+		<language name="English">CHOIX</language>
 	</row>
 	<row id="msg_0045_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SET</language>
+		<language name="English">DEFINI</language>
 	</row>
 	<row id="msg_0045_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -78,7 +78,7 @@
 	</row>
 	<row id="msg_0045_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">L=A</language>
+		<language name="English">L = A</language>
 	</row>
 	<row id="msg_0045_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -162,82 +162,82 @@
 	</row>
 	<row id="msg_0045_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 1</language>
+		<language name="English">FENETRE TYPE 1</language>
 	</row>
 	<row id="msg_0045_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 2</language>
+		<language name="English">FENETRE TYPE 2</language>
 	</row>
 	<row id="msg_0045_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 3</language>
+		<language name="English">FENETRE TYPE 3</language>
 	</row>
 	<row id="msg_0045_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 4</language>
+		<language name="English">FENETRE TYPE 4</language>
 	</row>
 	<row id="msg_0045_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 5</language>
+		<language name="English">FENETRE TYPE 5</language>
 	</row>
 	<row id="msg_0045_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 6</language>
+		<language name="English">FENETRE TYPE 6</language>
 	</row>
 	<row id="msg_0045_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 7</language>
+		<language name="English">FENETRE TYPE 7</language>
 	</row>
 	<row id="msg_0045_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 8</language>
+		<language name="English">FENETRE TYPE 8</language>
 	</row>
 	<row id="msg_0045_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 9</language>
+		<language name="English">FENETRE TYPE 9</language>
 	</row>
 	<row id="msg_0045_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 10</language>
+		<language name="English">FENETRE TYPE 10</language>
 	</row>
 	<row id="msg_0045_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 11</language>
+		<language name="English">FENETRE TYPE 11</language>
 	</row>
 	<row id="msg_0045_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 12</language>
+		<language name="English">FENETRE TYPE 12</language>
 	</row>
 	<row id="msg_0045_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 13</language>
+		<language name="English">FENETRE TYPE 13</language>
 	</row>
 	<row id="msg_0045_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 14</language>
+		<language name="English">FENETRE TYPE 14</language>
 	</row>
 	<row id="msg_0045_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 15</language>
+		<language name="English">FENETRE TYPE 15</language>
 	</row>
 	<row id="msg_0045_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 16</language>
+		<language name="English">FENETRE TYPE 16</language>
 	</row>
 	<row id="msg_0045_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 17</language>
+		<language name="English">FENETRE TYPE 17</language>
 	</row>
 	<row id="msg_0045_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 18</language>
+		<language name="English">FENETRE TYPE 18</language>
 	</row>
 	<row id="msg_0045_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 19</language>
+		<language name="English">FENETRE TYPE 19</language>
 	</row>
 	<row id="msg_0045_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINDOW TYPE 20</language>
+		<language name="English">FENETRE TYPE 20</language>
 	</row>
 </body>

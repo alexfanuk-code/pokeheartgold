@@ -6,14 +6,14 @@
 	</row>
 	<row id="msg_0754_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">QUITTER</language>
 	</row>
 	<row id="msg_0754_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to stop playing with the\nFootprint Stamp?</language>
+		<language name="English">Voulez-vous arrêter de jouer à\nEmpreintes Poké?</language>
 	</row>
 	<row id="msg_0754_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Footprint Stamp is now closed.</language>
+		<language name="English">Empreintes Poké est fermé.</language>
 	</row>
 </body>

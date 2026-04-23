@@ -2,52 +2,52 @@
 <body language="English">
 	<row id="msg_0381_R32PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This area is great for fishing.\nLooking at all those people fishing,\fdid you feel like you wanted to try\ffishing, too?\rWould you like one of my Rods? {YESNO 0}</language>
+		<language name="English">C’est un célèbre coin de pêche.\nTu as vu tous ces pêcheurs?\fTu veux essayer, toi aussi?\rSi tu veux, je peux te donner une\nde mes Cannes! {YESNO 0}</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0381_R32PC0101_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0381_R32PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you want to go fishing,\nface the water and use the Rod first.\rThen concentrate and look closely\nat the water!\rAn “!” appears when a Pokémon\nhas taken a bite!\rPress the A Button quickly to pull back\non the line.\rYou’ll see what happens next.\rIf there’s water, be it the sea or\na stream, try out your Rod.</language>
+		<language name="English">Pour pêcher, tourne-toi vers une\nétendue d’eau, et utilise ta Canne!\rEnsuite, fixe la surface de l’eau\npour calmer ton esprit.\rTu sauras tout de suite qu’un Pokémon\naura mordu: un point d’exclamation\fapparaîtra pour te le dire! Appuie\falors sur le bouton A pour tirer!\rTu t’y feras vite. Tu peux le faire\npartout où il y a un point d’eau!</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh. That’s rather disappointing...</language>
+		<language name="English">Ah bon?\nQuel dommage...</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you want to go fishing,\nface the water and use the Rod first.\rThen concentrate and look closely\nat the water!\rAn “!” appears when a Pokémon\nhas taken a bite!\rPress the A Button quickly to pull back\non the line.\rYou’ll see what happens next.\n</language>
+		<language name="English">Pour pêcher, tourne-toi vers une\nétendue d’eau, et utilise ta Canne!\rEnsuite, fixe la surface de l’eau\npour calmer ton esprit.\rTu sauras tout de suite qu’un Pokémon\naura mordu: un point d’exclamation\fapparaîtra pour te le dire! Appuie\falors sur le bouton A pour tirer!\rTu t’y feras vite.</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What should I make my Pokémon hold?\rMaybe an item that increases\nits Attack power...</language>
+		<language name="English">Que dois-je faire porter à mon Pokémon?\nJ’hésite... Hmmm...\rPeut-être un objet qui augmente\nson Attaque...?</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bonjour.\nHow are you?\fAre you picking Apricorns? {YESNO 0}</language>
+		<language name="English">Hellooo?\nComment va la santé, aujourd’hui?\fTu cueilles des Noigrumes? {YESNO 0}</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Way to go, little Apricorn collector!\rI feel so great, I want to give\nyou this!\r</language>
+		<language name="English">Très, très bien...\nTu es jeune, et pourtant déjà\fun expert de la cueillette!\rAllez! Je suis de bonne humeur,\nj’ai envie de te donner ceci.\r</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How come? What a waste!\rI will show you how great\nApricorns are!\rTake this first.\r</language>
+		<language name="English">Comment?\nQuel gâchis!\rAlors, c’est à moi que revient la tâche\nde t’apprendre à aimer les Noigrumes!\rBien! Commence par prendre\nceci!\r</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lure Ball!\nThis Poké Ball makes it easy to catch\fthe Pokémon that appear when you\fgo fishing!\rActually, this is made from Apricorns.\nConsider those two as small gifts\ffrom me.\rIf you want more, go to Azalea Town.\nA man called Kurt can make special\fPoké Balls out of Apricorns.\rApricorns rule!</language>
+		<language name="English">Une Appât Ball!\nC’est un objet formidable qui rend plus\ffacile la capture des Pokémon pêchés!\rEt figure-toi qu’elle a été faite\nà partir d’un Noigrume!\rComme je suis sympa, je t’en donne 2,\nmais si tu en veux plus, tu devrais\fcontinuer par là jusqu’à Ecorcia!\rIl y a là un type, Fargas, qui fabrique\ndes Balls spéciales avec des Noigrumes.\rJe te dis, c’est génial!</language>
 	</row>
 	<row id="msg_0381_R32PC0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt is the hero of every Apricorn\ncollector out there.\rIf you are to go to Azalea Town,\nbe sure to visit him.\rApricorn, Apricornier, Apricorniest!</language>
+		<language name="English">Fargas est un modèle pour tous les\ncueilleurs de Noigrumes du monde.\rSi tu vas à Ecorcia, il faut que tu\nailles lui rendre visite! Noigrumise bien!</language>
 	</row>
 </body>

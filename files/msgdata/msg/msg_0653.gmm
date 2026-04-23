@@ -2,62 +2,62 @@
 <body language="English">
 	<row id="msg_0653_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty</language>
+		<language name="English">Mortimer</language>
 	</row>
 	<row id="msg_0653_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you very well.\nWe must have a bad connection.\rTry calling again from somewhere else!</language>
+		<language name="English">Oui? Je t’entends très mal!\rTu pourrais me rappeler\nd’un autre endroit?</language>
 	</row>
 	<row id="msg_0653_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nWhat’s going on?\fI’m doing great.\r</language>
+		<language name="English">Allô?\nC’est pour...\fOh, je vais très bien, merci!\r</language>
 	</row>
 	<row id="msg_0653_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are stronger Gym Leaders than\nme out there. They’re all waiting to\fcheer you on!</language>
+		<language name="English">Il te reste encore bien des Champions\nà affronter!\rJe te soutiens! Vas-y!</language>
 	</row>
 	<row id="msg_0653_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s right... If we were to have\nanother battle, then we’d need to do it\fwhen I’m free, like on Tuesday nights.\rGive me a call then.</language>
+		<language name="English">Pour faire un autre combat tous les\ndeux, le mardi soir serait parfait pour\fmoi!\rPense à m’appeler ce jour-là!</language>
 	</row>
 	<row id="msg_0653_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m competely free today.\nWhy don’t we have a battle? {YESNO 0}</language>
+		<language name="English">Je suis parfaitement libre\naujourd’hui! On se revoit? {YESNO 0}</language>
 	</row>
 	<row id="msg_0653_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\rDo you know where the Fighting Dojo is\nin Saffron City? I’ll be waiting there.</language>
+		<language name="English">Ah!\rTu connais le Dojo de Safrania?\nOn se voit là-bas dans ce cas!</language>
 	</row>
 	<row id="msg_0653_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nWell, you’ve got your own plans as well,\fI understand.</language>
+		<language name="English">Ah bon... Toi non plus, tu ne dois pas\nmanquer d’occupations...</language>
 	</row>
 	<row id="msg_0653_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey! Before you battle me again, don’t\nyou have someone else you promised to\fbattle with?</language>
+		<language name="English">Hé là! Tu n’as pas d’autres obligations\nà remplir avant?</language>
 	</row>
 	<row id="msg_0653_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be at the Fighting Dojo in Saffron\nCity. Get ready and meet me there!</language>
+		<language name="English">Tu connais le Dojo de Safrania?\nOn se voit là-bas dans ce cas!\fPrépare-toi bien!</language>
 	</row>
 	<row id="msg_0653_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Morty!\nHow are you doing?\r</language>
+		<language name="English">C’est Mortimer!\nTout va bien?\r</language>
 	</row>
 	<row id="msg_0653_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, didn’t we make plans to meet at\nthe Fighting Dojo in Saffron City?\fI remembered!\fYou didn’t forget, did you?</language>
+		<language name="English">On a rendez-vous au Dojo de Safrania,\nnon?\fBien sûr que je m’en souviens!\fC’est toi qui as oublié, non?</language>
 	</row>
 	<row id="msg_0653_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The legendary Pokémon: Suicune, Entei,\nand Raikou--which do you like best?\rUnlike Eusine, I don’t really have any\ninterest in Suicune.\rSo I’d have to say Entei...\nBut I can’t leave out Raikou...\fHmm... Guess I can’t make up my mind.</language>
+		<language name="English">Les Pokémon légendaires SUICUNE,\nENTEI et RAIKOU...\fLequel préfères-tu?\rSUICUNE ne me passionne pas autant\nqu’il passionne Eusine...\rPar contre, ENTEI...\nEt puis RAIKOU, on ne peut pas l’oublier\fnon plus...\rAh, je ne sais plus!</language>
 	</row>
 	<row id="msg_0653_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I once saw Entei. I mean like\nup close. It was amazing.\rEntei looked me in the eyes. I’ll never\nforget its eyes.\rIt was like it could see right through\nme, down into the depths of my heart...</language>
+		<language name="English">Une fois, je me suis retrouvé nez à nez\navec ENTEI!\rJe n’oublierai jamais le regard\nqu’il avait!\rOn aurait dit qu’il déchiffrait\nmon cœur!</language>
 	</row>
 	<row id="msg_0653_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How have you been?\nAnything interesting happening?\rI’m doing the same as usual, just my\nregular Gym Leader duties.\rThere haven’t been any really strong\nTrainers here since you came through.\rSeems like you’re one of those genius\nTrainers you seldom meet.\rHa ha ha! I don’t mean to flatter you!</language>
+		<language name="English">Alors?\nQuoi de beau, quoi de neuf?\rComme d’habitude, je suis fort occupé\ndans mon Arène.\rDepuis ton passage, pas un Dresseur\nqui vaille le coup!\rDéfinitivement, tu es quelqu’un de très\nspécial...\rNon, non, je suis sincère, je te jure!</language>
 	</row>
 </body>

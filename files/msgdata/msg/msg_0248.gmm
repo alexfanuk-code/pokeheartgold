@@ -2,119 +2,119 @@
 <body language="English">
 	<row id="msg_0248_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNUL.</language>
 	</row>
 	<row id="msg_0248_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">RETOUR</language>
 	</row>
 	<row id="msg_0248_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WATER</language>
+		<language name="English">ARROSER</language>
 	</row>
 	<row id="msg_0248_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PLANT BERRY</language>
+		<language name="English">PLANTER BAIE</language>
 	</row>
 	<row id="msg_0248_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FERTILIZE</language>
+		<language name="English">REPANDRE ENGRAIS</language>
 	</row>
 	<row id="msg_0248_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TAKE BERRIES</language>
+		<language name="English">CUEILLIR</language>
 	</row>
 	<row id="msg_0248_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touch one of the\nBerry Pots.\n</language>
+		<language name="English">Veuillez toucher un des\npots de votre Plante-Baies.</language>
 	</row>
 	<row id="msg_0248_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have any Berries!</language>
+		<language name="English">Vous ne possédez pas de Baie!</language>
 	</row>
 	<row id="msg_0248_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have any fertilizer!</language>
+		<language name="English">Vous ne possédez pas d’engrais!</language>
 	</row>
 	<row id="msg_0248_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Press the left and right buttons or\ntouch to move.</language>
+		<language name="English">Naviguez en utilisant ←→ ou en\ntouchant l’écran.</language>
 	</row>
 	<row id="msg_0248_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s soft, earthy soil.</language>
+		<language name="English">C’est un sol meuble et fertile.</language>
 	</row>
 	<row id="msg_0248_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 2, 0} has been laid down.</language>
+		<language name="English">Du {STRVAR_1 8, 2, 0} a été répandu.</language>
 	</row>
 	<row id="msg_0248_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 0, 0} Berry is planted!</language>
+		<language name="English">Une {STRVAR_1 8, 0, 0} a été plantée ici.</language>
 	</row>
 	<row id="msg_0248_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 0, 0} Berry Plant\nhas sprouted.</language>
+		<language name="English">Le plant de {STRVAR_1 8, 0, 0} a\nbourgeonné.</language>
 	</row>
 	<row id="msg_0248_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 0, 0} Berry Plant is\ngrowing bigger.</language>
+		<language name="English">Ce plant de {STRVAR_1 8, 0, 0} a poussé.</language>
 	</row>
 	<row id="msg_0248_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This {STRVAR_1 8, 0, 0} Berry Plant\nis in bloom!</language>
+		<language name="English">Les fleurs du plant de\n{STRVAR_1 8, 0, 0} ont éclos.</language>
 	</row>
 	<row id="msg_0248_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are {STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0} Berries!</language>
+		<language name="English">Un plant de {STRVAR_1 8, 0, 0}!\nNombre de Baies qu’il porte: {STRVAR_1 51, 1, 0}.</language>
 	</row>
 	<row id="msg_0248_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 2, 0} was scattered\non the soil.</language>
+		<language name="English">Du {STRVAR_1 8, 2, 0} a été répandu sur\nle sol meuble.</language>
 	</row>
 	<row id="msg_0248_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 0, 0} Berry was planted\nin the soft, earthy soil.</language>
+		<language name="English">Une {STRVAR_1 8, 0, 0} a été plantée dans\nle sol meuble et fertile.</language>
 	</row>
 	<row id="msg_0248_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There! All happy!</language>
+		<language name="English">Et voilà! En pleine forme!</language>
 	</row>
 	<row id="msg_0248_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You picked the\n{STRVAR_1 51, 1, 0} {STRVAR_1 8, 0, 0} Berries.</language>
+		<language name="English">Vous cueillez {STRVAR_1 51, 1, 0} Baies sur\nle plant de {STRVAR_1 8, 0, 0}.</language>
 	</row>
 	<row id="msg_0248_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Put away the {STRVAR_1 8, 0, 0} Berries!\nThe soil is in a soft, earthy state.</language>
+		<language name="English">Vous mettez votre cueillette\ndans le Sac. Le sol redevient fertile.</language>
 	</row>
 	<row id="msg_0248_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Bag is full. Gave up on\nthe {STRVAR_1 8, 0, 0} Berries.</language>
+		<language name="English">Le Sac est plein!\nVous laissez le plant.</language>
 	</row>
 	<row id="msg_0248_00023" index="23">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0248_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">N {STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}/{STRVAR_1 51, 2, 0} {STRVAR_1 51, 3, 0}:{STRVAR_1 51, 4, 0}:{STRVAR_1 51, 5, 0}\nS {STRVAR_1 51, 6, 0}/{STRVAR_1 51, 7, 0}/{STRVAR_1 51, 8, 0} {STRVAR_1 51, 9, 0}:{STRVAR_1 51, 10, 0}:{STRVAR_1 51, 11, 0}</language>
+		<language name="English">N{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}/{STRVAR_1 51, 2, 0} {STRVAR_1 51, 3, 0}:{STRVAR_1 51, 4, 0}:{STRVAR_1 51, 5, 0}S{STRVAR_1 51, 6, 0}/{STRVAR_1 51, 7, 0}/{STRVAR_1 51, 8, 0} {STRVAR_1 51, 9, 0}:{STRVAR_1 51, 10, 0}:{STRVAR_1 51, 11, 0}</language>
 	</row>
 	<row id="msg_0248_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">D {STRVAR_1 55, 0, 0}:{STRVAR_1 51, 1, 0}:{STRVAR_1 51, 2, 0} TIME-RATE {STRVAR_1 52, 3, 0} times</language>
+		<language name="English">D{STRVAR_1 55, 0, 0}:{STRVAR_1 51, 1, 0}:{STRVAR_1 51, 2, 0} TIME-RATE {STRVAR_1 52, 3, 0}fois</language>
 	</row>
 	<row id="msg_0248_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 0, 0}:{STRVAR_1 8, 1, 0}</language>
+		<language name="English">{STRVAR_1 8, 0, 0}: {STRVAR_1 8, 1, 0}</language>
 	</row>
 	<row id="msg_0248_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 0, 0}:{STRVAR_1 8, 1, 0} ST{STRVAR_1 50, 2, 0} CT{STRVAR_1 51, 3, 0}\nN:{STRVAR_1 53, 4, 0} D:{STRVAR_1 53, 5, 0} SH:{STRVAR_1 51, 6, 0} GH:{STRVAR_1 52, 7, 0}</language>
+		<language name="English">{STRVAR_1 8, 0, 0}: {STRVAR_1 8, 1, 0} ST{STRVAR_1 50, 2, 0} CT{STRVAR_1 51, 3, 0}\nN:{STRVAR_1 53, 4, 0} D:{STRVAR_1 53, 5, 0} SH:{STRVAR_1 51, 6, 0} GH:{STRVAR_1 52, 7, 0}</language>
 	</row>
 	<row id="msg_0248_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NONE</language>
+		<language name="English">なし</language>
 	</row>
 </body>

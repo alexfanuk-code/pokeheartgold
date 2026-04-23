@@ -10,39 +10,39 @@
 	</row>
 	<row id="msg_0282_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOVE</language>
+		<language name="English">CAPACITE</language>
 	</row>
 	<row id="msg_0282_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOVE 2</language>
+		<language name="English">CAPACITE 2</language>
 	</row>
 	<row id="msg_0282_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STATUS</language>
+		<language name="English">STATUT</language>
 	</row>
 	<row id="msg_0282_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRAINER</language>
+		<language name="English">DRESSEUR</language>
 	</row>
 	<row id="msg_0282_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PEOPLE</language>
+		<language name="English">PERSONNES</language>
 	</row>
 	<row id="msg_0282_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GREETINGS</language>
+		<language name="English">POLITESSES</language>
 	</row>
 	<row id="msg_0282_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LIFESTYLE</language>
+		<language name="English">VIE QUOTID.</language>
 	</row>
 	<row id="msg_0282_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FEELINGS</language>
+		<language name="English">EMOTIONS</language>
 	</row>
 	<row id="msg_0282_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOUGH WORDS</language>
+		<language name="English">MOTS SAVANTS</language>
 	</row>
 	<row id="msg_0282_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -54,6 +54,6 @@
 	</row>
 	<row id="msg_0282_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">QUIT.</language>
 	</row>
 </body>

@@ -2,346 +2,346 @@
 <body language="English">
 	<row id="msg_0096_D31R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Tower!\rI am your guide to the Single\nand Double Battle Rooms.\r</language>
+		<language name="English">Bienvenue dans la Tour de Combat!\rJe suis votre guide pour les\nSalles de Combat Solo et Duo.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to take the\nBattle Room challenge? {YESNO 0}</language>
+		<language name="English">Voulez-vous relever le défi\nd’une Salle de Combat? {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again!</language>
+		<language name="English">A une prochaine fois peut-être!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower is a facility for Single\nor Double Battle challenges.\rOnce entered, your challenge lasts\nuntil you lose.\rIn Single Battle format, you enter with\nthree Pokémon.\rIn Double Battle format, you enter with\nfour Pokémon.\rThe battles are held in Battle Rooms,\nof which there are many in the tower.\rIn each of the Battle Rooms, seven\nTrainers await your challenge.\rIf you manage to defeat all seven,\nyou will earn Battle Points (BP).\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\rPlease be aware of that!\r</language>
+		<language name="English">La Tour de Combat propose des Combats\nSolo et des Combats Duo.\rUne fois à l’intérieur, les combats\ns’enchaînent jusqu’à votre défaite.\rEn Combat Solo, vous avez droit à trois\nPokémon.\rEn Combat Duo, vous entrez avec quatre\nPokémon.\rChaque combat se déroule dans une des\nnombreuses Salles de Combat de la tour.\rDans chacune des Salles de Combat,\nsept Dresseurs vous attendent.\rSi vous parvenez à tous les vaincre,\nvous gagnerez des PCo.\rSi vous voulez interrompre votre\nprogression, vous devrez sauvegarder.\rSi vous ne le faites pas, nous\ndevrons vous disqualifier.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Battle Room would you like?\nSingle or Double? {YESNO 0}</language>
+		<language name="English">Dans quelle Salle de Combat\nvoulez-vous aller? Solo ou Duo? {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please select the Pokémon you wish\nto enter.\r</language>
+		<language name="English">Veuillez choisir les Pokémon à inscrire.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon must all be different.\r</language>
+		<language name="English">Vous ne pouvez inscrire\ndeux Pokémon identiques.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Held items must all be different.\r</language>
+		<language name="English">Les objets portés doivent\ntous être différents.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will now show you to the Battle Room.</language>
+		<language name="English">Veuillez me suivre dans la\nSalle de Combat.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\nYou’ve beaten all seven Trainers!\r</language>
+		<language name="English">Félicitations!\nVous avez gagné les sept combats!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\nYou’ve beaten the Tower Tycoon!\rWe present you with these Battle\nPoints in recognition of your talent!\r{STRVAR_1 3, 0, 0} received\n{STRVAR_1 50, 1, 0} BP!\r</language>
+		<language name="English">Félicitations!\nVous avez battu l’Aigle Tour!\rPour récompenser vos efforts, nous\nvous offrons des Points de Combat!\r{STRVAR_1 3, 0, 0} obtient {STRVAR_1 50, 1, 0} PCo.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Sauvegarde en cours...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again.</language>
+		<language name="English">A une prochaine fois peut-être!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ve been waiting for you!\rBefore entering a Battle Room, your\nprogress will be saved. Please wait.</language>
+		<language name="English">Nous vous attendions!\rAvant de continuer, votre partie\ndoit être sauvegardée.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00017" index="17">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou didn’t save before you quit your\nchallenge last time.\rBecause of that, you have been\ndisqualified from your challenge!\r</language>
+		<language name="English">Je regrette.\rVous n’avez pas sauvegardé avant\nl’interruption de votre dernier défi.\rPar conséquent, nous sommes\nobligés de vous disqualifier!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Tower!\rI am your guide to the Multi\nBattle Rooms.\r</language>
+		<language name="English">Bienvenue dans la Tour de Combat!\rJe serai votre guide dans les\nSalles de Combat Multi!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to take the Multi\nBattle Room challenge? {YESNO 0}</language>
+		<language name="English">Voulez-vous relever le défi d’une\nSalle de Combat Multi? {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00022" index="22">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower’s Multi Battle Rooms\nare for Multi Battles with a partner.\rTo enter, join another Trainer and\ncompete with two Pokémon each.\rInside the tower is a room named the\nBattle Salon where you can meet\fother Trainers.\rThere, you can find a Trainer to act\nas your partner in the Multi Battles.\rYou can also partner up with a friend\nover wireless communications.\rOnce you have partnered up, you will\nbe shown to a Multi Battle Room.\rIn the Multi Battle Room, seven\ntag teams await your challenge.\rIf you manage to defeat all seven\nteams, you will earn Battle Points.\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\rAlso, if you are on a tag team with\na friend, you may not interrupt\fyour challenge.\r</language>
+		<language name="English">Les Salles de Combat Multi de la\nTour de Combat sont consacrées\faux Combats Multi.\rPour les Combats Multi, vous devez\nfaire équipe avec un autre Dresseur.\rVous entrerez avec 2 Pokémon chacun.\rA l’intérieur de la tour, il y a une salle\nappelée le Salon de Combat où vous\fpouvez rencontrer d’autres Dresseurs.\rVous pourrez y trouver un\npartenaire avec qui faire équipe.\rVous pouvez aussi faire équipe avec un\nami via la communication sans fil.\rVotre équipe formée, vous pourrez\naccéder à une Salle de Combat Multi.\rDans chacune des Salles de Combat\nMulti, sept équipes vous attendent.\rSi vous parvenez à toutes les battre,\nvous obtiendrez des Points de Combat.\rSi vous voulez interrompre votre\nprogression, vous devrez sauvegarder.\rSi vous ne le faites pas, nous\ndevrons vous disqualifier.\rNéanmoins, si vous faites équipe\navec un ami, vous ne pourrez\fpas interrompre la partie.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00024" index="24">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to communicate with\na friend and form a tag team? {YESNO 0}</language>
+		<language name="English">Voulez-vous communiquer avec\nun ami pour faire équipe? {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One Trainer should select\n“BECOME LEADER.”\rThe other Trainer must select\n“JOIN GROUP.” {YESNO 0}</language>
+		<language name="English">L’un de vous deux devra sélectionner\n“MENEUR”.\rL’autre Dresseur devra choisir\n“JOINDRE”. {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00028" index="28">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00029" index="29">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00030" index="30">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00031" index="31">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll direct you to your Multi Battle\nRoom now.</language>
+		<language name="English">Veuillez me suivre dans la\nSalle de Combat Multi.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Trainers have chosen the\nPokémon {STRVAR_1 0, 0, 0}.\rPlease confer with the other Trainer\nand choose different Pokémon.\r</language>
+		<language name="English">Les deux Dresseurs ont choisi le\nPokémon {STRVAR_1 0, 0, 0}.\rVeuillez choisir des Pokémon différents.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Trainers have chosen the Pokémon\n{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\rPlease confer with the other Trainer\nand choose different Pokémon.\r</language>
+		<language name="English">Les deux Dresseurs ont choisi les\nPokémon {STRVAR_1 0, 0, 0} et {STRVAR_1 0, 1, 0}.\rVeuillez choisir des Pokémon différents.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will now show you to the Battle Salon.\r</language>
+		<language name="English">Veuillez me suivre dans le\nSalon de Combat.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Tower!\rI am your guide to the Wi-Fi Battle\nRooms.\r</language>
+		<language name="English">Bienvenue dans la Tour de Combat!\rJe suis votre guide pour les\nSalles de Combat Wi-Fi.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to take the Wi-Fi\nBattle Room challenge? {YESNO 0}</language>
+		<language name="English">Voulez-vous relever le défi d’une\nSalle de Combat Wi-Fi? {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Tower’s Wi-Fi Battle Rooms\nare places to conduct battles over\fNintendo Wi-Fi Connection.\rAs a result, you will be battling\nTrainers from around the world.\rInside the Battle Tower, there are\nmany Battle Rooms.\rIn each of the Battle Rooms, seven\nTrainers await your challenge.\rIf you manage to defeat all seven,\nyou will earn Battle Points.\rDepending on how you do, you may\neven become the room’s leader!\rAlso, the Wi-Fi Battle Rooms are\noperated on a ranking system.\rTrainers will go up in rank if they\nkeep winning Wi-Fi Battles.\rContrarily, their rankings could go\ndown if they lose consistently.\rTo raise your rank, keep winning,\nespecially against tougher Trainers.\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\r</language>
+		<language name="English">Les Salles de Combat Wi-Fi de la Tour\nde Combat sont consacrées aux combats\fvia la connexion Wi-Fi (CWF) Nintendo.\rDans les Combats Wi-Fi, vous\naffronterez des Dresseurs du\fmonde entier via la CWF Nintendo.\rDans chacune des Salles de Combat\nWi-Fi, sept Dresseurs vous attendent.\rSi vous parvenez à tous les battre,\nvous obtiendrez des Points de Combat.\rSelon vos résultats, vous pourrez\nmême devenir le leader de la salle.\rEn effet, les Salles de Combat Wi-Fi\nsont régies par un système de rangs.\rLes Dresseurs accumulant les victoires\nverront leur rang s’améliorer.\rEn revanche, ceux qui accumulent les\ndéfaites perdront des rangs.\rPour atteindre plus rapidement\nles premières places, gagnez\fcontre des Dresseurs plus forts!\rSi vous voulez interrompre votre \nprogression, vous devrez sauvegarder.\rSi vous ne le faites pas, nous\ndevrons vous disqualifier.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again!</language>
+		<language name="English">A une prochaine fois peut-être!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00040" index="40">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00041" index="41">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00042" index="42">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00043" index="43">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00044" index="44">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00045" index="45">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00046" index="46">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK. I’ll direct you to your Battle Room\nnow.\rAre you ready? {YESNO 0}</language>
+		<language name="English">Veuillez me suivre dans la\nSalle de Combat. {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to save and interrupt\nyour challenge? {YESNO 0}</language>
+		<language name="English">Voulez-vous sauvegarder et\ninterrompre votre progression? {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00049" index="49">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00050" index="50">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00051" index="51">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve downloaded the Rank {STRVAR_1 51, 0, 0} Battle\nRoom {STRVAR_1 52, 1, 0}’s past leader history.\rPlease confirm it on the Performance\nMonitor next to me.</language>
+		<language name="English">J’ai téléchargé le dernier tableau des\nleaders de la Salle de Combat {STRVAR_1 52, 1, 0},\fRang {STRVAR_1 51, 0, 0}.\rVeuillez le consulter sur l’Ecran des\nPerformances à côté de moi.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for playing!\r</language>
+		<language name="English">Merci d’avoir participé!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\nYou’ve beaten all seven Trainers!\r</language>
+		<language name="English">Félicitations!\nVous avez gagné les sept combats!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, you have also been\npromoted to Rank {STRVAR_1 51, 1, 0}!\r</language>
+		<language name="English">Félicitations, {STRVAR_1 3, 0, 0}, vous avez\natteint le Rang {STRVAR_1 51, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Sauvegarde en cours...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to send these\nresults using Nintendo WFC? {YESNO 0}</language>
+		<language name="English">Voulez-vous envoyer ces résultats\nvia la CWF Nintendo? {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For your 7-win streak, we present\nyou with the BP you have earned!\r{STRVAR_1 3, 0, 0} received\n{STRVAR_1 50, 1, 0} BP.\r</language>
+		<language name="English">En récompense de votre série de sept\nvictoires, nous vous offrons ces PCo!\r{STRVAR_1 3, 0, 0} obtient {STRVAR_1 50, 1, 0} PCo.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00059" index="59">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your results were sent out using\nNintendo WFC!\r</language>
+		<language name="English">Vos résultats ont été envoyés\nvia la CWF Nintendo!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s good to see you back.\rYour previous results were not sent\nout using Nintendo WFC.\rWould you like to send them now? {YESNO 0}</language>
+		<language name="English">C’est un plaisir de vous revoir.\rVos précédents résultats n’ont pas\nété envoyés via la CWF Nintendo.\rVoulez-vous les envoyer? {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00062" index="62">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00063" index="63">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00064" index="64">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unfortunately, you have been\ndemoted to Rank {STRVAR_1 51, 0, 0}...\r</language>
+		<language name="English">Je suis désolée, vous tombez\nau Rang {STRVAR_1 51, 0, 0}...\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00066" index="66">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00067" index="67">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00068" index="68">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your record will be saved.\nPlease wait.</language>
+		<language name="English">Vos données vont être sauvegardées.\nVeuillez patienter.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations on achieving Rank {STRVAR_1 51, 0, 0}.\nYour winning Pokémon team has won\fspecial Ribbons for this feat!</language>
+		<language name="English">Félicitations, vous avez\natteint le Rang {STRVAR_1 51, 0, 0}.\rVos Pokémon victorieux gagnent des\nRubans spéciaux en récompense!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00071" index="71">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00072" index="72">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0096_D31R0201_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations on achieving your\n50-win streak.\fYour winning Pokémon team has won\fspecial Ribbons for this feat!</language>
+		<language name="English">Félicitations, vous avez enchaîné\n50 victoires à la suite.\rVos Pokémon victorieux gagnent des\nRubans spéciaux en récompense!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">As you can see, Battle Frontier is a\ngreat facility.\rYou know what?\rApparently, similar facilities are\navailable outside of Johto.</language>
+		<language name="English">Comme tu le vois, la Zone de Combat est\nune construction formidable...\rMais figure-toi qu’il y en a d’autres\nidentiques ailleurs qu’à Johto!\n</language>
 	</row>
 	<row id="msg_0096_D31R0201_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for playing!\rYour Pokémon will be restored to\nfull...\fOh my!\rI’m not on duty today.\nI’m just here to enjoy myself.</language>
+		<language name="English">Bonjour! Nous pouvons soigner vos\nPoké...\fMais qu’est-ce que je raconte, moi!\rJe ne suis pas là pour le travail, mais\npour m’amuser, aujourd’hui!\n</language>
 	</row>
 	<row id="msg_0096_D31R0201_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Me?\rI just made a debut as an Idol!\fI haven’t gotten much work yet.\rSo whenever I have time, I come here\nto battle Pokémon.</language>
+		<language name="English">Moi?\nJe suis une star débutante!\rComme je n’ai pas encore beaucoup de\ncontrats, je viens faire des combats\fici dans mon temps libre...\n</language>
 	</row>
 	<row id="msg_0096_D31R0201_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I trained my little guy till we\ncouldn’t take any more.\rHe’s going to do a 50-win streak\nfor sure...\rRight, PIKACHU?</language>
+		<language name="English">J’ai entraîné mon Pokémon au\nmaximum de ses capacités.\rIl va me faire gagner au\nmoins 50 fois d’affilée...\rHein, PIKACHU?</language>
 	</row>
 	<row id="msg_0096_D31R0201_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
@@ -349,218 +349,218 @@
 	</row>
 	<row id="msg_0096_D31R0201_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve always loved this kind of\nsee-through elevator since I\fwas young.\rOr not!\rWhen I was young, this kind of\nelevator was unheard of!</language>
+		<language name="English">Du temps de ma jeunesse,\ndéjà, j’adorais ces ascenseurs\fhyper rapides...\rDésolé de te faire marcher!\nÇa n’existait pas ces trucs-là,\fquand j’étais en culottes courtes!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tee hee!\nAll the Trainers around us look\fso pathetic!\r...Actually, that’s the kind of mind-set\nthat makes you lose with one hit!\rDon’t let your guard down, PIKACHU!</language>
+		<language name="English">Hé hé hé! Le niveau à l’air\nbien bidon ici...\rMais faut pas que je baisse ma garde.\nCe serait dommage de perdre à\fcause de ça. Hein, PIKACHU?</language>
 	</row>
 	<row id="msg_0096_D31R0201_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIKACHU: Pichuu! Pichuu!</language>
+		<language name="English">PIKACHU: Pika! Pika!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations on achieving\na 50-win streak!\rThe Pokémon on your team will be\nprovided with commemorative Ribbons.</language>
+		<language name="English">Félicitations, vous avez \nenchaîné 50 victoires à la suite!\rVos Pokémon victorieux gagnent des\nRubans pour célébrer cette prouesse!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations on advancing to\nRank {STRVAR_1 50, 0, 0}!\rThe Pokémon on your team will be\nprovided with commemorative Ribbons.</language>
+		<language name="English">Félicitations, vous avez\natteint le Rang {STRVAR_1 50, 0, 0}!\rVos Pokémon victorieux gagnent des\nRubans pour célébrer cette prouesse!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations on defeating\nthe Tower Tycoon!\fThe Pokémon on your team will be\fprovided with commemorative Ribbons.</language>
+		<language name="English">Félicitations, vous avez\nvaincu l’Aigle Tour!\rVos Pokémon victorieux gagnent des\nRubans pour célébrer cette prouesse!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\rIn honor of your victory, we present\nyou this commemorative print!\r</language>
+		<language name="English">Félicitations!\rPour célébrer votre victoire, nous\nvous offrons cette photo!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gold Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">La Photo d’Or a été ajoutée au Magnéto\nVS de {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Silver Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">La Photo d’Argent a été ajoutée au\nMagnéto VS de {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations on achieving your\n{STRVAR_1 52, 0, 0}-win streak!\rPlease accept this trophy for your\nfantastic achievement!\fWe’ll send it to your home.\r</language>
+		<language name="English">Félicitations, vous avez enchaîné {STRVAR_1 52, 0, 0}\nvictoires à la suite!\rQuelle prouesse! Voici un Trophée\npour vous récompenser.\rNous le ferons parvenir chez vous.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Uh-oh... You’ve run out of room\nfor decoration goods.\rPlease make room, and come back\nfor your prize.</language>
+		<language name="English">Oh... Vous n’avez plus assez de place\npour un autre article de décoration.\rFaites un peu de place, et\nrevenez réclamer votre prix.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Trainers have chosen the Pokémon\n{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\rPlease confer with the other Trainer\nand choose different Pokémon.</language>
+		<language name="English">Les deux Dresseurs ont choisi les\nPokémon {STRVAR_1 0, 0, 0} et {STRVAR_1 0, 1, 0}.\rVeuillez choisir des Pokémon différents.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs are not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs ne peuvent pas participer.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs and {STRVAR_1 0, 1, 0} are not allowed\nto enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs et les {STRVAR_1 0, 1, 0} ne\npeuvent pas participer.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, and {STRVAR_1 0, 2, 0}\nare not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0} et\n{STRVAR_1 0, 2, 0} ne peuvent pas\fparticiper.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\nand {STRVAR_1 0, 3, 0} are not allowed.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0}\net {STRVAR_1 0, 3, 0} ne peuvent pas\fparticiper.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, and {STRVAR_1 0, 4, 0}\fare not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0} et\r{STRVAR_1 0, 4, 0} ne peuvent pas\nparticiper.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0}, and\f{STRVAR_1 0, 5, 0} are not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0} et {STRVAR_1 0, 5, 0} ne\npeuvent pas participer.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, and {STRVAR_1 0, 6, 0} \nare not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0} et\n{STRVAR_1 0, 6, 0} ne peuvent pas\fparticiper.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0}, and\n{STRVAR_1 0, 7, 0} are not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0} et {STRVAR_1 0, 7, 0} ne\fpeuvent pas participer.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\n{STRVAR_1 0, 7, 0}, and {STRVAR_1 0, 8, 0}\fare not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0} et\r{STRVAR_1 0, 8, 0} ne peuvent pas\nparticiper.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\n{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0}, and\f{STRVAR_1 0, 9, 0} are not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0} et {STRVAR_1 0, 9, 0} ne\npeuvent pas participer.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\n{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\r{STRVAR_1 0, 9, 0}, and {STRVAR_1 0, 10, 0}\nare not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0}\net {STRVAR_1 0, 10, 0} ne peuvent pas\fparticiper.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\n{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\r{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0}, and\n{STRVAR_1 0, 11, 0} are not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0} et {STRVAR_1 0, 11, 0} ne\fpeuvent pas participer.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\n{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\r{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\n{STRVAR_1 0, 11, 0}, and {STRVAR_1 0, 12, 0}\fare not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0},{STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0} et\r{STRVAR_1 0, 12, 0} ne peuvent pas\nparticiper.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\n{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\r{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\n{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0}, and\f{STRVAR_1 0, 13, 0} are not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r{STRVAR_1 0, 12, 0} et {STRVAR_1 0, 13, 0} ne\npeuvent pas participer.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\n{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\r{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\n{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\r{STRVAR_1 0, 13, 0}, and {STRVAR_1 0, 14, 0}\nare not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0} et\n{STRVAR_1 0, 14, 0} ne peuvent pas\fparticiper.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\n{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\r{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\n{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\r{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0}, and\n{STRVAR_1 0, 15, 0} are not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n{STRVAR_1 0, 14, 0} et {STRVAR_1 0, 15, 0} ne\fpeuvent pas participer.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\n{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\r{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\n{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\r{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\n{STRVAR_1 0, 15, 0}, and {STRVAR_1 0, 16, 0}\fare not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0} et\r{STRVAR_1 0, 16, 0} ne peuvent pas\nparticiper.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\n{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\r{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\n{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\r{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\n{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0}, and\f{STRVAR_1 0, 17, 0} are not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\r{STRVAR_1 0, 16, 0} et {STRVAR_1 0, 17, 0} ne\npeuvent pas participer.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 0, 0} different Pokémon\nto enter.\rThey also must be holding different\nkinds of items.\rEggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\r{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\n{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\r{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\n{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\r{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\n{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\r{STRVAR_1 0, 17, 0}, and {STRVAR_1 0, 18, 0}\nare not allowed to enter.\rPlease come see me when you are ready.</language>
+		<language name="English">Je regrette!\nVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon\fpouvant participer.\rIl vous faut {STRVAR_1 50, 0, 0} Pokémon\ndifférents pour participer.\rIls doivent aussi tenir des\nobjets différents.\rLes Oeufs, {STRVAR_1 0, 1, 0},\n{STRVAR_1 0, 2, 0}, {STRVAR_1 0, 3, 0},\r{STRVAR_1 0, 4, 0}, {STRVAR_1 0, 5, 0},\n{STRVAR_1 0, 6, 0}, {STRVAR_1 0, 7, 0},\r{STRVAR_1 0, 8, 0}, {STRVAR_1 0, 9, 0},\n{STRVAR_1 0, 10, 0}, {STRVAR_1 0, 11, 0},\r{STRVAR_1 0, 12, 0}, {STRVAR_1 0, 13, 0},\n{STRVAR_1 0, 14, 0}, {STRVAR_1 0, 15, 0},\r{STRVAR_1 0, 16, 0}, {STRVAR_1 0, 17, 0}\net {STRVAR_1 0, 18, 0} ne peuvent pas\fparticiper.\rRevenez me voir quand\nvous aurez ce qu’il faut.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you so much for participating!\nPlease come again!</language>
+		<language name="English">Merci d’avoir participé!\nRevenez quand vous voulez!</language>
 	</row>
 	<row id="msg_0096_D31R0201_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There doesn’t appear to be any\ndata yet...</language>
+		<language name="English">Il n’y a pas de données enregistrées...</language>
 	</row>
 	<row id="msg_0096_D31R0201_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DS Wireless Communications will\nbe launched. {YESNO 0}</language>
+		<language name="English">La communication sans fil DS va\ndémarrer. {YESNO 0}</language>
 	</row>
 	<row id="msg_0096_D31R0201_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We look forward to your next visit.\r</language>
+		<language name="English">N’hésitez pas à revenir nous voir.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can call me the Judge.\rHeheh, it’s actually not my real name,\nbut that’s what everyone calls me.\rIt’s because of this weird power I\nhave. It’s a gift, really.\rI can discern--judge you can say--the\noverall potential of individual Pokémon.\rIf you’d like, I could judge the\nintriguing potential of your Pokémon.\r</language>
+		<language name="English">Appelle-moi le Juge.\rHé hé, ce n’est pas mon vrai nom, mais\ntout le monde m’appelle comme ça.\rA cause de mon étrange pouvoir. C’est\nde naissance, une sorte de don, quoi.\rJe peux évaluer, juger si on veut, le\npotentiel global de chaque Pokémon.\rSi tu veux, je peux évaluer le potentiel\nde tes Pokémon.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’d like, I could judge the\nintriguing potential of your Pokémon.\r</language>
+		<language name="English">Si tu veux, je peux évaluer le potentiel\nde tes Pokémon.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Oh.\nYou don’t need me to judge. I get it.</language>
+		<language name="English">Oh, tu ne tiens pas à ce que j’évalue\nquoi que ce soit... Je comprends.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Judge an Egg?!\nThat’s a tall order even for me.\r</language>
+		<language name="English">Juger un Oeuf?!\nMême moi, je n’en suis pas capable.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see, I see...\rThis Pokémon’s potential is decent all\naround.\rThat’s my determination, and it’s final.\r</language>
+		<language name="English">Je vois...\rCe Pokémon a un potentiel correct à\ntous points de vue.\rC’est mon verdict, et il est sans appel.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see, I see...\rThis Pokémon’s potential is above\naverage overall.\rThat’s my determination, and it’s final.\r</language>
+		<language name="English">Je vois...\rCe Pokémon a un potentiel supérieur à\nla moyenne.\rC’est mon verdict, et il est sans appel.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see, I see...\rThis Pokémon has relatively superior\npotential overall.\rThat’s my determination, and it’s final.\r</language>
+		<language name="English">Je vois...\rCe Pokémon a un potentiel bien\nsupérieur à la moyenne.\rC’est mon verdict, et il est sans appel.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see, I see...\rThis Pokémon has outstanding potential\noverall.\rThat’s my determination, and it’s final.\r</language>
+		<language name="English">Je vois...\rCe Pokémon a un potentiel exceptionnel.\nC’est mon verdict, et il est sans appel.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Incidentally, I would say the best\npotential lies in its HP.\r</language>
+		<language name="English">J’ajoute que son plus grand atout\nréside dans ses PV.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Incidentally, I would say the best\npotential lies in its Attack stat.\r</language>
+		<language name="English">J’ajoute que son plus grand atout\nréside dans son Attaque.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Incidentally, I would say the best\npotential lies in its Defense stat.\r</language>
+		<language name="English">J’ajoute que son plus grand atout\nréside dans sa Défense.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Incidentally, I would say the best\npotential lies in its Sp. Atk stat.\r</language>
+		<language name="English">J’ajoute que son plus grand atout\nréside dans son Attaque Spéciale.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Incidentally, I would say the best\npotential lies in its Sp. Def stat.\r</language>
+		<language name="English">J’ajoute que son plus grand atout\nréside dans sa Défense Spéciale.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Incidentally, I would say the best\npotential lies in its Speed stat.\r</language>
+		<language name="English">J’ajoute que son plus grand atout\nréside dans sa Vitesse.\r</language>
 	</row>
 	<row id="msg_0096_D31R0201_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s rather decent in that regard.\nThat’s how I judged it.</language>
+		<language name="English">D’après mon évaluation, il est assez\ncorrect à ce niveau-là.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s very good in that regard.\nThat’s how I judged it.</language>
+		<language name="English">D’après mon évaluation, il est très\nbien à ce niveau-là.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s fantastic in that regard.\nThat’s how I judged it.</language>
+		<language name="English">D’après mon évaluation, il est\nfantastique à ce niveau-là.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can’t be better in that regard.\nThat’s how I judged it.</language>
+		<language name="English">D’après mon évaluation, il est au top\nà ce niveau-là.</language>
 	</row>
 	<row id="msg_0096_D31R0201_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Ribbon will be awarded to the\nparticipating Pokémon!</language>
+		<language name="English">Les Pokémon ayant participé gagnent\nun Ruban!</language>
 	</row>
 </body>

@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="msg_0104_D32R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wait for meeee!!\r</language>
+		<language name="English">STOOOOOOOOOOOOOOOOP!!!\r</language>
 	</row>
 	<row id="msg_0104_D32R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh my!\nI fell asleep and ruined my chances\fof being the first to arrive here...\rStupid, stupid me...\nSob...sob...</language>
+		<language name="English">Quelle guigne!\nJ’étais le premier de la file, et juste\fquand je faisais une petite sieste...\rQuel idiot, idiot, je suis idiot...\nSnif, snif, snif...</language>
 	</row>
 	<row id="msg_0104_D32R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stupid, stupid me...\nSob...sob...</language>
+		<language name="English">Quel idiot, idiot, je suis idiot...\nSnif, snif, snif...</language>
 	</row>
 	<row id="msg_0104_D32R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Click, click, click...\nOh! It is you!\rI’ve gotten over being first all\nthe time.\rNow I’m counting the number of people\ncoming to the Battle Frontier.\fOf course no one asked me to.\fIt’s just a hobby.</language>
+		<language name="English">Tic, tic, tic...\nHein? Ah! C’est toi!\rJ’ai arrêté de me morfondre sur\nma première place perdue.\rMaintenant, je compte les visiteurs\nde la Zone de Combat.\fPersonne ne me l’a demandé, j’avais\fjuste envie.</language>
 	</row>
 	<row id="msg_0104_D32R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can’t stop shivering!\rI told my family that I would conquer\nthe Battle Frontier when I left home...\rBut now I’m here, and somehow I\ncan’t stop shivering!\rWhat am I gonna do if I get beaten\nto a pulp?\r</language>
+		<language name="English">Brrr, brrr...\rJ’ai quitté ma famille en leur criant:\n“Je vais conquérir la Zone de Combat!”\rMais depuis que je suis arrivé,\nje n’arrête pas de trembler...\rAh... Qu’est-ce que je vais dire si\nje me fais battre à plate couture...\r</language>
 	</row>
 	<row id="msg_0104_D32R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...You look quite young.\r...\n...\rI will pull myself together and\nchallenge the Battle Frontier...\fMaybe!\r</language>
+		<language name="English">... Tu es très jeune...\r...\n...\r... Allez!\nIl faut que je me reprenne et que\fje tente ma chance!\r</language>
 	</row>
 	<row id="msg_0104_D32R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will pull myself together and\nchallenge the Battle Frontier!\r...\nOr I might not!\r</language>
+		<language name="English">Il faut que je me reprenne et que\nje tente ma chance!\r...\nOu peut-être pas!\r</language>
 	</row>
 	<row id="msg_0104_D32R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Finally!\nI’m here at the Battle Frontier!\rWhen a Pokémon battle on the road\ndoesn’t satisfy you any longer, you\fhave to come to the Battle Frontier!\rWouldn’t you agree?</language>
+		<language name="English">Enfin! La Zone de Combat!\rQuand les rencontres sur la route ne\nte suffisent plus, la seule chose à\ffaire, c’est de mettre le cap\fsur la Zone de Combat!\rPas vrai? Pas vrai?</language>
 	</row>
 	<row id="msg_0104_D32R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Normally, choosing which Pokémon is all\nthere is to a Pokémon battle.\rBut when you change certain rules or\nlimitations, the battle suddenly\fbecomes even more fun.\rAnd this place you can have such fun...\nis called the Battle Frontier!</language>
+		<language name="English">Normalement, dans un combat de\nPokémon, on utilise tout ce\fqu’on a à disposition.\rMais c’est encore plus amusant quand\non change un peu les règles ou qu’on\frajoute des limitations!\rEt il n’y a que dans la Zone de Combat\nque l’on peut faire ça!</language>
 	</row>
 	<row id="msg_0104_D32R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Is the Battle Frontier\rCome, Proud Trainers\nAim for the Top!</language>
+		<language name="English">Bienvenue à la Zone de Combat.\rCourage! Tu vas pouvoir affronter\ndes adversaires de tout le pays!</language>
 	</row>
 </body>

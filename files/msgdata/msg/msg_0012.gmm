@@ -10,11 +10,11 @@
 	</row>
 	<row id="msg_0012_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">cc</language>
+		<language name="English"> ml</language>
 	</row>
 	<row id="msg_0012_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Press the WOBBUFFET pump and pop\nballoons together!</language>
+		<language name="English">Utilisez la pompe QULBUTOKE pour\nfaire éclater des ballons.</language>
 	</row>
 	<row id="msg_0012_00004" index="4">
 		<attribute name="window_context_name">used</attribute>

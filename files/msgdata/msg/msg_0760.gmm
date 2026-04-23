@@ -2,202 +2,202 @@
 <body language="English">
 	<row id="msg_0760_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokédex filling</language>
+		<language name="English">Avoir un Pokédex</language>
 	</row>
 	<row id="msg_0760_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PI</language>
+		<language name="English">Croupier</language>
 	</row>
 	<row id="msg_0760_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Water type</language>
+		<language name="English">Eau</language>
 	</row>
 	<row id="msg_0760_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This &amp; that</language>
+		<language name="English">Un peu de tout</language>
 	</row>
 	<row id="msg_0760_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Want to</language>
+		<language name="English">J’aimerais bien</language>
 	</row>
 	<row id="msg_0760_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Game Corner</language>
+		<language name="English">Casino</language>
 	</row>
 	<row id="msg_0760_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Type</language>
+		<language name="English">Le type</language>
 	</row>
 	<row id="msg_0760_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In a vehicle</language>
+		<language name="English">En chemin</language>
 	</row>
 	<row id="msg_0760_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yelled out loud</language>
+		<language name="English">Râler</language>
 	</row>
 	<row id="msg_0760_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sleep</language>
+		<language name="English">Sommeil</language>
 	</row>
 	<row id="msg_0760_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sleep</language>
+		<language name="English">Sommeil</language>
 	</row>
 	<row id="msg_0760_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poké Ball</language>
+		<language name="English">Les Poké Balls</language>
 	</row>
 	<row id="msg_0760_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In a cave</language>
+		<language name="English">Les grottes</language>
 	</row>
 	<row id="msg_0760_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At night</language>
+		<language name="English">La nuit</language>
 	</row>
 	<row id="msg_0760_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Siblings</language>
+		<language name="English">Frères et sœurs</language>
 	</row>
 	<row id="msg_0760_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rare Candy</language>
+		<language name="English">Super Bonbon</language>
 	</row>
 	<row id="msg_0760_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WOBBUFFET</language>
+		<language name="English">Eclate-Toké</language>
 	</row>
 	<row id="msg_0760_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PP</language>
+		<language name="English">Les PP</language>
 	</row>
 	<row id="msg_0760_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a dilemma</language>
+		<language name="English">Pas toujours</language>
 	</row>
 	<row id="msg_0760_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lemonade</language>
+		<language name="English">Limonade</language>
 	</row>
 	<row id="msg_0760_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choice Scarf</language>
+		<language name="English">Mouch. Choix</language>
 	</row>
 	<row id="msg_0760_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Egg</language>
+		<language name="English">Oeuf de Pokémon</language>
 	</row>
 	<row id="msg_0760_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The prof’s</language>
+		<language name="English">Cadeau du Prof.</language>
 	</row>
 	<row id="msg_0760_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Really funny</language>
+		<language name="English">Sens de l’humour</language>
 	</row>
 	<row id="msg_0760_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Partner</language>
+		<language name="English">Un partenaire</language>
 	</row>
 	<row id="msg_0760_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Play with Pokémon</language>
+		<language name="English">Profiter de la vie</language>
 	</row>
 	<row id="msg_0760_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Out of Potions</language>
+		<language name="English">Manque de Potions</language>
 	</row>
 	<row id="msg_0760_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Road music</language>
+		<language name="English">Thèmes de voyage</language>
 	</row>
 	<row id="msg_0760_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Keep them!</language>
+		<language name="English">Collectionner</language>
 	</row>
 	<row id="msg_0760_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Almost empty</language>
+		<language name="English">Presque vides</language>
 	</row>
 	<row id="msg_0760_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mostly Eggs</language>
+		<language name="English">J’ai plein d’Oeufs</language>
 	</row>
 	<row id="msg_0760_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Usually nothing</language>
+		<language name="English">Rien du tout</language>
 	</row>
 	<row id="msg_0760_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a secret!</language>
+		<language name="English">C’est mon secret</language>
 	</row>
 	<row id="msg_0760_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hidden moves</language>
+		<language name="English">Grâce aux CS</language>
 	</row>
 	<row id="msg_0760_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use items</language>
+		<language name="English">Objets</language>
 	</row>
 	<row id="msg_0760_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nickname</language>
+		<language name="English">Leurs surnoms</language>
 	</row>
 	<row id="msg_0760_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Time played</language>
+		<language name="English">Heures de jeu</language>
 	</row>
 	<row id="msg_0760_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fritter it away</language>
+		<language name="English">Le gaspiller</language>
 	</row>
 	<row id="msg_0760_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A villain</language>
+		<language name="English">Un méchant</language>
 	</row>
 	<row id="msg_0760_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speed stats</language>
+		<language name="English">Sa Vitesse</language>
 	</row>
 	<row id="msg_0760_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Similar name</language>
+		<language name="English">Pas tout à fait</language>
 	</row>
 	<row id="msg_0760_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No nicknames</language>
+		<language name="English">Pas de surnom</language>
 	</row>
 	<row id="msg_0760_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Waterfall</language>
+		<language name="English">Cascade</language>
 	</row>
 	<row id="msg_0760_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Keep going on</language>
+		<language name="English">Ne rien faire</language>
 	</row>
 	<row id="msg_0760_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes, a little</language>
+		<language name="English">Plus ou moins</language>
 	</row>
 	<row id="msg_0760_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strength</language>
+		<language name="English">Force</language>
 	</row>
 	<row id="msg_0760_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a secret!</language>
+		<language name="English">C’est un secret</language>
 	</row>
 	<row id="msg_0760_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tap Toys</language>
+		<language name="English">Son Tape-joujou</language>
 	</row>
 	<row id="msg_0760_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go for the win!</language>
+		<language name="English">La victoire</language>
 	</row>
 	<row id="msg_0760_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Picks up items</language>
+		<language name="English">Ramassant objets</language>
 	</row>
 </body>

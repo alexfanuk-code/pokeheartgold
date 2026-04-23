@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0376_R30R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">People usually come to my house\nlooking for Mr. Pokémon’s house.\fYou did mean to visit my house, right?\rHow kind of you!\nDo you...have any Apricorns?\fApricorn trees bear fruit once a day.\fI have one of those trees, too!\rApricorns are really something.\nYou can make Poké Balls and\fother things.\rThey are quite useful.\rI have a feeling this is meant to be.\nI’m so happy that I’ll give you this!\r</language>
+		<language name="English">La plupart des gens qui viennent ici\nse trompent et cherchent en fait\fM. Pokémon... Mais toi, tu es vraiment\flà pour me parler à moi?\rOh! C’est vraiment très gentil!\rBien! Dis-moi, tu as déjà\ndes Noigrumes?\rLes Noigrumes, ce sont les fruits qui\npoussent sur les Noigrumiers\fune fois par jour.\rJe les cultive!\rC’est bon les Noigrumes!\nOn peut en faire des Poké Balls,\fet plein d’autres trucs!\fBref, c’est très pratique.\fTrès utile, même!\rJe suis tellement content que je\nt’offre ceci!\r</language>
 	</row>
 	<row id="msg_0376_R30R0101_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0376_R30R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With that Apricorn Box, you can carry\nso many Apricorns.\fYou’ll be a decent Apricorn collector!</language>
+		<language name="English">Avec cette Boîte Noigrume, tu pourras\ngarder plein de Noigrumes sur toi!\rLa cueillette n’aura bientôt plus\naucun secret pour toi!</language>
 	</row>
 	<row id="msg_0376_R30R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, collector of Apricorns!\rHave you noticed that Apricorn colors\nare different from tree to tree?\rTry to remember what color Apricorn\nyou get from each tree!</language>
+		<language name="English">Bonjour! Comment va la cueillette?\rSouviens-toi que chaque arbre ne donne\nqu’une seule couleur de Noigrume.\rIl faut se souvenir où se trouvent\nles arbres qui donnent telle ou telle\fcouleur de Noigrume!</language>
 	</row>
 </body>

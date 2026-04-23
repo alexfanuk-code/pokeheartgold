@@ -2,118 +2,118 @@
 <body language="English">
 	<row id="msg_0014_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please take your designated position\nand start the battle.</language>
+		<language name="English">Veuillez vous mettre en position et\ndémarrer le combat.</language>
 	</row>
 	<row id="msg_0014_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please wait a moment...\nPress the B Button to cancel.</language>
+		<language name="English">Veuillez patienter...\nAppuyez sur le bouton B pour annuler.</language>
 	</row>
 	<row id="msg_0014_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s check out {STRVAR_1 3, 0, 0}’s\nTrainer Card...\r...It’s a Normal Card!</language>
+		<language name="English">Voyons la Carte de Dresseur\nde {STRVAR_1 3, 0, 0}...\rUne carte Normale!</language>
 	</row>
 	<row id="msg_0014_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s check out {STRVAR_1 3, 0, 0}’s\nTrainer Card...\r...It’s a Cobalt Card!</language>
+		<language name="English">Voyons la Carte de Dresseur\nde {STRVAR_1 3, 0, 0}...\rUne carte Cobalt!</language>
 	</row>
 	<row id="msg_0014_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s check out {STRVAR_1 3, 0, 0}’s\nTrainer Card...\r...It’s an Olive Card!</language>
+		<language name="English">Voyons la Carte de Dresseur\nde {STRVAR_1 3, 0, 0}...\rUne carte Olive!</language>
 	</row>
 	<row id="msg_0014_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s check out {STRVAR_1 3, 0, 0}’s\nTrainer Card...\r...It’s a Violet Card!</language>
+		<language name="English">Voyons la Carte de Dresseur\nde {STRVAR_1 3, 0, 0}...\rUne carte Violette!</language>
 	</row>
 	<row id="msg_0014_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s check out {STRVAR_1 3, 0, 0}’s\nTrainer Card...\r...It’s a Gray Card!</language>
+		<language name="English">Voyons la Carte de Dresseur\nde {STRVAR_1 3, 0, 0}...\rUne carte Grise!</language>
 	</row>
 	<row id="msg_0014_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s check out {STRVAR_1 3, 0, 0}’s\nTrainer Card...\r...It’s a Black Card!</language>
+		<language name="English">Voyons la Carte de Dresseur\nde {STRVAR_1 3, 0, 0}...\rUne carte Noire!</language>
 	</row>
 	<row id="msg_0014_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0014_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Communication will be ended.\nIs that OK? {YESNO 0}</language>
+		<language name="English">La communication va être arrêtée.\nContinuer? {YESNO 0}</language>
 	</row>
 	<row id="msg_0014_00010" index="10">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0014_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0014_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ending communication.\nPlease wait.</language>
+		<language name="English">Fin de la communication.\nVeuillez patienter...</language>
 	</row>
 	<row id="msg_0014_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please choose the Pokémon to be\nentered.\r</language>
+		<language name="English">Veuillez choisir les Pokémon\ndevant participer.\r</language>
 	</row>
 	<row id="msg_0014_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Waiting for {STRVAR_1 3, 0, 0} to choose.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} doit effectuer son choix.</language>
 	</row>
 	<row id="msg_0014_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The battle has been canceled.</language>
+		<language name="English">Le combat a été annulé.</language>
 	</row>
 	<row id="msg_0014_00016" index="16">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0014_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please select one of your opponent’s\nPokémon.</language>
+		<language name="English">Veuillez choisir un des Pokémon de\nvotre adversaire.</language>
 	</row>
 	<row id="msg_0014_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is {STRVAR_1 0, 1, 0} your choice?</language>
+		<language name="English">Vous choisissez {STRVAR_1 0, 1, 0}?</language>
 	</row>
 	<row id="msg_0014_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please select the three Pokémon\nthat will participate.\r</language>
+		<language name="English">Veuillez choisir les trois Pokémon que\nvous souhaitez inscrire.\r</language>
 	</row>
 	<row id="msg_0014_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In a Mix Battle, you and your\nopponent first choose one of each\fother’s Pokémon.\rThen, you exchange the chosen\nPokémon and battle.\r</language>
+		<language name="English">Dans un Combat Mixte, vous choisissez\nun des Pokémon de votre adversaire et\fil choisit l’un des vôtres.\rEnsuite, vous échangez ces Pokémon et\ncombattez.\r</language>
 	</row>
 	<row id="msg_0014_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0014_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SUMMARY</language>
+		<language name="English">RESUME</language>
 	</row>
 	<row id="msg_0014_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK</language>
+		<language name="English">CONFIRMER</language>
 	</row>
 	<row id="msg_0014_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0014_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s check out {STRVAR_1 3, 0, 0}’s\nTrainer Card...\r...It’s a Diamond Card!</language>
+		<language name="English">Voyons la Carte de Dresseur\nde {STRVAR_1 3, 0, 0}...\rUne carte Diamant!</language>
 	</row>
 	<row id="msg_0014_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s check out {STRVAR_1 3, 0, 0}’s\nTrainer Card...\r...It’s a Pearl Card!</language>
+		<language name="English">Voyons la Carte de Dresseur\nde {STRVAR_1 3, 0, 0}...\rUne carte Perle!</language>
 	</row>
 	<row id="msg_0014_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s check out {STRVAR_1 3, 0, 0}’s\nTrainer Card...\r...It’s a Platinum Card!</language>
+		<language name="English">Voyons la Carte de Dresseur\nde {STRVAR_1 3, 0, 0}...\rUne carte Platine!</language>
 	</row>
 </body>

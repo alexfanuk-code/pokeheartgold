@@ -2,35 +2,35 @@
 <body language="English">
 	<row id="msg_0618_T27R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{SIZE 200}Hey! Hey!{SIZE 100}\r</language>
+		<language name="English">{SIZE 200}Hé! Héééé!!!{SIZE 100}\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stop dancing such a serious dance!\nShow me something like a hula dance!\r</language>
+		<language name="English">Ça suffit ces trucs nouveaux, là!\nJe veux du tamure!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...You mustn’t push such a request\non me.\r</language>
+		<language name="English">Ne pourriez-vous cesser ces\nharassantes exhortations?\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nAre you telling me you don’t respect\fwhat the customer wants?\r</language>
+		<language name="English">Quoi?\rOn veut pas faire plaisir au client?\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, then I’ll show you how to dance.\rI’ll show you a great one.\nWahahaha!\r</language>
+		<language name="English">Il faut te faire un dessin?\nJ’vais te montrer, moi!\rWhoua ha ha!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Who are you?\rYou dare to get in my way?\r</language>
+		<language name="English">Qu’est-ce tu veux?\rT’es là pour me pourrir mon groove?\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no!\nYou make me look like a villain!\r</language>
+		<language name="English">Bon OK, j’suis pas un monstre non plus.\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oops!\nI have an important mission.\rIf they find out I was wasting time\nhere, they’ll make me start over\fas the lowest Team Rocket Grunt!\rI better leave now!\r</language>
+		<language name="English">Ça va pas le faire...\nSi on découvre que je suis là à glander\falors qu’on a un super plan en route...\rJe vais redevenir le Sbire d’un Sbire...\nLa victoire réside dans la fuite parfois!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -38,151 +38,151 @@
 	</row>
 	<row id="msg_0618_T27R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must be {STRVAR_1 3, 0, 0}, correct?\nThat was indeed excellent.\fKind and strong...\fGood at raising Pokémon as well...\rThat person does know what to look for\nin people...\rOhoho! That was just me talking to\nmyself.\fNever mind.</language>
+		<language name="English">Tu t’appelles {STRVAR_1 3, 0, 0}, c’est bien\ncela? Ta victoire fut éclatante!\rLa manière dont tu as élevé tes\nPokémon, avec douceur et fermeté\fà la fois, est exceptionnelle!\rA n’en point douter, tu es...\rOublie ces derniers mots. Ce ne\nsont que mes élucubrations.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For Kimono Girls like me, dancing\nis everything.\rI have never gone a day without\na dance practice.\rPokémon are the same.\rThey grow with you little by little\neach day.</language>
+		<language name="English">Nous répétons chaque jour, sans jamais\nfaillir, notre danse dans la salle de\fspectacle pour ne jamais l’oublier, car\ftel est notre destin.\rIl en va de même avec nos Pokémon.\rChaque jour, sans faillir, nous\nconsacrons un peu de temps à\fleur développement.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome.\nMy name is Zuki.\fI met you previously in Violet City.\rIn order to bring back HO-OH, we\nneeded someone with the right bond\fwith Pokémon.\rWe asked Mr. Pokémon to give this\nMystery Egg to whoever showed\ftrue potential.\rThe Egg was eventually handed from\nMr. Pokémon to Professor Elm, and then\fto you.\rHowever, being pure alone will not be\nsufficient to face the power of\fthis Pokémon.\fI must test you.\rAre you ready? {YESNO 0}</language>
+		<language name="English">Bienvenue à toi.\nJe suis Tamao.\fNos chemins se sont croisés à Mauville.\rPour faire venir jusqu’à nous HO-OH,\nil faut une personne au cœur pur\fcapable de comprendre les Pokémon.\rNous avions demandé à M. Pokémon\nde confier l’Oeuf Mystère à la personne\fqu’il rencontrerait et qui satisferait\fces conditions.\rEt grâce à lui, et par l’intermédiaire\ndu Professeur Orme, te voici\fpropriétaire de cet Oeuf.\rOr...\nLa pureté du cœur ne suffit pas, elle\fsuccombe à la force des Pokémon.\rNous allons ici et maintenant mettre\nà l’épreuve tes talents.\rL’ordalie peut-elle commencer? {YESNO 0}</language>
 	</row>
 	<row id="msg_0618_T27R0501_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome.\nMy name is Zuki.\fI met you previously in Violet City.\rIn order to bring back LUGIA, we\nneeded someone with the right bond\fwith Pokémon.\rWe asked Mr. Pokémon to give this\nMystery Egg to whoever showed\ftrue potential.\rThe Egg was eventually handed from\nMr. Pokémon to Professor Elm, and then\fto you.\rHowever, being pure alone will not be\nsufficient to face the power of\fthis Pokémon.\fI must test you.\rAre you ready? {YESNO 0}</language>
+		<language name="English">Bienvenue à toi.\nJe suis Tamao.\fNos chemins se sont croisés à Mauville.\rPour faire venir jusqu’à nous LUGIA,\nil faut une personne au cœur pur\fcapable de comprendre les Pokémon.\rNous avions demandé à M. Pokémon\nde confier l’Oeuf Mystère à la personne\fqu’il rencontrerait et qui satisferait\fces conditions.\rEt grâce à lui, et par l’intermédiaire\ndu Professeur Orme, te voici\fpropriétaire de cet Oeuf.\rOr...\nLa pureté du cœur ne suffit pas, elle\fsuccombe à la force des Pokémon.\rNous allons ici et maintenant mettre\nà l’épreuve tes talents.\rL’ordalie peut-elle commencer? {YESNO 0}</language>
 	</row>
 	<row id="msg_0618_T27R0501_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will test you to see if you are a good\nPokémon Trainer.\rAre you ready? {YESNO 0}</language>
+		<language name="English">Nous allons ici et maintenant mettre\nà l’épreuve tes talents.\rL’ordalie peut-elle commencer? {YESNO 0}</language>
 	</row>
 	<row id="msg_0618_T27R0501_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That is fine...\nI will wait for you to get ready.</language>
+		<language name="English">Ainsi soit-il.\nNous attendrons ton retour.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite strong.\rYou helped me in the Ilex Forest.\rMy name is Naoko. I’m the one that’s\nnot so good at directions.\rMy eyes witnessed you defeating\nTeam Rocket when Kurt was in trouble\fat the SLOWPOKE Well.\rAllow me to challenge you and your\nPokémon!\r</language>
+		<language name="English">Quelle force tu as là!\rTu m’avais secourue dans le Bois\naux Chênes.\rJe suis Umeko, qui souvent s’égare.\rTu as défait la Team Rocket au Puits\nRAMOLOSS, puis aidé le malheureux\fFargas...\fJe l’ai vu, de mes yeux!\rMaintenant, voyons de quoi tu\nes capable au combat!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite the Trainer.\rI remember you chasing off\nthat Team Rocket Grunt\ffrom right here.\rI must thank you for that.\rAlthough, I am actually a Trainer\nmyself.\rShe who knows the most speaks\nthe least!\fI am Miki--the Kimono Girl!\rAllow me to challenge you and your\nPokémon!\r</language>
+		<language name="English">Impressionnant!\rTu as chassé la malfaisante Team Rocket\nde ces lieux!\fNous t’en remercions encore.\rMAIS! Nous crois-tu frêles et sans\ndéfense? Sache qu’une femme avisée\fne dévoile jamais tous ses talents!\fJe m’appelle Satsuki.\rPermets-moi de juger de tes\ntalents au combat!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excellent fighting spirit!\rYou got me off the ice by pushing me\nfrom the back.\rI am the one who skates in sandals.\fI am Sayo--the Kimono Girl!\rI was listening in the Dragon’s Den\nwhen you passed the test of the Elder.\rAllow me to challenge you and your\nPokémon!\r</language>
+		<language name="English">Quel superbe combat!\rTu m’as délivrée de la glace où j’étais\nprise.\rJe suis Sakura, qui glisse avec grâce\nsur la glace.\rTu as passé avec succès l’épreuve\nde l’Ancien dans l’Antre du Dragon.\fJ’ai tout entendu depuis l’extérieur\fdu temple.\rIl est temps de juger par moi-même\nde ta valeur au combat!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the last one.\rYou were so dependable at the\nGoldenrod Tunnel. I am the one who\ftwirls even underground.\rI am Kuni--the Kimono Girl!\rI looked at you in wonder when you\nthwarted Team Rocket’s mission\fto take over the Radio Tower.\fYou must show your strength to me now.\rAllow me to challenge you and your\nPokémon!\r</language>
+		<language name="English">Je suis la dernière.\rLors de notre rencontre dans le\nDoublon-Tunnel, tu m’as fait\fforte impression...\rJe suis Komomo, qui virevolte même\nsous terre.\rTu as su repousser avec brio les\nmenées diaboliques de la Team Rocket\fà la Tour Radio.\rTu m’as littéralement transportée\npar la grandeur de tes actions.\rCette fois, montre-moi ta force,\nen face!\rPrépare-toi à combattre!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Talk to Zuki in the middle\nwhen you are ready.</language>
+		<language name="English">Lorsque tu auras fini de te préparer,\nparle à notre sœur aînée, Tamao,\fau centre de l’estrade.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We were not wrong about you.\nYou are indeed worthy of this...\rPlease take it.\r</language>
+		<language name="English">Aucune erreur n’est possible!\rTu es digne de posséder cet objet.\rPrends-le!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Big sisters!\rI just saw the big shadow of a Pokémon\nover the Bell Tower!\rIt could be...\r</language>
+		<language name="English">Maîtresses!\rL’ombre d’un gigantesque Pokémon\nplane sur la Tour Carillon!\rSe pourrait-il que...\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Big sisters!\rI just saw the big shadow of a Pokémon\nin the Whirl Islands’ waters!\rIt could be...\r</language>
+		<language name="English">Maîtresses!\rL’ombre d’un gigantesque Pokémon\nplane sur les Tourb’Iles!\rSe pourrait-il que...\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zuki: {STRVAR_1 3, 0, 0}!\nWe’ll be at the Bell Tower.\fSee you there!\r</language>
+		<language name="English">Tamao: Jeune {STRVAR_1 3, 0, 0}!\nNous partons sans plus attendre\fpour la Tour Carillon!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zuki: {STRVAR_1 3, 0, 0}!\nWe’ll be at the Whirl Islands.\fSee you there!\r</language>
+		<language name="English">Tamao: Jeune {STRVAR_1 3, 0, 0}!\nNous partons sans plus attendre\fpour les Tourb’Iles!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s the deal with that Team Rocket\nGrunt, messing with my Kimono Girl?\rYou are a Trainer, aren’t you?\fPlease help her!</language>
+		<language name="English">Il nous fait quoi, le Sbire?\rIl ennuie ma danseuse!\rMais bouge-toi!\nFais quelque chose!\fPorte-lui secours!</language>
 	</row>
 	<row id="msg_0618_T27R0501_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wonderful!\nYou were so courageous for your age!\rIt was a rare sight to see!\nI want you to have this.\fDon’t be shy--take it!\r</language>
+		<language name="English">Incroyable!\rMalgré ton âge, tu as du courage à\nrevendre!\rTiens, pour exprimer ma gratitude,\nje te donne ça!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00027" index="27">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0618_T27R0501_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s Surf.\nIt’s a move that lets Pokémon swim\facross water with ease.\r</language>
+		<language name="English">Grâce à Surf, tu peux avancer\nsur l’eau!\r</language>
 	</row>
 	<row id="msg_0618_T27R0501_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not only are the Kimono Girls great\ndancers, they’re also skilled at\fPokémon.\rBut they battle only for good reasons.\rI don’t know if you could defeat them if\nthey showed what they can do...</language>
+		<language name="English">Les danseuses en kimono ne sont pas\nseulement douées pour les arts,\fmais aussi pour les combats Pokémon!\rMalheureusement, on ne les voit pas\nsouvent se battre...\rEst-ce que tu aurais assez de force\npour les battre si l’occasion\fse présentait?</language>
 	</row>
 	<row id="msg_0618_T27R0501_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PSYDUCK: Dau dau!</language>
+		<language name="English">PSYKOKWAK: Psykooo!</language>
 	</row>
 	<row id="msg_0618_T27R0501_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That man’s always with his PSYDUCK.\rSays he wants a Pokémon that can\nSurf and dance.\rIs he trying to make a Pokémon\nthat stars at synchronized swimming?</language>
+		<language name="English">Ce vieux passe tout son temps avec\nson PSYKOKWAK.\rIl voudrait faire danser des Pokémon\nqui utilisent Surf.\rPeut-être qu’il veut leur faire faire\nde la natation synchronisée...</language>
 	</row>
 	<row id="msg_0618_T27R0501_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... Ouch...!\rThis stomachache!\rI wouldn’t let this guy act like that\nwere it not for this pain...!</language>
+		<language name="English">Oh! Oooooh!\rSi seulement je n’avais pas mal au\nventre, j’apprendrais la politesse à\fce sale type...</language>
 	</row>
 	<row id="msg_0618_T27R0501_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was supposed to be the hero...!\rSo much for getting close to\na Kimono Girl!\n</language>
+		<language name="English">Non!\rC’était ma seule chance de me\nrapprocher d’une danseuse!</language>
 	</row>
 	<row id="msg_0618_T27R0501_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... Ouch...!\rThis back pain!\rI wouldn’t let this guy act like that\nwere it not for this pain...!</language>
+		<language name="English">Oh! Oooooh!\rSi seulement je n’avais pas mal au\ndos, j’apprendrais la politesse à\fce sale type...</language>
 	</row>
 	<row id="msg_0618_T27R0501_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... Ouch...!\rThis toothache!\rI wouldn’t let this guy act like that\nwere it not for this pain...! </language>
+		<language name="English">Oh! Oooooh!\rSi seulement je n’avais pas mal aux\ndents, j’apprendrais la politesse à\fce sale type...</language>
 	</row>
 	<row id="msg_0618_T27R0501_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Kimono Girls are so beautiful...\rBut they have to go through rigorous\ntraining.\rAnd they have to learn to follow\ncustoms before appearing in public.\rBut if you love something, anything\nis possible.</language>
+		<language name="English">Ce que les danseuses en kimono sont\nélégantes!\rMais elles doivent suivre un\nentraînement extrêmement rigoureux\favant de pouvoir se donner en\fspectacle.\rJ’imagine que quand on aime,\non ne compte pas...</language>
 	</row>
 	<row id="msg_0618_T27R0501_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To do such a terrible thing to\na Kimono Girl!\rI don’t understand how young people\nbehave these days.</language>
+		<language name="English">La danseuse!\nJe ne comprends rien à ce qui se passe.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quite the Trainer for your age indeed!</language>
+		<language name="English">Tu te débrouilles bien pour ton âge!</language>
 	</row>
 	<row id="msg_0618_T27R0501_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This desk is used for\ncertain programs...</language>
+		<language name="English">Cette table a l’air d’être utilisée\npour certains numéros...</language>
 	</row>
 	<row id="msg_0618_T27R0501_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for your help the other day.</language>
+		<language name="English">Merci pour ton aide précieuse.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are rehearsing a dance.</language>
+		<language name="English">Nous sommes en pleine répétition!</language>
 	</row>
 	<row id="msg_0618_T27R0501_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for your help the other day.\rYou have beautifully proven that the\nbond between people can be extended to\fthe bond between people and Pokémon...\rWe all appreciate that you have lived up\nto our expectations, {STRVAR_1 3, 0, 0}!\rIf you feel that this experience has\ntaught you anything, the people you\fshould thank are not us, but\fMr. Pokémon and Professor Elm...</language>
+		<language name="English">Merci pour ton aide précieuse.\rLa force du lien qui unit les hommes\nse transmet à celui qui nous unit\faux Pokémon, ainsi que tu nous l’as\fprouvé...\rMerci encore de cette démonstration,\njeune {STRVAR_1 3, 0, 0}.\rSi nous pouvions trouver quelque\nrécompense à t’offrir, nous te la\fferions parvenir par M. Pokémon\fou le Professeur Orme.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are rehearsing a dance.</language>
+		<language name="English">Nous sommes en pleine répétition!</language>
 	</row>
 	<row id="msg_0618_T27R0501_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for your help the other day.</language>
+		<language name="English">Merci pour ton aide précieuse.</language>
 	</row>
 	<row id="msg_0618_T27R0501_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will test how closely you’ve\nbonded with your Pokémon!\r</language>
+		<language name="English">Montre-nous la force du lien\nqui t’unit à ton équipe de\fPokémon!\r</language>
 	</row>
 </body>

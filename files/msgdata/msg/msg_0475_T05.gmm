@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="msg_0475_T05_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s quite some building, eh?\nIt’s Kanto’s Radio Tower.</language>
+		<language name="English">C’est un gros immeuble, hein?\nC’est la Tour Radio de Kanto!</language>
 	</row>
 	<row id="msg_0475_T05_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kanto has many good radio shows.</language>
+		<language name="English">Il y a aussi beaucoup d’émissions\nintéressantes à Kanto!</language>
 	</row>
 	<row id="msg_0475_T05_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">People come from all over to pay their\nrespects to the spirits of Pokémon.</language>
+		<language name="English">Les gens viennent de loin pour se\nrecueillir sur les tombes.</language>
 	</row>
 	<row id="msg_0475_T05_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You need a Poké Flute to wake\nsleeping Pokémon.\fEvery Trainer has to know that!</language>
+		<language name="English">Il faut une Pokéflûte pour réveiller\nun Pokémon endormi.\fTout le monde sait ça, voyons!</language>
 	</row>
 	<row id="msg_0475_T05_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lavender Town\nThe Noble Town</language>
+		<language name="English">Lavanville\nUne ville noble et fière</language>
 	</row>
 	<row id="msg_0475_T05_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kanto Radio Station\nYour Best-Loved Shows On-Air\fAround the Clock!</language>
+		<language name="English">Tour Radio de Kanto\nVos émissions favorites!</language>
 	</row>
 	<row id="msg_0475_T05_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lavender Volunteer\nPokémon House</language>
+		<language name="English">Bénévolat de Lavanville</language>
 	</row>
 	<row id="msg_0475_T05_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">House of Memories\nMay Pokémon Spirits Rest Easy</language>
+		<language name="English">Maison des Souvenirs\nLà où les Pokémon dorment à jamais</language>
 	</row>
 </body>

@@ -2,214 +2,214 @@
 <body language="English">
 	<row id="msg_0139_D49R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Young Pokéathlete!\nHello!\r...\rRunning out of energy?\nHello, again!\rGood!\nMy name is Maximo!\rI am the Pokéathlon MC!\nNice to meet you!\rI’ll be there for you when you\nneed to know anything about\fthe Pokéathlon.\r</language>
+		<language name="English">Allez, mon petit Poké Athlète,\nensemble: BON-JOUR!\r...\rEh alors! J’ai rien entendu!\nEncore une fois: BON-JOUR!!!\rParfait!\rMon nom à moi, c’est Pollux!\nJe suis celui qui supervise\fla compétition.\fFais-moi confiance!\rS’il y a quoi que ce soit que tu ne\ncomprends pas dans la compétition,\fdemande!\fJe t’apprendrai tout de A à Z!\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Maximo: Hello!\rI’ll be there for you when you\nneed to know anything about\fthe Pokéathlon.\r</language>
+		<language name="English">Pollux: BON-JOUR!!!\rCompte sur moi pour tout t’apprendre\nsur la compétition de A à Z!\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you have any questions? {YESNO 0}</language>
+		<language name="English">Tu as une question à poser? {YESNO 0}</language>
 	</row>
 	<row id="msg_0139_D49R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which course do you want to\nknow about? {YESNO 0}</language>
+		<language name="English">Quelle épreuve de quel parcours? {YESNO 0}</language>
 	</row>
 	<row id="msg_0139_D49R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which event do you want to\nknow about? {YESNO 0}</language>
+		<language name="English">De quelle épreuve veux-tu\nque je te parle? {YESNO 0}</language>
 	</row>
 	<row id="msg_0139_D49R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me explain the Pokéathlon!\rIt’s the connection between Pokémon\nand Pokéathletes.\rIt is friendship itself!\n...What?\rYou don’t get it?\nOK. I won’t be as brief this time.\rYou are to form a team of three\nPokémon to compete in ten\fdifferent events!\rThe friendship between Pokémon and\nPokéathletes is tested!\rThat is what we call friendship!\nDo you understand what I mean?\r</language>
+		<language name="English">Que mon explication commence!\rLe Pokéathlon, c’est l’incarnation même\nde l’amitié entre Pokémon et humains!\r... Quoi?\nÇa n’explique rien du tout? Bah... Si tu\fveux que je rentre dans les détails...\rTu fais une équipe de 3 Pokémon et tu\nte bats pour défendre tes couleurs\fdans les 10 épreuves proposées!\rVainquez les obstacles!\nMettez votre amitié à l’épreuve!\rTu comprends?\nC’est l’amitié à l’état pur!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain “Hurdle Dash” for you.\nIt is an event to test your speed.\rYour Pokémon needs to jump\nwhen the Hurdle comes near.\rIf it jumps at the right time,\nit will go over the Hurdle!\rThe total time of the three Pokémon\ngives you the event score.\rThis is an event for speedy Pokémon\nthat move quickly like me!\rDo you understand what I mean?\rOK, do you have any more questions?\r</language>
+		<language name="English">Alors je vais t’expliquer de quoi\nretourne Cours’Obstacles!\rC’est une épreuve qui teste avant tout\nla vitesse.\rTu dois faire sauter tes Pokémon\nlorsqu’ils arrivent sur les obstacles.\rAvec un bon timing, ils les sauteront\nsans difficulté!\rTu gagnes des points grâce au total\ndes temps de tes 3 Pokémon.\rLes Pokémon qui sont aussi rapides que\nmoi sont avantagés dans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain “Pennant Capture”\nfor you.\rYour Pokémon grab Pennants on\nthe beach.\rGrabbing Pennants doesn’t add to\nyour score.\rYou have to come back with\nthe Pennants.\rThis is an event for speedy and skillful\nPokémon that move like I do!\rDo you understand what I mean?\rOK, do you have any more questions?\r</language>
+		<language name="English">Alors je vais t’expliquer de quoi\nretourne Capture Drapeau!\rÇa consiste à courir sur la plage en\nrécoltant autant de drapeaux que\fpossible, en les volant si besoin est!\rMais il ne suffit pas de les prendre!\rCe n’est qu’en les ramenant à la ligne\nde départ que tu gagnes des points!\rLes Pokémon rapides et habiles comme\nmoi sont avantagés dans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain “Circle Push” for you.\nYour Pokémon push others to try\fand stay in a Circle.\rYou will get points as long as your\nPokémon stay in a Circle.\rThe total time of the three Pokémon\ngives your score.\rThis is an event for powerful Pokémon\nwith stamina that are strong like me!\rDo you understand what I mean?\rOK, do you have any more questions?\r</language>
+		<language name="English">Alors je vais t’expliquer de quoi\nretourne l’épreuve Cercle Musical!\rÇa consiste à pousser tes adversaires\npour te faire une place!\rSi tu restes dans les cercles projetés\nsur le ring, tu gagnes des points!\rTon score final est fonction des totaux\naccumulés par tes 3 Pokémon!\rLes Pokémon forts et musclés comme moi\nsont avantagés dans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain “Block Smash” for you.\nYou smash Blocks as the name suggests.\rThe number of Blocks you smash\nwill be the score you’ll get.\rIt’s so simple, isn’t it?\rThis is an event for powerful Pokémon\nthat are strong like me!\rDo you understand what I mean?\rOK, do you have any more questions?\r</language>
+		<language name="English">Alors je vais t’expliquer de quoi\nretourne l’épreuve Casse Roc!\rComme son nom l’indique, ça consiste\nà briser des cailloux!\rChaque nouveau roc que tu casses te\nrapporte davantage de points, c’est\ftrès facile à comprendre!\rLes Pokémon très très forts, comme moi,\nsont avantagés dans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain “Disc Catch” for you.\nYour Pokémon jump and catch\fDiscs that come flying toward them.\rThe longer you wait before they catch\nthe Discs, the more points you get.\fThe total points will decide the score.\rThis is an event for powerful and jumpy\nPokémon that move like me!\rDo you understand what I mean?\nOK, do you have any other questions?\r</language>
+		<language name="English">Alors je vais t’expliquer de quoi\nretourne Attrap’Disques!\rCette épreuve consiste à sauter\npour attraper les disques qui volent!\rPlus tu les attrapes loin, plus ils\nrapportent de points!\rTon score final est calculé en ajoutant\nles points accumulés par tes 3 Pokémon!\rLes Pokémon très musclés et bons en\nsaut, comme moi, sont avantagés\fdans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain “Lamp Jump” for you.\nYour Pokémon bounce to jump high\fand touch as many Lamps as they can.\rThe more Lamps they touch, the more\npoints you get.\rThe total points will decide the score.\rThis is an event for jumpy Pokémon\nthat are jumpy like me!\rDo you understand what I mean?\rOK, do you have any more questions?\r</language>
+		<language name="English">Alors je vais t’expliquer de quoi\nretourne l’épreuve Saute-Lumière!\rÇa consiste à sauter sur un trampoline\npour toucher le maximum de\fboules lumineuses!\rPlus tu en touches, plus tu gagnes de\npoints!\rLes Pokémon qui sautent aussi bien que\nmoi sont avantagés dans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain “Relay Run” for you.\nYour Pokémon run in turns as far as\fthey can in 90 seconds.\rThe distance of the Relay will decide\nthe score.\rThis is an event for speedy Pokémon\nwith stamina... Ones just like me!\rDo you understand what I mean?\rOK, do you have any more questions?\r</language>
+		<language name="English">Alors je vais t’expliquer de quoi\nretourne Course de Relais!\rÇa consiste à faire courir tes Pokémon\nà tour de rôle pendant une durée\ftotale de 90 secondes,\fpuis de mesurer la distance parcourue.\rEt cette distance détermine le nombre\nde points reçus.\rLes Pokémon qui sont aussi rapides que\nrésistants, comme moi, sont avantagés\fdans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain “Ring Drop” for you.\nYour Pokémon try to knock other\fPokémon out of the Ring.\rA tackle gives you one point.\nA stomp on another Pokémon\fgives you two points.\rIf your Pokémon knock another Pokémon\noff the Ring, making them drop, you get\ften points.\rThis is an event for Pokémon with\nstamina just like I have!\rDo you understand what I mean?\nOK, do you have any more questions?\r</language>
+		<language name="English">Alors je vais t’expliquer de quoi\nretourne Combat Ring-Out\rCette épreuve consiste à repousser\nles Pokémon adverses hors du ring!\rTu gagnes un point si tu tacles, et\n2 si tu les écrases en sautant!\rSi tu les fais tomber hors du ring, tu\ngagnes 10 points!\rLes Pokémon qui sont aussi endurants\nque moi sont avantagés\fdans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain “Snow Throw” for you.\nSnow Throw may not ring a bell but...\fhow about a Snowball fight?\rThe more your Pokémon hit other\nPokémon with Snow, the higher the\fscore will be.\rThis is an event for powerful and\nskillful Pokémon... Ones just like me!\rDo you understand what I mean?\rOK, do you have any more questions?\r</language>
+		<language name="English">Alors je vais t’expliquer de quoi\nretourne Bataille Neige!\rComme son nom l’indique, ça consiste à\ns’envoyer des boules de neige\fà la figure!\rPlus tu as touché d’adversaires, plus\ntu gagnes de points!\rLes Pokémon qui sont aussi forts\nqu’habiles, comme moi, sont\favantagés dans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain “Goal Roll” for you.\nYour Pokémon try to roll the ball into\fthe Goals of the other Pokémon teams.\rMost balls will give you one point.\rGold-colored balls will give you\ntwo points.\rThe number of points will decide\nyour rank, and that decides the score.\rThis is an event for powerful and\nskillful Pokémon... Ones just like me!\rDo you understand what I mean?\rOK, do you have any more questions?\r</language>
+		<language name="English">Alors je vais t’expliquer de quoi\nretourne Balle au But!\rComme son nom l’indique, ça consiste à\nenvoyer des balles dans des buts!\rTu gagnes un point par but marqué chez\nl’adversaire, et deux si c’est\favec la balle dorée!\rLe total est décidé en fonction des\npoints marqués par l’équipe!\rLes Pokémon qui sont aussi balèzes\nqu’habiles, comme moi, sont\favantagés dans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Young Pokéathlete!\rDon’t forget to do your Pokéathlon\nstretches before exercise!</language>
+		<language name="English">Parfait, Poké Athlète en herbe!\rEt n’oublie pas de t’échauffer avant\nla compétition!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Me? Are you interested in me?\nHahaha!\fOh, don’t be shy.\rSome people call me the “big brother”!\rBut really, the big brother is...\n...\f...\fmy twin brother!\rThe “big brother,” as they say, is\nreally the younger brother.\rSo this “big brother” has a\nbigger brother...\rDo you get what I mean?\r</language>
+		<language name="English">Moi?\nAh bon, je t’intéresse?\rHa! Ha! Ha!\nTu n’as pas à avoir honte,\fc’est naturel!\rAlors, que dire sur moi...\n...\f...\fJ’ai un frère jumeau!\rJe suis le plus jeune des deux, donc mon\ngrand frère est le plus âgé!\rComment ça, ça n’a aucun intérêt?\nBon, passons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RATTATA: Ratta.</language>
+		<language name="English">RATTATA: Rataaa!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RATTATA: Grrrr.</language>
+		<language name="English">RATTATA: Tatataaa!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MACHOP: Awwwrr...</language>
+		<language name="English">MACHOC: Maaacho!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MACHOP: Yahhh!</language>
+		<language name="English">MACHOC: Choc-choc!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUTTERFREE: Fluttah fluttah...</language>
+		<language name="English">PAPILUSION: Papipapi...</language>
 	</row>
 	<row id="msg_0139_D49R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUTTERFREE: Bing bing!</language>
+		<language name="English">PAPILUSION: Pilupilu...</language>
 	</row>
 	<row id="msg_0139_D49R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokéathlon is all about scores.\rNo one knows who’s going to win\nuntil the last moment!</language>
+		<language name="English">Le vainqueur est désigné par le total\ndes points qu’il a gagnés!\rUn retournement de situation reste\npossible jusqu’au bout, quel suspense!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokéathlete {STRVAR_1 3, 0, 0} is\nalways splendid!\rI can’t take my eyes off\nthat Pokéathlete!\r...\nWait... Wow! Is that really you?</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a une façon de bouger\ntellement précise et élégante, je ne\fpeux jamais regarder personne d’autre!\r...\nWah! {STRVAR_1 3, 0, 0}! En vrai!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aprijuice for victory!\rYour Pokémon can show their\ntrue Performance potential!</language>
+		<language name="English">Un Noigrume Drink avant chaque\népreuve!\rVoilà comment obtenir les meilleures\nperformances de ses Pokémon!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aprijuice for victory!\rWhat drink do you use,\nPokéathlete {STRVAR_1 3, 0, 0}?\rI’ll buy what you buy!\fI’m a big fan!</language>
+		<language name="English">Un Noigrume Drink avant chaque\népreuve!\rQuel Drink préférez-vous,\n{STRVAR_1 3, 0, 0}?\rSi ça se trouve à la boutique, je\nn’achèterai plus que celui-là.\fJe suis votre plus grande fan!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Er... I...I will try to win at every\ncourse with MAGIKARP!</language>
+		<language name="English">M-m-moi, je... Je vais remporter tous\nles parcours avec mon MAGICARPE!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokéathlete {STRVAR_1 3, 0, 0}!\rEr... How...how can I win at every\ncourse with MAGIKARP?</language>
+		<language name="English">{STRVAR_1 3, 0, 0}!\rJ-j-je veux remporter tous les\nparcours avec mon MAGICARPE...\rQu’est-ce que...\rQu’est-ce que je peux faire pour\nle faire gagner?</language>
 	</row>
 	<row id="msg_0139_D49R0102_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will break my personal record\nat Hurdle Dash!\rOK, which Pokémon should\nI choose...?</language>
+		<language name="English">Je vais battre tous les records\nà Cours’Obstacles!\rAlors, quels Pokémon utiliser pour ça...</language>
 	</row>
 	<row id="msg_0139_D49R0102_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Y-y-you’re Pokéathlete {STRVAR_1 3, 0, 0}!\rI have no clue how I could possibly\nreach where you are!\fYou are the Pokéathlon itself!</language>
+		<language name="English">Wah!! Quelle surprise!\n{STRVAR_1 3, 0, 0}! En vrai!\rJe n’arrive pas à former une équipe\nayant la moindre chance contre vous!\fVous êtes l’incarnation même de\fl’esprit du Pokéathlon!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nThat guy over there is Magnus,\fthe Pokéathlon owner!\rI heard he once beat a MACHAMP at\narm wrestling. Could it be true?</language>
+		<language name="English">Ooooh!\nRegarde, là-bas!\fC’est Alcide, le directeur du stade!\rOn dit qu’il a battu un MACKOGNEUR au\nbras de fer... Tu crois que c’est vrai?</language>
 	</row>
 	<row id="msg_0139_D49R0102_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yikes!\nPokéathlete {STRVAR_1 3, 0, 0}!\rI am a huge fan of yours!\nOh my...what should I do?\fCan you give me an autograph?</language>
+		<language name="English">Waaaah!\n{STRVAR_1 3, 0, 0}!!\rJe suis votre plus grand fan!\nQuelle joie de vous rencontrer!\fQu’est-ce que je...\fUn autographe! S’il vous plaît!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arrgh!</language>
+		<language name="English">Waaah!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arrgh!\nPokéathlete {STRVAR_1 3, 0, 0}!\rYou make me feel young again!\fI’ll root for you!</language>
+		<language name="English">Waaah!\nC’est {STRVAR_1 3, 0, 0}!\rQuand je vous vois, j’ai l’impression de\nretrouver ma jeunesse!\fJe vais vous encourager, moi!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeek!!</language>
+		<language name="English">Hiiiiiiiiii!!!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh my!\nIt’s Pokéathlete {STRVAR_1 3, 0, 0}!\rYou look just like my son.\fI’m rooting for you.</language>
+		<language name="English">Hihihihi, c’est {STRVAR_1 3, 0, 0}!\rQuand on vous voit de près, vous\nêtes le portrait craché de mon fils...!\fJe vais continuer à vous encourager!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh my!\nIt’s Pokéathlete {STRVAR_1 3, 0, 0}!\rYou look just like my daughter.\fI’m rooting for you.</language>
+		<language name="English">Hihihihi, c’est {STRVAR_1 3, 0, 0}!\rQuand on vous voit de près, vous\nêtes le portrait craché de ma fille...!\fJe vais continuer à vous encourager!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My boyfriend’s a Pokéathlete.\rBut he’s so shy about it that I root\nfor him behind a column so he won’t\fspot me!</language>
+		<language name="English">Mon copain, c’est un Poké Athlète!\nMais, tu sais, c’est un grand timide...\rAlors je me cache derrière un pilier\npour l’encourager discrètement!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t you think he’s so cool dripping\nsweat just like his Pokémon?\rNot that he even compares to the great\nPokéathlete {STRVAR_1 3, 0, 0}, though.</language>
+		<language name="English">La sueur que mon copain répand avec\nses Pokémon... Hmmm...\fTu ne trouves pas ça émouvant?\rAh, mais ne crains rien! Toi, tu\nes encore plus magnifique que lui!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Participate in the Pokéathlon to\nreduce stress.\fThat’s the way to go!</language>
+		<language name="English">Libérer son stress au Pokéathlon,\nc’est très sain!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t you dare underestimate your mom.\nThe look on her face when she was\fselling things at a bargain...\rIt still gives me shivers!\r</language>
+		<language name="English">Ne dis pas ça!\nQuand ta mère s’investit dans quelque\fchose, rien ne l’arrête!\rSi tu voyais son expression quand elle\nva aux magasins faire les soldes...\r... Brrr, j’ai peur rien que d’y penser.\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Every father longs to be a hero to\ntheir son.\rThe Pokéathlon...\nDo I want to take it up?\rJust you wait and see, Son!</language>
+		<language name="English">J’aimerais être un modèle pour\nmon fils.\rJe pense que tous les parents du monde\nveulent la même chose...\r... Et si je me mettais\nau Pokéathlon...?\rFiston! Tu vas voir ce que tu\nvas voir!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ahh... My son!\nI’m so sad to hear that.\rLet me hear you say you want to be\nlike your dad...\r</language>
+		<language name="English">Fiston...\nTu me fais de la peine...\rTu pourrais au moins dire que tu veux\ndevenir comme ton paternel...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My mom will finally participate.\rI was starting to worry because she\nnever exercises.\r</language>
+		<language name="English">Maman participe...\rPourtant, elle ne fait jamais le moindre\neffort, j’ai pas trop confiance...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll grow up to be a great\nPokéathlete like you, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Moi, quand je serai grand, je veux être\nun Poké Athlète super fort,\fcomme toi, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m cheering for you!</language>
+		<language name="English">J’encourage!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you Pokéathlete {STRVAR_1 3, 0, 0}?\rFor real?\nI can’t believe it!\n</language>
+		<language name="English">Ha?! Haaaaaaaaaa!!!\nC’est {STRVAR_1 3, 0, 0}!!!\rEn vrai!\nEn vrai de vrai!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m watching intently!</language>
+		<language name="English">Je regarde!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you Pokéathlete {STRVAR_1 3, 0, 0}?\rTap... Tap... Tap...\rI can’t believe it! I touched my hero!</language>
+		<language name="English">Ha?! Haaaaaaaaaa!!!\nC’est {STRVAR_1 3, 0, 0}!!!\rJ’ai pu toucher {STRVAR_1 3, 0, 0}!\nJ’ai la tête qui tourne!</language>
 	</row>
 	<row id="msg_0139_D49R0102_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I didn’t expect so many rather old\nladies like me participating.\fMaybe I can join them.\rIt may be a chance to get close to\nmy hero--Pokéathlete Jet!\fHahaha!</language>
+		<language name="English">Je ne pensais pas voir autant de femmes\nde mon âge...\fEt si je participais, moi aussi?\rJ’aimerais m’approcher de Lenny,\nle Poké Athlète que j’admire le plus au\fmonde... Hahaha, je dis n’importe quoi.</language>
 	</row>
 	<row id="msg_0139_D49R0102_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeek!!\rPokéathlete {STRVAR_1 3, 0, 0}!\nEvery time you are in the game,\fmy daughters’ eyes stay wide open!\rCould I ask for an autograph?\f...No no!\rNot for me. It’s for my daughters.\nHa ha!</language>
+		<language name="English">Ooooooh!!! {STRVAR_1 3, 0, 0}!\rSi tu voyais le regard de mes jumelles\nquand tu apparais sur le terrain...\fPourrais-je avoir un autographe?\rOh! Mais non, voyons, c’est pour elles,\npas pour moi! Hohoho!</language>
 	</row>
 </body>

@@ -2,58 +2,58 @@
 <body language="English">
 	<row id="msg_0700_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dana</language>
+		<language name="English">Rekka</language>
 	</row>
 	<row id="msg_0700_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re really good with Pokémon!\rBoys give me items after battles, but\nsometimes they give me too much.\rNext time, I can share some if you\nwant. Let me get your\fphone number. {YESNO 0}</language>
+		<language name="English">Que tu assures en Pokémon!\r... Les garçons ont tendance à m’offrir\nplein de trucs après un combat, mais ça\fcommence à faire beaucoup.\fJ’essaierai de t’en mettre un peu\fde côté.\rLaisse-moi ton numéro! {YESNO 0}</language>
 	</row>
 	<row id="msg_0700_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next time a boy gives me something after\na battle, I’ll share with you!\rDoes that make me sound ungrateful?</language>
+		<language name="English">La prochaine chose qu’un garçon\nm’offre est pour toi!\rJe suis vilaine, hein?</language>
 	</row>
 	<row id="msg_0700_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww, you don’t want anything?\nBut it’s all for free...</language>
+		<language name="English">Ah, il y a quelque chose qui te dérange?\nPourtant, j’étais prête à partager...</language>
 	</row>
 	<row id="msg_0700_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll share my gifts with you.\rLet me get your phone number.{YESNO 0}</language>
+		<language name="English">J’aurai quelque chose pour toi...\rTu me laisses ton numéro? {YESNO 0}</language>
 	</row>
 	<row id="msg_0700_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! Are you here for your gift?\rThis should really make your day!\r</language>
+		<language name="English">Tu es là pour ta récompense?\rOh oui! C’est un tel plaisir de te\nl’offrir! Tiens!\r</language>
 	</row>
 	<row id="msg_0700_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, tell me, don’t you think that the\nsight of a girl on the phone is charming?\rIt’s not?\rHa ha ha, you’re nearby, aren’t you?\nWhy not come over here and talk in\fperson?</language>
+		<language name="English">Tu ne trouves pas qu’une fille au\ntéléphone, c’est très séduisant?\rNon?\rAlors dans ce cas, viens me voir\npuisque tu es à côté...</language>
 	</row>
 	<row id="msg_0700_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} is getting prettier!\nI’ve been taking tons of pictures!\rIt took only a second to defeat a wild\n{STRVAR_1 0, 11, 0}.\r...Probably because you gave me some\nbattling tips last time!\rLater!</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0} est devenu très\nmignon ces temps-ci...\fJe n’arrête pas de le photographier!\rEcoute un peu! Tu ne vas pas me croire!\nJ’ai battu un {STRVAR_1 0, 11, 0}\fen une seconde!\rC’est peut-être grâce à tes conseils\navisés...\rA plus!</language>
 	</row>
 	<row id="msg_0700_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} is getting prettier!\nI’ve been taking tons of pictures!\rYou know what? A wild {STRVAR_1 0, 11, 0}\ngot away from me again.\rIt was so close!\nReally, just a little bit more, and I\fwould’ve...\rLater!</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0} est devenu très\nmignon ces temps-ci...\fJe n’arrête pas de le photographier!\rAu fait, l’autre jour, j’ai encore laissé\nfiler un {STRVAR_1 0, 11, 0}!\fMais quel dommaaaage!\fÇa s’est joué à un cheveu!\rA plus!</language>
 	</row>
 	<row id="msg_0700_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right now, I’m on {STRVAR_1 4, 3, 0}.\rIf you’re close by, let’s battle!\nI’ll be waiting for you!</language>
+		<language name="English">Là, je suis sur la {STRVAR_1 4, 3, 0}.\rSi tu repasses dans le coin, viens\nme voir! On pourrait se faire un\fbon combat ensemble...</language>
 	</row>
 	<row id="msg_0700_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! You haven’t forgotten about your\npromise to battle me, have you?\rI’m waiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Tu n’oserais pas me poser un lapin\nquand même?\rJe t’attends sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0700_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You wanted a gift, right?\nI got one, but I want to keep this.\rCan you wait a bit longer?</language>
+		<language name="English">Un cadeau?\nOui, j’en ai reçu un, mais j’aimerais\fbien l’utiliser...\rEncore un peu de patience!</language>
 	</row>
 	<row id="msg_0700_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know what? I got a good gift!\nAs I promised, it’s yours!\rI’m sure you’ll like it. Come and pick it\nup! I’m waiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">J’ai reçu un truc fantastique!\nChose promise, chose due.\rJ’ai hâte que tu viennes le prendre!\nViens donc sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0700_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\rIf you don’t come and get your present\nsoon, I’ll give it to someone else.\rI’m waiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Allôôôô?\rViens vite chercher ta surprise, sinon\nc’est quelqu’un d’autre qui en\fprofitera!\rJe suis sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 </body>

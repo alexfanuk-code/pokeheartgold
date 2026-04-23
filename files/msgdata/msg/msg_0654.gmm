@@ -6,58 +6,58 @@
 	</row>
 	<row id="msg_0654_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? I can’t hear you very well...\nWe must have a bad connection...\rTry calling me again from a different\nlocation, please.</language>
+		<language name="English">Ah? La réception n’est pas très\nbonne... Je t’entends mal...\rTu ne pourrais pas essayer de me\nrappeler d’un autre endroit?</language>
 	</row>
 	<row id="msg_0654_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello... How are you?\nI’m doing well, thanks.\r</language>
+		<language name="English">Allô? Oui, tu vas bien?\nDe mon côté, tout va très bien!\r</language>
 	</row>
 	<row id="msg_0654_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are so many other Trainers out\nthere who are much stronger than me...\fYou should challenge them and see.</language>
+		<language name="English">Il te reste encore de nombreux et\npuissants Champions à affronter.\fTu y arriveras... je pense...</language>
 	</row>
 	<row id="msg_0654_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s see...\nI’m usually free on Wednesdays\faround noon. I could spare some time...\rWhy don’t you call me again then...</language>
+		<language name="English">C’est-à-dire que...\nJe devrais pouvoir me libérer le\fmercredi en journée.\rSi tu pouvais me rappeler\nà ce moment-là...</language>
 	</row>
 	<row id="msg_0654_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Amphy’s gotten better lately. I’ve also\nbeen able to take some time to myself.\rWhat do you think? Would you like to\nbattle me again? {YESNO 0}</language>
+		<language name="English">Phary a bien récupéré!\nEt je peux prendre du temps pour moi.\rTu voudrais refaire un combat\nPokémon contre moi? {YESNO 0}</language>
 	</row>
 	<row id="msg_0654_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Got it...\nWell, I’ll see you in Saffron City at the\fFighting Dojo, OK?</language>
+		<language name="English">C’est noté.\nAu Dojo, à Safrania. J’y serai!</language>
 	</row>
 	<row id="msg_0654_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...</language>
+		<language name="English">... Ah, bon...</language>
 	</row>
 	<row id="msg_0654_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\rBefore you battle me again, don’t you\nhave other appointments to keep?</language>
+		<language name="English">Mais...?\rTu n’as pas d’autres personnes à\nrencontrer avant moi?</language>
 	</row>
 	<row id="msg_0654_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Got it. I’ll be waiting at the Fighting\nDojo in Saffron City.\fI’ll see you there.</language>
+		<language name="English">C’est noté.\nAu Dojo, à Safrania. J’y serai!\fN’y va pas trop fort cette fois!</language>
 	</row>
 	<row id="msg_0654_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Jasmine.\nHow do I sound? Healthy?\r</language>
+		<language name="English">C’est Jasmine.\nTu as l’air en forme, dis-moi!\r</language>
 	</row>
 	<row id="msg_0654_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You didn’t forget about your promise to\nmeet me for a battle, did you?\rI’m still waiting for you at the Fighting\nDojo in Saffron City...</language>
+		<language name="English">Je me demandais, si, des fois...\ntu ne m’avais pas oubliée...\rEn fait, je t’attends toujours au Dojo\nà Safrania...</language>
 	</row>
 	<row id="msg_0654_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you been to the Lighthouse lately?\rI’ve been so busy myself. I haven’t\nbeen able to get over there to see\fAmphy much...\rBut...whenever I see the Lighthouse’s\nlights at night, I always think,\f“I hope you’re doing well, Amphy.”</language>
+		<language name="English">As-tu pu repasser au Phare d’Oliville?\rHélas, je suis assez occupée, et je\nn’ai pas revu Phary depuis quelque\ftemps déjà...\rMais quand je vois le phare briller de\ntous ses feux la nuit, je me dis que\fPhary est en pleine forme...</language>
 	</row>
 	<row id="msg_0654_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um...\nThere’s something I’ve been meaning to\fask you... What did you think of my Gym?\fWas the atmosphere a little strange?\rBut...I mean, steel always looks\npretty cold and uninviting, but I was\ftrying to make it at least a little cute.</language>
+		<language name="English">Euh...\nJ’aimerais te poser une question,\fmais... comment dire...\fComment as-tu trouvé mon Arène?\fL’atmosphère ne t’a pas paru étrange?\rL’acier est assez froid, et je voulais\nessayer d’adoucir ce côté, mais...</language>
 	</row>
 	<row id="msg_0654_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Warden Baoba at the Safari Zone...\nHe came over to my Gym once to\fintroduce himself...\rHe talks a little differently, doesn’t\nhe? I heard it’s called anastrophe...</language>
+		<language name="English">M. Baoba du Parc Safari est passé\nme dire bonjour à l’Arène!\rIl a une étrange façon de parler...\rAh! Mais c’est peut-être normal dans\nsa région d’origine...</language>
 	</row>
 </body>

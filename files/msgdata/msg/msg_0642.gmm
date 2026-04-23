@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="msg_0642_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bike Shop</language>
+		<language name="English">Bicyclette</language>
 	</row>
 	<row id="msg_0642_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}...is that you?\rYou’re something else, aren’t you?</language>
+		<language name="English">{STRVAR_1 3, 0, 0}?\rT’es un p’tit rigolo, toi!</language>
 	</row>
 	<row id="msg_0642_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}...is that you?\rYou’re something else, aren’t you?</language>
+		<language name="English">{STRVAR_1 3, 0, 0}?\rT’es une petite rigolote, toi!</language>
 	</row>
 	<row id="msg_0642_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, hey, this is the Bike Shop! I’ve\nbeen selling a lot of Bikes lately!\rIt’s because you’ve been riding around\non that Bike advertising for me!\rI was wondering how best to thank you,\nand I thought I’d just give you\fthat Bicycle you’re riding around.\rIt’s yours! Thanks so much!</language>
+		<language name="English">C’est Cycles à Gogo!\nNos ventes de Bicyclettes ont explosé!\rTout ça grâce à la pub que tu as faite.\rEn gage de remerciement, garde\nla Bicyclette!\rEncore merci!</language>
 	</row>
 </body>

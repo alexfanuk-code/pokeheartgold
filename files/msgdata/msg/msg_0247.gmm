@@ -2,226 +2,226 @@
 <body language="English">
 	<row id="msg_0247_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to Mystery Gift!</language>
+		<language name="English">Bienvenue au Cadeau Mystère!</language>
 	</row>
 	<row id="msg_0247_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please choose how you want to\nreceive your gift.</language>
+		<language name="English">Veuillez choisir le mode de réception de\nvotre cadeau.</language>
 	</row>
 	<row id="msg_0247_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DS Wireless Communications will\nbe launched.</language>
+		<language name="English">La communication sans fil DS va\ndémarrer.</language>
 	</row>
 	<row id="msg_0247_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Searching for a gift.\nPlease wait...</language>
+		<language name="English">Recherche d’un cadeau en cours...\nVeuillez patienter.</language>
 	</row>
 	<row id="msg_0247_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Receive this gift?</language>
+		<language name="English">Recevoir ce cadeau?</language>
 	</row>
 	<row id="msg_0247_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Search for a different gift?</language>
+		<language name="English">Rechercher un cadeau différent?</language>
 	</row>
 	<row id="msg_0247_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your request has been sent.\nPlease wait a moment...</language>
+		<language name="English">Votre requête a été envoyée.\nVeuillez patienter un instant...</language>
 	</row>
 	<row id="msg_0247_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Receiving your gift.\nDon’t turn off the power.</language>
+		<language name="English">Réception du cadeau en cours...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0247_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The gift has been received!\rPlease pick up your gift from the\ndeliveryman in any Poké Mart.</language>
+		<language name="English">Le cadeau a été obtenu!\rVous pouvez le récupérer dans\nn’importe quelle Boutique Pokémon.</language>
 	</row>
 	<row id="msg_0247_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This gift is being shared by\nanother person.\rYou may accept this gift, but you\nwill not be able to distribute it\fto your friends.\rWill you accept this gift?</language>
+		<language name="English">Vous partagez ce cadeau avec une\nautre personne.\rVous pouvez accepter ce cadeau mais\nvous ne pourrez pas le distribuer à vos\famis.\rVoulez-vous accepter ce cadeau?</language>
 	</row>
 	<row id="msg_0247_00010" index="10">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0247_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Ranger\nMANAPHY Egg Transfer</language>
+		<language name="English">Transfert Pokémon Ranger de\nl’Oeuf de MANAPHY</language>
 	</row>
 	<row id="msg_0247_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RECEIVE GIFT</language>
+		<language name="English">RECEVOIR LE CADEAU</language>
 	</row>
 	<row id="msg_0247_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHECK CARD</language>
+		<language name="English">LIRE LA CARTE</language>
 	</row>
 	<row id="msg_0247_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">RETOUR</language>
 	</row>
 	<row id="msg_0247_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GET FROM A FRIEND</language>
+		<language name="English">D’UN AMI</language>
 	</row>
 	<row id="msg_0247_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GET VIA NINTENDO WFC</language>
+		<language name="English">VIA LA CWF NINTENDO</language>
 	</row>
 	<row id="msg_0247_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">SORTIR</language>
 	</row>
 	<row id="msg_0247_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">OUI</language>
 	</row>
 	<row id="msg_0247_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">NON</language>
 	</row>
 	<row id="msg_0247_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GET VIA WIRELESS</language>
+		<language name="English">VIA LE SANS FIL</language>
 	</row>
 	<row id="msg_0247_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VIEW LOCK CAPSULE CARD</language>
+		<language name="English">LIRE CARTE POKé ECRIN</language>
 	</row>
 	<row id="msg_0247_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our deliveryman is overloaded with\ngifts for you!\rPlease see him at any Poké Mart and\npick up some of your gifts.</language>
+		<language name="English">Notre livreur a plein de cadeaux\npour vous!\rVous pouvez le trouver dans n’importe\nquelle Boutique Pokémon où il vous\fremettra certains de vos cadeaux.\n</language>
 	</row>
 	<row id="msg_0247_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve already received this gift.\nYou may not get another one.</language>
+		<language name="English">Vous avez déjà reçu ce cadeau.\nVous ne pouvez le recevoir qu’une fois.</language>
 	</row>
 	<row id="msg_0247_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There were no gifts to be found.</language>
+		<language name="English">Aucun cadeau n’a été trouvé.</language>
 	</row>
 	<row id="msg_0247_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your request was turned down.</language>
+		<language name="English">Votre demande a été refusée.</language>
 	</row>
 	<row id="msg_0247_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are out of room for\nWonder Cards.\rYou may not accept another gift.</language>
+		<language name="English">Vous n’avez plus de place pour les\nCartes Miracle.\rVous ne pourrez pas obtenir d’autre\ncadeau.</language>
 	</row>
 	<row id="msg_0247_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There was a problem with\nreceiving the gift.\rPress the A Button to return to\nthe title screen.</language>
+		<language name="English">Il y a un problème avec la réception du\ncadeau.\rAppuyez sur le bouton A pour retourner\nà l’écran titre.</language>
 	</row>
 	<row id="msg_0247_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A gift has been found, but it cannot\nbe received using this version.\rPress the A Button to return to\nthe menu.</language>
+		<language name="English">Un cadeau a été trouvé, mais il ne peut\npas être reçu avec cette version.\rAppuyez sur le bouton A pour retourner\nau menu.</language>
 	</row>
 	<row id="msg_0247_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The person sharing has\nbeen disconnected...</language>
+		<language name="English">La personne partageant le cadeau\na été déconnectée...</language>
 	</row>
 	<row id="msg_0247_00030" index="30">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0247_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Press the A Button.</language>
+		<language name="English">Appuyez sur le bouton A.</language>
 	</row>
 	<row id="msg_0247_00032" index="32">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0247_00033" index="33">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0247_00034" index="34">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0247_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please touch Pokémon Ranger’s\ngame screen.</language>
+		<language name="English">Veuillez toucher l’écran de jeu de\nPokémon Ranger.</language>
 	</row>
 	<row id="msg_0247_00036" index="36">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0247_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wonder Card</language>
+		<language name="English">Carte Miracle</language>
 	</row>
 	<row id="msg_0247_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please pick up your gift from the\ndeliveryman in any Poké Mart.</language>
+		<language name="English">Vous pouvez récupérer votre cadeau dans\nn’importe quelle Boutique Pokémon.</language>
 	</row>
 	<row id="msg_0247_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have already received\nthis gift before.</language>
+		<language name="English">Vous avez déjà reçu ce cadeau.</language>
 	</row>
 	<row id="msg_0247_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This card does not have\na gift attached.</language>
+		<language name="English">Il n’y a pas de cadeau avec cette\ncarte.</language>
 	</row>
 	<row id="msg_0247_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Date received</language>
+		<language name="English">Date réception</language>
 	</row>
 	<row id="msg_0247_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This gift can be distributed {STRVAR_1 52, 0, 0} time(s).</language>
+		<language name="English">Ce cadeau peut être distribué {STRVAR_1 52, 0, 0} fois.</language>
 	</row>
 	<row id="msg_0247_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">INFO</language>
+		<language name="English">INFOS</language>
 	</row>
 	<row id="msg_0247_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SHARE</language>
+		<language name="English">PARTAGER</language>
 	</row>
 	<row id="msg_0247_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRASH</language>
+		<language name="English">JETER</language>
 	</row>
 	<row id="msg_0247_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">RETOUR</language>
 	</row>
 	<row id="msg_0247_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to share this gift?</language>
+		<language name="English">Souhaitez-vous partager ce cadeau?</language>
 	</row>
 	<row id="msg_0247_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">OUI</language>
 	</row>
 	<row id="msg_0247_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">NON</language>
 	</row>
 	<row id="msg_0247_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_34 16, 1, 0} {STRVAR_1 51, 2, 0}, {STRVAR_1 53, 0, 0}</language>
+		<language name="English">{STRVAR_1 51, 2, 0} {STRVAR_34 16, 1, 0} {STRVAR_1 53, 0, 0}</language>
 	</row>
 	<row id="msg_0247_00051" index="51">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0247_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This gift can be shared with as\nmany friends as you like.</language>
+		<language name="English">Ce cadeau peut être partagé avec\nautant d’amis que vous le voulez.</language>
 	</row>
 	<row id="msg_0247_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pal Distribution Registration</language>
+		<language name="English">Enregistrement Distribution Ami</language>
 	</row>
 	<row id="msg_0247_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
@@ -229,11 +229,11 @@
 	</row>
 	<row id="msg_0247_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ID No.{STRVAR_1 54, 0, 0}</language>
+		<language name="English">Nº ID {STRVAR_1 54, 0, 0}</language>
 	</row>
 	<row id="msg_0247_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Current\nentries</language>
+		<language name="English">Nombre\nd’entrées</language>
 	</row>
 	<row id="msg_0247_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -241,57 +241,57 @@
 	</row>
 	<row id="msg_0247_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEND</language>
+		<language name="English">ENVOYER</language>
 	</row>
 	<row id="msg_0247_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0247_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gift distribution under way...\nDon’t turn off the power.</language>
+		<language name="English">Distribution du cadeau en cours...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0247_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your gift distribution\nwas successful.</language>
+		<language name="English">Votre cadeau a été distribué avec\nsuccès.</language>
 	</row>
 	<row id="msg_0247_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Throw this card away?</language>
+		<language name="English">Jeter cette carte?</language>
 	</row>
 	<row id="msg_0247_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You haven’t received your gift yet.\nDo you want to discard this card?</language>
+		<language name="English">Vous n’avez pas encore reçu le cadeau.\nVoulez-vous vraiment jeter la carte?</language>
 	</row>
 	<row id="msg_0247_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Discarding...\nDon’t turn off the power.</language>
+		<language name="English">Destruction de la carte...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0247_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">OUI</language>
 	</row>
 	<row id="msg_0247_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">NON</language>
 	</row>
 	<row id="msg_0247_00067" index="67">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0247_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 3}{STRVAR_1 3, 0, 0}{COLOR 2} {COLOR 0}ID No.{STRVAR_1 54, 1, 0}</language>
+		<language name="English">{COLOR 3}{STRVAR_1 3, 0, 0}{COLOR 2} {COLOR 0}Nº ID {STRVAR_1 54, 1, 0}</language>
 	</row>
 	<row id="msg_0247_00069" index="69">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0247_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Application No.:</language>
+		<language name="English">Nº d’enregistrement:</language>
 	</row>
 	<row id="msg_0247_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
@@ -299,48 +299,48 @@
 	</row>
 	<row id="msg_0247_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Receiving a Recruitment Message\nfrom a Pokémon Ranger.</language>
+		<language name="English">Réception d’un message d’un\n₧₦ Ranger.</language>
 	</row>
 	<row id="msg_0247_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Awaiting transfer from Pokémon\nRanger.</language>
+		<language name="English">En attente du transfert du\n₧₦ Ranger.</language>
 	</row>
 	<row id="msg_0247_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Receiving the MANAPHY Egg...\nDon’t turn off the power.</language>
+		<language name="English">Réception de l’Oeuf de MANAPHY...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0247_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The transfer has been completed.\nA Button: title screen.</language>
+		<language name="English">Le transfert est terminé.\nBouton A: écran titre</language>
 	</row>
 	<row id="msg_0247_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The connection with Pokémon Ranger\nhas been lost... Press the A Button.</language>
+		<language name="English">La connexion avec le ₧₦ Ranger a été\ninterrompue... Appuyez sur le bouton A.</language>
 	</row>
 	<row id="msg_0247_00077" index="77">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0247_00078" index="78">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0247_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DS Wireless Communications\nwill be launched.</language>
+		<language name="English">La communication sans fil DS va\ndémarrer.</language>
 	</row>
 	<row id="msg_0247_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Connect to Nintendo Wi-Fi Connection?</language>
+		<language name="English">Se connecter à la CWF Nintendo?</language>
 	</row>
 	<row id="msg_0247_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Lock Capsule is held in the\nstrictest safekeeping.</language>
+		<language name="English">Le Poké Ecrin est stocké ici.</language>
 	</row>
 	<row id="msg_0247_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Lock Capsule was delivered safely!</language>
+		<language name="English">Le Poké Ecrin est arrivé sans encombre!</language>
 	</row>
 </body>

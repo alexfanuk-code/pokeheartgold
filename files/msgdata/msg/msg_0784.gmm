@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0784_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Aucun</language>
 	</row>
 	<row id="msg_0784_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,7 +10,7 @@
 	</row>
 	<row id="msg_0784_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beijing</language>
+		<language name="English">Pékin</language>
 	</row>
 	<row id="msg_0784_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0784_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guanxi</language>
+		<language name="English">Guangxi</language>
 	</row>
 	<row id="msg_0784_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -78,7 +78,7 @@
 	</row>
 	<row id="msg_0784_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Neimenggu</language>
+		<language name="English">Mongolie-Intérieure</language>
 	</row>
 	<row id="msg_0784_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
@@ -118,7 +118,7 @@
 	</row>
 	<row id="msg_0784_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Xizang</language>
+		<language name="English">Tibet</language>
 	</row>
 	<row id="msg_0784_00030" index="30">
 		<attribute name="window_context_name">used</attribute>

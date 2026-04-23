@@ -2,23 +2,23 @@
 <body language="English">
 	<row id="msg_0627_T29R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...You have strayed far...\nHere I have meditated. Inside me,\fa new power has been awakened.\rLet me share my power with your\nPokémon. Take this, child.\r</language>
+		<language name="English">... Tu as bien voyagé...\nMoi, j’ai médité...\rAu fond de moi une nouvelle force\ns’est réveillée.\rLaisse-moi partager mon pouvoir\navec tes Pokémon.\fReçois ceci...\r</language>
 	</row>
 	<row id="msg_0627_T29R0101_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0627_T29R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you see it? It is Hidden Power!\rIt draws out the power of Pokémon\nfor attacking.\rRemember this: its type and power\ndepend on the Pokémon using it.</language>
+		<language name="English">Tu vois? C’est Puissance Cachée!\rElle développe la puissance de tes\nPokémon.\rMais attention! Cela dépend du type et\nde la puissance du Pokémon utilisé.</language>
 	</row>
 	<row id="msg_0627_T29R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have no room for it...</language>
+		<language name="English">Tu n’as pas de place.</language>
 	</row>
 	<row id="msg_0627_T29R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am meditating...</language>
+		<language name="English">Je médite...</language>
 	</row>
 </body>

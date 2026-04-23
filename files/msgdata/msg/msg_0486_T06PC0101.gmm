@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="msg_0486_T06PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sleeping Pokémon is lying in the\nmiddle of the road.\rIt’s a fantastic opportunity to get it,\nbut how do you wake it up?</language>
+		<language name="English">Un Pokémon s’est endormi en plein\nmilieu du chemin!\rJe pensais profiter de l’occasion pour\nl’attraper, mais je n’ai aucune idée\fde comment le réveiller...</language>
 	</row>
 	<row id="msg_0486_T06PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There used to be a sleeping Pokémon\nlying in the middle of the road.\fBut it seems to have disappeared.</language>
+		<language name="English">Un Pokémon s’était endormi en plein\nmilieu du chemin, mais il a disparu...</language>
 	</row>
 	<row id="msg_0486_T06PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Fast Ship is a great place to\nmeet and battle Trainers.</language>
+		<language name="English">Les combats de Dresseurs ne sont pas\nla moindre des joies du Bateau Express!</language>
 	</row>
 	<row id="msg_0486_T06PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? You have some Badges I’ve never\nseen before.\rOh, I get it. You got them in Johto.</language>
+		<language name="English">Oh? Je n’ai jamais vu ces Badges...\nAh, je vois, tu viens de Johto!</language>
 	</row>
 </body>

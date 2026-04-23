@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0546_T20R0202_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} booted up the PC and\nchecked the Mailbox!\r</language>
+		<language name="English">Vous allumez votre PC!\nVous regardez vos messages!\r</language>
 	</row>
 	<row id="msg_0546_T20R0202_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is no Mail...</language>
+		<language name="English">Vous n’avez aucun message...</language>
 	</row>
 	<row id="msg_0546_T20R0202_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a Wii!\rWii is huge in Johto, too!</language>
+		<language name="English">Il y a une console Wii!\rElle est populaire même à Johto!</language>
 	</row>
 </body>

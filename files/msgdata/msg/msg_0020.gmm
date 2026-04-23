@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="msg_0020_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s lined with Pokémon picture books.</language>
+		<language name="English">C’est plein de livres d’images\nsur les Pokémon.</language>
 	</row>
 	<row id="msg_0020_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are these books for Pokémon\nto read?</language>
+		<language name="English">Est-ce que ce sont des livres pour\nles Pokémon?</language>
 	</row>
 	<row id="msg_0020_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s chock-full of Pokémon books and\nphoto collections.</language>
+		<language name="English">C’est plein à craquer de livres et\nd’albums photos sur les Pokémon.</language>
 	</row>
 	<row id="msg_0020_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon magazines!\rPokémon Pal...\nPokémon Handbook...\fAdorable Pokémon...</language>
+		<language name="English">Des magazines Pokémon!\rNos Amis les Pokémon...\nManuel Pokémon...\fGraine de Pokémon...</language>
 	</row>
 	<row id="msg_0020_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The trash can is empty.</language>
+		<language name="English">C’est vide.</language>
 	</row>
 	<row id="msg_0020_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The shelves are jammed with vibrant\nPokémon goods.</language>
+		<language name="English">C’est plein d’objets Pokémon colorés.</language>
 	</row>
 	<row id="msg_0020_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a ton of convenient items.\nThey all look useful.</language>
+		<language name="English">C’est plein d’objets utiles.</language>
 	</row>
 	<row id="msg_0020_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The shelves brim with all sorts of\nPokémon merchandise.</language>
+		<language name="English">Les étagères regorgent de toutes\nsortes de produits Pokémon.</language>
 	</row>
 </body>

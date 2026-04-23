@@ -2,62 +2,62 @@
 <body language="English">
 	<row id="msg_0651_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine</language>
+		<language name="English">Auguste</language>
 	</row>
 	<row id="msg_0651_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you very well.\nWe must have a bad connection.\rTry calling again from somewhere else!</language>
+		<language name="English">Mais? Je ne comprends pas bien...\rRappelle-moi depuis un autre endroit\nquand tu peux.</language>
 	</row>
 	<row id="msg_0651_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nOh, hey, what’s wrong?\fYou don’t have to worry about me.\fHow are you doing?\r</language>
+		<language name="English">Oui?\nAllô?\fNe t’inquiète pas pour moi!\fJe vais bien!\r</language>
 	</row>
 	<row id="msg_0651_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you visited every Gym yet?\nThere are Gym Leaders you haven’t\fbattled yet, aren’t there?</language>
+		<language name="English">Tu as battu tous les Champions?\nIl ne t’en reste pas à affronter\fencore?</language>
 	</row>
 	<row id="msg_0651_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t do anything at all around noon\non Tuesdays. You should give me a call\fthen sometime if you’re free.</language>
+		<language name="English">Le mardi en journée est parfait\npour moi.\fSi tu peux, rappelle-moi ce jour-là!</language>
 	</row>
 	<row id="msg_0651_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, hey!\rYou called at just the right time!\nWanna battle me again?\fCome on, whadda ya say? {YESNO 0}</language>
+		<language name="English">Waaah!\rTu téléphones pile au bon moment!\nDis, tu veux te battre à nouveau\fcontre moi? Dis? {YESNO 0}</language>
 	</row>
 	<row id="msg_0651_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, hey!\rThanks!\nI’ll be waiting for you at the Fighting\fDojo in Saffron City.</language>
+		<language name="English">Waaah!\rMerci!\nAlors, on se voit au Dojo de Safrania!</language>
 	</row>
 	<row id="msg_0651_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, hey!\nThat’s cold!</language>
+		<language name="English">Wooooooh!\nPas ça!</language>
 	</row>
 	<row id="msg_0651_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Look, I appreciate that you want to\nbattle me again, but didn’t you already\fmake plans with somebody else?</language>
+		<language name="English">Je sais que tu brûles de te battre\ncontre moi, mais tu as d’autres\fpromesses à tenir avant je crois.</language>
 	</row>
 	<row id="msg_0651_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Woah, hey!\nI’m waiting for you at the Fighting Dojo\fin Saffron City.\n</language>
+		<language name="English">Alors, on se voit au Dojo de Safrania!\nWaaah!</language>
 	</row>
 	<row id="msg_0651_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, this is Blaine.\nWhat’s up?\r</language>
+		<language name="English">Waaah! C’est Auguste!\nToujours tout feu tout flamme?\r</language>
 	</row>
 	<row id="msg_0651_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We made plans to meet and battle at the\nFighting Dojo in Saffron City, right?\fI’m waiting for you!</language>
+		<language name="English">On se retrouve au Dojo de Safrania, OK?\nJe brûle d’impatience!</language>
 	</row>
 	<row id="msg_0651_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, even if you lose your Gym, if\nyou take rocks and stones and pile\fthem up one by one every day, sooner\for later you’ll have built a really nice\freplacement Gym!\rI’ve made it my life’s mission to build\nanother Gym.</language>
+		<language name="English">J’ai peut-être perdu mon Arène...\nMais avec de la persévérance, chaque\fbrique empilée me rapproche d’une\fsuperbe nouvelle Arène!\rJe comprends mieux que personne les\ndifficultés de la vie!</language>
 	</row>
 	<row id="msg_0651_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am grateful that Trainers flock\nto a homemade Gym like mine...\rI thank you too for coming all the\nway just to battle me!</language>
+		<language name="English">Je suis si content que les Dresseurs\ncontinuent à venir dans mon Arène...\rMerci, merci encore à toi, d’avoir fait\ntout ce long trajet jusqu’ici!</language>
 	</row>
 	<row id="msg_0651_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I kind of like the Seafoam Islands\na lot lately.\fThe problem with that is if you\fdecide to go shopping,\fthere aren’t any stores there...</language>
+		<language name="English">J’aime beaucoup les Iles Ecume.\nL’ennui, c’est qu’il n’y a nulle\fpart où faire des courses!\fC’est pas très pratique.</language>
 	</row>
 </body>

@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="msg_0463_T03PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Yeah, and the Gym in Cinnabar’s\ngone. I was really amazed.\r...Yes? I’m on the phone.\nGo away!</language>
+		<language name="English">Et puis, tu sais, l’Arène de Cramois’Ile,\neh bien elle a disparu!\fMoi aussi! J’en reviens toujours pas!\r... Quoi? J’suis au téléphone, là!\nFiche-moi la paix!</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JIGGLYPUFF: Puu pupuu.</language>
+		<language name="English">RONDOUDOU: Douu!\nDoudoudou!</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Most Pokémon get drowsy if they\nhear a JIGGLYPUFF singing.\rThere are several moves that can be\nused only while a Pokémon is asleep.</language>
+		<language name="English">La plupart des Pokémon s’endorment en\nentendant un RONDOUDOU chanter.\rEt il y a certaines capacités qu’un\nPokémon ne peut utiliser qu’en dormant!</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aw...\nIf only I had a HAUNTER...\rIf you have a HAUNTER,\nyou will trade it for my XATU,\fwon’t you? {YESNO 0}</language>
+		<language name="English">Ah...\nJ’aimerais tellement un SPECTRUM...\rSi jamais tu avais un SPECTRUM, tu\nvoudrais bien me l’échanger contre\fmon XATU? Hein? {YESNO 0}</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How wonderful! You made my day!\rThanks to you, I have finally got the\nPokémon I’ve been looking for...\fsince forever!</language>
+		<language name="English">Super! C’est génial!\rGrâce à toi, je vais enfin avoir un\nPokémon dont je rêve depuis longtemps!</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has to be a HAUNTER!\rHAUNTER!!</language>
+		<language name="English">Mais moi, c’est un SPECTRUM\nque je veux! Un SPECTRUM-EUH!</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’d never turn down a trade\nif you had a HAUNTER.\rThat means you just don’t have one.\nThat must be it...</language>
+		<language name="English">Tu ne refuserais pas un échange si tu\navais un SPECTRUM.\rDonc ça veut dire que tu n’en as pas!\nC’est ça.\fIl ne peut pas en être autrement...</language>
 	</row>
 	<row id="msg_0463_T03PC0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How do you like the cool XATU\nI traded you?\rIt’s so cool, because it used to be\nwith cool me!</language>
+		<language name="English">Le XATU que je t’ai échangé est\nsuper classe, pas vrai?\rNormal, il était à moi avant, et\nje suis super classe, moi aussi!</language>
 	</row>
 </body>

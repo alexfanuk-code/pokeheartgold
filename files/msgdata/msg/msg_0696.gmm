@@ -2,54 +2,54 @@
 <body language="English">
 	<row id="msg_0696_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vance</language>
+		<language name="English">Alban</language>
 	</row>
 	<row id="msg_0696_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are sure strong. But I don’t\nwant to just slink away...\rI know! Could I get your number?\nLet’s meet up for more battles!{YESNO 0}</language>
+		<language name="English">Tu as un certain talent, toi.\nJe suis plutôt impressionné...\rJe sais!\nOn devrait échanger nos numéros!\fOn fera d’autres combats! {YESNO 0}</language>
 	</row>
 	<row id="msg_0696_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t forget to come and see me\nwhen I challenge you!</language>
+		<language name="English">N’oublie pas de venir me voir si\nje te lance un défi!</language>
 	</row>
 	<row id="msg_0696_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Bird Keeper friend isn’t a bad thing to\nhave, I’d say...\rWon’t you reconsider?</language>
+		<language name="English">Etre pote avec les fans des oiseaux,\nc’est bien...\rÇa te tente?</language>
 	</row>
 	<row id="msg_0696_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I want to battle tough Trainers as\noften as I can!\rCould I get your number?\nLet’s meet up for more battles!{YESNO 0}</language>
+		<language name="English">Je veux affronter les meilleurs\nDresseurs!\rJe peux avoir ton numéro?\nOn combattra une autre fois! {YESNO 0}</language>
 	</row>
 	<row id="msg_0696_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are really, really strong!\rThanks for taking me on so often--\nI learned a whole lot from you.\rI know! This will do as my thanks!\r</language>
+		<language name="English">Alors toi, t’es pas mal!\rJ’en ai appris des trucs avec toi!\rMerci!\nMerci!\rVoilà pour toi... Petit cadeau!\r</language>
 	</row>
 	<row id="msg_0696_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re nearby, aren’t you?\rWhy not come and talk in person?</language>
+		<language name="English">Mais viens donc me voir directement\nau lieu de téléphoner!</language>
 	</row>
 	<row id="msg_0696_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0}’s become tougher.\nWe’ve achieved liftoff!\rWe can easily beat {STRVAR_1 0, 11, 0}!\r...Huh? You, too? Isn’t that great?\nLet’s talk later!</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0} est devenu\nsuper fort. Une vraie terreur!\rOn peut battre un {STRVAR_1 0, 11, 0}!\nHein? Toi aussi? Formidable!\rA plus!</language>
 	</row>
 	<row id="msg_0696_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0}’s become tougher.\nWe’ve achieved liftoff!\rBut get this, a wild {STRVAR_1 0, 11, 0} just\nbarely eluded us.\fI wanted to Fly after it...\rLet’s talk later!</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0} est devenu\nsuper fort. Une vraie terreur!\rMais on a laissé échapper un\n{STRVAR_1 0, 11, 0}! Quel dommage!\fOn était même prêts à le poursuivre!\rA plus!</language>
 	</row>
 	<row id="msg_0696_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right now, I’m on {STRVAR_1 4, 3, 0}.\nYou know--where I first met you?\rWant to battle? I’ll wait here.</language>
+		<language name="English">Je suis sur la {STRVAR_1 4, 3, 0}.\nLà où on s’est rencontrés!\rOn s’bat? Je t’attends.</language>
 	</row>
 	<row id="msg_0696_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, {STRVAR_1 3, 0, 0}!\nHurry, hurry!\r{STRVAR_1 4, 3, 0}! Fly over now!</language>
+		<language name="English">Oh, {STRVAR_1 3, 0, 0}!\nVite!\r{STRVAR_1 4, 3, 0}!\nViens! Cours! Vole!</language>
 	</row>
 	<row id="msg_0696_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, {STRVAR_1 3, 0, 0}!\nHurry, hurry!\r{STRVAR_1 4, 3, 0}! Fly over now!</language>
+		<language name="English">Oh, {STRVAR_1 3, 0, 0}!\nVite!\r{STRVAR_1 4, 3, 0}!\nViens! Cours! Vole!</language>
 	</row>
 	<row id="msg_0696_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be looking forward to our\nnext battle!</language>
+		<language name="English">J’attends notre prochain combat!</language>
 	</row>
 </body>

@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="msg_0124_D40R0104_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A long time ago, the Whirl Islands used\nto be one large island.\rThere were two countries fighting over\nthe island back then.\rLUGIA, the guardian of the island, got\nupset and cast lightning bolts to tear\fthe island into four pieces, then\fdisappeared into the deep end\fof the waterfall basin...\rI will let you through if you bring the\nSilver Wing, which is said to have fallen\ffrom LUGIA.\rBut the true challenge is whether\nLUGIA will appear in front of you.\rWhat LUGIA has longed for is the\ninvisible trust between people and\fPokémon...\rOr the person who can restore such\na relationship...</language>
+		<language name="English">Il y a bien longtemps, les Tourb’Iles\nne formaient qu’un seul bloc...\rMais les deux clans qui y vivaient\nse faisaient sans cesse la guerre.\rLe protecteur de l’île, LUGIA, ne put\nplus le supporter et fit tomber la\ffoudre jusqu’à fractionner l’île en\fquatre îlots...\rPuis il se retira au fond de sa\ncascade...\rSi tu m’amènes une Argent’Aile que\nLUGIA a laissée derrière lui,\fje te laisserai passer.\rMais rien ne dit pour autant que cela\nsuffise à le faire apparaître...\rCar ce qu’il attend plus que tout,\nc’est un Dresseur qui ait une confiance\fabsolue dans ses Pokémon. Ou plutôt...\rUn Dresseur qui pourrait lui redonner\nconfiance en l’humanité...</language>
 	</row>
 	<row id="msg_0124_D40R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LUGIA, the Pokémon of the island, hid\nitself deep in the end of the waterfall\fbasin, and no one has seen it since...\rIf anyone who could restore deep trust\nbetween people and Pokémon were to\fcome here with something linked to\fLUGIA, it may show itself for such\fa person...</language>
+		<language name="English">Le Pokémon qui vivait sur cette île,\nLUGIA, s’est retiré au fond de sa\fcascade, et n’est plus jamais reparu...\rSi un humain, qui aurait tissé de forts\nliens de confiance avec ses Pokémon,\fapportait un objet qui était relié\fà LUGIA...\rAlors il accepterait peut-être de se\nmontrer...</language>
 	</row>
 	<row id="msg_0124_D40R0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That thing you have...!\r</language>
+		<language name="English">Ce... Ce... C’est...!\r</language>
 	</row>
 	<row id="msg_0124_D40R0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have found it...\nPlease go ahead.\r</language>
+		<language name="English">Tu l’as enfin trouvée...\nJe t’en prie, passe.\r</language>
 	</row>
 	<row id="msg_0124_D40R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have found it...\nPlease go ahead.</language>
+		<language name="English">Tu l’as enfin trouvée...\nJe t’en prie, passe.</language>
 	</row>
 	<row id="msg_0124_D40R0104_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Silver Wing will merely permit you to go\ndown the waterfall.\rIf you are not the kind of person who\nwould restore the trust between people\fand Pokémon, LUGIA will never show\fitself to you...</language>
+		<language name="English">L’Argent’Aile n’était qu’un simple\nlaissez-passer pour descendre dans\fla cascade...\rSi LUGIA ne te juge pas capable de\nlui redonner confiance dans le lien\fentre humains et Pokémon, alors il\fn’apparaîtra jamais à tes yeux...</language>
 	</row>
 	<row id="msg_0124_D40R0104_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmm.\rSo it was you and the Bell!</language>
+		<language name="English">Je comprends! Je comprends!\rL’écho de ce Glas...!</language>
 	</row>
 	<row id="msg_0124_D40R0104_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite a remarkable Trainer\nfor your age...</language>
+		<language name="English">Malgré ta jeunesse, tu es quelqu’un\nd’exceptionnel...</language>
 	</row>
 </body>

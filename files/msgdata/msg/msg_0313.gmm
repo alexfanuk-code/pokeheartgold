@@ -2,126 +2,126 @@
 <body language="English">
 	<row id="msg_0313_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speed Course</language>
+		<language name="English">Parcours Vitesse</language>
 	</row>
 	<row id="msg_0313_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Power Course</language>
+		<language name="English">Parcours Force</language>
 	</row>
 	<row id="msg_0313_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skill Course</language>
+		<language name="English">Parcours Habileté</language>
 	</row>
 	<row id="msg_0313_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stamina Course</language>
+		<language name="English">Parcours Endurance</language>
 	</row>
 	<row id="msg_0313_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jump Course</language>
+		<language name="English">Parcours Saut</language>
 	</row>
 	<row id="msg_0313_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speed &amp; Jump Course</language>
+		<language name="English">Parcours Vitesse&amp;Saut</language>
 	</row>
 	<row id="msg_0313_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jump &amp; Skill Course</language>
+		<language name="English">Parcours Saut&amp;Habileté</language>
 	</row>
 	<row id="msg_0313_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skill &amp; Power Course</language>
+		<language name="English">Parcours Habileté&amp;Force</language>
 	</row>
 	<row id="msg_0313_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Power &amp; Stamina Course</language>
+		<language name="English">Parc. Force&amp;Endurance</language>
 	</row>
 	<row id="msg_0313_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stamina &amp; Speed Course</language>
+		<language name="English">Parc. Endurance&amp;Vitesse</language>
 	</row>
 	<row id="msg_0313_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Master Course</language>
+		<language name="English">Parcours Master</language>
 	</row>
 	<row id="msg_0313_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0313_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0313_00013" index="13">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0313_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0313_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speed Medal</language>
+		<language name="English">Méd. Vitesse</language>
 	</row>
 	<row id="msg_0313_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Power Medal</language>
+		<language name="English">Médaille Force</language>
 	</row>
 	<row id="msg_0313_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skill Medal</language>
+		<language name="English">Méd. Habileté</language>
 	</row>
 	<row id="msg_0313_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stamina Medal</language>
+		<language name="English">Méd. Endurance</language>
 	</row>
 	<row id="msg_0313_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jump Medal</language>
+		<language name="English">Médaille Saut</language>
 	</row>
 	<row id="msg_0313_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hurdle Dash</language>
+		<language name="English">Cours’Obstacles</language>
 	</row>
 	<row id="msg_0313_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pennant Capture</language>
+		<language name="English">Capture Drapeau</language>
 	</row>
 	<row id="msg_0313_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Circle Push</language>
+		<language name="English">Cercle Musical</language>
 	</row>
 	<row id="msg_0313_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Block Smash</language>
+		<language name="English">Casse Roc</language>
 	</row>
 	<row id="msg_0313_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Disc Catch</language>
+		<language name="English">Attrap’Disques</language>
 	</row>
 	<row id="msg_0313_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lamp Jump</language>
+		<language name="English">Saute-Lumière</language>
 	</row>
 	<row id="msg_0313_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Relay Run</language>
+		<language name="English">Course de Relais</language>
 	</row>
 	<row id="msg_0313_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ring Drop</language>
+		<language name="English">Combat Ring-Out</language>
 	</row>
 	<row id="msg_0313_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Snow Throw</language>
+		<language name="English">Bataille Neige</language>
 	</row>
 	<row id="msg_0313_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goal Roll</language>
+		<language name="English">Balle au But</language>
 	</row>
 </body>

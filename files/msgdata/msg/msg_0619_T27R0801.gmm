@@ -2,35 +2,35 @@
 <body language="English">
 	<row id="msg_0619_T27R0801_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah. You’re on an adventure with\nyour Pokémon?\rWell, what’s an adventure without\ntreasure hunting?\rAm I right, or am I right? {YESNO 0}</language>
+		<language name="English">Ah! Tu vas par monts et par vaux avec\ntes Pokémon?\rMais que serait une aventure sans\nchasse au trésor?\fTu n’es pas d’accord? {YESNO 0}</language>
 	</row>
 	<row id="msg_0619_T27R0801_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good! You understand the true\nspirit of adventure.\rI like that! Take this with you.</language>
+		<language name="English">Fantastique! Tu as tout compris\nau sens de la vie!\rJ’aime!\nPrends ça avec toi!</language>
 	</row>
 	<row id="msg_0619_T27R0801_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0619_T27R0801_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many items lying about\nthat aren’t obvious.\rTouch the Dowsing Machine for a while\nto see if it makes a high-pitched noise.\rWhen it does, you know there is\nan item near you.\rWalking as you use it may make it\neasy to find items.\rOh yeah--I heard there are items\nin Ecruteak’s Burned Tower.</language>
+		<language name="English">Il y a beaucoup d’objets cachés ici et\nlà qui sont invisibles à l’œil nu.\rTouche le Cherch’Objet pour les\ndétecter. Il produira un son d’autant\fplus fort que tu seras près d’un objet.\rUtilise-le en marchant pour de meilleurs\nrésultats!\rAh oui, tant que j’y pense, j’ai entendu\ndire qu’il y avait des trésors dans\fla Tour Cendrée de Rosalia.</language>
 	</row>
 	<row id="msg_0619_T27R0801_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... To each his own, I suppose...</language>
+		<language name="English">Oh...\nChacun sa voie, hein.</language>
 	</row>
 	<row id="msg_0619_T27R0801_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">History of Ecruteak\rWant to read it? {YESNO 0}</language>
+		<language name="English">“Histoire de Rosalia”\rDésirez-vous lire? {YESNO 0}</language>
 	</row>
 	<row id="msg_0619_T27R0801_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In Ecruteak, there were two towers.\nEach tower was the roost of powerful\fflying Pokémon.\rBut one of the towers burned to\nthe ground.\rThe two Pokémon haven’t been\nseen since...\rKeep reading? {YESNO 0}</language>
+		<language name="English">Il existait à Rosalia deux tours qu’un\nlégendaire Pokémon venait\fvisiter depuis les cieux.\rMais quand l’une d’elle brûla, son\ncéleste visiteur plus jamais\fne parut...\f... dit la légende.\rContinuer à lire? {YESNO 0}</language>
 	</row>
 	<row id="msg_0619_T27R0801_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecruteak was also home to three\nPokémon that raced around the town.\rThey were said to have been born of\nwater, lightning, and fire.\rBut they could not contain their\nexcessive power.\rSo they say the three ran like the\nwind off into the grassland.</language>
+		<language name="English">Rosalia était également le séjour de\ntrois Pokémon qui parcouraient\fla ville.\rOn dit qu’ils seraient nés de l’eau, de\nla foudre et du feu.\rIncapables de contenir leur puissance,\nils filaient tel le vent à travers les\fhautes herbes...\f... dit la légende.</language>
 	</row>
 </body>

@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0801_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Press the X Button over a dot\nto display the player’s location.</language>
+		<language name="English">Placez le curseur sur un point coloré\net appuyez sur le bouton X.</language>
 	</row>
 	<row id="msg_0801_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">QUIT.</language>
 	</row>
 	<row id="msg_0801_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PLACE NAME</language>
+		<language name="English">LIEU</language>
 	</row>
 	<row id="msg_0801_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -22,6 +22,6 @@
 	</row>
 	<row id="msg_0801_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Exit the Visitor Profiles?</language>
+		<language name="English">Quitter le Globe Visiteurs?</language>
 	</row>
 </body>

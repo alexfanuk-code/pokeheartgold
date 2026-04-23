@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0478_T05R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Fuji does live here, but he’s\naway now.\rHe should be at the House of Memories.</language>
+		<language name="English">La maison de M. Fuji est bien ici,\nmais il est absent pour le moment.\rIl est parti à la Maison des Souvenirs.</language>
 	</row>
 	<row id="msg_0478_T05R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Can you believe it?\rSome people get bored with taking\ncare of Pokémon.\rGrandpa takes in such poor homeless\nPokémon and takes care of them.</language>
+		<language name="English">Hé, tu le crois, ça?\rIl paraît qu’il y a des gens qui\narrêtent d’aimer leurs Pokémon\fet qui les abandonnent!\rPépé recueille ces pauvres Pokémon\nabandonnés et en prend soin.</language>
 	</row>
 	<row id="msg_0478_T05R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PSYDUCK: Gu-guwa?</language>
+		<language name="English">PSYKOKWAK: Kwa?</language>
 	</row>
 	<row id="msg_0478_T05R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NIDORINO: Gyun!</language>
+		<language name="English">NIDORINO: Nido!</language>
 	</row>
 	<row id="msg_0478_T05R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIDGEY: Pijji!</language>
+		<language name="English">ROUCOOL: Rrrou!</language>
 	</row>
 </body>

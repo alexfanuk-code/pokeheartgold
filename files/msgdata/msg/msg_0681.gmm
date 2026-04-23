@@ -2,62 +2,62 @@
 <body language="English">
 	<row id="msg_0681_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rob</language>
+		<language name="English">Aymeric</language>
 	</row>
 	<row id="msg_0681_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shall we trade phone numbers? {YESNO 0}</language>
+		<language name="English">Allez, on échange nos numéros! {YESNO 0}</language>
 	</row>
 	<row id="msg_0681_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Call me anytime if you want to battle!</language>
+		<language name="English">Un coup de fil si tu veux te battre,\nhein!</language>
 	</row>
 	<row id="msg_0681_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I figured that if I found anything in the\narea, I’d give it to you...</language>
+		<language name="English">Je pensais te donner un truc que\nj’aurais trouvé, pourtant...</language>
 	</row>
 	<row id="msg_0681_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You wanna trade phone numbers\nafter all? {YESNO 0}</language>
+		<language name="English">Ah, tu veux mon numéro! {YESNO 0}</language>
 	</row>
 	<row id="msg_0681_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, here you are!\rI’ll give you this Berry that my Pokémon\nfound. Here you go!\r</language>
+		<language name="English">Ah, te voilà!\rMon Pokémon a trouvé cette Baie!\nElle est pour toi, tiens!\r</language>
 	</row>
 	<row id="msg_0681_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I have to say it’s kind of strange to be\ntalking on the phone when you’re\fstanding nearby.</language>
+		<language name="English">C’est bizarre que tu préfères\ntéléphoner plutôt que venir me\fvoir alors que tu es à côté!</language>
 	</row>
 	<row id="msg_0681_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} is always training!\rIt won’t lose to any {STRVAR_1 0, 11, 0}!</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0}, il est toujours\nen train de s’entraîner!\rIl perdrait jamais contre\nun {STRVAR_1 0, 11, 0}!</language>
 	</row>
 	<row id="msg_0681_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey! Psst! Listen!\nThis {STRVAR_1 0, 11, 0} I ran into earlier\fjust up and ran away!\rI was so disappointed!\nI really wanted to catch it, too!</language>
+		<language name="English">Tiens, écoute ça!\nJ’avais enfin rencontré un\f{STRVAR_1 0, 11, 0}, mais il s’est enfui!\rTrop dur!\nJe voulais tellement l’attraper!</language>
 	</row>
 	<row id="msg_0681_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you catch any {STRVAR_1 0, 11, 0} yet?\nYou can always find them around here.</language>
+		<language name="English">Tu as trouvé un {STRVAR_1 0, 11, 0}?\nOn en trouve plein dans le coin!</language>
 	</row>
 	<row id="msg_0681_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will you battle my trained Pokémon?\rWe’re on {STRVAR_1 4, 3, 0}, so give me\na shout when you’re in the area!</language>
+		<language name="English">Tu veux pas te battre contre mes\nPokémon? Il sont devenus très forts!\rJe suis sur la {STRVAR_1 4, 3, 0}, alors\fpasse si tu es dans le coin!</language>
 	</row>
 	<row id="msg_0681_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now?\nClose to {STRVAR_1 4, 3, 0}?\fDon’t tell me you forgot we were going\fto have a battle?</language>
+		<language name="English">Tu es où?\nVers la {STRVAR_1 4, 3, 0}?\fTu penses à notre combat, hein?</language>
 	</row>
 	<row id="msg_0681_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">While I was walking around the forest\ntrying to find Pokémon, I cut my finger\fon a leaf!\rIt bled a little, but I’m fine.</language>
+		<language name="English">En cherchant des Pokémon dans\nla forêt, je me suis coupé les doigts\favec les feuilles!\rBon, j’ai un peu saigné, mais c’était\npas très grave!</language>
 	</row>
 	<row id="msg_0681_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Pokémon found its\nmost cherished Berry!\rWe’re on {STRVAR_1 4, 3, 0} if you\nwant it!</language>
+		<language name="English">J’ai trouvé des Baies que les Pokémon\nadorent!\rViens les chercher! Je suis sur la\n{STRVAR_1 4, 3, 0}.</language>
 	</row>
 	<row id="msg_0681_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah... We’d really like to give you this\nBerry... We’re on {STRVAR_1 4, 3, 0}, so\fcome get it please!</language>
+		<language name="English">Je voulais partager mes Baies...\rViens me voir sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 </body>

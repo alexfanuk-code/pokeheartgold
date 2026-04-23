@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0522_T10R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Pokémon League, you’ll get\ntested by the Elite Four.\fYou have to beat them all.\rIf you lose, you have to start\nall over!</language>
+		<language name="English">La Ligue Pokémon évalue ta capacité\nà vaincre tous les membres\fdu terrible Conseil 4.\rEt si tu perds, tu dois tout\nrecommencer depuis le début!</language>
 	</row>
 	<row id="msg_0522_T10R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some Trainers suddenly feel\ndiscouraged and leave.\rMy ABRA can take you home.\nBut...\rTrainers just Fly home lately...\nI feel left out.\fI am sure my ABRA feels the same way.</language>
+		<language name="English">Les Dresseurs qui, une fois parvenus\nici, ne se sentaient plus de taille,\fse faisaient téléporter chez eux\fpar mon ABRA.\rMais ces temps-ci, ils sont tous\ncapables de voler sans mon aide...\rJe suis un peu triste, et mon\nABRA aussi...</language>
 	</row>
 	<row id="msg_0522_T10R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,98 +14,98 @@
 	</row>
 	<row id="msg_0522_T10R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Hold it.\rYou’re going to take the Pokémon\nLeague challenge now?\rYou’ll have to give up on that.\rMy well-trained-beyond-recognition\nPokémon are going to pound you.\rRight now, right here!\nI challenge you!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Plus un geste.\rTu vas relever le défi\nde la Ligue Pokémon?\rHélas...\nTu peux faire une croix dessus.\rMes Pokémon sont devenus si puissants\nque tu ne vas pas les reconnaître.\rTu vas mordre la poussière! Ici et\nmaintenant! En garde!\r</language>
 	</row>
 	<row id="msg_0522_T10R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...Oh, no... I still can’t\nwin after all that training...\rI...I have to believe more in my\nPokémon...\r...No big deal.\nSorry to have got in the way.\rDon’t forget to rest your Pokémon\nbefore you challenge the Champion!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Gh...\nTout cela n’a donc pas suffi...\rEst-ce...\nEst-ce donc pour ça que je dois\favoir davantage confiance dans\fmes Pokémon...\r... Bah, pas grave.\nDésolé de t’avoir retardé.\rSi tu veux te mesurer au Maître,\nn’oublie pas d’aller soigner\ftes Pokémon avant.\r</language>
 	</row>
 	<row id="msg_0522_T10R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once you enter this door, you will be\nfacing one of the Elite Four.\rThey are really tough!\nYou cannot exit once you enter.\fAre you ready?\fBe courageous and go for it!\r</language>
+		<language name="English">La première salle du Conseil 4\nse trouve juste derrière cette porte!\rIls sont forts! Si tu y entres,\ntu ne pourras plus reculer!\fTout est prêt?\fAllez, courage! Fonce!\r</language>
 	</row>
 	<row id="msg_0522_T10R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once you enter this door, you will be\nfacing one of the Elite Four.\rThey are really tough!\nYou cannot exit once you enter.\fAre you ready?\fBe courageous and go for it!</language>
+		<language name="English">La première salle du Conseil 4\nse trouve juste derrière cette porte!\rIls sont forts! Si tu y entres,\ntu ne pourras plus reculer!\fTout est prêt?\fAllez, courage! Fonce!</language>
 	</row>
 	<row id="msg_0522_T10R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Ranking do you want to see? {YESNO 0}</language>
+		<language name="English">Quel classement voulez-vous\nconsulter? {YESNO 0}</language>
 	</row>
 	<row id="msg_0522_T10R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GROUP RANKING</language>
+		<language name="English">CLASSEMENT DE GROUPE</language>
 	</row>
 	<row id="msg_0522_T10R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GLOBAL RANKING</language>
+		<language name="English">CLASSEMENT GLOBAL</language>
 	</row>
 	<row id="msg_0522_T10R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">QUIT</language>
+		<language name="English">QUITTER</language>
 	</row>
 	<row id="msg_0522_T10R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of Ranking\ndo you want to see? {YESNO 0}</language>
+		<language name="English">Quel genre de classement\nvoulez-vous consulter? {YESNO 0}</language>
 	</row>
 	<row id="msg_0522_T10R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON RECORDS</language>
+		<language name="English">RECORDS DE POKéMON</language>
 	</row>
 	<row id="msg_0522_T10R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE TOWER RECORDS</language>
+		<language name="English">RECORDS DE LA TOUR DE COMBAT</language>
 	</row>
 	<row id="msg_0522_T10R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">QUIT</language>
+		<language name="English">QUITTER</language>
 	</row>
 	<row id="msg_0522_T10R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which record would you like\nto see? {YESNO 0}</language>
+		<language name="English">Quel record voulez-vous\nconsulter? {YESNO 0}</language>
 	</row>
 	<row id="msg_0522_T10R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON\nDEFEATED</language>
+		<language name="English">POKéMON\nVAINCUS</language>
 	</row>
 	<row id="msg_0522_T10R0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON\nCAUGHT</language>
+		<language name="English">POKéMON\nATTRAPES</language>
 	</row>
 	<row id="msg_0522_T10R0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON\nEGGS</language>
+		<language name="English">OEUFS DE\nPOKéMON</language>
 	</row>
 	<row id="msg_0522_T10R0101_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ENCOUNTERED\nWHILE FISHING</language>
+		<language name="English">POKéMON\nPECHES</language>
 	</row>
 	<row id="msg_0522_T10R0101_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SINGLE\nBATTLES</language>
+		<language name="English">COMBATS SOLO</language>
 	</row>
 	<row id="msg_0522_T10R0101_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOUBLE\nBATTLES</language>
+		<language name="English">COMBATS DUO</language>
 	</row>
 	<row id="msg_0522_T10R0101_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MULTI\nBATTLES</language>
+		<language name="English">COMBATS MULTI</language>
 	</row>
 	<row id="msg_0522_T10R0101_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LINK MULTI\nBATTLES</language>
+		<language name="English">COMBATS\nMULTI LINK</language>
 	</row>
 	<row id="msg_0522_T10R0101_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WI-FI BATTLE\nROOM</language>
+		<language name="English">SALLE DE\nCOMBAT Wi-Fi</language>
 	</row>
 	<row id="msg_0522_T10R0101_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AVG WIN\nSTREAK</language>
+		<language name="English">MOYENNE VICT.\nD’AFFILEE</language>
 	</row>
 	<row id="msg_0522_T10R0101_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RETURN</language>
+		<language name="English">REVENIR</language>
 	</row>
 </body>

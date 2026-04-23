@@ -2,102 +2,102 @@
 <body language="English">
 	<row id="msg_0073_D24R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bravo!\rA promising youth who is about to start\nthe journey of archaeology has\fjust arrived!\r</language>
+		<language name="English">Hourra!!!\rVoilà une personne jeune et valeureuse,\ndécidée à se dévouer à l’archéologie!\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? Just a visitor?\nOh, I see...\fYou got me excited for nothing.</language>
+		<language name="English">Pardon? Tu es juste là pour visiter?\nAh... Ah bon...\fJe me suis réjoui trop vite...</language>
 	</row>
 	<row id="msg_0073_D24R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My staff here at the Ruins Research\nCenter is excellent, and the research\fmakes good progress with absolutely\fno effort on my part.\rIf you have any questions, feel free to\ntalk to my staff!</language>
+		<language name="English">Tous les membres de mon Centre de\nRecherche Archéologique sont brillants!\rLes découvertes se succèdent même\nquand je ne fais rien du tout!\rSi tu veux savoir quoi que ce soit,\ntu peux leur demander!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I managed to unravel quite a lot of the\nmystery of UNOWN with your help!\rThank you, thank you.\nThank you, again!</language>
+		<language name="English">Eh bien! Grâce à toi, nous avons\ncompris énormément sur le mystère\fdes ZARBI!\rMerci! Merci! Et de surcroît: merci!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ruins are about 1,500 years old.\nThat’s all we know about them.\rBut it’s not known why they were\nbuilt...or by whom.</language>
+		<language name="English">La seule chose dont on est sûrs,\nc’est que ces ruines sont celles\fd’un édifice construit il y a\fenviron 1 500 ans...\rPersonne ne sait par qui,\nni dans quel but.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, did you catch an UNOWN?\nThat’s wonderful!\rCome to think of it... How come we’ve\nsuddenly started to see UNOWN?</language>
+		<language name="English">Quoi! Tu as capturé un ZARBI?\nC’est formidable!\rMais...\nPourquoi se mettent-ils à apparaître\ftout d’un coup...?</language>
 	</row>
 	<row id="msg_0073_D24R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nThis is a big discovery!\rIt was you who solved the stone-panel\npuzzle that allowed UNOWN to appear.\rThose tablets are the key to waking\nup UNOWN!\rStill... Why would anyone make such\na key?\r</language>
+		<language name="English">Ecoute ça!\nC’est une découverte incroyable!\rEn résolvant ces puzzles, c’est toi\nqui as fait apparaître ces ZARBI!\rCes puzzles de pierre doivent servir de\nclés pour réveiller les ZARBI!\rMais...\nPourquoi avoir créé ces clés?\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nThis is a big discovery!\rIf you turn on the radio in the ruins,\nyou can receive mysterious radio waves!\rIt’s proof that UNOWN communicate\nwith each other using radio waves!\r</language>
+		<language name="English">Ecoute ça!\nC’est une découverte incroyable!\rEn allumant la radio dans les ruines,\non peut capter un bruit étrange...\rC’est la preuve que les ZARBI\ncommuniquent entre eux par ondes!\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nThis is a big discovery!\rThere are as many UNOWN as there are\nletters in the alphabet!\rThere have been 26 types confirmed.\nWhy don’t you collect them all?\r</language>
+		<language name="English">Ecoute ça!\nC’est une découverte incroyable!\rNous avons découvert qu’il existait\nautant de variétés de ZARBI que de\flettres de l’alphabet! Nous en avons\fidentifié 26 différentes pour le moment.\rCourage, essaie de toutes les\ncapturer!\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How do you like the UNOWN Report\nI gave you?\rUNOWN are recorded as you catch them.\nIt is quite useful!</language>
+		<language name="English">Est-ce que le Carnet ZARBI que je t’ai\ndonné t’est utile?\rChaque fois que tu captures un ZARBI,\nil y est automatiquement enregistré,\fc’est très pratique!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nThis is a big discovery!\rWe have figured out that UNOWN are in a\ncertain order!\fLet me see your report.\r</language>
+		<language name="English">Ecoute ça!\nC’est une découverte incroyable!\rOn vient de comprendre que les ZARBI\navaient un ordre!\fPasse-moi ton carnet un instant...\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There!\nI put the UNOWN in the correct order!\fWe may be able to tell more about them.\r</language>
+		<language name="English">Et voilà!\nJ’ai rangé les ZARBI dans le bon ordre!\rÇa nous permettra peut-être de\ndécouvrir de nouvelles choses!\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What?\nYou found a room with UNOWN symbols?\fThat is a big discovery!\rWe will study them right away.\r</language>
+		<language name="English">Comment?!\nTu as trouvé dans les ruines une salle\fdont le plancher était couvert de\fsignes ZARBI?\rC’est une découverte incroyable!\nNous partons enquêter tout de suite!\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nThis is a big discovery!\rWe have found two new UNOWN symbols!\rIt means that...\nThere must be two more kinds of UNOWN\fsomewhere...\r</language>
+		<language name="English">Ecoute ça!\nC’est une découverte incroyable!\rNous avons découvert deux nouveaux\nsignes ZARBI!\rCe qui veut dire...\nqu’il reste deux variétés de ZARBI\fencore cachées quelque part!\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to hear this!\nWe are learning more and more about the\fsymbols on the floor!\r...It seems that UNOWN were living at\nthe ruins with a human clan.\rIt is thought that this clan made the\nPokémon statues underground.\rThe UNOWN were easily scared and\nwouldn’t go outside.\rWhen more and more people started to\nappear around the ruins, the clan that\fwished to live in harmony with the UNOWN\feventually left...\rThanks to our research and your\nhelp, we have unraveled so much about\ftheir mystery!\rWe have so many things we don’t know\nleft, of course.\rArchaeology never ends.\r</language>
+		<language name="English">Ecoute ça!\nNous avons compris beaucoup de choses\fsur les signes tracés au sol!\r... Il y a très longtemps, il semble que\nles ZARBI vivaient avec une tribu\fd’humains dans ces ruines.\rC’est cette tribu qui a sculpté\nles statues de Pokémon du sous-sol.\rLes ZARBI étant peureux, ils ne\nsortaient jamais.\rLes humains se multipliaient autour\ndes ruines, il y eut de plus en plus\fd’échanges, et la tribu qui cohabitait\favec les ZARBI a quitté cet endroit...\rC’est grâce à ta coopération si nos\nrecherches ont pu aboutir et permettre\fde découvrir tout cela!\rMais nous ignorons encore tant de\nchoses... L’archéologue ne connaît\fjamais de repos!\r</language>
 	</row>
 	<row id="msg_0073_D24R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will let you know if I find out\nanything else.</language>
+		<language name="English">Si nous découvrons quoi que ce soit,\nnous te le dirons immédiatement!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} opened the UNOWN Report\nand made notes!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a pris des notes dans\nson Carnet ZARBI!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks to our research and your\nhelp, we have unraveled so much about\ftheir mystery!\rWe have so many things we don’t know\nleft, of course.\rArchaeology never ends.</language>
+		<language name="English">C’est grâce à ta coopération si nos\nrecherches ont pu aboutir et permettre\fde découvrir tout cela!\rMais nous ignorons encore tant de\nchoses... L’archéologue ne connaît\fjamais le repos!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are odd patterns drawn on the\nwalls of the ruins.\rThey must be the keys for unraveling\nthe mystery of the ruins.</language>
+		<language name="English">Les signes tracés sur les murs\nsont la clé du mystère des ruines!\r... du moins c’est ce que je crois.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The strange Pokémon you saw in\nthe ruins?\rThey appear to be very much like the\ndrawings on the walls there.\rHmm...\rThat must mean there are many\ndifferent kinds of them...</language>
+		<language name="English">Le Pokémon que tu as attrapé\nressemble aux signes sur les murs...\rHmmm...\rÇa veut dire qu’il en existerait\nun grand nombre dans ces ruines...</language>
 	</row>
 	<row id="msg_0073_D24R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nI seem to be doing nothing?\rCome on!\nI may not look it, but I’m the one who\fdeveloped the UNOWN Report!</language>
+		<language name="English">Comment?\nJ’ai l’air de ne rien faire de mon temps?\rPas du tout!\nOn dirait pas, mais c’est moi qui ai créé\fton Carnet ZARBI!</language>
 	</row>
 	<row id="msg_0073_D24R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruins of Alph\nExploration Year 10</language>
+		<language name="English">Ruines d’Alpha\nDixième année d’exploration</language>
 	</row>
 	<row id="msg_0073_D24R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mystery Pokémon\nName: UNOWN\fA total of 26 kinds found.</language>
+		<language name="English">Pokémon Mystérieux\nNom: ZARBI\fUn total de 26 variétés découvertes.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruins of Alph Research Report\rI dedicate this report to the\nResearch Center’s founder,\fProfessor Silktree...</language>
+		<language name="English">Rapport sur l’état des recherches\ndans les Ruines d’Alpha.\rEn mémoire du fondateur du Centre\nde Recherche Archéologique,\fle Professeur Lasoie.</language>
 	</row>
 	<row id="msg_0073_D24R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many academic books.\r“Mysteries of the Ancients”\n“Code-Breaking Guidebook”\f“Weathering Ruins”</language>
+		<language name="English">Il y a beaucoup de livres de science.\rLes Mystères des Civilisations Antiques,\nManuel de Déchiffrage des Codes,\fEtude des Vestiges Soumis à l’Erosion...</language>
 	</row>
 </body>

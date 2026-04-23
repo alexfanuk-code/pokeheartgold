@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0670_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Alfred</language>
+		<language name="English">Louis</language>
 	</row>
 	<row id="msg_0670_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, now that we’ve made each other’s\nacquaintance, shall we trade phone\fnumbers? {YESNO 0}</language>
+		<language name="English">Sur ce, en gage de notre amitié\nnaissante, que dirais-tu de procéder à\fl’échange de nos numéros de\ftéléphone? {YESNO 0}</language>
 	</row>
 	<row id="msg_0670_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lovely!\nNow I shall be able to call you anytime.</language>
+		<language name="English">Parfait!\nAinsi, nous pourrons prendre contact\fquand bon nous semblera!</language>
 	</row>
 	<row id="msg_0670_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\rAs to be expected, children prefer to\nspend time with others their own age...</language>
+		<language name="English">Vraiment?\rLes enfants doivent préférer rester\nentre eux...</language>
 	</row>
 	<row id="msg_0670_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t really want to trade\nphone numbers with me, do you? {YESNO 0}</language>
+		<language name="English">Aurais-tu à tout hasard changé\nd’avis? {YESNO 0}</language>
 	</row>
 	<row id="msg_0670_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s wrong? Aren’t we on the same\nfloor right now?\rWhy not talk in person?</language>
+		<language name="English">Voyons! Nous sommes si proches!\rViens donc m’entretenir de vive voix!</language>
 	</row>
 	<row id="msg_0670_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was so surprised!\nA few days ago, I received a NOCTOWL\fwhen I traded with someone.\rIt turns out that NOCTOWL was the same\none I gave away in a trade with another\fTrainer years ago!\rI guess that’s a case of “What goes\naround, comes around,” in that it came\fback to me.\rThe world is small after all!</language>
+		<language name="English">Or donc, récemment, j’ai échangé un\nNOARFANG.\rIl s’est avéré que je l’avais cédé il y a\nfort longtemps à un autre Dresseur!\rEt par un prodigieux hasard, le voici de\nretour auprès de moi!\rLe monde est décidément bien petit!</language>
 	</row>
 	<row id="msg_0670_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s kind of disappointing.\nA few days ago, I received a NOCTOWL\fwhen I traded with someone.\rIt was such a familiar NOCTOWL...\rI thought it was the NOCTOWL that I had\noriginally trained!\rIt’d somehow found its way back...\nI was so moved...\fBut when I looked closer, I saw that\fit wasn’t the NOCTOWL I thought it was.\rThat kind of thing can’t really happen\nin this world, right?</language>
+		<language name="English">Or donc, récemment, j’ai obtenu dans\nun échange un NOARFANG.\rIl me semblait bien l’avoir déjà vu\nquelque part...\rIl s’agissait d’un NOARFANG que j’avais\nélevé il y a fort longtemps!\rEt par un prodigieux hasard, le voici de\nretour auprès de moi!\r... pensais-je, mais en réalité, il\ns’agissait d’un NOARFANG que je ne\fconnaissais pas.\rLe monde n’est pas là pour exaucer\ntous nos désirs!</language>
 	</row>
 	<row id="msg_0670_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, whenever I try to catch a\nwild Pokémon, they seem to always run\faway. It’s happened so many times.\rA couple days ago a RATTATA got away\nfrom me...\rYou know, whenever I meet a person or\nPokémon, I always make sure to take off\fmy hat and introduce myself properly,\fand that’s when they run away.\rRATTATA are such impolite creatures...</language>
+		<language name="English">Il m’est arrivé plus d’une fois que le\nPokémon sauvage que je souhaitais\fattraper s’échappe.\rL’autre jour, c’est un RATTATA\nqui a décampé sans un mot!\rJuste quand je découvrais mon chef\npour lui souhaiter le bonjour!\rLes RATTATA sauvages sont d’une\nimpudence!</language>
 	</row>
 	<row id="msg_0670_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ha ha, would you like to battle again?\nI think that’s a fine idea!\rI’ll meet you at {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Ne voudrais-tu pas m’affronter\nde nouveau?\rParfait!\rJe suis dans le {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0670_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is everything all right?\nDid you forget about our appointment?\rI’m waiting at {STRVAR_1 4, 3, 0}.\nI will see you there!</language>
+		<language name="English">Voyons? Te souviens-tu de ta promesse?\rJe t’attends toujours dans le\n{STRVAR_1 4, 3, 0}, alors viens\fdonc te battre!</language>
 	</row>
 	<row id="msg_0670_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just like this, when calling a young\nperson such as yourself, you can trade\finformation.\rJust like this, Pokémon bring people\ntogether, don’t they?\rTruly, Pokémon are such\nextraordinary creatures.</language>
+		<language name="English">Ainsi, je peux communiquer avec de\njeunes personnes de ton âge pour\fbavarder échanges.\rLes Pokémon permettent vraiment de\nlier de nouvelles relations!\rCe sont décidément des êtres\nexceptionnels!</language>
 	</row>
 </body>

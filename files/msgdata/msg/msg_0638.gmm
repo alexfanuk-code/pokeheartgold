@@ -2,44 +2,44 @@
 <body language="English">
 	<row id="msg_0638_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Press the A Button to save a Battle\nVideo of this battle.</language>
+		<language name="English">Appuyez sur le bouton A pour\nsauvegarder la Vidéo de combat.</language>
 	</row>
 	<row id="msg_0638_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to save the last battle\nas your Battle Video?</language>
+		<language name="English">Voulez-vous enregistrer la vidéo du\ndernier combat sur le Magnéto VS?</language>
 	</row>
 	<row id="msg_0638_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Delete your existing Battle Video and\nsave the last battle?</language>
+		<language name="English">Effacer la Vidéo de combat précédente\npour enregistrer ce combat?</language>
 	</row>
 	<row id="msg_0638_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0638_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0638_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please wait a moment.</language>
+		<language name="English">Veuillez patienter.</language>
 	</row>
 	<row id="msg_0638_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Video has been saved.</language>
+		<language name="English">La Vidéo de combat a été sauvegardée.</language>
 	</row>
 	<row id="msg_0638_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There was an error.\nThe Battle Video couldn’t be saved.</language>
+		<language name="English">Une erreur est survenue.\nLa sauvegarde a échoué.</language>
 	</row>
 	<row id="msg_0638_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Sauvegarde en cours...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0638_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Awaiting your friend’s decision.\nPlease wait.</language>
+		<language name="English">En attente d’une réponse de votre ami.\nVeuillez patienter.</language>
 	</row>
 </body>

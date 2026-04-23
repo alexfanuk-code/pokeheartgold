@@ -2,102 +2,102 @@
 <body language="English">
 	<row id="msg_0142_D49R0106_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the “Potential” room.\nIt is to show the infinite potential\fof both Pokémon and people.</language>
+		<language name="English">Ici se trouve la salle du\nPotentiel, où l’on célèbre l’infinie\fpuissance des Pokémon et celle\fdes humains à travers\fl’histoire du Pokéathlon.</language>
 	</row>
 	<row id="msg_0142_D49R0106_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Only the Pokéathletes who have held\nthe best record in every event\fare allowed here.\rContinue your hard work toward\nbreaking every record there is.</language>
+		<language name="English">Seuls sont admis ici les Poké Athlètes\nayant réussi à battre le record\fde chaque épreuve.\rEssayez vous aussi de dépasser\ntous les autres!</language>
 	</row>
 	<row id="msg_0142_D49R0106_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the “Friendship” room.\nPlease go ahead.</language>
+		<language name="English">Vous pouvez passer dans\nla salle de l’Amitié.</language>
 	</row>
 	<row id="msg_0142_D49R0106_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite a Pokéathlete to\ncome here!\rBut you still have a long way\nto become the Top Pokéathlete.\rShall I show you some special\ntechniques? {YESNO 0}</language>
+		<language name="English">Tu dois être sacrément balèze pour\navoir eu accès à cette pièce!\rMais tu as encore du chemin à parcourir\njusqu’au sommet des Poké Athlètes!\rTu veux que je te dévoile quelques\ntechniques secrètes? {YESNO 0}</language>
 	</row>
 	<row id="msg_0142_D49R0106_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nDo you have anything else\fyou want to know about? {YESNO 0}</language>
+		<language name="English">Salut, {STRVAR_1 3, 0, 0}!\nTu veux apprendre autre chose? {YESNO 0}</language>
 	</row>
 	<row id="msg_0142_D49R0106_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\nDo you have anything else\fyou want to know about? {YESNO 0}</language>
+		<language name="English">Salut, {STRVAR_1 3, 0, 0}!\nTu veux apprendre autre chose? {YESNO 0}</language>
 	</row>
 	<row id="msg_0142_D49R0106_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">About which course? {YESNO 0}</language>
+		<language name="English">Sur quelle épreuve de\nquel parcours? {YESNO 0}</language>
 	</row>
 	<row id="msg_0142_D49R0106_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which event would you\nlike to know about? {YESNO 0}</language>
+		<language name="English">Quelle épreuve t’intrigue? {YESNO 0}</language>
 	</row>
 	<row id="msg_0142_D49R0106_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In Hurdle Dash, timing is everything.\rYour Pokémon will pick up speed\nif you let them wait until the last\fmoment before they jump the Hurdles.\r</language>
+		<language name="English">Dans Cours’Obstacles, tout se joue\nsur le timing du saut.\rSi tu sautes juste avant de te prendre\nles pieds dans les obstacles, ça te\ffait accélérer!\rIl faut attendre le dernier moment\npour sauter!\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pennant Capture...\rThis event is not only about the\nPennants on the beach, but also\fthe ones other Pokémon have collected.\rIf you bump into them from behind,\nthey will be knocked down and your\fPokémon will grab their Pennants.\rThat’s the way experts fight.\r</language>
+		<language name="English">L’épreuve de Capture Drapeau...\rIl ne suffit pas de ramasser les\ndrapeaux sur la plage, on peut aussi\fles voler aux autres.\rSi tu percutes tes adversaires par\nderrière, ils seront sonnés, ce qui\fpermet de leur voler leurs drapeaux.\rVoilà la vraie nature de cette\népreuve!\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The key is to push other Pokémon out\nof the Circles...which may be obvious.\rActually, your Pokémon can push harder\nif you pick the right moment to tell\fthem to push.\rSo you might be able to push back\npowerful Pokémon if you give frequent\finstructions to push.\r</language>
+		<language name="English">Pour Cercle Musical, il faut\nsavoir comment et quand pousser!\rMais en fait, à l’instant précis où\ntu donnes un ordre à un Pokémon...\rIl pousse beaucoup plus fort que\nd’habitude!\rSi tu donnes tes ordres au bon moment,\ntu pourras repousser même les\fadversaires un peu plus forts que toi!\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Block Smash is not just about smashing.\rDid you ever notice that sometimes\nthere are small cracks in the Blocks?\rWell, if you can hit those cracks,\nthey break real fast!\rIf you can aim at cracks in a row,\nyour Pokémon will feel great and\fthey’ll show great potential.\rOne more thing...\rWhen you make them switch,\nflick your Pokémon upwards\ffor a quicker switch.\r</language>
+		<language name="English">Casse Roc ne consiste pas simplement\nà casser des rocs.\rAs-tu remarqué que les rochers avaient\nde petites fissures?\rIl suffit d’y concentrer ses efforts\npour les casser en un rien de temps!\rEt si tu enchaînes fissure sur fissure,\nton Pokémon sera encore plus motivé et\fparviendra à utiliser toute sa force...\rAutre chose...\nLorsque tu changes de Pokémon,\ffais-le glisser vers le haut pour aller\fplus vite.\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Disc Catch is about how long you can\nwait until you catch the Discs.\rBird Pokémon can move around in the\nair, so it’ll be easier to catch Discs\fif you form a team of bird Pokémon.\r</language>
+		<language name="English">Dans Attrap’Disques, tout dépend de\nla distance à laquelle tu attrapes\fles disques.\rEn particulier, les Pokémon Oiseaux\npeuvent bouger tout en sautant...\rUne équipe pleine de Pokémon Oiseaux\nn’aura aucun problème à tous\fles attraper!\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lamp Jump is not only about jumping.\rThere are three Pokémon bouncing\ntogether, so one Pokémon can’t jump\fwell if another comes down right when\fthe other wants to go up in the air.\rLetting them jump at the right time\nis the key.\r</language>
+		<language name="English">Il ne suffit pas de sauter au hasard\npour remporter Saute-Lumière!\rTes 3 Pokémon se trouvent sur le même\ntrampoline.\rSi l’un d’eux retombe au moment où\nl’autre se préparait à sauter, il va\fl’empêcher d’aller haut...\rIl faut les faire bondir en rythme!\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Relay Run requires well-timed switching.\rDid you notice that Pokémon start to\nsweat a little when they become tired?\rIt also indicates they have slowed down\na lot.\rYou shouldn’t allow them to sweat.\rSwitching before they start to sweat,\nthat is the key.\r</language>
+		<language name="English">Le changement d’équipier est l’élément\ncrucial de Course de Relais.\rAs-tu vu que tes Pokémon suent à\ngrosses gouttes quand ils fatiguent?\rEn fait, lorsqu’ils suent, leur vitesse\nchute; il faut les changer avant qu’ils\fen arrivent là.\rEnsuite, il est possible de changer en\nsprintant vers l’arrière pour aller plus\fvite! Garde ça à l’esprit!\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s not easy to aim for the top\nby just tackling a lot in Ring Drop.\fDo you know what a “Body Attack” is?\rI call it a Body Attack, anyway...\rYour Pokémon can actually jump\nas it moves forward.\rIf you can let your Pokémon\nBody Attack others, you can drop\fthem off the Ring altogether!\r</language>
+		<language name="English">C’est difficile de gagner un Combat\nRing-Out uniquement en taclant...\rTu sais ce qu’est le coup en plongée?\nEnfin, c’est juste le nom que je lui\fdonne... Si tu fais bouger ton Pokémon\fau moment de sauter, il ira en avant\fet poussera tout le monde d’un coup!\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Snow Throw is not just about smashing.\rAre you making sure the Snowballs\nare big?\rBigger Snowballs have a better\nchance of making other Pokémon\ffall down.\rYou can also block other Snowballs\nfrom hitting your Pokémon by having\fyour Pokémon hold on to\fsome Snowballs.\r</language>
+		<language name="English">C’est inutile de lancer plein de boules\nà Bataille Neige.\rMieux vaut prendre le temps d’en faire\ndes grosses. Elles ont plus de chances\fd’assommer l’ennemi en le touchant.\rEt il arrive aussi qu’une grosse boule\ndevant soi protège des projectiles\fadverses!\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goal Roll requires the skills of\na Pokéathlete.\rThe situation changes every second,\nbut stay calm as you instruct\fyour Pokémon.\rPositioning is key.\rI recommend keeping one at your own\nGoal to protect it--one in the middle of\fthe field for flexibility and one in\ffront of the Goal you want to\froll the ball into.\r</language>
+		<language name="English">Il n’y a pas d’épreuve où l’adresse du\nPoké Athlète est plus mise à l’épreuve\fque Balle au But.\rIl faut garder son calme et diriger\nposément ses Pokémon.\rLa clé, c’est le positionnement.\rUn Pokémon pour protéger ses buts,\nun au milieu pour réagir dès qu’une\fballe s’approche, et un près des buts\fadverses pour récolter les points!\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I hope you’ll become a Top Pokéathlete.\nGood luck!</language>
+		<language name="English">Continue à t’entraîner pour arriver\nau sommet!</language>
 	</row>
 	<row id="msg_0142_D49R0106_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Those who have won at the Pokéathlon\n100 times are commemorated here for\ftheir achievement of creating the new,\flegendary record.</language>
+		<language name="English">Le Poké Athlète aux 100 victoires\ndu Pokéathlon\rSouvenons-nous de ses exploits qui ont\ncréé une nouvelle légende.</language>
 	</row>
 	<row id="msg_0142_D49R0106_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is a cool Pokégear to commemorate\nyour 100th victory in the Pokéathlon.\rThat is your model!\nIt is a special Pokégear with\fthe Pokéathlon logo in the back.</language>
+		<language name="English">Un Pokématos incroyable, créé à votre\nimage pour célébrer vos 100 victoires\fau Pokéathlon!\rLe logo du Pokéathlon est gravé\nau dos. Quelle classe!</language>
 	</row>
 	<row id="msg_0142_D49R0106_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Those Pokéathletes who have come in\nfirst in every event at the Pokéathlon\f50 times are commemorated here for\ftheir overwhelming might and the\farrival of a new legend.</language>
+		<language name="English">Le Poké Athlète aux 50 premières\nplaces à chaque épreuve.\rCe Poké Athlète a montré que sa\nforce écrasait celle de tous\fles autres.\rSouvenons-nous ici de la naissance de\ncette nouvelle légende.</language>
 	</row>
 	<row id="msg_0142_D49R0106_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s an awesome Poké Ball to\ncommemorate your 50th victory\fin every Pokéathlon event.\rIt’s your model Poké Ball!\nThe engraving reads, “Stay on Top.”</language>
+		<language name="English">Une Poké Ball créée à votre image pour\ncélébrer vos 50 premières places\fà chaque épreuve!\rOn a gravé dessus la phrase:\n“Stay on Top”.</language>
 	</row>
 	<row id="msg_0142_D49R0106_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} checked\nthe event records.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} regarde les\nrecords par épreuves!\r</language>
 	</row>
 	<row id="msg_0142_D49R0106_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DODRIO: Keewn!</language>
+		<language name="English">DODRIO: Dridrio!</language>
 	</row>
 </body>

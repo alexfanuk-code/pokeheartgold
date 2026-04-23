@@ -2,138 +2,138 @@
 <body language="English">
 	<row id="msg_0146_D51R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: This is the {COLOR 1}Mystri Stage{COLOR 0}. The\nmythical stage built to show respect\ffor ARCEUS.\rIt is said that people used to\ncelebrate its magnificent might with\fmusic and dance.\rSome people in Johto still pass down\nthis tradition.\r</language>
+		<language name="English">Cynthia: Voici l’{COLOR 1}Autel Trismegis{COLOR 0}...\nIl s’agit de l’espace sacré construit\fpour vénérer ARCEUS.\rOn raconte que l’on représentait sa\ngigantesque puissance par des danses\fet des chants.\rIl reste à Johto certaines personnes\nqui connaissent encore cette légende.\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: This is the {COLOR 1}Mystri Stage{COLOR 0}. The\nmythical stage built to show respect\ffor ARCEUS.\rIt is said that people used to\ncelebrate its magnificent might with\fmusic and dance.\rSome people in Johto still pass down\nthis tradition.</language>
+		<language name="English">Cynthia: Voici l’{COLOR 1}Autel Trismegis{COLOR 0}...\nIl s’agit de l’espace sacré construit\fpour vénérer ARCEUS.\rOn raconte que l’on représentait sa\ngigantesque puissance par des danses\fet des chants.\rIl reste à Johto certaines personnes\nqui connaissent encore cette légende.</language>
 	</row>
 	<row id="msg_0146_D51R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: The {COLOR 1}Mystri Stage{COLOR 0} allows a\nsingle ARCEUS and nothing else to\fget on the stage...\rIf you wish to go up there, you have\nto deposit your other Pokémon in\fa PC Box at the cabin.</language>
+		<language name="English">Cynthia: Seul ARCEUS peut monter vers\nl’{COLOR 1}Autel Trismegis{COLOR 0}...\rSi tu veux y accéder, laisse tes autres\nPokémon au PC du chalet.</language>
 	</row>
 	<row id="msg_0146_D51R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: Bring your ARCEUS instead.\rAny other Pokémon may get blown away\nby the strong power lingering\fat the ruins.\r</language>
+		<language name="English">Cynthia: Emmène ton ARCEUS.\rJe crains que n’importe quel autre\nPokémon soit repoussé par la force\fincroyable qui hante ce lieu...\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: This is where one might say,\n“The lead enters the {COLOR 1}Mystri Stage{COLOR 0}\fat last.”\rAll my study of ruins and Pokémon\nmythology in Sinnoh may have been\fto bring you up on this stage\fhere today...\r</language>
+		<language name="English">Cynthia: Le seigneur de l’{COLOR 1}Autel\nTrismegis{COLOR 0} est enfin apparu...\rPeut-être ai-je étudié les légendes et\nles ruines de Sinnoh pendant toutes ces\fannées dans le seul but de te faire\fmonter sur cette estrade...\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: Depicted on the {COLOR 1}Mystri Stage{COLOR 0}\nare the Pokémon that shaped\fthis world.\rThe circle in the middle is ARCEUS,\nthe origin of it all...\r</language>
+		<language name="English">Cynthia: Les 3 Pokémon qui ont créé le\nmonde sont peints sur\fl’{COLOR 1}Autel Trismegis{COLOR 0}...\rLe cercle au centre représente la\nsource de toute chose, ARCEUS...\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: According to an ancient\ndocument, time, space, and antimatter,\for what combined we call the world,\fshall be born when ARCEUS stands\fon the {COLOR 1}Mystri Stage{COLOR 0}.\r</language>
+		<language name="English">Cynthia: Dans les anciens textes, il est\ndit ceci: “ARCEUS s’est dressé sur\fl’{COLOR 1}Autel Trismegis{COLOR 0}, et alors le temps...\fl’espace...\fet l’antimatière...\fbref, le monde même est né.”\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: This is the pattern that\nrepresents PALKIA, the master of\fspace and dimensions...\r</language>
+		<language name="English">Cynthia: Voici le symbole de PALKIA,\nmaître de l’espace et des dimensions...\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: This is the pattern that\nrepresents DIALGA, the guardian\fof time...\r</language>
+		<language name="English">Cynthia: Et voici le symbole de DIALGA,\nmaître du temps...\rEt enfin...\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: This is the pattern that\nrepresents GIRATINA, the ruler of\fthe world that is on the opposite side\fof ours, the world of antimatter...\r</language>
+		<language name="English">Cynthia: Voici celui de GIRATINA...\nLe maître du monde opposé au nôtre,\fl’antimatière du temps et de l’espace...\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: ARCEUS has accepted you as\na Trainer.\rARCEUS, having shaped the world,\nis said to show you a glimpse of\fits true power.\rThe power of possibly making life\nappear out of nothing...\r</language>
+		<language name="English">Cynthia: Tu es le Dresseur dont ARCEUS\na reconnu les mérites.\rARCEUS, après avoir créé l’univers,\nvoulut montrer une fraction\fde son pouvoir, dit-on.\rEt je pense que cette démonstration\nconsistait à créer une vie nouvelle\fà partir de rien...!\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: It seems that something\nwill happen when you choose one\fof the circles...\rYou’ll want to be well prepared.</language>
+		<language name="English">Cynthia: Lorsque tu choisiras l’un des\ntrois cercles, quelque chose devrait\fse produire...\rRéfléchis bien avant de prendre la\nmoindre décision.</language>
 	</row>
 	<row id="msg_0146_D51R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: Once you are ready, choose a\ncircle and stand in the middle of it.</language>
+		<language name="English">Cynthia: Lorsque tu voudras, il te\nsuffira de choisir l’un des cercles.\rTiens-toi au centre de celui que tu\nauras choisi.</language>
 	</row>
 	<row id="msg_0146_D51R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: So you choose DIALGA,\nthe guardian of time? {YESNO 0}</language>
+		<language name="English">Cynthia: Choisis-tu DIALGA,\nmaître du temps? {YESNO 0}</language>
 	</row>
 	<row id="msg_0146_D51R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: So you choose PALKIA, the\nmaster of space and dimensions? {YESNO 0}</language>
+		<language name="English">Cynthia: Choisis-tu PALKIA,\nmaître de l’espace? {YESNO 0}</language>
 	</row>
 	<row id="msg_0146_D51R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: So you choose GIRATINA,\nthe ruler of the Distortion World? {YESNO 0}</language>
+		<language name="English">Cynthia: Choisis-tu GIRATINA,\nroi du Monde Distorsion? {YESNO 0}</language>
 	</row>
 	<row id="msg_0146_D51R0201_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: That shining sphere...\nCould it be...an Egg?\rDid we just witness the very moment\nan Egg was brought to this world?\fA moment no one has ever seen?\r</language>
+		<language name="English">Cynthia: Cette sphère brillante...\nSerait-ce...\f... Un Oeuf...?\rAurions-nous assisté à la création d’un\nOeuf absolument unique au monde...?\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: An Egg is the cradle of every\nbeing. This planet itself is an Egg\fin a sense...\rLife that comes from an Egg will\ncome to an end in due course...\fto begin anew...\rThat may be what ARCEUS\nwanted to show us.\r\n</language>
+		<language name="English">Cynthia: Un œuf est le berceau qui\ngarde toutes les possibilités d’une vie.\rCette planète où nous vivons est elle\naussi un œuf, à sa façon...\rLes vies qui sortent de l’œuf\ns’éteignent un jour,\fpuis\freviennent sous d’autres formes...\rPeut-être que c’est ce que ARCEUS\nvoulait nous montrer là...\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: That was...?\r</language>
+		<language name="English">Cynthia: Que s’est-il...\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: We seem to be surrounded by\nthat strong power again...!\r</language>
+		<language name="English">Cynthia: La grande puissance de\ntout à l’heure se concentre...!\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: Of course... ARCEUS!\rSo the source of the power I’ve felt\nwas ARCEUS!\r</language>
+		<language name="English">Cynthia: Bien sûr... ARCEUS!\rC’était lui, la source de cette\npuissance que j’avais sentie!\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: What is now the {COLOR 1}Sinjoh Ruins\n{COLOR 0}was built to honor ARCEUS by the\fSinnoh people...\rIt’s an icebound temple that has been\nwaiting for ARCEUS for hundreds\fof years...\r</language>
+		<language name="English">Cynthia: Les {COLOR 1}Ruines Sinjoh{COLOR 0} ont été\nbâties par les peuples de Sinnoh pour\fvénérer ARCEUS...\rIl a été fêté ici pendant des siècles\navant que le temple ne soit pris\fdans la glace...\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: This is the {COLOR 1}Mystri Stage{COLOR 0}.\rIt is designed to bring out the power\nARCEUS possesses.\r</language>
+		<language name="English">Cynthia: Voici l’{COLOR 1}Autel Trismegis{COLOR 0}.\rCet endroit a été créé pour permettre\nà ARCEUS de déployer sa puissance.\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: ARCEUS is described in\nmythology as being the origin of\feverything and the source of\fall beings.\rIt is said that the power of ARCEUS\nis released on the {COLOR 1}Mystri Stage{COLOR 0}!\r</language>
+		<language name="English">Cynthia: ARCEUS est le commencement\nde tout ce qui est.\rIl a créé l’espace,\ntoutes les formes de vies...\rDans les légendes, on dit qu’il déployait\nsa puissance depuis le sommet\fde l’{COLOR 1}Autel Trismegis{COLOR 0}.\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: The {COLOR 1}Sinjoh Ruins{COLOR 0} are what\nremains of a temple built to show\frespect for ARCEUS.</language>
+		<language name="English">Cynthia: Ces {COLOR 1}Ruines Sinjoh{COLOR 0} sont un\ntemple bâti pour vénérer ARCEUS.</language>
 	</row>
 	<row id="msg_0146_D51R0201_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The mysterious round object\ntook the shape of a Pokémon!\r</language>
+		<language name="English">L’Oeuf mystérieux est devenu\nun Pokémon!\r</language>
 	</row>
 	<row id="msg_0146_D51R0201_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} obtained\nthe {STRVAR_1 0, 1, 0}!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit {STRVAR_1 0, 1, 0}!</language>
 	</row>
 	<row id="msg_0146_D51R0201_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will you choose DIALGA? {YESNO 0}</language>
+		<language name="English">Choisissez-vous DIALGA? {YESNO 0}</language>
 	</row>
 	<row id="msg_0146_D51R0201_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will you choose PALKIA? {YESNO 0}</language>
+		<language name="English">Choisissez-vous PALKIA? {YESNO 0}</language>
 	</row>
 	<row id="msg_0146_D51R0201_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will you choose GIRATINA? {YESNO 0}</language>
+		<language name="English">Choisissez-vous GIRATINA? {YESNO 0}</language>
 	</row>
 	<row id="msg_0146_D51R0201_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This place does not seem to respond...</language>
+		<language name="English">Cet endroit ne réagit plus...</language>
 	</row>
 	<row id="msg_0146_D51R0201_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It seems that only a single ARCEUS\ncan stand here...</language>
+		<language name="English">Seul ARCEUS peut pénétrer ici...!</language>
 	</row>
 	<row id="msg_0146_D51R0201_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to give a nickname\nto the {STRVAR_1 0, 1, 0}? {YESNO 0}</language>
+		<language name="English">Voulez-vous donner un surnom au\n{STRVAR_1 0, 1, 0} obtenu? {YESNO 0}</language>
 	</row>
 	<row id="msg_0146_D51R0201_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It seems it no longer responds\nto this ARCEUS...</language>
+		<language name="English">Cet endroit ne réagit plus à\ncet ARCEUS...!</language>
 	</row>
 </body>

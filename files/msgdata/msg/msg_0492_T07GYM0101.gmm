@@ -2,30 +2,30 @@
 <body language="English">
 	<row id="msg_0492_T07GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Hello...\nLovely weather, isn’t it?\rIt’s so pleasant...\nI’m afraid I might doze off...\rMy name is Erika.\nI am the Leader of Celadon Gym.\r...Oh? You are from Johto, you say?\fHow nice...\rOh. I’m sorry, I didn’t realize that\nyou wished to challenge me.\rI know.\rI have been training myself on\nnot only flower arrangement\fbut also Pokémon battle.\rI shall not lose.\r</language>
+		<language name="English">Erika: Bien le bonjour...\nLe temps est admirable, aujourd’hui...\rOn a envie de fermer les yeux et de\nse laisser glisser...\rMoi je suis Erika, Champion de l’Arène\nde Céladopole.\r... Oh? Tu viens de Johto?\nQuel honneur! Enchantée!\rBien sûr, tu es là pour te battre...\rCela me servira d’entraînement à la fois\nen dressage et en arrangement floral.\rEn garde!\r</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Oh!\nI concede defeat...\rYou are remarkably strong...\nI shall give you the Rainbow Badge...\r</language>
+		<language name="English">Erika: J’ai perdu...\nTu es incroyable!\rJe dois donc te donner ce Badge Prisme.\r</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Rainbow Badge.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit le Badge Prisme\nd’Erika!</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: That was a delightful match.\nI felt inspired.\rPlease, I wish you to have this TM19\nas a special token.\rIt is Giga Drain.\nIt is a wonderful move that drains\fhalf the damage it inflicts to heal\fyour Pokémon.\rIt is indeed a horrifying move.\r</language>
+		<language name="English">Erika: C’était une superbe rencontre.\nJ’en ai été fort émue.\rJe tiens à ce que tu acceptes ceci.\nC’est la CT de Giga-Sangsue.\rCette capacité draine la moitié\ndes dégâts infligés pour soigner\fton Pokémon. Vraiment incroyable...\r</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Losing leaves a\nbitter aftertaste...\rBut knowing that there are strong\nTrainers spurs me to do better...</language>
+		<language name="English">Erika: C’est toujours un peu triste\nde perdre un combat...\rMais c’est aussi stimulant de\nrencontrer un adversaire\fvraiment puissant.</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon City Pokémon Gym</language>
+		<language name="English">Arène de Céladopole</language>
 	</row>
 	<row id="msg_0492_T07GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon City Pokémon Gym\rGym Leader: Erika\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Arène de Céladopole\rChampion: Erika\nDresseur estimé:\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

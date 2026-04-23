@@ -6,38 +6,38 @@
 	</row>
 	<row id="msg_0278_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Supreme</language>
+		<language name="English">Cracks</language>
 	</row>
 	<row id="msg_0278_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">㊚</language>
+		<language name="English">♂</language>
 	</row>
 	<row id="msg_0278_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">㊛</language>
+		<language name="English">♀</language>
 	</row>
 	<row id="msg_0278_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Power</language>
+		<language name="English">Force</language>
 	</row>
 	<row id="msg_0278_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stamina</language>
+		<language name="English">Endurance</language>
 	</row>
 	<row id="msg_0278_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skill</language>
+		<language name="English">Habileté</language>
 	</row>
 	<row id="msg_0278_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jump</language>
+		<language name="English">Saut</language>
 	</row>
 	<row id="msg_0278_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speed</language>
+		<language name="English">Vitesse</language>
 	</row>
 	<row id="msg_0278_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Medals won by\n{STRVAR_1 0, 0, 0}</language>
+		<language name="English">Médailles de\n{STRVAR_1 0, 0, 0}</language>
 	</row>
 </body>

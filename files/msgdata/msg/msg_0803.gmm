@@ -7,1974 +7,1974 @@
 	</row>
 	<row id="msg_0803_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The seed on its back is filled\nwith nutrients. The seed grows\nsteadily larger as its body grows.</language>
+		<language name="English">La graine sur son dos est gorgée\nde nutriments. Elle grossit en\nconséquence de sa croissance.</language>
 	</row>
 	<row id="msg_0803_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Exposure to sunlight adds to its\nstrength. Sunlight also makes the\nbud on its back grow larger.</language>
+		<language name="English">La lumière du soleil le rend plus\nfort et vigoureux. Le bulbe sur\nson dos grossit en conséquence.</language>
 	</row>
 	<row id="msg_0803_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By spreading the broad petals of\nits flower and catching the sun’s\nrays, it fills its body with power.</language>
+		<language name="English">Ses pétales lui servent à capter\nla lumière du soleil. Il peut\nainsi en canaliser l’énergie.</language>
 	</row>
 	<row id="msg_0803_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The flame on its tail shows the\nstrength of its life force. If it is weak,\nthe flame also burns weakly.</language>
+		<language name="English">La flamme au bout de sa queue montre\nla vivacité de son énergie. S’il est\nfaible, sa flamme sera petite.</language>
 	</row>
 	<row id="msg_0803_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is very hotheaded by nature,\nso it constantly seeks opponents.\nIt calms down only when it wins.</language>
+		<language name="English">Il a le sang chaud de par sa nature.\nIl est constamment à la recherche de\nnouveaux adversaires.</language>
 	</row>
 	<row id="msg_0803_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If CHARIZARD becomes furious,\nthe flame at the tip of its tail flares\nup in a light blue shade.</language>
+		<language name="English">Quand DRACAUFEU s’énerve, la flamme\nau bout de sa queue brille d’une\nlueur blanche avec des reflets bleus.</language>
 	</row>
 	<row id="msg_0803_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The shell is soft when it is born.\nIt soon becomes so resilient,\nprodding fingers will bounce off it.</language>
+		<language name="English">Sa carapace est molle à la\nnaissance, mais elle devient de\nplus en plus dure avec l’âge.</language>
 	</row>
 	<row id="msg_0803_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is a well-established symbol of\nlongevity. If its shell has algae on it,\nthat WARTORTLE is very old.</language>
+		<language name="English">Il est considéré comme un symbole\nde longévité. Les algues accrochées\nà sa carapace indiquent son âge.</language>
 	</row>
 	<row id="msg_0803_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It deliberately makes itself heavy\nso it can withstand the recoil\nof the water jets it fires.</language>
+		<language name="English">Il devient énorme afin de supporter\nle puissant recul provoqué par le\ntir de ses Hydrocanons.</language>
 	</row>
 	<row id="msg_0803_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For protection, it releases a horrible\nstench from the antennae on its\nhead to drive away enemies.</language>
+		<language name="English">Pour se protéger, il émet un gaz\npuant par ses antennes, qui fait\nfuir ses ennemis audacieux.</language>
 	</row>
 	<row id="msg_0803_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Inside the shell, it is soft and\nweak as it prepares to evolve.\nIt stays motionless in the shell.</language>
+		<language name="English">Son corps, sous sa carapace, est\nmou et tendre. Il reste immobile\nen attendant d’évoluer.</language>
 	</row>
 	<row id="msg_0803_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It collects honey every day. It rubs\nhoney onto the hairs on its legs\nto carry it back to its nest.</language>
+		<language name="English">Il ramasse du miel chaque jour et\nil l’agglutine sur les poils de ses\npattes pour le transporter.</language>
 	</row>
 	<row id="msg_0803_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its poison stinger is very powerful.\nIts bright-colored body is intended\nto warn off its enemies.</language>
+		<language name="English">Son aiguillon empoisonné est très\ndangereux. Son corps est coloré\nafin de repousser ses ennemis.</language>
 	</row>
 	<row id="msg_0803_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Although it is a cocoon, it can\nmove a little. It can extend its\npoison barb if it is attacked.</language>
+		<language name="English">Bien qu’il ne soit qu’un cocon, il\npeut se déplacer lentement. Il se\ndéfend avec une pique empoisonnée.</language>
 	</row>
 	<row id="msg_0803_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can take down any opponent with\nits powerful poison stingers.\nIt sometimes attacks in swarms.</language>
+		<language name="English">Il peut venir à bout de ses\nadversaires grâce à ses aiguillons.\nIl attaque souvent en nuées.</language>
 	</row>
 	<row id="msg_0803_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It usually hides in tall grass.\nBecause it dislikes fighting,\nit protects itself by kicking up sand.</language>
+		<language name="English">Il se cache dans les hautes\nherbes et n’aime pas se battre.\nIl se défend en jetant du sable.</language>
 	</row>
 	<row id="msg_0803_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has outstanding vision. However\nhigh it flies, it is able to distinguish\nthe movements of its prey.</language>
+		<language name="English">Il possède une très bonne vue qui\nlui permet de distinguer ses\nproies d’une très haute altitude.</language>
 	</row>
 	<row id="msg_0803_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its well-developed chest muscles make\nit strong enough to whip up a gusty\nwindstorm with just a few flaps.</language>
+		<language name="English">Son torse est si musclé que le\nmoindre battement d’ailes peut\ncréer de terribles tourbillons.</language>
 	</row>
 	<row id="msg_0803_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It eats anything. Wherever food is\navailable, it will settle down and\nproduce offspring continuously.</language>
+		<language name="English">Ils s’installent en colonies dans\ndes endroits qui regorgent de\nnourriture et se multiplient.</language>
 	</row>
 	<row id="msg_0803_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gnaws on anything with its tough\nfangs. It can even topple concrete\nbuildings by gnawing on them.</language>
+		<language name="English">Sa morsure est redoutable. Ses\nterribles crocs peuvent ronger\nles fondations des immeubles.</language>
 	</row>
 	<row id="msg_0803_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It flaps its short wings to flush out\ninsects from tall grass. It then\nplucks them with its stubby beak.</language>
+		<language name="English">Il bat des ailes pour éjecter les\ninsectes réfugiés dans les herbes\net les picore ensuite avec son bec.</language>
 	</row>
 	<row id="msg_0803_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It shoots itself suddenly high into\nthe sky, then plummets down in\none fell swoop to strike its prey.</language>
+		<language name="English">Il se propulse en l’air d’un\ncoup d’aile pour fondre en un\npiqué foudroyant sur sa proie.</language>
 	</row>
 	<row id="msg_0803_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can freely detach its jaw to\nswallow large prey whole. It can\nbecome too heavy to move, however.</language>
+		<language name="English">Sa mâchoire peut se désarticuler\nafin d’avaler de larges proies. Il\ndevient alors trop gros pour bouger.</language>
 	</row>
 	<row id="msg_0803_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Transfixing prey with the face-like\npattern on its belly, it binds\nand poisons the frightened victim.</language>
+		<language name="English">Hypnotisant sa victime avec les\nmotifs dessinés sur son ventre,\nil peut ensuite l’empoisonner.</language>
 	</row>
 	<row id="msg_0803_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This intelligent Pokémon roasts\nhard berries with electricity to\nmake them tender enough to eat.</language>
+		<language name="English">Ce Pokémon rusé électrifie les\nfruits pas assez mûrs pour les\nrendre tendres et bons à manger.</language>
 	</row>
 	<row id="msg_0803_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When its electricity builds, its\nmuscles are stimulated, and it becomes\nmore aggressive than usual.</language>
+		<language name="English">Quand son taux d’énergie monte,\nses muscles se contractent et il\ndevient plus agressif.</language>
 	</row>
 	<row id="msg_0803_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it fell from a great height, this\nPokémon could save itself by rolling\ninto a ball and bouncing.</language>
+		<language name="English">S’il tombe de haut, il peut\namortir sa chute en se roulant\nen boule pour ainsi rebondir.</language>
 	</row>
 	<row id="msg_0803_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In an attempt to hide itself,\nit will run around at top speed to\nkick up a blinding dust storm.</language>
+		<language name="English">S’il est menacé, il se met à courir\nfrénétiquement pour soulever un\nnuage de poussière aveuglant.</language>
 	</row>
 	<row id="msg_0803_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The poison hidden in its small horn\nis extremely potent. Even a tiny\nscratch can have fatal results.</language>
+		<language name="English">Un poison très puissant suinte de\nses piquants. Une égratignure peut\ncauser un empoisonnement fatal.</language>
 	</row>
 	<row id="msg_0803_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When feeding its young, it first\nchews the food into a paste, then\nspits it out for the offspring.</language>
+		<language name="English">Pour nourrir ses petits, il mâche\nles aliments pour les rendre tendres\net il les recrache à ses bébés.</language>
 	</row>
 	<row id="msg_0803_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its body is covered with needle-like\nscales. It never shows signs\nof shrinking from any attack.</language>
+		<language name="English">Son corps est couvert de pointes\nformant une carapace très\nrésistante qui le protège en combat.</language>
 	</row>
 	<row id="msg_0803_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is small, but its horn is filled\nwith poison. It charges then stabs\nwith the horn to inject poison.</language>
+		<language name="English">Il est tout petit, mais ses piquants\nsont enduits d’un poison fulgurant\nqu’il inocule en chargeant.</language>
 	</row>
 	<row id="msg_0803_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It raises its big ears to check its\nsurroundings. If it senses anything,\nit attacks immediately.</language>
+		<language name="English">Il dresse ses oreilles à l’affût\nd’un bruit suspect et attaque\ntoute menace se rapprochant de lui.</language>
 	</row>
 	<row id="msg_0803_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It swings its big tail around during\nbattle. If its foe flinches, it will\ncharge with its sturdy body.</language>
+		<language name="English">Il bouscule ses ennemis de sa\npuissante queue et les charge\nensuite pour les écraser au sol.</language>
 	</row>
 	<row id="msg_0803_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The moonlight that it stores in the\nwings on its back apparently gives\nit the ability to float in midair.</language>
+		<language name="English">La lumière de la lune qu’il emmagasine\ndans ses ailes dorsales lui permet de\nflotter dans les airs.</language>
 	</row>
 	<row id="msg_0803_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With its acute hearing, it can\npick up sounds from far away.\nIt usually hides in quiet places.</language>
+		<language name="English">Son ouïe très fine lui permet\nd’entendre des sons distants. Il\nse cache dans des endroits isolés.</language>
 	</row>
 	<row id="msg_0803_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">As it develops, its single white\ntail gains color and splits into six.\nIt is quite warm and cuddly.</language>
+		<language name="English">Quand il grandit, sa queue blanche\nse colore et se divise en six. Il\nest gentil, doux et câlin.</language>
 	</row>
 	<row id="msg_0803_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some legends claim that each of its\nnine tails has its own unique type\nof special mystical power.</language>
+		<language name="English">Selon la légende, chacune de ses\nneuf queues possède un pouvoir\nmagique, unique et spécial.</language>
 	</row>
 	<row id="msg_0803_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it inflates to sing a lullaby,\nit can perform longer and cause\nsure drowsiness in its audience.</language>
+		<language name="English">En se gonflant, il peut chanter\nune longue berceuse qui endort\ninévitablement ses adversaires.</language>
 	</row>
 	<row id="msg_0803_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Their fur feels so good that if two\nof them snuggle together,\nthey won’t want to be separated.</language>
+		<language name="English">Leur fourrure est si douce que\ns’ils se font des câlins ils ne\nvoudront plus se séparer.</language>
 	</row>
 	<row id="msg_0803_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">While flying, it constantly emits\nultrasonic waves from its mouth to\ncheck its surroundings.</language>
+		<language name="English">Il émet des ultrasons avec sa\nbouche pour se repérer dans\nles environs pendant qu’il vole.</language>
 	</row>
 	<row id="msg_0803_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">However hard its victim’s hide may be,\nit punctures with sharp fangs\nand gorges itself with blood.</language>
+		<language name="English">Sa morsure peut percer l’épiderme\nle plus dur. Il peut ainsi boire le\nsang de ses ennemis.</language>
 	</row>
 	<row id="msg_0803_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Awakened by moonlight, it roams\nactively at night. In the day, it stays\nquietly underground.</language>
+		<language name="English">La lumière de la lune le rend\ntrès actif. Pendant la journée,\nil se dissimule sous la terre.</language>
 	</row>
 	<row id="msg_0803_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What appears to be drool is actually\nsweet honey. It is very sticky and\nclings stubbornly if touched.</language>
+		<language name="English">Ce qui semble être sa bave est en\nfait du miel très collant. Si on le\ntouche, il adhère fortement.</language>
 	</row>
 	<row id="msg_0803_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has the world’s largest petals.\nWith every step, the petals shake\nout heavy clouds of toxic pollen.</language>
+		<language name="English">Il possède des pétales énormes.\nA chaque pas ils sèment d’épais\nnuages de pollen toxique.</language>
 	</row>
 	<row id="msg_0803_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is doused with mushroom spores\nwhen it is born. As its body grows,\nmushrooms sprout from its back.</language>
+		<language name="English">Il est couvert de spores à la naissance\nqui se transforment en champignons\nquand il grandit.</language>
 	</row>
 	<row id="msg_0803_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It stays mostly in dark, damp places,\nthe preference not of the bug, but\nof the big mushroom on its back.</language>
+		<language name="English">Il se cache dans les endroits sombres\net humides pour s’accommoder aux\nexigences de ses champignons.</language>
 	</row>
 	<row id="msg_0803_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its eyes also function as radar\nunits. It catches and eats small\nbugs that hide in darkness.</language>
+		<language name="English">Ses yeux fonctionnent comme des\nradars. Il se nourrit de petits\ninsectes cachés dans le noir.</language>
 	</row>
 	<row id="msg_0803_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it attacks, it flaps its large\nwings violently to scatter its\npoisonous powder all around.</language>
+		<language name="English">Il bat des ailes violemment pour\nprojeter des poudres empoisonnées\nvers ses adversaires.</language>
 	</row>
 	<row id="msg_0803_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its skin is very thin. If it is exposed\nto light, its blood heats up,\ncausing it to grow weak.</language>
+		<language name="English">Son épiderme est très fin. S’il est\nexposé au soleil, son sang se\nréchauffe, ce qui l’affaiblit.</language>
 	</row>
 	<row id="msg_0803_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its three heads bob separately up\nand down to loosen the soil nearby,\nmaking it easier for it to burrow.</language>
+		<language name="English">Ses trois têtes pilonnent le sol\npour le rendre friable et\nainsi le creuser plus facilement.</language>
 	</row>
 	<row id="msg_0803_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is fascinated by round objects.\nIt can’t stop playing with them\nuntil it tires and falls asleep.</language>
+		<language name="English">Il est fasciné par les objets\nronds et ne peut pas s’empêcher\nde jouer jusqu’à l’épuisement.</language>
 	</row>
 	<row id="msg_0803_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Many adore it for its sophisticated air.\nHowever, it will lash out and\nscratch for little reason.</language>
+		<language name="English">Très apprécié pour son air\nsophistiqué, il est très capricieux\net se met à griffer pour un rien.</language>
 	</row>
 	<row id="msg_0803_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has mystical powers but doesn’t\nrecall that it has used them.\nThat is why it always looks puzzled.</language>
+		<language name="English">Il ne se souvient pas qu’il a\ndes pouvoirs psy. C’est pour\ncela qu’il a l’air si confus.</language>
 	</row>
 	<row id="msg_0803_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it swims at full speed using\nits long, webbed limbs, its forehead\nsomehow begins to glow.</language>
+		<language name="English">Quand il nage à vitesse maximale\ngrâce à ses pattes palmées, son\nfront émet une lueur étrange.</language>
 	</row>
 	<row id="msg_0803_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is extremely ill-tempered.\nGroups of them will attack any\nhandy target for no reason.</language>
+		<language name="English">Agressif et de mauvais caractère,\nil attaque ses proies en bande dès\nqu’il en repère une à proximité.</language>
 	</row>
 	<row id="msg_0803_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If approached while asleep,\nit may awaken and angrily give chase\nin a groggy state of semi-sleep.</language>
+		<language name="English">Dérangé dans son sommeil, il peut\nse défendre comme une furie alors\nqu’il est encore à moitié endormi.</language>
 	</row>
 	<row id="msg_0803_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has a brave and trustworthy\nnature. It fearlessly stands up\nto bigger and stronger foes.</language>
+		<language name="English">Il est courageux et fier. Il se\ndresse vaillamment devant ses\nennemis même s’ils sont plus puissants.</language>
 	</row>
 	<row id="msg_0803_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This legendary Chinese Pokémon is\nconsidered magnificent. Many people\nare enchanted by its grand mane.</language>
+		<language name="English">Ce Pokémon légendaire en Chine\na une crinière si somptueuse qu’il\nest vénéré par certains.</language>
 	</row>
 	<row id="msg_0803_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Because it is inept at walking on\nits newly grown legs, it always \nswims around in water.</language>
+		<language name="English">A la naissance, ses jambes ne peuvent\nle supporter. C’est pour cela qu’il ne\nfait que nager dans l’eau.</language>
 	</row>
 	<row id="msg_0803_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The swirl on its belly subtly undulates.\nStaring at it may gradually\ncause drowsiness.</language>
+		<language name="English">Le tourbillon sur son ventre bouge\nlégèrement. Le regarder longtemps\npeut engendrer une somnolence.</language>
 	</row>
 	<row id="msg_0803_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This strong and skilled swimmer is\neven capable of crossing the\nPacific Ocean just by kicking.</language>
+		<language name="English">Ce puissant nageur pourrait\ntraverser l’océan Pacifique en\nquelques battements de pieds.</language>
 	</row>
 	<row id="msg_0803_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It senses impending attacks and\nteleports away to safety before the\nactual attacks can strike.</language>
+		<language name="English">Il prévoit les attaques futures\net se téléporte pour se mettre\nà l’abri et éviter le combat.</language>
 	</row>
 	<row id="msg_0803_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It possesses strong spiritual power.\nThe more danger it faces,\nthe stronger its psychic power.</language>
+		<language name="English">Il est doté de puissants pouvoirs\npsy qui s’adaptent à la force des\nennemis qu’il rencontre.</language>
 	</row>
 	<row id="msg_0803_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Closing both its eyes heightens all\nits other senses. This enables it to\nuse its abilities to their extremes.</language>
+		<language name="English">En fermant ses yeux, il aiguise\nses autres sens, ce qui lui permet\nd’augmenter ses pouvoirs.</language>
 	</row>
 	<row id="msg_0803_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Always brimming with power,\nit passes time by lifting boulders.\nDoing so makes it even stronger.</language>
+		<language name="English">Toujours en train de s’entraîner,\nil passe son temps à soulever des\npoids pour devenir plus puissant.</language>
 	</row>
 	<row id="msg_0803_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It always goes at its full power,\nbut this very tough and durable\nPokémon never gets tired.</language>
+		<language name="English">Il se donne toujours à fond, mais\nce Pokémon ne se fatigue jamais.\nIl est très résistant à l’effort.</language>
 	</row>
 	<row id="msg_0803_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It quickly swings its four arms to\nrock its opponents with ceaseless\npunches and chops from all angles.</language>
+		<language name="English">Il balance ses quatre bras avec\nviolence pour broyer son\nadversaire sous une pluie de coups.</language>
 	</row>
 	<row id="msg_0803_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Even though its body is extremely\nskinny, it is blindingly fast\nwhen catching its prey.</language>
+		<language name="English">Même si son corps est très frêle,\nce Pokémon est extrêmement rapide\nquand il attaque ses adversaires.</language>
 	</row>
 	<row id="msg_0803_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Even though it is filled with acid,\nit does not melt because it also\noozes a protective fluid.</language>
+		<language name="English">Il sécrète de l’acide qui ne\nle consume pas car il produit aussi\nun élément qui le neutralise.</language>
 	</row>
 	<row id="msg_0803_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Acid that has dissolved many prey\nbecomes sweeter, making it even\nmore effective at attracting prey.</language>
+		<language name="English">Son acide devient plus doux\navec le temps, ce qui le rend\nplus attractif pour son gibier.</language>
 	</row>
 	<row id="msg_0803_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When the tide goes out, dehydrated\nTENTACOOL remains can be found\nwashed up on the shore.</language>
+		<language name="English">Quand la marée descend, il est\nassez fréquent de retrouver des\nTENTACOOL échoués sur le sable.</language>
 	</row>
 	<row id="msg_0803_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its 80 tentacles absorb water and\nstretch almost endlessly to\nconstrict its prey and enemies.</language>
+		<language name="English">Ses 80 tentacules absorbent de\nl’eau et s’étirent sans fin pour\nenserrer et capturer ses adversaires.</language>
 	</row>
 	<row id="msg_0803_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Most people may not notice,\nbut a closer look should reveal that\nthere are many GEODUDE around.</language>
+		<language name="English">On ne les remarque généralement pas,\nmais nous sommes en fait entourés\npar des colonies de RACAILLOU.</language>
 	</row>
 	<row id="msg_0803_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With a free and uncaring nature,\nit doesn’t mind if pieces break off\nwhile it rolls down mountains.</language>
+		<language name="English">D’une nature téméraire, il se moque\nde perdre des parties de son\ncorps quand il dévale les pentes.</language>
 	</row>
 	<row id="msg_0803_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It sheds its skin once a year.\nThe discarded shell immediately\nhardens and crumbles away.</language>
+		<language name="English">Il change de peau une fois par an.\nSa vieille armure se durcit alors\net tombe en poussière.</language>
 	</row>
 	<row id="msg_0803_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is a weak runner immediately\nafter birth. It gradually becomes\nfaster by chasing after its parents.</language>
+		<language name="English">A la naissance, il ne court pas très\nvite. Il devient de plus en plus\nrapide en courant après ses parents.</language>
 	</row>
 	<row id="msg_0803_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At full gallop, its four hooves\nbarely touch the ground because\nit moves so incredibly fast.</language>
+		<language name="English">Quand il galope, ses sabots frôlent\nà peine le sol, ce qui donne\nl’impression qu’il glisse sur le vent.</language>
 	</row>
 	<row id="msg_0803_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lazes vacantly near water.\nIf something bites its tail, it won’t\neven notice for a whole day.</language>
+		<language name="English">Il est tellement paresseux qu’il\nlui faut une journée pour\nremarquer qu’on lui mord la queue.</language>
 	</row>
 	<row id="msg_0803_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If the tail-biting SHELLDER is thrown\noff in a harsh battle, it reverts to\nbeing an ordinary SLOWPOKE.</language>
+		<language name="English">Si pendant un combat le KOKIYAS\naccroché à sa queue est arraché,\nil redevient un RAMOLOSS.</language>
 	</row>
 	<row id="msg_0803_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is attracted by electromagnetic\nwaves. It may approach Trainers\nif they are using their Pokégear.</language>
+		<language name="English">Il est attiré par les ondes\nélectromagnétiques et le Pokématos\ndes Dresseurs en chasse.</language>
 	</row>
 	<row id="msg_0803_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Three MAGNEMITE are linked by a\nstrong magnetic force. Earaches\nwill occur if you get too close.</language>
+		<language name="English">Le lien magnétique qui lie ces trois\nMAGNETI provoque des douleurs aux\noreilles si on s’en approche.</language>
 	</row>
 	<row id="msg_0803_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If anyone tries to disturb where the\nessential plant stalks grow, it uses its\nown stalk to thwart them.</language>
+		<language name="English">Il défend les plants de poireaux\navec son légume pour repousser\ntous les méchants pas beaux.</language>
 	</row>
 	<row id="msg_0803_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By alternately raising and lowering\nits two heads, it balances itself\nto be more stable while running.</language>
+		<language name="English">En dressant alternativement ses\ndeux têtes il peut courir plus vite\net garder son équilibre.</language>
 	</row>
 	<row id="msg_0803_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It collects data and plans three times\nas wisely, but it may think too much\nand fall into a state of immobility.</language>
+		<language name="English">Il réfléchit trois fois avant de\nprendre une décision, ce qui\npeut le rendre immobile.</language>
 	</row>
 	<row id="msg_0803_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Although it can’t walk well on land,\nit is a graceful swimmer. It especially\nloves being in frigid seas.</language>
+		<language name="English">Bien qu’il puisse marcher sur\nla terre ferme, ce formidable\nnageur préfère les eaux froides.</language>
 	</row>
 	<row id="msg_0803_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its streamlined body has little\ndrag in water. The colder the\ntemperature, the friskier it gets.</language>
+		<language name="English">Son corps hydrodynamique glisse\ndans l’eau. Plus l’eau est froide\nplus il se sent à l’aise.</language>
 	</row>
 	<row id="msg_0803_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">As it moves, it loses bits of its body,\nfrom which new GRIMER emerge.\nThis worsens the stench around it.</language>
+		<language name="English">En se déplaçant il sème des parties\nde son corps qui deviendront plus\ntard des TADMORV.</language>
 	</row>
 	<row id="msg_0803_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They love to gather in smelly areas\nwhere sludge accumulates, making\nthe stench around them worse.</language>
+		<language name="English">Il recherche les endroits sales où\nil y a des ordures pour y établir\nson habitat puant et infect.</language>
 	</row>
 	<row id="msg_0803_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It swims facing backward by opening\nand closing its two-piece shell.\nIt is surprisingly fast.</language>
+		<language name="English">Il nage à l’envers en ouvrant et en\nrefermant sa coquille. Il peut\natteindre une grande vitesse.</language>
 	</row>
 	<row id="msg_0803_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once it slams its shell shut,\nit is impossible to open, even by\nthose with superior strength.</language>
+		<language name="English">Quand il referme sa coquille, il\nest impossible de la rouvrir, même\navec une force hors du commun.</language>
 	</row>
 	<row id="msg_0803_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With its gas-like body, it can sneak\ninto any place it desires. However,\nit can be blown away by wind.</language>
+		<language name="English">Son corps gazéiforme lui permet\nde se dissimuler n’importe où,\nmais le vent peut le déloger.</language>
 	</row>
 	<row id="msg_0803_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In total darkness, where nothing is\nvisible, HAUNTER lurks, silently\nstalking its next victim.</language>
+		<language name="English">Dans les ténèbres impénétrables,\nlà où on ne voit rien, il se déplace\nen silence à l’affût de sa proie.</language>
 	</row>
 	<row id="msg_0803_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It steals heat from its surroundings.\nIf you feel a sudden chill,\nit is certain that a GENGAR appeared.</language>
+		<language name="English">Il capture la chaleur de son\nentourage. Quand l’air se rafraîchit,\nc’est qu’ECTOPLASMA est là.</language>
 	</row>
 	<row id="msg_0803_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It twists and squirms through\nthe ground. The thunderous roar of\nits tunneling echoes a long way.</language>
+		<language name="English">Il se trémousse et se convulse dans\nle sol. Le son qu’il produit en\ncreusant la terre résonne très loin.</language>
 	</row>
 	<row id="msg_0803_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you think that you had a good dream\nbut you can’t remember it,\na DROWZEE has probably eaten it.</language>
+		<language name="English">Si vous pensez avoir rêvé mais\nque vous ne vous en souvenez pas,\nc’est que SOPORIFIK a tout mangé.</language>
 	</row>
 	<row id="msg_0803_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it is very hungry, it puts\nhumans it meets to sleep,\nthen it feasts on their dreams.</language>
+		<language name="English">S’il est affamé, il endort les\nhumains qu’il rencontre pour\nse repaître de leurs rêves.</language>
 	</row>
 	<row id="msg_0803_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it senses danger approaching,\nit cloaks itself with bubbles from\nits mouth so it will look bigger.</language>
+		<language name="English">S’il est menacé, il se cache derrière\nles bulles émises par sa bouche\npour paraître plus gros.</language>
 	</row>
 	<row id="msg_0803_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can hardly lift its massive,\novergrown pincer. The pincer’s size\nmakes it difficult to aim properly.</language>
+		<language name="English">Il soulève péniblement son énorme\npince. Elle est si grosse qu’il lui\nest difficile de bien viser avec.</language>
 	</row>
 	<row id="msg_0803_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It rolls to move. If the ground is\nuneven, a sudden jolt from hitting\na bump can cause it to explode.</language>
+		<language name="English">Il se déplace en roulant. S’il\ntrébuche sur une aspérité, un\néclair jaillit et il explose.</language>
 	</row>
 	<row id="msg_0803_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is dangerous. If it has too much\nelectricity and has nothing to do,\nit amuses itself by exploding.</language>
+		<language name="English">Il est dangereux. S’il est trop\nchargé en électricité et qu’il\ns’ennuie, il explose.</language>
 	</row>
 	<row id="msg_0803_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Their shells are very durable. Even if\nthey crack, they can survive without\nspilling their contents.</language>
+		<language name="English">Sa coquille est très résistante.\nSi elle est fendue, il peut survivre\nen gardant son intégrité.</language>
 	</row>
 	<row id="msg_0803_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its three heads think independently.\nHowever, they are friendly and\nnever appear to squabble.</language>
+		<language name="English">Ses trois têtes sont autonomes.\nElles semblent toutefois en\nharmonie et ne se disputent jamais.</language>
 	</row>
 	<row id="msg_0803_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it is sad or lonely, the skull\nit wears shakes and emits a plaintive\nand mournful sound.</language>
+		<language name="English">S’il est triste et seul, le crâne\nqu’il porte se met à bouger. Il\német alors un son plaintif.</language>
 	</row>
 	<row id="msg_0803_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has been seen pounding boulders\nwith the bone it carries in order\nto tap out messages to others.</language>
+		<language name="English">Il frappe sur les rochers avec sa\nmassue-os pour envoyer des messages\nà ses compagnons éloignés.</language>
 	</row>
 	<row id="msg_0803_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This amazing Pokémon has an awesome\nsense of balance. It can kick in\nsuccession from any position.</language>
+		<language name="English">Il possède un fantastique sens de\nl’équilibre et peut donner des coups\nde pied dans toutes les positions.</language>
 	</row>
 	<row id="msg_0803_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its punches slice the air. However,\nit seems to need a short break after\nfighting for three minutes.</language>
+		<language name="English">Ses poings fendent l’air!\nMais il a besoin d’une petite\npause toutes les trois minutes.</language>
 	</row>
 	<row id="msg_0803_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its tongue has well-developed\nnerves that run to the very tip,\nso it can be deftly manipulated.</language>
+		<language name="English">Sa langue est très sensible.\nIl peut l’utiliser pour manipuler\nadroitement des objets.</language>
 	</row>
 	<row id="msg_0803_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its thin, filmy body is filled\nwith gases that cause constant\nsniffles, coughs and teary eyes.</language>
+		<language name="English">Sa fine enveloppe est remplie de\ngaz qui provoquent en permanence\ndes reniflements et des irritations.</language>
 	</row>
 	<row id="msg_0803_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If one of the twin KOFFING inflates,\nthe other one deflates. It constantly\nmixes its poisonous gases.</language>
+		<language name="English">Si l’un des deux SMOGO se gonfle,\nl’autre se dégonfle. Ils mélangent\nleurs gaz en permanence.</language>
 	</row>
 	<row id="msg_0803_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is inept at turning because of\nits four short legs. It can only\ncharge and run in one direction.</language>
+		<language name="English">Ses petites jambes ne lui permettent\npas de tourner facilement. Il ne\npeut que charger tout droit.</language>
 	</row>
 	<row id="msg_0803_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its rugged hide protects it from\neven the heat of lava. However,\nthe hide also makes it insensitive.</language>
+		<language name="English">Son épiderme épais le protège\nmême de la chaleur de la lave, mais\nil est insensible en conséquence.</language>
 	</row>
 	<row id="msg_0803_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It walks carefully to prevent its\negg from breaking. However,\nit is extremely fast at running away.</language>
+		<language name="English">Il marche lentement pour ne pas\nabîmer son œuf. Mais il peut\ntoutefois s’enfuir très vite.</language>
 	</row>
 	<row id="msg_0803_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The vines that cloak its entire\nbody are always jiggling.\nThey effectively unnerve its foes.</language>
+		<language name="English">Les lianes qui camouflent son\ncorps bougent tout le temps, ce qui\nagace souvent ses adversaires.</language>
 	</row>
 	<row id="msg_0803_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it is safe, the young gets out of\nthe belly pouch to play. The adult\nkeeps a close eye on the youngster.</language>
+		<language name="English">Dans les endroits sûrs, le\npetit quitte sa poche pour jouer\nsous la protection des adultes.</language>
 	</row>
 	<row id="msg_0803_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If attacked by a larger enemy,\nit quickly swims to safety by adeptly\ncontrolling its well-developed dorsal fin.</language>
+		<language name="English">S’il est menacé par un gros adversaire,\nil s’enfuit en nageant rapidement grâce\nà ses nageoires.</language>
 	</row>
 	<row id="msg_0803_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An examination of its cells revealed\nthe presence of a gene not found in\nHORSEA. It became a hot topic.</language>
+		<language name="English">Son analyse cellulaire révèle la\nprésence de gènes n’appartenant\npas aux HYPOTREMPE.</language>
 	</row>
 	<row id="msg_0803_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its dorsal, pectoral and tail fins\nwave elegantly in water. That is why\nit is known as the water dancer.</language>
+		<language name="English">Ses nageoires dorsales et pectorales\nbougent avec élégance. Il est\nsurnommé le danseur des flots.</language>
 	</row>
 	<row id="msg_0803_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">During spawning season, SEAKING\ngather from all over, causing rivers to\nappear a brilliant red.</language>
+		<language name="English">Pendant la saison du frai, les\nPOISSOROY se regroupent en bancs,\ncolorant les rivières en rouge.</language>
 	</row>
 	<row id="msg_0803_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At night, the middle of its body\nslowly flickers with the same\nrhythm as a human heartbeat.</language>
+		<language name="English">La nuit, le centre de son corps\német des pulsations au même\nrythme que le cœur des humains.</language>
 	</row>
 	<row id="msg_0803_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The middle section of its body is\ncalled the core. It glows in a\ndifferent color each time it is seen.</language>
+		<language name="English">La partie centrale de son corps\nest appelée le cœur. Il brille d’une\ncouleur différente à chaque fois.</language>
 	</row>
 	<row id="msg_0803_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A skilled mime from birth,\nit gains the ability to create\ninvisible objects as it matures.</language>
+		<language name="English">C’est un excellent mime. Avec le\ntemps, il gagne la capacité de\ncréer des objets invisibles.</language>
 	</row>
 	<row id="msg_0803_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It slashes through grass with its\nsharp scythes, moving too fast\nfor the human eye to track.</language>
+		<language name="English">Il fauche les herbes avec ses\nlames acérées. Il bouge si vite\nqu’on ne peut le voir à l’œil nu.</language>
 	</row>
 	<row id="msg_0803_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It rocks its body rhythmically.\nIt appears to alter the rhythm\ndepending on how it is feeling.</language>
+		<language name="English">Il bouge son corps en cadence.\nLe rythme change en fonction de\nson humeur.</language>
 	</row>
 	<row id="msg_0803_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Electricity runs across the surface\nof its body. In darkness, its entire\nbody glows a whitish-blue.</language>
+		<language name="English">Des ondes électriques parcourent\nla surface de son corps. Il brille\nd’un éclat bleuté dans le noir.</language>
 	</row>
 	<row id="msg_0803_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It dislikes cold places, so it blows\nscorching flames to make the\nenvironment suitable for itself.</language>
+		<language name="English">Il n’aime pas les endroits froids.\nIl façonne son nid à sa convenance\navec son souffle de feu.</language>
 	</row>
 	<row id="msg_0803_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With its pincer horns, it digs burrows\nto sleep in at night. In the morning,\ndamp soil clings to its body.</language>
+		<language name="English">Il creuse des abris avec ses pinces\npour y dormir. Le matin, la terre\nhumide reste collée à son corps.</language>
 	</row>
 	<row id="msg_0803_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They fight each other by locking\nhorns. The herd’s protector takes\npride in its battle-scarred horns.</language>
+		<language name="English">Ils se battent avec leurs cornes.\nCelles du chef de la tribu sont\ncouvertes de cicatrices.</language>
 	</row>
 	<row id="msg_0803_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An underpowered, pathetic Pokémon.\nIt may jump high on rare occasions,\nbut usually not more than seven feet.</language>
+		<language name="English">Un Pokémon tout à fait pathétique.\nC’est à peine s’il peut sauter plus\nde 2 mètres en hauteur.</language>
 	</row>
 	<row id="msg_0803_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They say that during past strife,\nGYARADOS would appear and leave\nblazing ruins in its wake.</language>
+		<language name="English">On dit que pendant les guerres,\nil serait apparu et il aurait semé\nchaos et destruction sur le monde.</language>
 	</row>
 	<row id="msg_0803_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They have gentle hearts. Because\nthey rarely fight, many have been\ncaught. Their number has dwindled.</language>
+		<language name="English">Ils sont d’une nature gentille.\nComme ils se battent rarement,\nils sont en voie d’extinction.</language>
 	</row>
 	<row id="msg_0803_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can transform into anything.\nWhen it sleeps, it changes into a\nstone to avoid being attacked.</language>
+		<language name="English">Il peut se transformer en tout.\nQuand il dort, il se change en\npierre pour éviter d’être attaqué.</language>
 	</row>
 	<row id="msg_0803_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has the ability to alter the\ncomposition of its body to suit its\nsurrounding environment.</language>
+		<language name="English">Il a la capacité de changer la\ncomposition de son corps pour\ns’adapter à son environnement.</language>
 	</row>
 	<row id="msg_0803_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When VAPOREON’s fins begin to\nvibrate, it is a sign that rain\nwill come within a few hours.</language>
+		<language name="English">Si ses nageoires vibrent, il y a des\nchances pour qu’il se mette à \npleuvoir dans les prochaines heures.</language>
 	</row>
 	<row id="msg_0803_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It concentrates the weak electric\ncharges emitted by its cells and\nlaunches wicked lightning bolts.</language>
+		<language name="English">Il concentre la charge électrique\ncréée dans chacune de ses cellules\npour projeter un éclair.</language>
 	</row>
 	<row id="msg_0803_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It stores some of the air it inhales in\nits internal flame pouch, which heats it\nto over 3,000 degrees Fahrenheit.</language>
+		<language name="English">Il stocke de l’air dans sa poche\nde flammes et le chauffe à une\ntempérature de 1 700 °C.</language>
 	</row>
 	<row id="msg_0803_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is a manmade Pokémon. Since it\ndoesn’t breathe, people are eager\nto try it in any environment.</language>
+		<language name="English">Il a été conçu par l’homme. Comme\nil ne respire pas, on le teste\ndans tous les environnements.</language>
 	</row>
 	<row id="msg_0803_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Revived from an ancient fossil,\nthis Pokémon uses air stored in its\nshell to sink and rise in water.</language>
+		<language name="English">Recréé à partir d’un fossile, il utilise\nl’air dans sa coquille pour s’enfoncer\ndans l’eau ou faire surface.</language>
 	</row>
 	<row id="msg_0803_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Apparently, it cracked SHELLDER’s\nshell with its sharp fangs and\nsucked out the insides.</language>
+		<language name="English">Il paraît qu’il cassait des\nKOKIYAS avec ses crocs acérés\npour en absorber l’intérieur.</language>
 	</row>
 	<row id="msg_0803_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">On rare occasions, some have been\nfound as fossils which they became\nwhile hiding on the ocean floor.</language>
+		<language name="English">Ils ont été fossilisés alors\nqu’ils se dissimulaient dans\nles fonds marins.</language>
 	</row>
 	<row id="msg_0803_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the water, it tucks in its limbs\nto become more compact, then it\nwiggles its shell to swim fast.</language>
+		<language name="English">Dans l’eau, il se recroqueville sur\nses jambes et il agite sa coquille\npour nager à très grande vitesse.</language>
 	</row>
 	<row id="msg_0803_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A vicious Pokémon from the distant\npast, it appears to have flown by\nspreading its wings and gliding.</language>
+		<language name="English">Un Pokémon féroce qui nous vient\ndu passé. Il vole en étirant ses\nailes pour planer dans les airs.</language>
 	</row>
 	<row id="msg_0803_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What sounds like its cry may\nactually be its snores or the\nrumblings of its hungry belly.</language>
+		<language name="English">Ce qui semble être son cri serait en\nfait le bruit de ses ronflements et\ndes gargouillis de son estomac.</language>
 	</row>
 	<row id="msg_0803_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The magnificent, seemingly translucent\nwings of this legendary bird Pokémon\nare said to be made of ice.</language>
+		<language name="English">Les majestueuses ailes translucides\nde ce Pokémon légendaire semblent\nêtre faites de givre.</language>
 	</row>
 	<row id="msg_0803_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This legendary bird Pokémon\ncauses savage thunderstorms by\nflapping its glittering wings.</language>
+		<language name="English">Quand ce Pokémon légendaire bat\nses ailes d’énergie, il provoque de\ngigantesques orages.</language>
 	</row>
 	<row id="msg_0803_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This legendary Pokémon scatters\nembers with every flap of its wings.\nIt is a thrilling sight to behold.</language>
+		<language name="English">Ce Pokémon légendaire sème des\nbraises à chaque battement d’ailes.\nSa beauté fait fondre les gens.</language>
 	</row>
 	<row id="msg_0803_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is born large to start with.\nIt repeatedly sheds its skin as it\nsteadily grows longer.</language>
+		<language name="English">A la naissance il est déjà grand.\nIl change de peau fréquemment\nau fur et à mesure qu’il s’allonge.</language>
 	</row>
 	<row id="msg_0803_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They say that if it emits an aura\nfrom its whole body, the weather\nwill begin to change instantly.</language>
+		<language name="English">On dit que si tout son corps\német une aura, les conditions\nclimatiques changeront bientôt.</language>
 	</row>
 	<row id="msg_0803_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is said that this Pokémon constantly\nflies over the immense seas\nand rescues drowning people.</language>
+		<language name="English">Il paraît que ce Pokémon survole\nen permanence les océans pour\nsauver les innocents qui se noient.</language>
 	</row>
 	<row id="msg_0803_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Because its battle abilities were\nraised to the ultimate level,\nit thinks only of defeating its foes.</language>
+		<language name="English">Ses capacités de combat ont été\naméliorées au niveau maximum.\nIl ne pense qu’à se battre.</language>
 	</row>
 	<row id="msg_0803_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Apparently, it appears only to\nthose people who are pure of heart\nand have a strong desire to see it.</language>
+		<language name="English">Il n’apparaît qu’aux personnes\nqui ont un cœur pur et qui veulent\nà tout prix le rencontrer.</language>
 	</row>
 	<row id="msg_0803_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sweet aroma gently wafts from\nthe leaf on its head. It is docile\nand loves to soak up sunrays.</language>
+		<language name="English">Un doux parfum émane de la feuille\nplacée sur sa tête. Il est très\ngentil et aime dormir au soleil.</language>
 	</row>
 	<row id="msg_0803_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The scent of spices comes from\naround its neck. Somehow,\nsniffing it makes you want to fight.</language>
+		<language name="English">Une odeur épicée provient de son\ncou. Si on la respire, elle donne\nenvie de se battre.</language>
 	</row>
 	<row id="msg_0803_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The aroma that rises from its\npetals contains a substance that\ncalms aggressive feelings.</language>
+		<language name="English">L’arôme qui émane de ses pétales\ncontient une substance qui\ncalme les pulsions agressives.</language>
 	</row>
 	<row id="msg_0803_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is timid, and always curls itself\nup in a ball. If attacked, it\nflares up its back for protection.</language>
+		<language name="English">Il est timide et se roule en boule\npour se protéger. Attaqué, il\ns’enflamme le dos pour riposter.</language>
 	</row>
 	<row id="msg_0803_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Be careful if it turns its back\nduring battle. It means that it will\nattack with the fire on its back.</language>
+		<language name="English">Attention! Quand il tourne le dos\ndans un combat, c’est qu’il va\nattaquer avec ses flammes dorsales.</language>
 	</row>
 	<row id="msg_0803_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If its rage peaks, it becomes so\nhot that anything that touches it\nwill instantly go up in flames.</language>
+		<language name="English">Quand il est furieux, il devient\nsi chaud que tout ce qu’il touche\ns’enflamme instantanément.</language>
 	</row>
 	<row id="msg_0803_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its powerful, well-developed jaws\nare capable of crushing anything.\nEven its Trainer must be careful.</language>
+		<language name="English">Sa mâchoire surdéveloppée est\ncapable de tout broyer. Même son\ndresseur doit s’en méfier.</language>
 	</row>
 	<row id="msg_0803_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it loses a fang, a new one\ngrows back in its place. There are\nalways 48 fangs lining its mouth.</language>
+		<language name="English">Quand il perd un croc, il en repousse\nun autre. Sa bouche est en\npermanence composée de 48 dents.</language>
 	</row>
 	<row id="msg_0803_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it bites with its massive and\npowerful jaws, it shakes its head\nand savagely tears its victim up.</language>
+		<language name="English">Quand il mord avec sa puissante\nmâchoire, il secoue sa tête pour\ndéchiqueter sa pauvre victime.</language>
 	</row>
 	<row id="msg_0803_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very cautious Pokémon, it raises\nitself up using its tail to get a\nbetter view of its surroundings.</language>
+		<language name="English">C’est un Pokémon très prudent.\nIl se dresse sur sa queue pour\nmieux observer les environs.</language>
 	</row>
 	<row id="msg_0803_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It makes a nest to suit its long and\nskinny body. The nest is impossible\nfor other Pokémon to enter.</language>
+		<language name="English">Il fabrique un nid qui convient\nà son corps très fin, et où lui\nseul peut entrer.</language>
 	</row>
 	<row id="msg_0803_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It always stands on one foot.\nIt changes feet so fast,\nthe movement can rarely be seen.</language>
+		<language name="English">Il se tient toujours sur un pied.\nIl change de pied si vite qu’on peut\nà peine distinguer ce mouvement.</language>
 	</row>
 	<row id="msg_0803_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its eyes are specially adapted.\nThey concentrate even faint light\nand enable it to see in the dark.</language>
+		<language name="English">Ses yeux sont adaptés à la nuit.\nIls peuvent concentrer la\nfaible lumière dans l’obscurité.</language>
 	</row>
 	<row id="msg_0803_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is very timid. It will be afraid\nto move if it is alone. But it will\nbe active if it is in a group.</language>
+		<language name="English">De nature timide, il a peur de se\ndéplacer seul. Il est plus actif\net courageux dans un groupe.</language>
 	</row>
 	<row id="msg_0803_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When the stars flicker in the\nnight sky, it flutters about,\nscattering a glowing powder.</language>
+		<language name="English">Quand les étoiles brillent dans le\nciel, il volette partout en semant\nderrière lui une poudre brillante.</language>
 	</row>
 	<row id="msg_0803_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lies still in the same pose for\ndays in its web, waiting for its\nunsuspecting prey to wander close.</language>
+		<language name="English">Il reste immobile dans sa toile pendant\ndes jours. Il attend que sa proie\nse rapproche pour la capturer.</language>
 	</row>
 	<row id="msg_0803_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It spins string not only from its\nrear but also from its mouth. It’s\nhard to tell which end is which.</language>
+		<language name="English">Il peut produire des fils de soie par\nl’arrière-train ou par la bouche.\nIl est difficile de différencier les deux.</language>
 	</row>
 	<row id="msg_0803_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It flies so silently through the\ndark on its four wings that it may\nnot be noticed even when nearby.</language>
+		<language name="English">Il vole en silence dans l’obscurité\nà l’aide de ses quatre ailes. Même\ntrès proche on ne l’entend pas.</language>
 	</row>
 	<row id="msg_0803_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It shoots positive and negative\nelectricity between the tips of its\ntwo antennae and zaps its enemies.</language>
+		<language name="English">Il émet avec ses antennes des\nimpulsions positives et négatives qui\npeuvent électrocuter ses ennemis.</language>
 	</row>
 	<row id="msg_0803_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The light it emits is so bright that\nit can illuminate the sea’s surface\nfrom a depth of over three miles.</language>
+		<language name="English">Sa brillance est si forte qu’il\npeut illuminer les fonds marins\nà 5 000 mètres de profondeur.</language>
 	</row>
 	<row id="msg_0803_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is not yet skilled at storing\nelectricity. It may send out a\njolt if amused or startled.</language>
+		<language name="English">Il ne sait pas encore stocker\nl’électricité. Il envoie des\ndécharges par jeu ou par peur.</language>
 	</row>
 	<row id="msg_0803_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Because of its unusual, starlike\nsilhouette, people believe that\nit came here on a meteor.</language>
+		<language name="English">Il ressemble un peu à une étoile.\nOn suppose qu’il est venu sur\nterre accroché à une météorite.</language>
 	</row>
 	<row id="msg_0803_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has a very soft body. If it\nstarts to roll, it will bounce all\nover and be impossible to stop.</language>
+		<language name="English">Son corps est très doux.\nQuand il commence à rebondir,\nil est impossible de l’arrêter.</language>
 	</row>
 	<row id="msg_0803_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The shell seems to be filled with\njoy. It is said that it will share\ngood luck when treated kindly.</language>
+		<language name="English">Sa coquille est remplie de joie.\nOn dit que s’il est bien traité,\nil porte chance.</language>
 	</row>
 	<row id="msg_0803_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They say that it will appear before\nkindhearted, caring people and\nshower them with happiness.</language>
+		<language name="English">On dit qu’il n’apparaît qu’aux\ncœurs purs. Il apporte la joie\net le bonheur à son maître.</language>
 	</row>
 	<row id="msg_0803_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Because its wings aren’t yet fully\ngrown, it has to hop to get around.\nIt is always staring at something.</language>
+		<language name="English">Ses ailes ne sont pas assez développées\net il ne peut que planer péniblement.\nIl fixe toujours quelque chose.</language>
 	</row>
 	<row id="msg_0803_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They say that it stays still and\nquiet because it is seeing both the\npast and future at the same time.</language>
+		<language name="English">On dit qu’il est calme et tranquille\ncar il peut voir en permanence\nle passé et le futur.</language>
 	</row>
 	<row id="msg_0803_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If static electricity builds in its\nbody, its fleece doubles in volume.\nTouching it will shock you.</language>
+		<language name="English">Son corps produit de l’électricité\nstatique. Quand il est bien chargé,\nson poil double de volume.</language>
 	</row>
 	<row id="msg_0803_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">As a result of storing too much\nelectricity, it developed patches\nwhere even downy wool won’t grow.</language>
+		<language name="English">Il stocke trop d’électricité et\nson poil ne peut plus repousser à\ncertains endroits de son corps.</language>
 	</row>
 	<row id="msg_0803_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The tail’s tip shines brightly and\ncan be seen from far away. It acts\nas a beacon for lost people.</language>
+		<language name="English">Le bout de sa queue brille si\nfort qu’il peut être vu de très\nloin. Il sert de balise aux gens.</language>
 	</row>
 	<row id="msg_0803_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BELLOSSOM gather at times and seem\nto dance. They say that the dance\nis a ritual to summon the sun.</language>
+		<language name="English">Les JOLIFLOR se réunissent souvent\npour danser. On pense que c’est\nun rituel pour appeler le soleil.</language>
 	</row>
 	<row id="msg_0803_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The tip of its tail, which contains\noil that is lighter than water,\nlets it swim without drowning.</language>
+		<language name="English">Le bout de sa queue est rempli\nd’huile plus légère que l’eau,\nce qui lui permet de ne pas couler.</language>
 	</row>
 	<row id="msg_0803_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By keeping still and listening\nintently, it can tell what is in even\nwild, fast-moving rivers.</language>
+		<language name="English">En ne bougeant plus et en écoutant,\nil peut discerner ce qu’il y a au\nfond des fleuves.</language>
 	</row>
 	<row id="msg_0803_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Although it always pretends to be a\ntree, its composition appears more\nsimilar to rock than to vegetation.</language>
+		<language name="English">Il fait semblant d’être un arbre.\nSa composition est en fait plus\nproche de la pierre.</language>
 	</row>
 	<row id="msg_0803_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If POLIWAG and POLIWHIRL hear its\nechoing cry, they respond by\ngathering from far and wide.</language>
+		<language name="English">Si PTITARD et TETARTE entendent\nson cri, ils se rassemblent pour\nvenir le rencontrer.</language>
 	</row>
 	<row id="msg_0803_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To keep from being blown away by\nthe wind, they gather in clusters.\nBut they do enjoy gentle breezes.</language>
+		<language name="English">Pour éviter d’être balayés par les\nvents, ils se rassemblent en groupes.\nIls adorent flotter dans la brise.</language>
 	</row>
 	<row id="msg_0803_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The bloom on top of its head opens\nand closes as the temperature\nfluctuates up and down.</language>
+		<language name="English">Le bourgeon sur sa tête s’ouvre et se\nferme en fonction des fluctuations de\nla température ambiante.</language>
 	</row>
 	<row id="msg_0803_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once it catches the wind, it deftly\ncontrols its cotton-puff spores--\nit can even float around the world.</language>
+		<language name="English">Quand il est pris dans le vent,\nil utilise ses appendices de\ncoton pour voler autour du monde.</language>
 	</row>
 	<row id="msg_0803_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its tail is so powerful that it can\nuse it to grab a tree branch and\nhold itself up in the air.</language>
+		<language name="English">Sa queue est si forte qu’il peut\nl’utiliser pour se suspendre aux\nbranches des arbres.</language>
 	</row>
 	<row id="msg_0803_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It may plummet from the sky.\nIf attacked by a SPEAROW,\nit will violently shake its leaves.</language>
+		<language name="English">Il tombe du ciel soudainement. S’il\nest attaqué par un PIAFABEC, il\nsecoue violemment ses feuilles.</language>
 	</row>
 	<row id="msg_0803_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It converts sunlight into energy.\nIn the darkness after sunset, it\ncloses its petals and becomes still.</language>
+		<language name="English">Il convertit la lumière du soleil\nen énergie. Quand la nuit tombe,\nses pétales se referment.</language>
 	</row>
 	<row id="msg_0803_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it flaps its wings really fast,\nit can generate shock waves that\nwill shatter windows in the area.</language>
+		<language name="English">En battant des ailes très vite, il\npeut générer une violente onde\nde choc qui peut briser les fenêtres.</language>
 	</row>
 	<row id="msg_0803_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon lives in cold water.\nIt will leave the water to search\nfor food when it gets cold outside.</language>
+		<language name="English">Ce Pokémon vit en eaux froides.\nIl ne les quitte que pour se nourrir\nquand il fait froid à l’extérieur.</language>
 	</row>
 	<row id="msg_0803_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This carefree Pokémon has an\neasy-going nature. While swimming,\nit always bumps into boat hulls.</language>
+		<language name="English">Ce Pokémon est très insouciant.\nQuand il nage, il fonce tête la\npremière dans la coque des bateaux.</language>
 	</row>
 	<row id="msg_0803_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It uses the fine hair that covers\nits body to sense air currents and\npredict its enemy’s actions.</language>
+		<language name="English">Son fin pelage enregistre les\ncourants d’air provoqués par les\ndéplacements de ses ennemis.</language>
 	</row>
 	<row id="msg_0803_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When agitated, this Pokémon\nprotects itself by spraying\npoisonous sweat from its pores.</language>
+		<language name="English">Pour se défendre, ce Pokémon\német un gaz empoisonné par\nles pores de sa peau.</language>
 	</row>
 	<row id="msg_0803_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Feared and loathed by many,\nit is believed to bring misfortune to\nall those who see it at night.</language>
+		<language name="English">Craint et peu aimé, il paraît\nqu’il porte malheur à ceux qui\ncroisent son chemin la nuit.</language>
 	</row>
 	<row id="msg_0803_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has incredible intellect and\nintuition. Whatever the situation,\nit remains calm and collected.</language>
+		<language name="English">D’une grande intelligence,\nil sait rester calme, même\nen situation stressante.</language>
 	</row>
 	<row id="msg_0803_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It likes playing mischievous tricks,\nsuch as screaming and wailing to\nstartle people at night. </language>
+		<language name="English">Il pousse des hurlements la\nnuit pour effrayer les gens.</language>
 	</row>
 	<row id="msg_0803_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Their shapes look like hieroglyphs\non ancient tablets. It is said\nthat the two are somehow related.</language>
+		<language name="English">Ils ressemblent aux vieux hiéroglyphes\ninscrits sur les tablettes.\nIl semble qu’ils y soient liés.</language>
 	</row>
 	<row id="msg_0803_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It hates light and shock. If\nattacked, it inflates its body to\nbuild up its counterstrike.</language>
+		<language name="English">Il déteste la lumière et les chocs.\nS’il est attaqué, il se gonflera\npour riposter violemment.</language>
 	</row>
 	<row id="msg_0803_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its tail has a small brain of its\nown. Beware! If you get close, it\nmay react to your scent by biting.</language>
+		<language name="English">Sa queue possède un cerveau.\nSi vous vous en approchez, elle\nvous sentira et vous mordra.</language>
 	</row>
 	<row id="msg_0803_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It likes to make its shell thicker\nby adding layers of tree bark. The\nadditional weight doesn’t bother it.</language>
+		<language name="English">Il renforce sa carapace en y\najoutant des écorces d’arbre.\nIl devient alors plus lourd.</language>
 	</row>
 	<row id="msg_0803_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its entire body is shielded by a\nsteel-hard shell. What lurks inside\nthis shell is a total mystery.</language>
+		<language name="English">Son corps est protégé par une\nénorme carapace. Ce qui se trouve\nsous cette armure est un mystère.</language>
 	</row>
 	<row id="msg_0803_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When spotted, this Pokémon escapes\nbackward by furiously boring into\nthe ground with its tail.</language>
+		<language name="English">Il s’enfuit en creusant à reculons\ndans le sol avec sa queue dès\nqu’un ennemi le repère.</language>
 	</row>
 	<row id="msg_0803_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It flies straight at its target’s\nface, then clamps down on the\nstartled victim to inject poison.</language>
+		<language name="English">Il vole droit vers le visage de sa\ncible effrayée et s’y accroche\npour lui injecter son poison.</language>
 	</row>
 	<row id="msg_0803_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its body has been compressed deep\nunder the ground. As a result,\nit is even harder than a diamond.</language>
+		<language name="English">Son corps a été compressé sous\nla terre. Il est devenu plus\nrésistant que le diamant.</language>
 	</row>
 	<row id="msg_0803_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Although it looks frightening, it\nis actually kind and affectionate.\nIt is very popular among women.</language>
+		<language name="English">Malgré son air menaçant, il est\ngentil et très affectueux. Il est\ntrès populaire chez les femmes.</language>
 	</row>
 	<row id="msg_0803_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is actually timid and easily\nspooked. If attacked, it flails\nabout to fend off its attacker.</language>
+		<language name="English">Il est en fait très timide et un\npeu hésitant. S’il est attaqué,\nil se défend avec énergie.</language>
 	</row>
 	<row id="msg_0803_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To fire its poison spikes, it must\ninflate its body by drinking over\n2.6 gallons of water all at once.</language>
+		<language name="English">Pour tirer ses dards empoisonnés,\nil gonfle son corps en buvant\n10 litres d’eau subitement.</language>
 	</row>
 	<row id="msg_0803_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It swings its eye-patterned pincers\nup to scare its foes. This makes\nit look like it has three heads.</language>
+		<language name="English">Il effraie l’ennemi en agitant ses\npinces en forme d’yeux et donne\nainsi l’impression d’avoir 3 têtes.</language>
 	</row>
 	<row id="msg_0803_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The berries it stores in its\nvase-like shell decompose and\nbecome a gooey liquid.</language>
+		<language name="English">Les Baies qu’il stocke dans sa\ncoquille se décomposent et\ndeviennent un liquide gluant.</language>
 	</row>
 	<row id="msg_0803_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This powerful Pokémon thrusts\nits prized horn under its enemies’\nbellies, then lifts and throws them.</language>
+		<language name="English">Ce Pokémon est si puissant\nqu’il peut projeter ses ennemis\nen l’air grâce à ses cornes.</language>
 	</row>
 	<row id="msg_0803_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its paws conceal sharp claws. If\nattacked, it suddenly extends the\nclaws and startles its enemy.</language>
+		<language name="English">Ses griffes sont cachées dans\nses pattes. S’il est attaqué, il les\nsort pour frapper ses ennemis.</language>
 	</row>
 	<row id="msg_0803_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it finds honey, its crescent mark\nglows. It always licks its paws\nbecause they’re soaked with honey.</language>
+		<language name="English">Sa marque en forme de lune brille\nquand il trouve du miel. Il lèche ses\npattes qui en sont toujours couvertes.</language>
 	</row>
 	<row id="msg_0803_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Although it is a good climber,\nit prefers to snap trees with its\nforelegs and eat fallen berries.</language>
+		<language name="English">Même s’il grimpe bien, il préfère\nsecouer les arbres avec ses pattes\npour faire tomber des Baies.</language>
 	</row>
 	<row id="msg_0803_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It never sleeps. It has to keep\nmoving because if it stopped, its\nmagma body would cool and harden.</language>
+		<language name="English">Il ne dort jamais. Il doit toujours\nse déplacer, car s’il est immobile,\nson corps de lave se solidifie.</language>
 	</row>
 	<row id="msg_0803_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The shell on its back is just skin\nthat has cooled and hardened. It\nbreaks easily with a slight touch.</language>
+		<language name="English">La coquille sur son dos est une\npartie de sa peau qui s’est refroidie\net solidifiée. Elle est fragile.</language>
 	</row>
 	<row id="msg_0803_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It rubs its snout on the ground to\nfind and dig up food. It sometimes\ndiscovers hot springs.</language>
+		<language name="English">Il renifle le sol avec sa truffe pour\ny dénicher de la nourriture. Il\ntrouve parfois des sources d’eau.</language>
 	</row>
 	<row id="msg_0803_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Because the long hair all over its\nbody obscures its sight, it just\nkeeps charging repeatedly.</language>
+		<language name="English">Ses yeux sont masqués par\nses longs poils. Il ne voit rien\net se déplace en chargeant.</language>
 	</row>
 	<row id="msg_0803_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It continuously sheds and grows.\nThe tip of its head is prized as\na treasure because of its beauty.</language>
+		<language name="English">Il grandit en permanence. Les\nexquises excroissances de sa\ntête sont très recherchées.</language>
 	</row>
 	<row id="msg_0803_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has superb accuracy. The water\nit shoots out can strike moving\nprey from more than 300 feet away.</language>
+		<language name="English">Il est très précis quand il crache\nses jets d’eau. Il peut toucher\nune cible mouvante à 100 mètres.</language>
 	</row>
 	<row id="msg_0803_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It traps foes with the suction cups\non its tentacles, then smashes\nthem with its rock-hard head.</language>
+		<language name="English">Il capture ses ennemis avec ses\ntentacules et les écrase ensuite\navec sa tête dure comme la pierre.</language>
 	</row>
 	<row id="msg_0803_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It carries food all day long.\nThere are tales about lost people\nwho were saved by its stored food.</language>
+		<language name="English">Il transporte de la nourriture\ntoute la journée. Il porte secours\naux égarés en leur donnant à manger.</language>
 	</row>
 	<row id="msg_0803_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">As it majestically swims, it doesn’t\ncare if REMORAID attach to it for\nscavenging its leftovers.</language>
+		<language name="English">Il nage avec majesté. Il ne se\nsoucie pas si un REMORAID\nest attaché à son corps.</language>
 	</row>
 	<row id="msg_0803_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its sturdy wings look heavy, but\nthey are actually hollow and light,\nallowing it to fly freely in the sky.</language>
+		<language name="English">Ses ailes sont en fait légères et\ncreuses. Il vole facilement et peut\natteindre de très hautes altitudes.</language>
 	</row>
 	<row id="msg_0803_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It uses different kinds of cries for\ncommunicating with others of its\nkind and for pursuing its prey.</language>
+		<language name="English">Il communique en produisant\ndifférents cris avec ses semblables\nou quand il poursuit sa proie.</language>
 	</row>
 	<row id="msg_0803_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you are burned by the flames\nit shoots from its mouth,\nthe pain will never go away.</language>
+		<language name="English">Les blessures provoquées par son\nsouffle de flamme sont permanentes\net la douleur ne s’en va jamais.</language>
 	</row>
 	<row id="msg_0803_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is said that it usually hides in\nunderwater caves. It can create\nwhirlpools by yawning.</language>
+		<language name="English">On dit qu’il se cache dans les\ngrottes sous-marines. Il peut\ncréer des tourbillons en bâillant.</language>
 	</row>
 	<row id="msg_0803_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It swings its long snout around\nplayfully, but because it is so\nstrong, that can be dangerous.</language>
+		<language name="English">Il balance sa trompe pour\ns’amuser, mais il est si fort que\ncela peut être dangereux.</language>
 	</row>
 	<row id="msg_0803_00232" index="232">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has sharp, hard tusks and a\nrugged hide. Its tackle is strong\nenough to knock down a house.</language>
+		<language name="English">Il a des défenses aiguisées et une\npeau épaisse. Ses charges peuvent\ndétruire une maison.</language>
 	</row>
 	<row id="msg_0803_00233" index="233">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This upgraded version of PORYGON\nis designed for space exploration.\nIt can’t fly, however.</language>
+		<language name="English">Cette version améliorée de PORYGON\na été créée pour explorer l’espace,\nmais elle ne vole même pas.</language>
 	</row>
 	<row id="msg_0803_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The curved antlers subtly change\nthe flow of air to create a strange\nspace where reality is distorted.</language>
+		<language name="English">Ses bois tordus changent le flot\nde l’air et créent une distorsion\nspatiale dans la réalité.</language>
 	</row>
 	<row id="msg_0803_00235" index="235">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A special fluid oozes from the tip\nof its tail. It paints the fluid\neverywhere to mark its territory.</language>
+		<language name="English">Un liquide coule du bout de sa\nqueue. Il peint avec ce fluide\npour marquer son territoire.</language>
 	</row>
 	<row id="msg_0803_00236" index="236">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is always bursting with energy.\nTo make itself stronger, it\nkeeps on fighting even if it loses.</language>
+		<language name="English">Il est plein d’énergie. Il se\nbat tout le temps pour être plus\nfort, quitte à perdre un combat.</language>
 	</row>
 	<row id="msg_0803_00237" index="237">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you are enchanted by its smooth,\ndance-like kicks, you may get a closer\nexperience with one than you’d like.</language>
+		<language name="English">Si vous êtes fasciné par sa\ndanse de coups de pied, vous\nrisquez de le regretter.</language>
 	</row>
 	<row id="msg_0803_00238" index="238">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its lips are the most sensitive\npart of its body. It always uses\nits lips first to examine things.</language>
+		<language name="English">Ses lèvres sont la partie la plus\nsensible de son corps. Il les\nutilise pour examiner les objets.</language>
 	</row>
 	<row id="msg_0803_00239" index="239">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It rotates its arms to generate\nelectricity, but it tires easily,\nso it only charges up a little bit.</language>
+		<language name="English">Il fait pivoter ses bras pour\ncréer de l’énergie pendant un bref\ninstant car il se fatigue vite.</language>
 	</row>
 	<row id="msg_0803_00240" index="240">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Each and every time it inhales\nand exhales, hot embers dribble\nfrom its mouth and nostrils.</language>
+		<language name="English">A chaque fois qu’il respire, des\nbraises brûlantes sortent de sa\nbouche et de ses narines.</language>
 	</row>
 	<row id="msg_0803_00241" index="241">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its milk is packed with nutrition,\nmaking it the ultimate beverage\nfor the sick or weary.</language>
+		<language name="English">Son lait est très nutritif. C’est\nune boisson parfaite pour les\nmalades et les personnes âgées.</language>
 	</row>
 	<row id="msg_0803_00242" index="242">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Anyone who takes even one taste of\nBLISSEY’s egg becomes unfailingly\ncaring and pleasant to everyone.</language>
+		<language name="English">Celui qui mange un peu de l’œuf\nde LEUPHORIE devient aimable\net plaisant avec tout le monde.</language>
 	</row>
 	<row id="msg_0803_00243" index="243">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The rain clouds it carries let it\nfire thunderbolts at will. They say\nthat it descended with lightning.</language>
+		<language name="English">Le nuage de pluie qu’il porte peut\nrelâcher la foudre à volonté. On\ndit de lui qu’il est venu avec l’orage.</language>
 	</row>
 	<row id="msg_0803_00244" index="244">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Volcanoes erupt when it barks.\nUnable to contain its sheer power,\nit races headlong around the land.</language>
+		<language name="English">Les volcans entrent en éruption quand\nil rugit. Il court sans cesse mais\nn’arrive pas à contrôler sa puissance.</language>
 	</row>
 	<row id="msg_0803_00245" index="245">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Said to be the embodiment of\nnorth winds, it can instantly\npurify filthy, murky water.</language>
+		<language name="English">Il serait la réincarnation du vent\ndu nord. Il peut purifier\ninstantanément les eaux polluées.</language>
 	</row>
 	<row id="msg_0803_00246" index="246">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It feeds on soil. After it has eaten\na large mountain, it falls asleep\nso it can grow.</language>
+		<language name="English">Il se nourrit de terre. Une fois\nqu’il a absorbé une montagne, il\ns’endort et commence à évoluer.</language>
 	</row>
 	<row id="msg_0803_00247" index="247">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its shell is as hard as sheet rock,\nand it is also very strong. Its\nthrashing can topple a mountain.</language>
+		<language name="English">Sa carapace est aussi dure que la\npierre et il est très fort. Ses\ncoups peuvent raser une montagne.</language>
 	</row>
 	<row id="msg_0803_00248" index="248">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its body can’t be harmed by any\nsort of attack, so it is very eager\nto make challenges against enemies.</language>
+		<language name="English">Son corps ne peut être blessé\npar une attaque physique. Il\npense tout le temps à se battre.</language>
 	</row>
 	<row id="msg_0803_00249" index="249">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is said that it quietly spends its\ntime deep at the bottom of the sea\nbecause its powers are too strong.</language>
+		<language name="English">Il paraît qu’il se réfugie au fond\ndes océans car son pouvoir est\nbeaucoup trop grand.</language>
 	</row>
 	<row id="msg_0803_00250" index="250">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Legends claim this Pokémon flies the\nworld’s skies continuously on its\nmagnificent, seven-colored wings.</language>
+		<language name="English">Les légendes racontent qu’il survole\nle monde en permanence grâce\nà ses merveilleuses ailes colorées.</language>
 	</row>
 	<row id="msg_0803_00251" index="251">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon wanders across time.\nGrass and trees flourish in the\nforests in which it has appeared.</language>
+		<language name="English">Ce Pokémon voyage dans le temps.\nLes forêts où il apparaît deviennent\nprodigieusement luxuriantes.</language>
 	</row>
 	<row id="msg_0803_00252" index="252">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Small hooks on the bottom of its\nfeet catch on walls and ceilings.\nThat is how it can hang from above.</language>
+		<language name="English">Les épines de ses plantes de pieds\nlui permettent de marcher aux murs\net au plafond sans tomber.</language>
 	</row>
 	<row id="msg_0803_00253" index="253">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It leaps from tree branch to tree\nbranch quite swiftly. It shows\nastounding agility.</language>
+		<language name="English">Il saute avec agilité de\nbranche en branche. Sa\ndétente est extraordinaire.</language>
 	</row>
 	<row id="msg_0803_00254" index="254">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It agilely leaps about the jungle\nand uses the sharp leaves on its\narms to strike its prey.</language>
+		<language name="English">Il parcourt la jungle avec agilité\net capture ses proies grâce aux\nfeuilles tranchantes sur ses bras.</language>
 	</row>
 	<row id="msg_0803_00255" index="255">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Inside its body is a place where it\nkeeps a small flame. Hug it! It will\nbe as warm as a hot-water bottle.</language>
+		<language name="English">Il est chaud comme une bouilloire\nquand on le câline à cause de la\npoche de flammes dans son ventre.</language>
 	</row>
 	<row id="msg_0803_00256" index="256">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">During a battle, the hot flame in\nits body increases. Its kicks have\noutstanding destructive power.</language>
+		<language name="English">Au combat, les flammes dans son\ncorps redoublent d’intensité. Ses\ncoups de pied sont dévastateurs.</language>
 	</row>
 	<row id="msg_0803_00257" index="257">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can clear a 30-story building\nin a leap. Its fiery punches scorch\nits foes.</language>
+		<language name="English">Il peut bondir par-dessus un\nbâtiment de 30 étages. Ses poings\nenflammés brûlent ses adversaires.</language>
 	</row>
 	<row id="msg_0803_00258" index="258">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its power can crush boulders.\nIt rests by covering itself with mud\nat the bottom of a river.</language>
+		<language name="English">Il peut pulvériser de gros rocs.\nPour se reposer, il s’enfouit \ndans la boue au fond des rivières.</language>
 	</row>
 	<row id="msg_0803_00259" index="259">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Living on muddy ground that\nprovides poor footing has made\nits legs sturdy.</language>
+		<language name="English">A force de marcher et de vivre dans\nla boue, son arrière-train est devenu\nparticulièrement robuste.</language>
 	</row>
 	<row id="msg_0803_00260" index="260">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its arms are hard as rock.\nWith one swing, it can\nbreak a boulder into pieces.</language>
+		<language name="English">Un seul coup de ses puissants\nbras suffit pour pulvériser\nmême les plus gros rochers.</language>
 	</row>
 	<row id="msg_0803_00261" index="261">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It chases its prey until the victim\nbecomes exhausted. However, it\nturns tail if the prey strikes back.</language>
+		<language name="English">Il poursuit sa proie jusqu’à ce\nqu’elle soit épuisée, mais\nreculera si elle contre-attaque.</language>
 	</row>
 	<row id="msg_0803_00262" index="262">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It chases down prey in a pack of\naround ten. They defeat foes with\nperfectly coordinated teamwork.</language>
+		<language name="English">Les GRAHYENA forment des meutes\nde 10 qui excellent au travail de\ngroupe pour capturer leurs proies.</language>
 	</row>
 	<row id="msg_0803_00263" index="263">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It gets interested in everything,\nwhich is why it zigs and zags.\nIt is good at finding items.</language>
+		<language name="English">Pokémon très curieux qui marche\nen zigzaguant. Il n’a pas son pareil\npour chercher des objets.</language>
 	</row>
 	<row id="msg_0803_00264" index="264">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When running in a straight line, it\ncan easily top 60 miles an hour. It\nhas a tough time with curved roads.</language>
+		<language name="English">Il peut courir en ligne droite à\nplus de 100 km/h. Hélas, il n’est\npas doué pour prendre les virages.</language>
 	</row>
 	<row id="msg_0803_00265" index="265">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lives among the tall grass and in\nforests. It repels attacks by \nraising up the spikes on its rear.</language>
+		<language name="English">Il habite les forêts et les hautes\nherbes. Attaqué, il riposte avec\nles piquants de son postérieur.</language>
 	</row>
 	<row id="msg_0803_00266" index="266">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Having wrapped silk around the\nbranches of a tree, it quiescently\nawaits evolution.</language>
+		<language name="English">Il se suspend aux branches en\nles enroulant de sa soie. Il reste\nimmobile en attendant d’évoluer.</language>
 	</row>
 	<row id="msg_0803_00267" index="267">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vibrantly patterned wings are its\nprominent feature. It sucks sweet\nflower nectar with its long mouth.</language>
+		<language name="English">Réputé pour les motifs de ses ailes\naux couleurs vives. Il allonge sa\ntrompe pour butiner le nectar.</language>
 	</row>
 	<row id="msg_0803_00268" index="268">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It endures attacks with patience,\nbecause the more pain before\nevolution, the sturdier it becomes.</language>
+		<language name="English">Il encaisse toutes les attaques.\nLes blessures reçues renforceront\nson corps quand il évoluera.</language>
 	</row>
 	<row id="msg_0803_00269" index="269">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It scatters its fine dust all over\nwhen it is attacked. It is a\nnocturnal Pokémon.</language>
+		<language name="English">Ce Pokémon nocturne combat ses\nadversaires en répandant une\npoudre hautement toxique.</language>
 	</row>
 	<row id="msg_0803_00270" index="270">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its leaf grew too large for it to\nlive on land. That is how it began\nto live floating in the water.</language>
+		<language name="English">Sa feuille est devenue si\ngrande et si lourde qu’il doit\nvivre en flottant sur l’eau.</language>
 	</row>
 	<row id="msg_0803_00271" index="271">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is nocturnal and becomes active\nat nightfall. It feeds on aquatic\nmosses that grow in the riverbed.</language>
+		<language name="English">Ce Pokémon nocturne s’active au\ncrépuscule. Il se nourrit d’algues\nqui poussent au fond des rivières.</language>
 	</row>
 	<row id="msg_0803_00272" index="272">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it hears festive music, it begins\nmoving in rhythm in order to\namplify its power.</language>
+		<language name="English">Il bouge son corps sur un\nrythme entraînant pour\ndécupler ses forces.</language>
 	</row>
 	<row id="msg_0803_00273" index="273">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It attaches itself to a tree branch\nusing the top of its head. Strong\nwinds can sometimes make it fall.</language>
+		<language name="English">Il se suspend aux branches par\nl’extrémité de sa tête. Il arrive\nqu’il tombe s’il est pris de panique.</language>
 	</row>
 	<row id="msg_0803_00274" index="274">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lives deep in forests. With the\nleaf on its head, it makes a flute\nwhose song makes listeners uneasy.</language>
+		<language name="English">Il vit au plus profond des forêts.\nLe son de sa flûte, faite avec la\nfeuille de sa tête, est inquiétant.</language>
 	</row>
 	<row id="msg_0803_00275" index="275">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lives quietly in the deep forest.\nIt is said to create chilly winter\nwinds with the fans it holds.</language>
+		<language name="English">Il vit caché au fond des forêts.\nOn dit que la bise souffle quand\nil agite son immense éventail.</language>
 	</row>
 	<row id="msg_0803_00276" index="276">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it gets cold, they migrate,\nflying over 180 miles a day.\nIt hunts for tasty prey.</language>
+		<language name="English">Il se nourrit de CHENIPOTTE.\nLorsqu’arrive la saison froide, il\ncouvre en vol 300 km en un jour.</language>
 	</row>
 	<row id="msg_0803_00277" index="277">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It dives at a steep angle as soon\nas it spots its prey. It catches\nits prey with sharp claws.</language>
+		<language name="English">Une fois sa proie repérée, il fond\nsur elle en un éclair et la capture\navec ses griffes acérées.</language>
 	</row>
 	<row id="msg_0803_00278" index="278">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It soars on updrafts without\nflapping its wings. It makes a nest\non sheer cliffs at the sea’s edge.</language>
+		<language name="English">Il niche dans les falaises. En\nutilisant les courants d’air, il\npeut voler sans battre des ailes.</language>
 	</row>
 	<row id="msg_0803_00279" index="279">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It protects its young in its beak.\nIt bobs on waves, resting on them\non days when the waters are calm.</language>
+		<language name="English">Il protège ses petits en les\nabritant dans son bec. Par mer\ncalme, il se repose sur l’eau.</language>
 	</row>
 	<row id="msg_0803_00280" index="280">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The horns on its head provide a\nstrong power that enables\nit to sense people’s emotions.</language>
+		<language name="English">Il est très à l’écoute des émotions\nhumaines qu’il perçoit grâce aux\ncornes rouges sur sa tête.</language>
 	</row>
 	<row id="msg_0803_00281" index="281">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has a psychic power that\nenables it to distort the space\naround it and see into the future.</language>
+		<language name="English">Il peut distordre l’espace-temps\ngrâce à ses pouvoirs psy et ainsi\nvoir l’avenir.</language>
 	</row>
 	<row id="msg_0803_00282" index="282">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It unleashes psychokinetic energy\nat full power when protecting a\nTrainer it has bonded closely with.</language>
+		<language name="English">Il utilisera toute sa\npsycho-énergie pour\nprotéger un Dresseur dévoué.</language>
 	</row>
 	<row id="msg_0803_00283" index="283">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It secretes a thick, sweet-scented\nsyrup from the tip of its head.\nIt lives on weed-choked ponds.</language>
+		<language name="English">La goutte au sommet de sa tête\ndiffuse un parfum sucré. Il vit\ndans des étangs herbus.</language>
 	</row>
 	<row id="msg_0803_00284" index="284">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It flaps its four wings to hover and\nfly freely in any direction--\nto and fro and sideways.</language>
+		<language name="English">Ses 4 ailes permettent\nà ce Pokémon de voler\ndans toutes les directions.</language>
 	</row>
 	<row id="msg_0803_00285" index="285">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it senses danger, it scatters\nspores from the top of its head to\nprotect itself.</language>
+		<language name="English">En cas de danger, il s’enroule dans\nsa feuille et libère des spores\nempoisonnées du sommet de sa tête.</language>
 	</row>
 	<row id="msg_0803_00286" index="286">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It scatters poisonous spores and\nthrows powerful punches while its\nfoe is hampered by inhaled spores.</language>
+		<language name="English">Il frappe de toutes ses forces\nses ennemis étourdis par ses\nspores empoisonnées.</language>
 	</row>
 	<row id="msg_0803_00287" index="287">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The way SLAKOTH lolls around makes\nanyone who watches it feel like\ndoing the same.</language>
+		<language name="English">Rien qu’à voir un PARECOOL,\non n’a plus envie de bouger\net on s’endort.</language>
 	</row>
 	<row id="msg_0803_00288" index="288">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its stress level rises if it\ncannot keep moving constantly.\nToo much stress makes it feel sick.</language>
+		<language name="English">Quand il ne bouge pas,\nil accumule du stress\net devient très irritable.</language>
 	</row>
 	<row id="msg_0803_00289" index="289">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The world’s laziest Pokémon.\nIt moves to another spot when there’s\nno food left within its reach.</language>
+		<language name="English">Le Pokémon le plus fainéant du\nmonde. Il bouge quand il a mangé\ntout ce qui était à portée de main.</language>
 	</row>
 	<row id="msg_0803_00290" index="290">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can sometimes live underground for\nmore than 10 years. It absorbs\nnutrients from the roots of trees.</language>
+		<language name="English">Il peut passer jusqu’à 10 ans sous\nterre. Les racines des arbres\nconstituent son régime alimentaire.</language>
 	</row>
 	<row id="msg_0803_00291" index="291">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its cry leaves a lasting headache\nif heard for too long. It moves so\nquickly that it is almost invisible.</language>
+		<language name="English">C’est la migraine assurée quand il\npousse son cri perçant. On le perd\nfacilement de vue tant il est vif.</language>
 	</row>
 	<row id="msg_0803_00292" index="292">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A strange Pokémon--it flies without\nmoving its wings, has a hollow shell\nfor a body, and does not breathe.</language>
+		<language name="English">Un étrange Pokémon à la carapace\nvide, qui ne respire pas et qui peut\nvoler sans battre des ailes.</language>
 	</row>
 	<row id="msg_0803_00293" index="293">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it senses danger, it scares\nthe foe by crying out with the\nvolume of a jet-plane engine.</language>
+		<language name="English">Il repousse ses ennemis grâce\nà un cri aussi puissant que le\nbruit d’un avion à réaction.</language>
 	</row>
 	<row id="msg_0803_00294" index="294">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It shouts loudly by inhaling air, and\nthen uses its well-developed\nstomach muscles to exhale.</language>
+		<language name="English">Grâce à ses puissants muscles\nabdominaux, il peut crier en\nexpulsant l’air qu’il avait aspiré.</language>
 	</row>
 	<row id="msg_0803_00295" index="295">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its roar in battle shakes the\nground like a tremor--or like\nan earthquake has struck.</language>
+		<language name="English">Au combat, son hurlement fait\ntrembler le sol comme un séisme.</language>
 	</row>
 	<row id="msg_0803_00296" index="296">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It toughens up by slamming into\nthick trees over and over. It gains\na sturdy body and dauntless spirit.</language>
+		<language name="English">Il fonce sur des arbres larges\npour fortifier son corps\nimmense et son cœur vaillant.</language>
 	</row>
 	<row id="msg_0803_00297" index="297">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It loves challenging others to\ntests of strength. It has the\npower to stop a train with a slap.</language>
+		<language name="English">Il aime mesurer sa force, et est\ncapable d’arrêter à mains nues\nun train lancé à pleine vitesse.</language>
 	</row>
 	<row id="msg_0803_00298" index="298">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its tail is packed full of the\nnutrients it needs to grow.</language>
+		<language name="English">Les nutriments nécessaires à sa\ncroissance sont stockés dans la\nsphère située au bout de sa queue.</language>
 	</row>
 	<row id="msg_0803_00299" index="299">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If two of these meet, they cannot\nget too close because their noses\nrepel each other.</language>
+		<language name="English">Le magnétisme du nez des TARINOR\nfait qu’ils ne peuvent pas se\nrapprocher les uns des autres.</language>
 	</row>
 	<row id="msg_0803_00300" index="300">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s adorable when it chases its own\ntail. It’s difficult to earn its trust.</language>
+		<language name="English">Il court après sa queue jusqu’à\navoir le tournis. Un Dresseur aura\ndu mal à devenir proche de lui.</language>
 	</row>
 	<row id="msg_0803_00301" index="301">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It dislikes dirty places. It often\nsearches for a comfortable place\nin which to groom itself.</language>
+		<language name="English">Il déteste la saleté et passe son\ntemps à entretenir sa fourrure,\nconfortablement installé.</language>
 	</row>
 	<row id="msg_0803_00302" index="302">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It dwells in the darkness of caves.\nIt uses its sharp claws to dig up\ngems to nourish itself.</language>
+		<language name="English">Ce Pokémon vit dans les grottes\nobscures et mange des gemmes qu’il\ndéterre avec ses griffes acérées.</language>
 	</row>
 	<row id="msg_0803_00303" index="303">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It chomps with its gaping mouth.\nIts huge jaws are actually steel\nhorns that have been transformed.</language>
+		<language name="English">Ses cornes d’acier forment une\ngrande mâchoire avec laquelle il\nmord férocement ses adversaires.</language>
 	</row>
 	<row id="msg_0803_00304" index="304">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it evolves, it sheds the steel\ncarapace that covered its whole body\nand develops a new one.</language>
+		<language name="English">L’armure d’acier qui recouvre son\ncorps s’émiette quand il évolue\npour laisser place à une nouvelle.</language>
 	</row>
 	<row id="msg_0803_00305" index="305">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It loves iron ore. Groups of them\nfight for territory by bashing one\nanother with their steel bodies.</language>
+		<language name="English">Il raffole du minerai de fer. Il\ndéfend son territoire en chargeant\navec son corps d’acier.</language>
 	</row>
 	<row id="msg_0803_00306" index="306">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can tell its age by the length\nof its iron horns. It claims an\nentire mountain as its territory.</language>
+		<language name="English">La longueur de ses cornes d’acier\nindique son âge. Son territoire\néquivaut à une montagne entière.</language>
 	</row>
 	<row id="msg_0803_00307" index="307">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It meditates to heighten its inner\nenergy and to float in the air.\nIt eats one berry a day.</language>
+		<language name="English">La méditation renforce son esprit\net lui permet de léviter. Il ne\nmange qu’une Baie par jour.</language>
 	</row>
 	<row id="msg_0803_00308" index="308">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Through yoga training, it gained\nthe psychic power to predict\nits foe’s next move.</language>
+		<language name="English">Ses pouvoirs psy, renforcés par\nla pratique du yoga, lui permettent\nde prédire les mouvements ennemis.</language>
 	</row>
 	<row id="msg_0803_00309" index="309">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It stores electricity in its fur. It\ngives off sparks from all over its\nbody in seasons when the air is dry.</language>
+		<language name="English">L’électricité statique s’accumule\ndans sa fourrure. Par temps froid,\nelle dégage des étincelles.</language>
 	</row>
 	<row id="msg_0803_00310" index="310">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its nest can be found where a\nthunderbolt hits. It is discharging\nelectricity from its mane.</language>
+		<language name="English">Il établirait son terrier là où\nest tombée la foudre. Sa\ncrinière libère de l’électricité.</language>
 	</row>
 	<row id="msg_0803_00311" index="311">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It absorbs electricity from\ntelephone poles. It shorts out its\nbody to create crackling noises.</language>
+		<language name="English">Il absorbe l’énergie des poteaux\nélectriques et court-circuite son\ncorps pour produire du bruit.</language>
 	</row>
 	<row id="msg_0803_00312" index="312">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Exposure to electricity from MINUN\nand PLUSLE promotes blood\ncirculation and relaxes muscles.</language>
+		<language name="English">L’électricité de POSIPI et NEGAPI\nfavorise la circulation sanguine et\nguérit les courbatures.</language>
 	</row>
 	<row id="msg_0803_00313" index="313">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It emits light from its tail to\ncommunicate. It loves the\nsweet aroma given off by ILLUMISE.</language>
+		<language name="English">Il communique avec ses pairs en\nfaisant clignoter son postérieur.\nIl adore le parfum de LUMIVOLE.</language>
 	</row>
 	<row id="msg_0803_00314" index="314">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its fragrance attracts a swarm of\nVOLBEAT, so they draw over 200\npatterns in the night sky.</language>
+		<language name="English">Il utilise son doux parfum pour\naider MUCIOLE à décrire plus de 200\narabesques dans le ciel nocturne.</language>
 	</row>
 	<row id="msg_0803_00315" index="315">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROSELIA that drink nutritionally\nrich springwater are said to reveal\nrare coloration when they bloom.</language>
+		<language name="English">Les ROSELIA arrosés avec une eau\nde source riche en nutriments\nprendraient des couleurs uniques.</language>
 	</row>
 	<row id="msg_0803_00316" index="316">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has a small heart and brain. Its\nstomach comprises most of its body,\nwith enzymes to dissolve anything.</language>
+		<language name="English">Son corps est principalement\nconstitué d’un estomac dont les\nsucs digestifs dissolvent tout.</language>
 	</row>
 	<row id="msg_0803_00317" index="317">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It gulps anything that fits in its\nmouth. Its special enzymes can\ndissolve anything.</language>
+		<language name="English">Il avale tout en une bouchée.\nSes sucs digestifs peuvent\ndigérer n’importe quoi.</language>
 	</row>
 	<row id="msg_0803_00318" index="318">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They form packs to attack boats\nand rip out their hulls to sink them.\nThey live in rivers in the jungle.</language>
+		<language name="English">Il s’attaque en banc aux bateaux\ndont il dévore la coque. Les rivières\nde la jungle forment son habitat.</language>
 	</row>
 	<row id="msg_0803_00319" index="319">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can swim at speeds of 75 mph by\njetting seawater through its body.\nIt is the bandit of the sea.</language>
+		<language name="English">Ce petit voyou fend les mers\nen se propulsant à 120 km/h\ngrâce à son postérieur.</language>
 	</row>
 	<row id="msg_0803_00320" index="320">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It bounces playfully like a ball.\nThe more seawater it swallows,\nthe higher it bounces.</language>
+		<language name="English">Il rebondit comme un ballon\npour s’amuser. Plus il boit\nde l’eau, plus il va haut.</language>
 	</row>
 	<row id="msg_0803_00321" index="321">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is the largest of all identified\nPokémon. They jump as a pack\nto herd their prey.</language>
+		<language name="English">Le plus grand des Pokémon. Les\nWAILORD chassent en bandes et\ncapturent leurs proies d’un bond.</language>
 	</row>
 	<row id="msg_0803_00322" index="322">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The flaming magma it stores in the\nhump on its back is the source of\nits tremendous power.</language>
+		<language name="English">Le magma en fusion dans sa bosse\nlui fournit une énergie incroyable\nqui est à l’origine de sa puissance.</language>
 	</row>
 	<row id="msg_0803_00323" index="323">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lives in the crater of a volcano.\nIt is well known that the humps on\nits back erupt every 10 years.</language>
+		<language name="English">Il vit dans les cratères des\nvolcans. Ses bosses entrent\nen éruption tous les 10 ans.</language>
 	</row>
 	<row id="msg_0803_00324" index="324">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You find abandoned coal mines full\nof them. They dig tirelessly in\nsearch of coal.</language>
+		<language name="English">Les CHARTOR vivent dans les mines\nabandonnées, où ils extraient le\ncharbon avec ardeur.</language>
 	</row>
 	<row id="msg_0803_00325" index="325">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It bounces around on its tail to\nkeep its heart pumping. It carries\na pearl from CLAMPERL on its head.</language>
+		<language name="English">Il rebondit sur sa queue pour faire\nbattre son cœur. La perle sur sa\ntête vient d’un COQUIPERL.</language>
 	</row>
 	<row id="msg_0803_00326" index="326">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can perform odd dance steps to\ninfluence foes. Its style of dancing\nbecame hugely popular overseas.</language>
+		<language name="English">L’étrange danse qu’il utilise pour\nmanipuler ses adversaires fut très\npopulaire à l’étranger autrefois.</language>
 	</row>
 	<row id="msg_0803_00327" index="327">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The chances of two SPINDA having\nidentical spot patterns is less\nthan one in four billion.</language>
+		<language name="English">La chance que deux SPINDA avec les\nmêmes motifs se rencontrent est de\nmoins de une pour quatre milliards.</language>
 	</row>
 	<row id="msg_0803_00328" index="328">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its nest is a sloped, bowl-like pit\nin the desert. Once something has\nfallen in, there is no escape.</language>
+		<language name="English">Une fois tombé dedans, impossible\nde s’échapper du trou conique qu’il\na creusé dans le sable du désert.</language>
 	</row>
 	<row id="msg_0803_00329" index="329">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It vibrates its wings vigorously,\ncreating ultrasonic waves that\ncause serious headaches.</language>
+		<language name="English">Ses violents battements d’ailes\ngénèrent des vagues d’ultrasons\nqui donnent de sévères migraines.</language>
 	</row>
 	<row id="msg_0803_00330" index="330">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is nicknamed “The Desert\nSpirit” because the flapping of its\nwings sounds like a woman singing.</language>
+		<language name="English">On l’appelle “esprit du désert”,\ncar ses battements d’ailes peuvent\naussi sonner comme une douce voix.</language>
 	</row>
 	<row id="msg_0803_00331" index="331">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lives in arid locations. Its\nyellow flowers bloom once a year.</language>
+		<language name="English">CACNEA vit dans les zones arides.\nUne fois par an, une fleur jaune\néclot sur sa tête.</language>
 	</row>
 	<row id="msg_0803_00332" index="332">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Packs of them follow travelers\nthrough the desert until\nthe travelers can no longer move.</language>
+		<language name="English">Les CACTURNE traquent en groupe\nles voyageurs du désert, guettant\nles signes de fatigue pour frapper.</language>
 	</row>
 	<row id="msg_0803_00333" index="333">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its wings bring cottony clouds to\nmind. It grooms with springwater\nand loves to sit on heads.</language>
+		<language name="English">Il toilette ses ailes duveteuses\nà l’eau de source, et aime se\npercher sur la tête des gens.</language>
 	</row>
 	<row id="msg_0803_00334" index="334">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It flies gracefully through the\nsky. Its melodic humming makes\nyou feel like you’re in a dream.</language>
+		<language name="English">Il vole doucement dans le ciel.\nCeux qui l’entendent fredonner\nsont comme plongés dans un rêve.</language>
 	</row>
 	<row id="msg_0803_00335" index="335">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its fur would all stand on end if\nit smelled a SEVIPER nearby.\nIts sharp claws tear up its foes.</language>
+		<language name="English">Son poil se hérisse dès qu’il sent\nun SEVIPER. Il lacère ses ennemis\navec ses griffes acérées.</language>
 	</row>
 	<row id="msg_0803_00336" index="336">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In battle, it uses its bladed tail to\ncounter any ZANGOOSE. It secretes\na deadly venom in its tail.</language>
+		<language name="English">Il rivalise avec MANGRIFF grâce\nà la lame affûtée de sa queue\nqui sécrète un puissant venin.</language>
 	</row>
 	<row id="msg_0803_00337" index="337">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It was discovered at the site of a\nmeteor strike 40 years ago. Its\nstare can lull its foes to sleep.</language>
+		<language name="English">Il a été découvert dans le cratère\nd’une météorite il y a 40 ans. Son\nsimple regard endort ses ennemis.</language>
 	</row>
 	<row id="msg_0803_00338" index="338">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it rotates itself, it gives off\nlight similar to the sun, thus\nblinding its foes.</language>
+		<language name="English">Il produit une lumière aussi\naveuglante que le soleil\nquand il se met à tournoyer.</language>
 	</row>
 	<row id="msg_0803_00339" index="339">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BARBOACH uses its whiskers to\ntaste things just as a person uses\nhis or her tongue to taste things.</language>
+		<language name="English">Les barbillons de BARLOCHE peuvent\napprécier le goût des aliments\naussi bien qu’une langue humaine.</language>
 	</row>
 	<row id="msg_0803_00340" index="340">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It claims a large swamp to itself.\nIf a foe comes near it, it sets off\ntremors by thrashing around.</language>
+		<language name="English">Il a besoin d’un étang entier pour\nvivre. Si un ennemi s’approche, il\ns’énerve et déclenche un séisme.</language>
 	</row>
 	<row id="msg_0803_00341" index="341">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It was originally a Pokémon from\nafar that escaped to the wild. It\ncan adapt to the dirtiest river.</language>
+		<language name="English">Un Pokémon importé, retourné à\nl’état sauvage. Il s’adapte même\naux rivières les plus polluées.</language>
 	</row>
 	<row id="msg_0803_00342" index="342">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A brutish Pokémon that loves to\nbattle. It will crash itself into any\nfoe that approaches its nest.</language>
+		<language name="English">Il adore se battre et frappera\ncomme une brute tout ce qui\ns’approche de sa mare.</language>
 	</row>
 	<row id="msg_0803_00343" index="343">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It moves while spinning around on\nits single foot. Some BALTOY have\nbeen seen spinning on their heads.</language>
+		<language name="English">Il se déplace en tournoyant sur\nson pied. Même mis sur la tête, il\npeut continuer à tourner.</language>
 	</row>
 	<row id="msg_0803_00344" index="344">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is said that it originates from clay\ndolls made by an ancient civilization.</language>
+		<language name="English">Une figurine d’argile fabriquée\npar une civilisation vieille de\n20 000 ans et amenée à la vie.</language>
 	</row>
 	<row id="msg_0803_00345" index="345">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It disguises its tentacles as\nflowers to attract and catch prey.\nIt became extinct in ancient times.</language>
+		<language name="English">Il attrape ses proies avec ses\ntentacules-pétales. Il a disparu\nil y a cent millions d’années.</language>
 	</row>
 	<row id="msg_0803_00346" index="346">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lives in warm seas. Its heavy\nbody weighs it down so it won’t\nget washed away in rough weather.</language>
+		<language name="English">Vit dans les mers chaudes. Son\ncorps, ancré dans le sol, ne bouge\npas même si la mer est déchaînée.</language>
 	</row>
 	<row id="msg_0803_00347" index="347">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An ancestral Pokémon that lived in\nthe ocean. Over time, its eight feet\ntransformed into wings.</language>
+		<language name="English">Un ancêtre Pokémon dont les 8\npattes se sont changées en ailes\nà force de vivre dans l’océan.</language>
 	</row>
 	<row id="msg_0803_00348" index="348">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its enormous, retractable claws\ncan cut through most anything. Its\nentire body is clad in sturdy plates.</language>
+		<language name="English">Ce Pokémon au corps blindé peut\nallonger ou rétracter ses énormes\npinces pour embrocher ses proies.</language>
 	</row>
 	<row id="msg_0803_00349" index="349">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is the shabbiest Pokémon of all.\nIt forms in schools and lives at the\nbottom of rivers.</language>
+		<language name="English">Son apparence est pathétique. Il\nforme des bancs dans les rivières\nriches en plantes aquatiques.</language>
 	</row>
 	<row id="msg_0803_00350" index="350">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s said that a glimpse of a\nMILOTIC and its beauty will calm any\nhostile emotions you’re feeling.</language>
+		<language name="English">On dit que la beauté du MILOBELLUS\nest telle qu’elle apaise l’esprit de\nceux qui en voient un.</language>
 	</row>
 	<row id="msg_0803_00351" index="351">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon can change its cells,\ntaking different forms based on\nthe temperature and humidity.</language>
+		<language name="English">Les variations de température ou\nd’humidité affectent sa structure\ncellulaire et son apparence.</language>
 	</row>
 	<row id="msg_0803_00352" index="352">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It changes its shading to match its\nsurroundings so it can sneak up on prey.\nOnly its belly patterns stay fixed.</language>
+		<language name="English">Il se fond dans son environnement\nen changeant de couleur, mais le\nmotif sur son ventre reste le même.</language>
 	</row>
 	<row id="msg_0803_00353" index="353">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It uses its horn to feed on envy\nand malice, or so it’s said.\nIt’s very active at night.</language>
+		<language name="English">Ce Pokémon, très actif la nuit,\nutilise sa corne pour se repaître\nde rancune ou de jalousie.</language>
 	</row>
 	<row id="msg_0803_00354" index="354">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon developed from an\nabandoned doll that amassed a\ngrudge. It is seen in dark alleys.</language>
+		<language name="English">Une peluche abandonnée que\nla rancune a animée, et qui\nhante les ruelles sombres.</language>
 	</row>
 	<row id="msg_0803_00355" index="355">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If it finds bad children who won’t\nlisten to their parents, it will\nspirit them away--or so it’s said.</language>
+		<language name="English">On dit que SKELENOX emporte\nles enfants désobéissants à\nla nuit tombée.</language>
 	</row>
 	<row id="msg_0803_00356" index="356">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Anyone who dares peer into its body\nto see its spectral ball of fire\nwill have their spirit stolen away.</language>
+		<language name="English">Il aspire l’âme de ceux qui\nregardent dans son corps creux\noù rougeoie son unique œil.</language>
 	</row>
 	<row id="msg_0803_00357" index="357">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The bunch of fruit around its neck\nripens twice a year and is delicious.\nIt’s a highly favored tropical snack.</language>
+		<language name="English">Les succulents fruits de son cou\npoussent deux fois l’an et font le\nrégal des enfants des tropiques.</language>
 	</row>
 	<row id="msg_0803_00358" index="358">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It uses the sucker on its head to\nhang from a tree or from eaves. It\ncan produce seven different tones.</language>
+		<language name="English">Il se suspend sous une branche ou\nun auvent avec la ventouse de sa\ntête. Son langage comporte 7 cris.</language>
 	</row>
 	<row id="msg_0803_00359" index="359">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has the ability to foretell\nnatural disasters. Its life span is\nover a hundred years.</language>
+		<language name="English">Ce Pokémon, qui peut vivre plus de\n100 ans, est capable de pressentir\nles catastrophes naturelles.</language>
 	</row>
 	<row id="msg_0803_00360" index="360">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It tends to move in a pack.\nIndividuals squash against one\nanother to toughen their spirits.</language>
+		<language name="English">Il se regroupe en larges bandes\net se fortifie en se bousculant\navec ses semblables.</language>
 	</row>
 	<row id="msg_0803_00361" index="361">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s said that if they are seen at\nmidnight, they’ll cause heavy snow.\nThey eat snow and ice to survive.</language>
+		<language name="English">Ce Pokémon se nourrit de neige\net de glace. En voir un la nuit\nest présage de fortes neiges.</language>
 	</row>
 	<row id="msg_0803_00362" index="362">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can instantly freeze moisture in\nthe atmosphere. It uses this power\nto freeze its foes.</language>
+		<language name="English">Il a le pouvoir de geler l’humidité\nambiante en un instant et peut\nainsi pétrifier ses proies.</language>
 	</row>
 	<row id="msg_0803_00363" index="363">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It crosses the oceans by rolling itself\non drifting ice. Fluffy fur keeps it warm\nwhen the temperature is below freezing.</language>
+		<language name="English">Il traverse les mers en roulant\nsur les blocs de glace. Sa douce\nfourrure le protège du froid.</language>
 	</row>
 	<row id="msg_0803_00364" index="364">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It has a very sensitive nose.\nIt touches new things with its nose\nto examine them.</language>
+		<language name="English">Il utilise son museau hypersensible\npour toucher et comprendre tout\nce qu’il voit pour la première fois.</language>
 	</row>
 	<row id="msg_0803_00365" index="365">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It shatters drift ice with its\nstrong tusks. Its thick layer of\nblubber repels enemy attacks.</language>
+		<language name="English">Ses robustes défenses pulvérisent\nla glace, et son épaisse couche de\ngraisse repousse les attaques.</language>
 	</row>
 	<row id="msg_0803_00366" index="366">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it evolves, it makes a\nmysterious pearl that amplifies\npsychic powers when it’s held.</language>
+		<language name="English">Il ne produit qu’une perle durant\nson existence, quand il évolue. Elle\namplifie les pouvoirs psychiques.</language>
 	</row>
 	<row id="msg_0803_00367" index="367">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lives deep in the pitch-dark sea.\nIt attracts prey by moving its tail\nin mimicry of a small animal.</language>
+		<language name="English">Ce Pokémon des abysses appâte ses\nproies en agitant sa queue en forme\nde petite créature.</language>
 	</row>
 	<row id="msg_0803_00368" index="368">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its pink body becomes more vivid\nwith the rise of water\ntemperatures in the springtime.</language>
+		<language name="English">Lorsque vient le printemps et que\nla température de l’eau monte, son\ncorps devient rose vif.</language>
 	</row>
 	<row id="msg_0803_00369" index="369">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Discovered by chance during\ndeep-sea explorations, it has not\nchanged since ancient times.</language>
+		<language name="English">Découvert par hasard lors d’une\nexploration sous-marine. Il n’a pas\névolué depuis 100 millions d’années.</language>
 	</row>
 	<row id="msg_0803_00370" index="370">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its heart-shaped body makes it\npopular. In some places, you would\ngive a LUVDISC to someone you love.</language>
+		<language name="English">Très populaire grâce à sa forme.\nLa coutume dans certaines régions\nest d’en offrir un à l’élu de son cœur.</language>
 	</row>
 	<row id="msg_0803_00371" index="371">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its well-developed neck muscles\nand ironlike head can smash\nboulders into pieces.</language>
+		<language name="English">Il réduit en miettes les plus gros\nrochers grâce à son cou musculeux\net sa tête dure comme l’acier.</language>
 	</row>
 	<row id="msg_0803_00372" index="372">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It surrounds its body in an\niron-hard shell to accumulate\nenough power to evolve.</language>
+		<language name="English">Il accumule l’énergie nécessaire\nà son évolution, à l’abri dans sa\ncoquille dure comme l’acier.</language>
 	</row>
 	<row id="msg_0803_00373" index="373">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s uncontrollable if enraged.\nIt flies around spouting flames and\nscorching fields and mountains.</language>
+		<language name="English">Ses colères sont dévastatrices.\nIl s’envole et brûle tout sur son\npassage.</language>
 	</row>
 	<row id="msg_0803_00374" index="374">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The magnetic force generated by\nits body repels the ground’s\nnatural magnetism, letting it float. </language>
+		<language name="English">Il dégage un champ magnétique\nopposé à celui de la terre, ce qui\nlui permet de léviter.</language>
 	</row>
 	<row id="msg_0803_00375" index="375">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When two BELDUM fuse together, a\nmagnetic nervous system places\ntheir brains in union.</language>
+		<language name="English">Né de la fusion de deux TERHAL.\nSes 2 cerveaux sont reliés par\nun système nerveux magnétique.</language>
 	</row>
 	<row id="msg_0803_00376" index="376">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It folds its four legs when flying.\nIts four brains are said to be\nsuperior to a supercomputer.</language>
+		<language name="English">Il vole en repliant ses 4 pattes.\nSes 4 cerveaux sont plus performants\nqu’un superordinateur.</language>
 	</row>
 	<row id="msg_0803_00377" index="377">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The same rocks that form its body\nhave been found in ground layers\naround the world.</language>
+		<language name="English">Les roches qui composent son corps\nse retrouvent également dans les\ndiverses couches terrestres.</language>
 	</row>
 	<row id="msg_0803_00378" index="378">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is said to have slept in a glacier\nfor thousands of years. Its body\ncan’t be melted, even by magma.</language>
+		<language name="English">Il reposait dans un glacier depuis\ndes milliers d’années. Même le\nmagma ne peut pas le faire fondre.</language>
 	</row>
 	<row id="msg_0803_00379" index="379">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its body is said to be harder than\nany kind of metal. A study has\nrevealed that its body is hollow.</language>
+		<language name="English">Son corps, plus dur que n’importe\nquel métal, serait creux selon les\ndernières analyses scientifiques.</language>
 	</row>
 	<row id="msg_0803_00380" index="380">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It communicates using telepathy.\nIts body is covered in down that\nrefracts light to make it invisible.</language>
+		<language name="English">Il est doué d’empathie. Le duvet\nqui recouvre son corps réfléchit\nla lumière et le rend invisible.</language>
 	</row>
 	<row id="msg_0803_00381" index="381">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It understands human speech and is\nhighly intelligent. It is a tender\nPokémon that dislikes fighting.</language>
+		<language name="English">Un Pokémon très intelligent qui\ncomprend le langage humain. Il\ndéteste se battre.</language>
 	</row>
 	<row id="msg_0803_00382" index="382">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A mythical Pokémon said to have\nswelled the seas with rain and tidal\nwaves. It battled with GROUDON.</language>
+		<language name="English">Ennemi juré de GROUDON, la légende\ndit qu’il a étendu les mers en\ncausant déluges et raz de marée.</language>
 	</row>
 	<row id="msg_0803_00383" index="383">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Said to have expanded the lands by\nevaporating water with raging heat.\nIt battled titanically with KYOGRE.</language>
+		<language name="English">Ennemi juré de KYOGRE, sa haute chaleur\ncorporelle aurait fait évaporer l’eau\net permis aux continents de s’étendre.</language>
 	</row>
 	<row id="msg_0803_00384" index="384">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It flies in the ozone layer, way up\nhigh in the sky. Until recently,\nno one had ever seen it.</language>
+		<language name="English">On ne l’a vu pour la première fois\nque très récemment car il vit dans\nla lointaine couche d’ozone.</language>
 	</row>
 	<row id="msg_0803_00385" index="385">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Generations have believed that any\nwish written on a note on its head\nwill come true when it awakens.</language>
+		<language name="English">On raconte qu’à son réveil, il\nexauce les vœux écrits sur les\nrubans de papier de sa tête.</language>
 	</row>
 	<row id="msg_0803_00386" index="386">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DNA from a space virus mutated and\nbecame a Pokémon. It appears\nwhere auroras are seen.</language>
+		<language name="English">C’est un virus extraterrestre qui\na muté en Pokémon. Il apparaît\nà proximité des aurores boréales.</language>
 	</row>
 	<row id="msg_0803_00387" index="387">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Photosynthesis occurs across its\nbody under the sun. The shell on\nits back is actually hardened soil.</language>
+		<language name="English">Il photosynthétise la lumière du\nsoleil avec son corps. Sa carapace\nest faite de terre durcie.</language>
 	</row>
 	<row id="msg_0803_00388" index="388">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A GROTLE that lives in the forest\nis said to have its own secret\nspringwater.</language>
+		<language name="English">On dit qu’il existe des lieux d’où\njaillit une eau pure que ce Pokémon\nsylvestre est seul à connaître.</language>
 	</row>
 	<row id="msg_0803_00389" index="389">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ancient people imagined that\nbeneath the ground, a gigantic\nTORTERRA dwelled.</language>
+		<language name="English">Autrefois, les gens pensaient\nqu’un gigantesque TORTERRA\nvivait sous la surface de la terre.</language>
 	</row>
 	<row id="msg_0803_00390" index="390">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The gas made in its belly burns from\nits rear end. The fire burns weakly\nwhen it feels sick.</language>
+		<language name="English">La flamme de son postérieur brûle\ngrâce à un gaz de son estomac.\nElle faiblit quand il ne va pas bien.</language>
 	</row>
 	<row id="msg_0803_00391" index="391">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A bigger fire on its tail and a\nbrighter blue pattern on its face\nmeans its rank in its pack is higher.</language>
+		<language name="English">La taille de sa flamme et l’intensité\nde ses reflets bleus indiquent sa\nposition hiérarchique.</language>
 	</row>
 	<row id="msg_0803_00392" index="392">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It tosses its enemies around with\nagility. It uses all its limbs to\nfight in its own unique style.</language>
+		<language name="English">Il fait voltiger ses ennemis grâce\nà sa vitesse et son style de combat\nspécial qui utilise ses 4 membres.</language>
 	</row>
 	<row id="msg_0803_00393" index="393">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It doesn’t like to be taken care\nof. It’s difficult to bond with since\nit won’t listen to its Trainer.</language>
+		<language name="English">Ce Pokémon est difficile à entraîner\ncar il est très désobéissant et\ndéteste qu’on lui rende service.</language>
 	</row>
 	<row id="msg_0803_00394" index="394">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lives a solitary life. Its wings\ndeliver wicked blows that can\nsnap even the thickest of trees.</language>
+		<language name="English">C’est un Pokémon solitaire.\nUn seul coup de ses puissantes\nailes peut briser un arbre en deux.</language>
 	</row>
 	<row id="msg_0803_00395" index="395">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It avoids unnecessary disputes,\nbut it will decimate anything that\nthreatens its pride.</language>
+		<language name="English">Il évite les violences inutiles mais\nattaquera sans pitié toute menace\npour protéger le groupe.</language>
 	</row>
 	<row id="msg_0803_00396" index="396">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They flock around mountains and\nfields, chasing after bug Pokémon.\nTheir singing is noisy and annoying.</language>
+		<language name="English">Ce Pokémon très bruyant parcourt\nchamps et forêts en nuées pour\nchasser les Pokémon Insecte.</language>
 	</row>
 	<row id="msg_0803_00397" index="397">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They maintain huge flocks, although\nfierce scuffles break out between\nvarious flocks.</language>
+		<language name="English">Il a coutume de se regrouper en\nlarges volées. Les combats entre\nETOURVOL sont très violents.</language>
 	</row>
 	<row id="msg_0803_00398" index="398">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When STARAVIA evolve into\nSTARAPTOR, they leave the flock to\nlive alone. They have sturdy wings.</language>
+		<language name="English">En évoluant en ETOURAPTOR, il\nquitte son groupe pour vivre seul.\nSes ailes sont très développées.</language>
 	</row>
 	<row id="msg_0803_00399" index="399">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lives in groups by the water. \nIt chews up boulders and trees\naround its nest with its incisors.</language>
+		<language name="English">Il vit en groupe au bord de l’eau.\nArbres et rochers autour de son\nnid portent ses traces de dents.</language>
 	</row>
 	<row id="msg_0803_00400" index="400">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It busily makes its nest with\nstacks of branches and roots it\nhas cut up with its sharp incisors.</language>
+		<language name="English">Il tranche les branches et les\nracines de ses incisives aiguisées\npour construire des barrages.</language>
 	</row>
 	<row id="msg_0803_00401" index="401">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When its antennae hit each other,\nit sounds like the music of\na xylophone.</language>
+		<language name="English">Quand ses antennes s’entrechoquent,\nelles laissent échapper un bruit de\nxylophone.</language>
 	</row>
 	<row id="msg_0803_00402" index="402">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By allowing its cry to resonate in\nthe hollow of its belly, it produces\na captivating sound.</language>
+		<language name="English">Les cavités de son corps amplifient\nles sons, lui permettant de\nproduire un cri mélodieux.</language>
 	</row>
 	<row id="msg_0803_00403" index="403">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The extension and contraction of\nits muscles generates electricity.\nIts fur glows when it’s in trouble.</language>
+		<language name="English">Il libère de l’électricité en\ncontractant ses muscles. En cas\nde danger, sa fourrure étincelle.</language>
 	</row>
 	<row id="msg_0803_00404" index="404">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By gathering their tails together,\nthey collectively generate powerful\nelectricity from their claws. </language>
+		<language name="English">Des LUXIO reliés par la queue\npeuvent libérer avec leurs griffes\nune décharge encore plus forte.</language>
 	</row>
 	<row id="msg_0803_00405" index="405">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LUXRAY’s ability to see through\nobjects comes in handy when it’s\nscouting for danger.</language>
+		<language name="English">Sa capacité à voir à travers tout\nest très utile pour détecter les\nmoindres dangers.</language>
 	</row>
 	<row id="msg_0803_00406" index="406">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it feels the sun’s warm touch,\nit opens its bud to release pollen.\nIt lives alongside clear pools.</language>
+		<language name="English">Son bourgeon s’ouvre une fois\ngorgé de soleil et libère du pollen.\nIl vit près des sources d’eau pure.</language>
 	</row>
 	<row id="msg_0803_00407" index="407">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its sweet aroma attracts prey.\nThen it spews poison. The more\ntoxic it is, the sweeter its aroma.</language>
+		<language name="English">Plus le parfum avec lequel il\nattire ses proies est doux,\nplus son poison est violent.</language>
 	</row>
 	<row id="msg_0803_00408" index="408">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CRANIDOS toughen up their already\nrock-hard heads by headbutting\none another.</language>
+		<language name="English">Les KRANIDOS ont la tête dure et\nla renforcent en se cognant les\nuns les autres.</language>
 	</row>
 	<row id="msg_0803_00409" index="409">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its skull withstands impacts of any\nmagnitude. As a result, its brain\nnever gets the chance to grow.</language>
+		<language name="English">A force de cogner son crâne\npourtant hyper résistant,\nCHARKOS a un cerveau atrophié.</language>
 	</row>
 	<row id="msg_0803_00410" index="410">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It was generated from a fossil dug out\nof a layer of clay that was older than\nanyone knows. It has a sturdy face.</language>
+		<language name="English">Il est né d’un fossile datant de\n100 millions d’années. Son visage\nest très dur.</language>
 	</row>
 	<row id="msg_0803_00411" index="411">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When attacked, they form a wall.\nTheir rock-hard faces serve to\nprotect them from the attacks.</language>
+		<language name="English">Les BASTIODON vivent en troupeau.\nAttaqués, ils se mettent côte à\ncôte pour riposter avec leur tête.</language>
 	</row>
 	<row id="msg_0803_00412" index="412">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It covers itself with a cloak to\nshelter from the cold. When it’s\nhot, its cloak is thinner.</language>
+		<language name="English">La cape de feuilles et de brindilles\nqu’il utilise pour se protéger du\nfroid est plus légère l’été.</language>
 	</row>
 	<row id="msg_0803_00413" index="413">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is said that a WORMADAM that\nevolves on a cold day will have a\nthicker cloak.</language>
+		<language name="English">Si CHENITI évolue en CHENISELLE\npar jour de froid, sa cape sera\nencore plus épaisse.</language>
 	</row>
 	<row id="msg_0803_00414" index="414">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It flutters around at night and\nsteals honey from the COMBEE hive.</language>
+		<language name="English">Ce Pokémon s’active à la nuit\ntombée pour voler le miel des\nAPITRINI pendant leur sommeil.</language>
 	</row>
 	<row id="msg_0803_00415" index="415">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At night, COMBEE sleep in a group of\nabout a thousand, packed closely\ntogether in a lump.</language>
+		<language name="English">Les APITRINI s’agglutinent par\ngrappes de 100 à la nuit tombée\npour dormir.</language>
 	</row>
 	<row id="msg_0803_00416" index="416">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It raises grubs in the holes in its\nbody. It secretes pheromones to\ncontrol COMBEE.</language>
+		<language name="English">Il élève ses larves dans les rayons\nde son corps, et commande aux\nAPITRINI grâce à des phéromones.</language>
 	</row>
 	<row id="msg_0803_00417" index="417">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s one of the kinds of Pokémon \nwith electric cheek pouches.\nIt shoots charges from its tail.</language>
+		<language name="English">Un parent des Pokémon aux joues\nélectriques. Il libère son énergie\npar la queue.</language>
 	</row>
 	<row id="msg_0803_00418" index="418">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It inflates its flotation sac,\nkeeping its face above water in\norder to watch for prey movement.</language>
+		<language name="English">La bouée de son cou lui permet de\ngarder la tête au sec pour scruter\nles mouvements de ses proies.</language>
 	</row>
 	<row id="msg_0803_00419" index="419">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With its flotation sac inflated, it\ncan carry people on its back. It\ndeflates the sac before it dives.</language>
+		<language name="English">Il gonfle sa bouée pour permettre\naux gens de monter sur son dos\net la dégonfle pour plonger.</language>
 	</row>
 	<row id="msg_0803_00420" index="420">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It evolves by sucking the energy\nout of the small ball where it had\nbeen storing nutrients.</language>
+		<language name="English">Il aspire les nutriments de sa\npetite boule pour pouvoir évoluer.</language>
 	</row>
 	<row id="msg_0803_00421" index="421">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">During times of strong sunlight,\nits bud blooms, its petals open\nfully, and it becomes very active.</language>
+		<language name="English">Une fois gorgé de soleil, il déploie\nses pétales et bouge avec vivacité.</language>
 	</row>
 	<row id="msg_0803_00422" index="422">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its shape and coloration vary,\ndepending on its habitat.</language>
+		<language name="English">Il change facilement de couleur\nou de forme en fonction de son\nenvironnement.</language>
 	</row>
 	<row id="msg_0803_00423" index="423">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When its natural enemy attacks,\nit oozes purple fluid and escapes.</language>
+		<language name="English">Attaqué par un prédateur, il fuit\nen libérant un liquide mauve.</language>
 	</row>
 	<row id="msg_0803_00424" index="424">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They live on large trees. They are\nsaid to communicate by connecting\ntheir tails to those of others.</language>
+		<language name="English">Les CAPIDEXTRE vivent à la cime des\narbres. Ils peuvent partager leurs\némotions en reliant leurs queues.</language>
 	</row>
 	<row id="msg_0803_00425" index="425">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is whispered that any child who\nmistakes DRIFLOON for a balloon and\nholds on to it could wind up missing.</language>
+		<language name="English">Un enfant aurait disparu après\navoir confondu un ballon de\nbaudruche avec un BAUDRIVE.</language>
 	</row>
 	<row id="msg_0803_00426" index="426">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It can generate and release gas\nwithin its body. That’s how it can\ncontrol the altitude of its drift.</language>
+		<language name="English">En fabriquant des gaz à l’intérieur\nde son corps puis en les expulsant,\nil maîtrise son altitude en vol.</language>
 	</row>
 	<row id="msg_0803_00427" index="427">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can tell how it feels by the way\nit rolls its ears. When it’s scared,\nboth ears are rolled up.</language>
+		<language name="English">Il exprime ses émotions par la\nforme de ses oreilles. Effrayé,\nil les repliera toutes les deux.</language>
 	</row>
 	<row id="msg_0803_00428" index="428">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It sheds its fur twice a year.\nIts winter fur is soft and fluffy.</language>
+		<language name="English">Il mue deux fois par an. Quand il\nfait froid, sa fourrure devient\nparticulièrement douce.</language>
 	</row>
 	<row id="msg_0803_00429" index="429">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its cries sound like incantations\nto torment the foe. It appears\nwhere you least expect it.</language>
+		<language name="English">Un Pokémon insaisissable qui\ntourmente ses ennemis avec son\ncri semblable à une incantation.</language>
 	</row>
 	<row id="msg_0803_00430" index="430">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is merciless by nature. It is said\nthat it never forgives the mistakes\nof its MURKROW followers.</language>
+		<language name="English">Un Pokémon impitoyable qui\nne tolère pas l’échec de ses\nsbires CORNEBRE.</language>
 	</row>
 	<row id="msg_0803_00431" index="431">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it’s happy, GLAMEOW\ndemonstrates beautiful movements\nof its tail, like a dancing ribbon.</language>
+		<language name="English">Lorsqu’il est heureux, sa queue\ndécrit des arabesques comme un\nruban de gymnastique rythmique.</language>
 	</row>
 	<row id="msg_0803_00432" index="432">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It would claim another Pokémon’s\nnest as its own if it finds a nest\nsufficiently comfortable.</language>
+		<language name="English">Il n’hésitera pas à voler le nid\nd’autres Pokémon et s’y installer\nsi celui-ci est confortable.</language>
 	</row>
 	<row id="msg_0803_00433" index="433">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It emits high-frequency cries that \npeople can’t hear. Once it starts,\nit can cry for an awfully long time. </language>
+		<language name="English">Son cri utilise des fréquences\ninaudibles par les humains. Difficile\nde l’arrêter quand il pleure!</language>
 	</row>
 	<row id="msg_0803_00434" index="434">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The foul fluid from its rear is so\nrevolting that it can make people feel\nqueasy up to a mile and a quarter away.</language>
+		<language name="English">Le fluide nauséabond qu’il expulse\npar son derrière peut incommoder\ndes gens dans un rayon de 2 km.</language>
 	</row>
 	<row id="msg_0803_00435" index="435">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It attacks by spraying a repugnant\nfluid from its tail, but the stench\ndulls after a few squirts.</language>
+		<language name="English">Il attaque en projetant un liquide\npuant sur ses ennemis. L’odeur\ns’atténue quand il tire en rafale.</language>
 	</row>
 	<row id="msg_0803_00436" index="436">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ancient people believed that the\npattern on BRONZOR’s back\ncontained a mysterious power.</language>
+		<language name="English">Les gens croyaient autrefois que\nles motifs de son dos renfermaient\nune puissance mystique.</language>
 	</row>
 	<row id="msg_0803_00437" index="437">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ancient people believed that\npetitioning BRONZONG for rain\nwas the way to make crops grow.</language>
+		<language name="English">On croyait autrefois que lui\nadresser des prières faisait\npleuvoir et assurait les récoltes.</language>
 	</row>
 	<row id="msg_0803_00438" index="438">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In order to adjust the level of fluids in\nits body, it exudes water from its eyes.\nThis makes it appear to be crying.</language>
+		<language name="English">Il régule le surplus d’eau de son\ncorps en l’éliminant par les yeux,\nd’où l’impression qu’il pleure.</language>
 	</row>
 	<row id="msg_0803_00439" index="439">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In an attempt to confuse its enemy,\nit mimics the enemy’s movements. Then\nit wastes no time in making itself scarce!</language>
+		<language name="English">Il déstabilise ses ennemis en\nimitant leurs mouvements et profite\nde leur stupeur pour décamper.</language>
 	</row>
 	<row id="msg_0803_00440" index="440">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It carefully carries a round, white rock\nthat it thinks is an egg. It’s bothered\nby how curly its hair looks.</language>
+		<language name="English">Il prend soin de ses bouclettes\net couve son caillou comme si\nc’était son œuf.</language>
 	</row>
 	<row id="msg_0803_00441" index="441">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It mimics the cries of other Pokémon to\ntrick them into thinking it’s one of them.\nThis way they won’t attack it.</language>
+		<language name="English">Il reproduit le cri de ses ennemis\npour faire croire qu’il est des\nleurs et éviter d’être attaqué.</language>
 	</row>
 	<row id="msg_0803_00442" index="442">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It was formed by uniting 108 spirits.\nIt has been bound to the Odd Keystone\nto keep it from doing any mischief.</language>
+		<language name="English">Un Pokémon composé de 108 esprits,\nscellé sous une Clé de Voûte pour\nl’empêcher de nuire à nouveau.</language>
 	</row>
 	<row id="msg_0803_00443" index="443">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It nests in horizontal holes warmed by\ngeothermal heat. Foes who get too close\ncan expect to be pounced on and bitten.</language>
+		<language name="English">Il niche dans des cavités chauffées\npar géothermie, dont il bondit pour\ndéchiqueter tout intrus.</language>
 	</row>
 	<row id="msg_0803_00444" index="444">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">As it digs to expand its nest, it\nhabitually digs up gems that it\nthen hoards in its nest.</language>
+		<language name="English">CARMACHE accumule les pierres\nprécieuses qu’il déterre quand il\nentreprend d’agrandir son nid.</language>
 	</row>
 	<row id="msg_0803_00445" index="445">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its body is covered in fine scales that\nreduce drag, enabling it to fly at\nhigh speeds.</language>
+		<language name="English">Les petites écailles sur son corps\naméliorent son aérodynamisme et lui\npermettent de voler très vite.</language>
 	</row>
 	<row id="msg_0803_00446" index="446">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It conceals food under the long fur on\nits body. It carts around this food\nstash and swallows it without chewing.</language>
+		<language name="English">GOINFREX cache de la nourriture\ndans sa fourrure en pagaille. Il\navale tout en une bouchée.</language>
 	</row>
 	<row id="msg_0803_00447" index="447">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They communicate with one another\nusing their auras. They are able to run\nall through the night.</language>
+		<language name="English">Les RIOLU utilisent leur aura pour\ncommuniquer. Ils sont capables de\ncourir pendant toute une nuit.</language>
 	</row>
 	<row id="msg_0803_00448" index="448">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s said that no foe can remain invisible\nto LUCARIO, since it can detect auras.\nEven foes it could not otherwise see.</language>
+		<language name="English">On dit qu’il peut repérer ses\nennemis, même invisibles, car il\nressent leur aura.</language>
 	</row>
 	<row id="msg_0803_00449" index="449">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It shrouds itself in sand to ward off\ngerms. It travels easily through the\nsands of the desert.</language>
+		<language name="English">Il se déplace dans les sables du\ndésert, et en recouvre son corps\npour se protéger des microbes.</language>
 	</row>
 	<row id="msg_0803_00450" index="450">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It brandishes its gaping mouth in a\ndisplay of fearsome strength. It raises\nvast quantities of sand while attacking.</language>
+		<language name="English">Il exhibe sa force en ouvrant\ngrand sa mâchoire, et attaque en\nsoulevant des tornades de sable.</language>
 	</row>
 	<row id="msg_0803_00451" index="451">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It burrows under the sand to lie in\nwait for prey. Its tail claws can inject\nits prey with a savage poison.</language>
+		<language name="English">Il attend, en embuscade dans le\nsable, et empoisonne ses proies\navec les pinces de sa queue.</language>
 	</row>
 	<row id="msg_0803_00452" index="452">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It attacks people and Pokémon that\ncross the desert. This has only\nfurthered its bad reputation.</language>
+		<language name="English">Il est craint comme la peste, car il\ns’attaque à tous ceux qui, hommes\nou Pokémon, traversent le désert.</language>
 	</row>
 	<row id="msg_0803_00453" index="453">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fluid squeezed from its finger, albeit\npoisonous, is a significant ingredient in\nremedies for lower-back pain.</language>
+		<language name="English">Le poison extrait de ses doigts\nest utilisé dans la confection de\nremèdes qui apaisent les lumbagos.</language>
 	</row>
 	<row id="msg_0803_00454" index="454">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swaying and dodging the attacks of its\nfoes, it weaves its flexible body in close,\nthen lunges out with its poisonous claws.</language>
+		<language name="English">Il esquive les attaques avec\nsouplesse et riposte d’un bond\navec ses griffes empoisonnées.</language>
 	</row>
 	<row id="msg_0803_00455" index="455">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It walks around on its tentacles in\nsearch of a tree branch where it\ncan dangle down and ambush prey.</language>
+		<language name="English">Il cherche des branches où\nattendre ses proies en embuscade,\nen faisant tortiller ses tentacules.</language>
 	</row>
 	<row id="msg_0803_00456" index="456">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swimming and fluttering its two tail fins,\nit looks like a BEAUTIFLY. At night, the\npatterns on its tail fins softly shine.</language>
+		<language name="English">Il agite ses nageoires comme un\nCHARMILLON bat des ailes pour\nnager. Leurs motifs brillent la nuit.</language>
 	</row>
 	<row id="msg_0803_00457" index="457">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LUMINEON swimming in the darkness\nof the deep sea look like stars shining\nin the night sky.</language>
+		<language name="English">Les LUMINEON scintillent au fond\ndes mers comme des étoiles dans\nle ciel nocturne.</language>
 	</row>
 	<row id="msg_0803_00458" index="458">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it swims close to the surface of the\nocean, people aboard ships are able to\nobserve the pattern on its back.</language>
+		<language name="English">Il nage si proche de la surface\nque l’on peut voir les motifs sur\nson dos depuis un bateau.</language>
 	</row>
 	<row id="msg_0803_00459" index="459">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">During cold seasons, it migrates to the\nmountain’s lower reaches. It returns to\nthe snow-covered summit in the spring.</language>
+		<language name="English">Il s’aventure jusqu’au pied des\nmontagnes en hiver, mais se réfugie\nsur les pics neigeux au printemps.</language>
 	</row>
 	<row id="msg_0803_00460" index="460">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lives a quiet life on mountains that\nare perpetually covered in snow.\nIt hides itself by whipping up blizzards.</language>
+		<language name="English">Il hante les sommets aux neiges\néternelles, et se cache en\ndéclenchant des blizzards.</language>
 	</row>
 	<row id="msg_0803_00461" index="461">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It lives in snowy regions. It carves\npatterns in trees with its claws as\na signal to others.</language>
+		<language name="English">Il vit dans les régions enneigées,\net communique avec ses pairs en\ngravant des motifs sur les arbres.</language>
 	</row>
 	<row id="msg_0803_00462" index="462">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Exposure to a special magnetic field\nchanged MAGNETON’s molecular\nstructure, turning it into MAGNEZONE.</language>
+		<language name="English">Un champ magnétique a perturbé la\nstructure d’un MAGNETON et l’a fait\névoluer en MAGNEZONE.</language>
 	</row>
 	<row id="msg_0803_00463" index="463">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its saliva can decompose anything.\nIt wraps its long tongue around things\nto coat them with its sticky saliva.</language>
+		<language name="English">Tout ce qu’il enroule dans sa\nlongue langue finit couvert de\nbave acide.</language>
 	</row>
 	<row id="msg_0803_00464" index="464">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">From holes in its palms, it fires out\nGEODUDE. Its carapace \ncan withstand volcanic eruptions.</language>
+		<language name="English">Ses paumes projettent des RACAILLOU,\net son corps couvert de Protecteurs\nrésiste même à une éruption volcanique.</language>
 	</row>
 	<row id="msg_0803_00465" index="465">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When it remains still, it appears to be a\nlarge shrub. Unsuspecting prey that\nwander near get ensnared by its vines.</language>
+		<language name="English">On dirait un buisson quand\nil ne bouge pas. Il ligote ses\nproies avec ses lianes.</language>
 	</row>
 	<row id="msg_0803_00466" index="466">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">As its electric charge amplifies,\nblue sparks begin to crackle between\nits horns.</language>
+		<language name="English">Des étincelles bleuâtres jaillissent\nentre ses 2 cornes quand il\naccumule beaucoup d’électricité.</language>
 	</row>
 	<row id="msg_0803_00467" index="467">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It blasts fireballs of over\n3,600 degrees Fahrenheit out of its\narms. Its breath also sears and sizzles.</language>
+		<language name="English">Il projette des boules de feu à\n2 000 °C du bout de ses bras.\nMême son souffle est brûlant.</language>
 	</row>
 	<row id="msg_0803_00468" index="468">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">As everyone knows, it visits peaceful\nregions, bringing them gifts of kindness\nand sweet blessings.</language>
+		<language name="English">On dit qu’il apparaît dans\nles contrées paisibles pour\ndispenser mille bienfaits.</language>
 	</row>
 	<row id="msg_0803_00469" index="469">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This six-legged Pokémon is easily capable\nof transporting an adult in flight. The\nwings on its tail help it stay balanced.</language>
+		<language name="English">Il peut voler avec aise tout en portant\nun adulte dans ses 6 pattes. Les ailes\nde sa queue lui servent de balancier.</language>
 	</row>
 	<row id="msg_0803_00470" index="470">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you see LEAFEON asleep in a patch\nof sunshine, you’ll know it is using\nphotosynthesis to produce clean air.</language>
+		<language name="English">Un PHYLLALI qui dort par beau\ntemps produit un air frais et pur\npar photosynthèse.</language>
 	</row>
 	<row id="msg_0803_00471" index="471">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It causes small ice crystals to form by\nlowering the temperature of the\nsurrounding atmosphere.</language>
+		<language name="English">Il gèle l’air ambiant et crée\nde petits cristaux de glace\nen suspension.</language>
 	</row>
 	<row id="msg_0803_00472" index="472">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its flight is soundless. It uses its\nlengthy tail to carry off its prey...\nThen its elongated fangs do the rest.</language>
+		<language name="English">Il vole sans un bruit, et capture\nses proies avec sa queue pour leur\ninfliger une morsure critique.</language>
 	</row>
 	<row id="msg_0803_00473" index="473">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A frozen MAMOSWINE was dug from ice\ndating back 10,000 years. This Pokémon\nhas been around a long, long, long time.</language>
+		<language name="English">Un Pokémon si vieux qu’on l’a\ndécouvert sous des glaces\nvieilles de 10 000 ans.</language>
 	</row>
 	<row id="msg_0803_00474" index="474">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its programming was modified to enable\nit to travel through alien dimensions.\nSeems there might have been an error...</language>
+		<language name="English">On a modifié son programme pour\nqu’il puisse parcourir les dimensions,\nmais ce fut un échec.</language>
 	</row>
 	<row id="msg_0803_00475" index="475">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Because it can sense what its foe\nis thinking, its attacks burst out\nfirst, fast, and fierce.</language>
+		<language name="English">Comme il peut lire les pensées\nde ses adversaires, il frappe\ntoujours en premier.</language>
 	</row>
 	<row id="msg_0803_00476" index="476">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It controls three units called Mini-Noses\nusing magnetic force. With them, it can\nattack the foe from three directions.</language>
+		<language name="English">Il dirige par magnétisme 3 petites\nunités appelées Mini-nez qui lui\npermettent d’attaquer de 3 côtés.</language>
 	</row>
 	<row id="msg_0803_00477" index="477">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This feared Pokémon is said to travel to\nworlds unknown. Some even believe that\nit takes lost spirits along with it.</language>
+		<language name="English">Il va et vient entre ce monde et\nl’au-delà. On le craint car il peut\nabsorber les âmes errantes.</language>
 	</row>
 	<row id="msg_0803_00478" index="478">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Legends in snowy regions say that\na woman who was lost on an icy\nmountain was reborn as FROSLASS.</language>
+		<language name="English">On dit dans les régions enneigées qu’il\ns’agit de la réincarnation d’une jeune\nfille disparue dans les neiges.</language>
 	</row>
 	<row id="msg_0803_00479" index="479">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Research continues on this Pokémon,\nwhich could be the power source of a\nunique motor.</language>
+		<language name="English">Un Pokémon longtemps étudié\ncomme source d’énergie pour\nun moteur très spécial.</language>
 	</row>
 	<row id="msg_0803_00480" index="480">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">According to some sources, this Pokémon\nprovided people with the intelligence\nnecessary to solve various problems.</language>
+		<language name="English">On dit qu’il a offert la connaissance\naux humains pour résoudre de\nnombreux problèmes.</language>
 	</row>
 	<row id="msg_0803_00481" index="481">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon is said to have endowed\nthe human heart with emotions, such as\nsorrow and joy.</language>
+		<language name="English">On dit qu’il a apporté aux gens\nles sentiments comme la joie\nou la tristesse.</language>
 	</row>
 	<row id="msg_0803_00482" index="482">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon is said to have endowed\nhumans with the determination needed\nto face any of life’s difficulties.</language>
+		<language name="English">On dit qu’il a offert aux gens\nle courage de faire face\nà toutes les difficultés.</language>
 	</row>
 	<row id="msg_0803_00483" index="483">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon completely controls the\nflow of time. It uses its power to travel\nat will through the past and future.</language>
+		<language name="English">Il maîtrise le flot du temps\net peut voyager librement\ndans le passé ou l’avenir.</language>
 	</row>
 	<row id="msg_0803_00484" index="484">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its total control over the boundaries\nof space enable it to transport itself to\nfaraway places or even other dimensions.</language>
+		<language name="English">En maîtrisant les liens de l’espace, il\npeut voyager vers une destination\nlointaine ou une autre dimension.</language>
 	</row>
 	<row id="msg_0803_00485" index="485">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boiling blood, like magma, circulates\nthrough its body. It makes its dwelling\nplace in volcanic caves.</language>
+		<language name="English">Le sang de ce Pokémon des\ncratères bouillonne dans son\ncorps comme du magma.</language>
 	</row>
 	<row id="msg_0803_00486" index="486">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is believed to have shaped\nREGIROCK, REGICE, and REGISTEEL\nout of clay, ice, and magma.</language>
+		<language name="English">Il aurait créé REGIROCK, REGICE et\nREGISTEEL respectivement avec de\nla glaise, de la glace et du magma.</language>
 	</row>
 	<row id="msg_0803_00487" index="487">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon is said to live in a world on\nthe reverse side of ours, where common\nknowledge is distorted and strange.</language>
+		<language name="English">Il vit dans le Monde Distorsion,\nun monde à l’opposé du nôtre\nqui échappe au sens commun.</language>
 	</row>
 	<row id="msg_0803_00488" index="488">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Those who sleep holding CRESSELIA’s\nfeather are assured of joyful dreams. It\nis said to represent the crescent moon.</language>
+		<language name="English">Dormir avec une de ses plumes à la main\npermet de faire de beaux rêves. On le\nsurnomme “avatar du croissant de lune”.</language>
 	</row>
 	<row id="msg_0803_00489" index="489">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When the water warms, they inflate the\nflotation sac on their heads and drift\nlanguidly on the sea in packs.</language>
+		<language name="English">Il gonfle la bouée de sa tête\net se laisse flotter à la surface\nquand la mer se réchauffe.</language>
 	</row>
 	<row id="msg_0803_00490" index="490">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It starts its life with a wondrous power\nthat permits it to bond with any kind\nof Pokémon.</language>
+		<language name="English">Il possède l’étrange pouvoir\nde s’entendre avec n’importe\nquel Pokémon.</language>
 	</row>
 	<row id="msg_0803_00491" index="491">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It chases people and Pokémon from its\nterritory by causing them to experience\ndeep, nightmarish slumbers.</language>
+		<language name="English">Il endort humains et Pokémon, et\nleur fait avoir des cauchemars pour\nles chasser de son territoire.</language>
 	</row>
 	<row id="msg_0803_00492" index="492">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The blooming of Gracidea flowers confers\nthe power of flight upon it. Feelings \nof gratitude are the message it delivers.</language>
+		<language name="English">Il prend son essor pour répandre\nla gratitude lorsque les Gracidées\nfleurissent.</language>
 	</row>
 	<row id="msg_0803_00493" index="493">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">According to the legends of Sinnoh, this\nPokémon emerged from an egg and\nshaped all there is in this world.</language>
+		<language name="English">La mythologie de Sinnoh veut\nqu’il soit apparu sous forme\nd’œuf et ait créé le monde.</language>
 	</row>
 </body>

@@ -6,50 +6,50 @@
 	</row>
 	<row id="msg_0703_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm. If you transferred into my class,\nI’d become the second-best student\fin my class, wouldn’t I?\rI want to get stronger before that\ncould happen, so would you trade phone\fnumbers with me?\rThen we can have Pokémon\nbattles together! {YESNO 0}</language>
+		<language name="English">Si on te transférait dans ma classe,\nje deviendrais... deuxième?\fBonjour l’angoisse!\rBon, avant que ça arrive, je dois\ndevenir plus fort!\fOn s’échange les numéros?\rComme ça, je vais pouvoir entraîner\nmes Pokémon avec toi! {YESNO 0}</language>
 	</row>
 	<row id="msg_0703_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cool. I’ll give you a call when I’m\nready to battle again!\rYou can call me, too!</language>
+		<language name="English">Bon, dès que je suis prêt, je te\ncontacte!\rToi aussi, passe un coup de fil de temps\nen temps!</language>
 	</row>
 	<row id="msg_0703_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wait...don’t tell me you’re serious\nabout transferring into my school?!</language>
+		<language name="English">Argh! Tu comptes te faire transférer\ndans mon école, c’est ça?</language>
 	</row>
 	<row id="msg_0703_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm. If you transferred into my class,\nI’d become the second-best student\fin my class, wouldn’t I!\rBefore that happens, I want to battle\nmore with you so I can become much\fstronger! Let’s trade phone numbers.\rThen we can have Pokémon\nbattles together! {YESNO 0}</language>
+		<language name="English">Si on te transférait dans ma classe,\nje deviendrais... deuxième?\fBonjour l’angoisse!\rBon, avant que ça arrive, je dois\nt’affronter encore pour devenir plus\ffort!\rOn s’échange les numéros? {YESNO 0}</language>
 	</row>
 	<row id="msg_0703_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I want to give you something as thanks\nfor battling with me!\fHere you go--have a Berry!\r</language>
+		<language name="English">Pour te remercier de ce combat, je\nte donne... ceci!\fJe t’en prie, c’est à toi!\r</language>
 	</row>
 	<row id="msg_0703_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? Wait, where are you?\nI’m pretty sure you’re nearby.\rIf you’re going to come all the way over\nhere, please feel free to approach me!</language>
+		<language name="English">Ah? Tu es où?\nTu veux pas venir me voir directement?</language>
 	</row>
 	<row id="msg_0703_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I’ve learned a lot from\nwatching you battle, and I’ve been\fpracticing with my {STRVAR_1 0, 10, 0}.\rThanks to you, we’ve improved a lot!\rBut even though we’ve grown stronger,\nyou’ve probably gotten stronger at\fthe same time, I guess.\rSo...that means we still won’t\nbe able to beat you, I guess!</language>
+		<language name="English">Bon, j’ai bien étudié ton style de\ncombat de l’autre jour, et...\fje me suis bien entraîné avec\fmon {STRVAR_1 0, 10, 0}.\rEt grâce à toi, j’ai super progressé!\rMais ça doit vouloir dire que toi et\nton équipe, vous combattez\fencore mieux aussi...\r... Ça veut dire qu’on pourra jamais\nte dépasser?</language>
 	</row>
 	<row id="msg_0703_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I used the tips I learned from watching\nyou battle to take down a wild\f{STRVAR_1 0, 11, 0} the other day!\rThanks to you, my Pokémon’s much\nstronger!\rIf we get the chance to meet again,\nI hope you’ll show me some more tricks!</language>
+		<language name="English">J’ai bien étudié ton style de combat\nde l’autre jour, et j’ai battu un\f{STRVAR_1 0, 11, 0}!\rMon Pokémon est devenu plus fort\ngrâce à toi!\rIl faudra que tu me donnes encore\nd’autres trucs la prochaine fois qu’on\fse verra!</language>
 	</row>
 	<row id="msg_0703_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, hey, listen up!\rA few days ago, I was trying to catch a\nwild {STRVAR_1 0, 11, 0}...\rWe went down to the wire, but it\nended up getting away!\rI really should have had a bunch of\nPoké Balls ready, I know...</language>
+		<language name="English">Ecoute un peu!\rJe pensais enfin attraper un\n{STRVAR_1 0, 11, 0}...\rMais il m’a échappé au dernier moment!\rSi on n’a pas plein de Poké Balls à\nportée de main, on ne risque pas de\fcapturer des Pokémon...</language>
 	</row>
 	<row id="msg_0703_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, lately I’ve been wanting to\nbattle you again... What do you say?\rAre you interested?\nI’m waiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">J’aimerais bien refaire un combat\ncontre toi...\fT’en penses quoi?\rSi tu es OK,\npasse me voir sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0703_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? Didn’t we make plans to meet on\n{STRVAR_1 4, 3, 0} for a battle?\rI’m sure you couldn’t have forgotten!\nGet a move on, already!</language>
+		<language name="English">Allô? On s’est promis de se faire un\ncombat sur la {STRVAR_1 4, 3, 0}, hein?\rTu n’as pas oublié? Je t’attends!</language>
 	</row>
 	<row id="msg_0703_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you know why I’m always in shorts?\rIt’s because they’re really cool!\rYou know how, if you scuff your knees\nand you’re wearing shorts, everyone\fcan see all the bandages?\fIt makes me look wild and dangerous!</language>
+		<language name="English">Tu sais pourquoi j’adore les shorts?\rParce que c’est trop la classe!\rQuand tu te scratches les genoux,\non peux voir tes pansements,\fça fait trop viril!</language>
 	</row>
 </body>

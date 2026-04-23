@@ -2,36 +2,36 @@
 <body language="English">
 	<row id="msg_0145_D51R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, hello!\rIt’s so freezing, isn’t it?\rFor a youngster like you to be\ninterested in the Sinjoh Ruins is\fnot something we see every day.\rTake a look at them.\rFrom the design of the pillars at the\nSinjoh Ruins, you can see that the\fcultures of Sinnoh and Johto\fhave blended.\r</language>
+		<language name="English">Hé bonjour!\rIl fait froid, pas vrai?\nOn gèle, ici!\rC’est très bien que tu t’intéresses aux\nRuines Sinjoh à ton âge!\rIl suffit de jeter un coup d’œil sur ces\npiliers pour voir que cette civilisation\fa assimilé à la fois les cultures de\fSinnoh et de Johto!\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What was I thinking?\rWe don’t need to be standing here.\nWhy don’t you come to the cabin\faround the corner for more discussion?\r</language>
+		<language name="English">Ah! Mais quel malappris je suis!\rNous continuerons cette discussion\ndans le chalet là-bas!\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By the way, we happen to have a person\nat the cabin.\rAny Trainer should know who she is.\nThe famous Trainer from Sinnoh!\rShe is traveling around to study\nmyths and ancient ruins.\fIsn’t that something?\r</language>
+		<language name="English">Ah, au fait!\nIl y a déjà une personne étrange dans\fle chalet...\rC’est une célébrité de Sinnoh, tous les\nDresseurs là-bas la connaissent!\rIl paraît qu’elle voyage un peu partout\npour en savoir davantage sur les\flégendes et les ruines de ces régions...\fImpressionnant, non?\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0145_D51R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: Bring your ARCEUS only.\rOther Pokémon may get blown away by\nthe strong power lingering at\fthe ruins.\r</language>
+		<language name="English">Cynthia: Emmène ton ARCEUS.\rJe crains que n’importe quel autre\nPokémon soit repoussé par la force\fincroyable qui hante ce lieu...\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: It seems your ARCEUS is\nresonating in harmony with the Ruins.\rIt might just be me but I can\nfeel that...\fwe are surrounded by strong power.\rThe answer lies inside the ruins.\rThe place that has been waiting for\nits rightful owner, the {COLOR 1}Mystri Stage{COLOR 0}...\r</language>
+		<language name="English">Cynthia: Ton ARCEUS semble entrer en\nrésonance avec les ruines...\rSi je ne me trompe pas, une force\npuissante...\fhabite ces lieux...\rLa réponse se trouve dans les ruines.\nLà où l’{COLOR 1}Autel Trismegis{COLOR 0} attend\fson seigneur...\r</language>
 	</row>
 	<row id="msg_0145_D51R0101_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0145_D51R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Sinjoh Ruins</language>
+		<language name="English">Ruines Sinjoh</language>
 	</row>
 </body>

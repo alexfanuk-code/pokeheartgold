@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0285_match_up" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MATCH UP</language>
+		<language name="English">AU NIVEAU</language>
 	</row>
 	<row id="msg_0285_no_1" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO. 1</language>
+		<language name="English">Nº 1</language>
 	</row>
 	<row id="msg_0285_preparation" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,35 +14,35 @@
 	</row>
 	<row id="msg_0285_wins" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WINS</language>
+		<language name="English">GAGNE</language>
 	</row>
 	<row id="msg_0285_no_match" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO MATCH</language>
+		<language name="English">TROP NUL</language>
 	</row>
 	<row id="msg_0285_spirit" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPIRIT</language>
+		<language name="English">ESPRIT</language>
 	</row>
 	<row id="msg_0285_ace_card" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ACE CARD</language>
+		<language name="English">ATOUT</language>
 	</row>
 	<row id="msg_0285_come_on" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COME ON</language>
+		<language name="English">ALLEZ VIENS</language>
 	</row>
 	<row id="msg_0285_attack" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ATTACK</language>
+		<language name="English">ATTAQUER</language>
 	</row>
 	<row id="msg_0285_surrender" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SURRENDER</language>
+		<language name="English">SE RENDRE</language>
 	</row>
 	<row id="msg_0285_courage" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COURAGE</language>
+		<language name="English">CRAN</language>
 	</row>
 	<row id="msg_0285_talent" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0285_strategy" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STRATEGY</language>
+		<language name="English">STRATEGIE</language>
 	</row>
 	<row id="msg_0285_match" index="13">
 		<attribute name="window_context_name">used</attribute>
@@ -58,59 +58,59 @@
 	</row>
 	<row id="msg_0285_victory" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VICTORY</language>
+		<language name="English">VICTOIRE</language>
 	</row>
 	<row id="msg_0285_sense" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SENSE</language>
+		<language name="English">SENSATION</language>
 	</row>
 	<row id="msg_0285_versus" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VERSUS</language>
+		<language name="English">CONTRE</language>
 	</row>
 	<row id="msg_0285_fights" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIGHTS</language>
+		<language name="English">DISPUTE</language>
 	</row>
 	<row id="msg_0285_power" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER</language>
+		<language name="English">PUISSANCE</language>
 	</row>
 	<row id="msg_0285_challenge" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHALLENGE</language>
+		<language name="English">DEFI</language>
 	</row>
 	<row id="msg_0285_strong" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STRONG</language>
+		<language name="English">FORT</language>
 	</row>
 	<row id="msg_0285_take_it_easy" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TAKE IT EASY</language>
+		<language name="English">DOUCEMENT</language>
 	</row>
 	<row id="msg_0285_foe" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FOE</language>
+		<language name="English">ENNEMI</language>
 	</row>
 	<row id="msg_0285_genius" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GENIUS</language>
+		<language name="English">GENIE</language>
 	</row>
 	<row id="msg_0285_legend" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEGEND</language>
+		<language name="English">LEGENDE</language>
 	</row>
 	<row id="msg_0285_battle" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE</language>
+		<language name="English">COMBAT</language>
 	</row>
 	<row id="msg_0285_fight" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIGHT</language>
+		<language name="English">COMBATTRE</language>
 	</row>
 	<row id="msg_0285_revive" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REVIVE</language>
+		<language name="English">RESSUSCITER</language>
 	</row>
 	<row id="msg_0285_points" index="28">
 		<attribute name="window_context_name">used</attribute>
@@ -118,15 +118,15 @@
 	</row>
 	<row id="msg_0285_serious" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SERIOUS</language>
+		<language name="English">SERIEUX</language>
 	</row>
 	<row id="msg_0285_loss" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LOSS</language>
+		<language name="English">DEFAITE</language>
 	</row>
 	<row id="msg_0285_partner" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PARTNER</language>
+		<language name="English">PARTENAIRE</language>
 	</row>
 	<row id="msg_0285_invincible" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -134,22 +134,22 @@
 	</row>
 	<row id="msg_0285_easy" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EASY</language>
+		<language name="English">FACILE</language>
 	</row>
 	<row id="msg_0285_weak" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WEAK</language>
+		<language name="English">FAIBLE</language>
 	</row>
 	<row id="msg_0285_easy_win" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EASY WIN</language>
+		<language name="English">NULLITE</language>
 	</row>
 	<row id="msg_0285_move" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOVE</language>
+		<language name="English">CAPACITE</language>
 	</row>
 	<row id="msg_0285_trainer" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRAINER</language>
+		<language name="English">DRESSEUR</language>
 	</row>
 </body>

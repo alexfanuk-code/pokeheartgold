@@ -2,95 +2,95 @@
 <body language="English">
 	<row id="msg_0572_T24_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You crossed the sea to get here?\rThat must have been hard.\rIt would be much easier if your\nPokémon knew how to Fly...\r</language>
+		<language name="English">Tu es venue par voie de mer?\nÇa a dû te prendre un moment...\rSi tes Pokémon connaissaient Vol,\nça aurait été tellement plus simple!\r</language>
 	</row>
 	<row id="msg_0572_T24_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But you can’t use Fly without this\ncity’s Gym Badge.\rIf you beat the Gym Leader here,\ncome see me.\fI’ll have a nice gift for you.</language>
+		<language name="English">Mais tu ne peux pas utiliser Vol sans le\nBadge de l’Arène. Reviens me voir quand\ftu auras vaincu le Champion de la ville.\fJe te donnerai quelque chose d’utile.</language>
 	</row>
 	<row id="msg_0572_T24_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s Cianwood’s Gym Badge!\rThen you should take this HM.\r</language>
+		<language name="English">C’est le Badge de l’Arène d’Irisia!\rAlors tu as bien mérité cette CS!\r</language>
 	</row>
 	<row id="msg_0572_T24_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0572_T24_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Teach Fly to your Pokémon.\rYou will be able to Fly instantly\nto anywhere you have visited.</language>
+		<language name="English">Avec la capacité Vol, tu peux revenir\nen un instant à n’importe quelle ville\fque tu as déjà visitée!</language>
 	</row>
 	<row id="msg_0572_T24_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My husband lost to you, so he needs\nto train harder.\rThat’s good, since he was getting a\nlittle chubby.</language>
+		<language name="English">Hoho, mon mari va s’entraîner encore\nplus durement après cette défaite...\rMais c’est une bonne chose: il a pris\ndu ventre, ces derniers temps...</language>
 	</row>
 	<row id="msg_0572_T24_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Bag is full.</language>
+		<language name="English">Ton Sac est plein.</language>
 	</row>
 	<row id="msg_0572_T24_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">His only hobby is to battle\ntough Trainers.\rDo you want to have my\nhusband’s phone number? {YESNO 0}</language>
+		<language name="English">Veux-tu connaître le numéro de\ntéléphone de mon mari?\rSa plus grande joie dans la vie est\nde combattre des gens forts... {YESNO 0}</language>
 	</row>
 	<row id="msg_0572_T24_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Chuck\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré Chuck\ndans son Pokématos!</language>
 	</row>
 	<row id="msg_0572_T24_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">He takes a break from the pounding\nwaterfall on Wednesday nights.\rHe should be able to chat with\nyou then.</language>
+		<language name="English">Il interrompt son entraînement sous la\ncascade le mercredi soir.\rIl pourra te répondre à ce moment-là.</language>
 	</row>
 	<row id="msg_0572_T24_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I see.\nMy husband won’t be a good match?</language>
+		<language name="English">Ah bon?\nMon mari ne te plaît pas?</language>
 	</row>
 	<row id="msg_0572_T24_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you want to exchange your\nnumber for my husband’s? {YESNO 0}</language>
+		<language name="English">Tu veux le numéro de téléphone\nde mon mari? {YESNO 0}</language>
 	</row>
 	<row id="msg_0572_T24_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you use Fly, you can get back\nto Olivine instantly.</language>
+		<language name="English">En utilisant Vol, tu peux\nrevenir à Oliville en un instant!</language>
 	</row>
 	<row id="msg_0572_T24_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boulders to the north of town can\nbe crushed.\rThey may be hiding something.\nYour Pokémon could use Rock Smash to\fbreak them.</language>
+		<language name="English">En brisant les rochers au nord de la\nville, tu peux avoir des surprises.\rSi tu veux essayer, il te faudra\napprendre Eclate-Roc à un Pokémon.</language>
 	</row>
 	<row id="msg_0572_T24_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chuck, the Gym Leader, spars with\nhis Fighting-type Pokémon.</language>
+		<language name="English">Chuck, le Champion, s’entraîne\nlui-même avec ses Pokémon de Combat.</language>
 	</row>
 	<row id="msg_0572_T24_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: Yo, {STRVAR_1 3, 0, 0}.\rWasn’t that SUICUNE just now?\rI only caught a quick glimpse, but I\nthought I saw SUICUNE running on\fthe waves.\rSUICUNE is beautiful and grand.\nAnd it races through towns and\froads at simply awesome speeds.\rIt’s wonderful...\rI want to see SUICUNE up close...\rI’ve decided.\nI’ll battle you as a Trainer to earn\fSUICUNE’s respect!\rCome on, {STRVAR_1 3, 0, 0}.\nLet’s battle now!</language>
+		<language name="English">Eusine: Salut, {STRVAR_1 3, 0, 0}.\rC’était...\nC’était SUICUNE, hein?\rJe l’ai à peine aperçu,\nmais j’ai cru le voir courir sur l’eau...\rIl est si beau et si élégant...\rEt il traverse villes et routes\nà une vitesse prodigieuse...\rQuel être extraordinaire...\rJ’aimerais tellement pouvoir\nl’admirer de plus près...\rJe sais!\rJe vais me battre avec toi pour que\nSUICUNE remarque mes talents!\rEn garde! {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0572_T24_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re amazing, {STRVAR_1 3, 0, 0}!\rI’m starting to understand why SUICUNE\nwas keeping an eye on you.\rI’m going to keep searching\nfor SUICUNE.\rI have a feeling we’ll see each other\nagain. See you around!\r</language>
+		<language name="English">Tu es extraordinaire, {STRVAR_1 3, 0, 0}!\rJe crois que je comprends mieux\npourquoi SUICUNE semble\fs’intéresser à toi...\rEn tous cas, moi, je vais continuer\nà le poursuivre.\rNous nous retrouverons peut-être\nun jour. Salut!\r</language>
 	</row>
 	<row id="msg_0572_T24_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are several islands between\nhere and Olivine.\rA mythical sea creature supposedly\nlives there.</language>
+		<language name="English">Il y a un groupe d’îles entre Oliville\net ici, n’est-ce pas?\rJ’ai entendu dire qu’une sorte de dieu\nde la mer y habite.\n</language>
 	</row>
 	<row id="msg_0572_T24_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City\nA Port of Crashing Waves</language>
+		<language name="English">Irisia\nVille aux vagues tumultueuses</language>
 	</row>
 	<row id="msg_0572_T24_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City Pokémon Gym\nLeader: Chuck\fHis Roaring Fists Do the Talking</language>
+		<language name="English">Arène d’Irisia\nChampion: Chuck\fUn homme qui laisse ses poings\fparler pour lui</language>
 	</row>
 	<row id="msg_0572_T24_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City Pharmacy\r500 Years of Tradition\nWe Await Your Medicinal Queries</language>
+		<language name="English">Pharmacie d’Irisia\rConfiez vos problèmes de santé\nà 500 ans de tradition.</language>
 	</row>
 	<row id="msg_0572_T24_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the house of Cameron,\nthe Photographer.\fTake a Snapshot as a Keepsake!</language>
+		<language name="English">Maison du Photographe\nN’oubliez pas votre photo souvenir!</language>
 	</row>
 	<row id="msg_0572_T24_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Entrance to the road for the\nSafari Zone.\rExperience thrilling encounters\nwith wild Pokémon for heart-to-heart\fcontact!\rThe Safari Zone is just around the\ncorner from this entrance!</language>
+		<language name="English">Entrée de la route vers le Parc Safari.\rDu frisson! De l’émotion! Des Pokémon\nsauvages dans leur habitat naturel!\rLe Parc Safari est tout près!</language>
 	</row>
 </body>

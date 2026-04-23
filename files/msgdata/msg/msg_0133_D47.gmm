@@ -2,74 +2,74 @@
 <body language="English">
 	<row id="msg_0133_D47_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Baoba: It is you!\nIt must have been a long way.\rWelcome to the Safari Zone!\nIt hasn’t been open too long, but you\fcan enjoy all the fun!\rPlease feel free to enjoy my safari!\r</language>
+		<language name="English">Baoba: Ah! C’est toi! C’est toi!\nMerci d’avoir fait tout ce chemin\fet bienvenue au Parc Safari!\rNous venons d’ouvrir, mais tu peux\ndéjà utiliser le Safari à ta guise!\r</language>
 	</row>
 	<row id="msg_0133_D47_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Baoba: I will keep upgrading my safari.\nI will let you know using Pokégear if I\fmake any changes.\r</language>
+		<language name="English">Baoba: Au fait! Notre Safari va\ncontinuer à se développer!\rDès qu’on modifiera quelque chose,\non te préviendra sur ton Pokématos!\r</language>
 	</row>
 	<row id="msg_0133_D47_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Safari Zone...\rIt makes me feel like I am in a\nforeign country.\fIt brings up a strange feeling.</language>
+		<language name="English">Le Parc Safari...\rEn venant ici, on a l’impression\nd’être transporté dans une fête\fexotique d’un pays lointain...\fC’est étrange, n’est-ce pas?</language>
 	</row>
 	<row id="msg_0133_D47_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">..................\n(I am not a talker.)</language>
+		<language name="English">...\n(J’aime pas parler).</language>
 	</row>
 	<row id="msg_0133_D47_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">KANGASKHAN: ..................</language>
+		<language name="English">KANGOUREX: ...</language>
 	</row>
 	<row id="msg_0133_D47_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Safari Zone is great!\rI just kept going after Pokémon!\nThat made my JIGGLYPUFF upset though.</language>
+		<language name="English">Décidément, ce Parc Safari est\nbien amusant!\rQuand je suis là, je me mets à courir\naprès les Pokémon comme un fou!\rMais mon fidèle RONDOUDOU n’aime pas\nquand je suis comme ça, alors il boude.</language>
 	</row>
 	<row id="msg_0133_D47_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JIGGLYPUFF: Puu pupuu.</language>
+		<language name="English">RONDOUDOU: Dou...</language>
 	</row>
 	<row id="msg_0133_D47_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Safari, safari,\nit is so much fun.\rSafari, safari,\nso interesting, huh!\rSo many Pokémon are waiting for us!\r...That’s a song I made up.\nI sing it when I am in the Safari Zone.</language>
+		<language name="English">Le Parc Safari, on y rit!\nLe Parc Safari, c’est la vie!\r... C’est une chanson de ma\ncomposition. J’aime la chanter en me\fpromenant dans le parc!</language>
 	</row>
 	<row id="msg_0133_D47_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Airily goes the Safari Ball under the\nblue sky. Sprinkly goes your sweat to\fcelebrate a friendship.\rI love the Safari Zone!\r...I made a whole jingle out of it.\nYou think anyone would be interested?</language>
+		<language name="English">La Safari Ball s’élance dans l’air!\nCourbe parfaite dans le ciel clair!\rNotre sueur ruisselle sur nos fronts\nquand on attrape tous ces Pokémon!\rOn rencontre des gens gentils et jolis\nen marchant dans le Parc Safari!\r...\nMon rêve, ça serait qu’ils utilisent\fma chanson pour une pub...</language>
 	</row>
 	<row id="msg_0133_D47_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve decided to carry Pokémon drinks.\rThis will be new to me, but I will do\nmy best...\r</language>
+		<language name="English">J’ai fait des stocks de boissons pour\nPokémon pour lancer mon commerce...\rC’est encore nouveau pour moi, mais\nj’espère que tout se passera bien!\r</language>
 	</row>
 	<row id="msg_0133_D47_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you want to buy something?\nCan you wait while I get it ready?\rJust a minute...\f..................\r</language>
+		<language name="English">Oh! Tu veux bien m’acheter quelque\nchose? Un instant, j’arrange mon\fétalage...\f...\r</language>
 	</row>
 	<row id="msg_0133_D47_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BUTTERFREE: Flu flu.</language>
+		<language name="English">PAPILUSION: Lusion!</language>
 	</row>
 	<row id="msg_0133_D47_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many Pokémon to choose from,\nbut nothing beats the cuteness of\fSLOWPOKE.\rPeople often say that I look like one!</language>
+		<language name="English">Y’a plein de Pokémon, mais le meilleur,\nc’est RAMOLOSS!\fC’est lui le plus mignon!\rEn plus, on me dit souvent que je\nressemble à un RAMOLOSS...</language>
 	</row>
 	<row id="msg_0133_D47_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOWPOKE: ...Yawn?</language>
+		<language name="English">RAMOLOSS: ...\n... (bâille)...</language>
 	</row>
 	<row id="msg_0133_D47_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I have always wanted to catch my first\nPokémon at the Safari Zone.</language>
+		<language name="English">C’est décidé! Mon premier Pokémon, je\nl’attraperai au Parc Safari!</language>
 	</row>
 	<row id="msg_0133_D47_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may be under the impression\nthere is a sophisticated system to\fcustomizing the Safari Zone, right?\rThe real truth is that...</language>
+		<language name="English">Je suis sûr que tu crois que ce Safari\nest customisable à volonté parce qu’il\fa été construit avec des technologies\fde pointe, pas vrai?\rAlors qu’en fait...</language>
 	</row>
 	<row id="msg_0133_D47_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arrrgh...\nI am so exhausted...\fThis job uses so much of your energy...</language>
+		<language name="English">Aaah...\nJ’en peux plus...\rCe boulot est vraiment crevant...</language>
 	</row>
 	<row id="msg_0133_D47_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Safari Zone\rThis is where everything is thrilling.\nFeel free to come by and experience\fthe wild!</language>
+		<language name="English">Parc Safari\rGoûtez au frisson\nde l’aventure!</language>
 	</row>
 </body>

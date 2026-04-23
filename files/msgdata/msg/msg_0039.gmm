@@ -2,200 +2,200 @@
 <body language="English">
 	<row id="msg_0039_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}VOLTORB Flip Lv. {STRVAR_1 50, 0, 0}</language>
+		<language name="English">{ALN_CENTER}Voltorbataille niveau {STRVAR_1 50, 0, 0}</language>
 	</row>
 	<row id="msg_0039_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Flip the Cards and Collect Coins!</language>
+		<language name="English">{ALN_CENTER}Il suffit de retourner pour gagner!</language>
 	</row>
 	<row id="msg_0039_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...x1! ...x2! ...x3!</language>
+		<language name="English">... x1!   ... x2!   ... x3!</language>
 	</row>
 	<row id="msg_0039_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Game Over! 0!</language>
+		<language name="English">Perdu! 0 Jeton!</language>
 	</row>
 	<row id="msg_0039_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}{STRVAR_1 3, 0, 0}’s\n{ALN_CENTER}Collected Coins</language>
+		<language name="English">{ALN_CENTER}Jetons accumulés\n{ALN_CENTER}par {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0039_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Coins Collected in\n{ALN_CENTER}Current Game</language>
+		<language name="English">{ALN_CENTER}Points\n{ALN_CENTER}actuels</language>
 	</row>
 	<row id="msg_0039_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Open\n{ALN_CENTER}Memo</language>
+		<language name="English">{ALN_CENTER}Ouvrir\n{ALN_CENTER}mémo</language>
 	</row>
 	<row id="msg_0039_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Close\n{ALN_CENTER}Memo</language>
+		<language name="English">{ALN_CENTER}Fermer\n{ALN_CENTER}mémo</language>
 	</row>
 	<row id="msg_0039_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Quit</language>
+		<language name="English">{ALN_CENTER}Quitte</language>
 	</row>
 	<row id="msg_0039_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}By looking at the numbers on the sides of\n{ALN_CENTER}the cards, you can see the hidden number\n{ALN_CENTER}and VOLTORB totals.</language>
+		<language name="English">{ALN_CENTER}Les chiffres au bord des panneaux\n{ALN_CENTER}indiquent le total des valeurs dissimulées\n{ALN_CENTER}et le nombre de VOLTORBE.</language>
 	</row>
 	<row id="msg_0039_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Touch “Open Memo” to open the Memo Window.\n{ALN_CENTER}Touch the cards to add and remove marks.</language>
+		<language name="English">{ALN_CENTER}Toucher “Ouvrir mémo” pour faire\n{ALN_CENTER}apparaître la fenêtre mémo.\n{ALN_CENTER}Toucher un panneau pour le marquer\n{ALN_CENTER}ou effacer la marque.</language>
 	</row>
 	<row id="msg_0039_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}If you flip the cards in this order,\n{ALN_CENTER}you’ll collect: 3 x 1 x 2 x 1 x 3...\n{ALN_CENTER}A total of 18 Coins! And then...</language>
+		<language name="English">{ALN_CENTER}En retournant les panneaux\n{ALN_CENTER}dans cet ordre...\n{ALN_CENTER}Jetons: +3 x1 x2 x1 x3 = 18 Jetons! Puis...</language>
 	</row>
 	<row id="msg_0039_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}If you select “Quit,”\n{ALN_CENTER}you’ll keep those 18 Coins.</language>
+		<language name="English">{ALN_CENTER}En choisissant “Quitte”,\n{ALN_CENTER}on empoche 18 Jetons!</language>
 	</row>
 	<row id="msg_0039_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}But if you find VOLTORB,\n{ALN_CENTER}you’ll lose all your Coins!</language>
+		<language name="English">{ALN_CENTER}Hélas, un VOLTORBE retourné,\n{ALN_CENTER}et on perd tous ses Jetons!</language>
 	</row>
 	<row id="msg_0039_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve gathered 50,000 Coins.\nYou cannot gather any more.\r</language>
+		<language name="English">Vous avez 50 000 Jetons.\nVous ne pouvez pas en gagner plus.\r</language>
 	</row>
 	<row id="msg_0039_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Play VOLTORB Flip Lv. {STRVAR_1 50, 0, 0}?</language>
+		<language name="English">Jouer à Voltorbataille niveau {STRVAR_1 50, 0, 0}?</language>
 	</row>
 	<row id="msg_0039_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Play VOLTORB Flip Lv. {STRVAR_1 50, 0, 0}?</language>
+		<language name="English">Jouer à Voltorbataille niveau {STRVAR_1 50, 0, 0}?</language>
 	</row>
 	<row id="msg_0039_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Play</language>
+		<language name="English">JOUER</language>
 	</row>
 	<row id="msg_0039_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Game Info</language>
+		<language name="English">INFORMATIONS</language>
 	</row>
 	<row id="msg_0039_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit</language>
+		<language name="English">QUITTER</language>
 	</row>
 	<row id="msg_0039_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which set of info?</language>
+		<language name="English">Que souhaitez-vous savoir?</language>
 	</row>
 	<row id="msg_0039_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How to Play</language>
+		<language name="English">Règles</language>
 	</row>
 	<row id="msg_0039_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hint!</language>
+		<language name="English">Indice!</language>
 	</row>
 	<row id="msg_0039_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">About Memos</language>
+		<language name="English">Le mémo</language>
 	</row>
 	<row id="msg_0039_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Return</language>
+		<language name="English">Retour</language>
 	</row>
 	<row id="msg_0039_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">VOLTORB Flip is a game in which you flip\nover cards to find numbers hidden\fbeneath them.\rThe cards are hiding the numbers\n1 through 3...and VOLTORB as well.\rThe first number you flip over will give\nyou that many Coins.\rFrom then on, the next number you\nfind will multiply the total amount of\fCoins you’ve collected by that number.\rIf it’s a 2, your total will be multiplied\nby “x2.”\rIf it’s a 3, your total will be multiplied\nby “x3.”\rBut if you flip over a VOLTORB, it’s\ngame over.\rWhen that happens, you’ll lose all the\nCoins you’ve collected in the\fcurrent game.\rIf you select “Quit,” you’ll withdraw\nfrom the game.\rIf you get to a difficult spot, you might\nwant to end the game early.\rOnce you’ve found all the hidden\n2 and 3 cards, you’ve cleared\fthe game.\rOnce you’ve flipped over all these\ncards, then you’ll advance to the\fnext level.\rAs you move up in levels, you will be\nable to receive more Coins.\fDo your best!\r</language>
+		<language name="English">Le but de la Voltorbataille\nest de retourner des panneaux pour\ftrouver des chiffres.\rAu dos des panneaux sont cachés des\nchiffres de 1 à 3 et des VOLTORBE.\rLe chiffre du premier panneau détermine\nvotre gain initial en Jetons.\rCe gain initial sera multiplié par le\nsecond chiffre retourné, puis par tous\fles suivants.\rPar exemple, un 2 signifie une\nmultiplication du gain initial par deux,\fsoit x2; de même, un 3 signifie x3.\rDécouvrir un VOLTORBE vous fait\nperdre la partie et tous\fles Jetons accumulés.\rChoisir “Quitte” permet de se retirer.\nLorsque la partie devient dangereuse,\fn’hésitez pas à utiliser cette option.\rLa partie est gagnée lorsque tous les 2\net tous les 3 ont été découverts.\rDans ce cas, le jeu progresse\négalement au niveau suivant.\rPlus le niveau du jeu est élevé, plus il\nest possible de gagner gros!\fBonne chance!\r</language>
 	</row>
 	<row id="msg_0039_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The numbers at the side of the board\ngive you a clue about the numbers\fhidden on the backs of the panels.\rThe larger the number, the more likely\nit is that there are many large numbers\fhidden in that row or column.\rIn the same way, you can tell how many\nVOLTORB are hidden in the row\for column.\rConsider the hidden number totals and\nthe VOLTORB totals carefully as you flip\fover panels.\r</language>
+		<language name="English">Les valeurs chiffrées au bord des\npanneaux indiquent le total dissimulé\fsous chaque ligne et chaque colonne.\rPlus ces valeurs sont élevées, plus les\nchances de retourner de gros chiffres\faugmentent!\rDe la même manière, il est possible de\ncalculer le nombre de VOLTORBE\fdissimulé dans chaque ligne et\fchaque colonne.\rFaites bon usage de ces informations,\net retournez les panneaux!\r</language>
 	</row>
 	<row id="msg_0039_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Select “Open Memo” to mark\nthe cards.\rYou can mark the cards with the\nnumbers 1 through 3, but also with a\fVOLTORB mark.\rWhen you have an idea of the numbers\nhidden on the back of the cards, touch\r“Open Memo” and select the cards\nto mark.\rIf you want to remove a mark, touch the\nmark again, and it will disappear.\r</language>
+		<language name="English">Choisissez “Ouvrir mémo” pour\nmarquer les panneaux.\rLes marques disponibles sont les\nchiffres de 1 à 3 et le VOLTORBE.\rLorsque vous avez fait vos calculs,\nchoisissez un panneau, appuyez sur\f“Ouvrir mémo”, et faites\fvotre marque.\rDe la même manière, avec le mémo\nouvert, touchez la marque apparaissant\fsur le panneau pour l’effacer.\r</language>
 	</row>
 	<row id="msg_0039_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will this be the last card?!</language>
+		<language name="English">Et si c’était votre dernier panneau?</language>
 	</row>
 	<row id="msg_0039_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is this what you’re expecting?!</language>
+		<language name="English">Que va-t-il se passer?</language>
 	</row>
 	<row id="msg_0039_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 50, 0, 0}! Received {STRVAR_1 50, 0, 0} Coin(s)!</language>
+		<language name="English">{STRVAR_1 50, 0, 0}      {STRVAR_1 50, 0, 0} Jeton(s) obtenu(s)!</language>
 	</row>
 	<row id="msg_0039_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">x{STRVAR_1 50, 0, 0}! Received {STRVAR_1 53, 1, 0} Coins!</language>
+		<language name="English">x{STRVAR_1 50, 0, 0}      {STRVAR_1 53, 1, 0} Jetons obtenus!</language>
 	</row>
 	<row id="msg_0039_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh no! You get 0 Coins!</language>
+		<language name="English">Dommage! Vous avez 0 Jeton!</language>
 	</row>
 	<row id="msg_0039_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Game clear!\rYou’ve found all of the hidden x2 and\nx3 cards.\rThis means you’ve found all the Coins\nin this game, so the game is now over.\r</language>
+		<language name="English">Gagné!\rTous les panneaux dissimulant un 2 ou\nun 3 ont été retournés!\rTous les Jetons pouvant être gagnés à\ncette partie ont été empochés.\fLa partie est finie.\r</language>
 	</row>
 	<row id="msg_0039_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you quit now, you will\nreceive {STRVAR_1 53, 0, 0} Coin(s).\fWill you quit?</language>
+		<language name="English">Choisir “Quitte” maintenant vous\npermet d’empocher {STRVAR_1 53, 0, 0} Jeton(s).\fQuitter la partie?</language>
 	</row>
 	<row id="msg_0039_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0039_00036" index="36">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0039_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You haven’t found any Coins!\nAre you sure you want to quit?</language>
+		<language name="English">Vous n’empocherez aucun Jeton.\nQuitter la partie?</language>
 	</row>
 	<row id="msg_0039_00038" index="38">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0039_00039" index="39">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0039_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}\nreceived {STRVAR_1 53, 0, 0} Coin(s)!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0} empoche {STRVAR_1 53, 0, 0} Jeton(s)!\r</language>
 	</row>
 	<row id="msg_0039_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Advanced to Game Lv. {STRVAR_1 50, 0, 0}!\r</language>
+		<language name="English">Le jeu est monté au niveau {STRVAR_1 50, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0039_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\rYou can receive even more Coins\nin the next game!\r</language>
+		<language name="English">Félicitations!\rLes possibilités de gain de la partie\nont augmenté!\r</language>
 	</row>
 	<row id="msg_0039_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dropped to Game Lv. {STRVAR_1 50, 0, 0}.\r</language>
+		<language name="English">Le jeu est descendu au niveau {STRVAR_1 50, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0039_00044" index="44">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0039_00045" index="45">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0039_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Table No. {STRVAR_1 51, 0, 0}</language>
+		<language name="English">Table Nº {STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0039_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next Game Level: {STRVAR_1 50, 1, 0}</language>
+		<language name="English">Prochain niveau: {STRVAR_1 50, 1, 0}</language>
 	</row>
 </body>

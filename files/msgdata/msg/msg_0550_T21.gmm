@@ -2,102 +2,102 @@
 <body language="English">
 	<row id="msg_0550_T21_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re a rookie Trainer, aren’t you?\nI can tell!\rThat’s OK! Everyone is a rookie\nat some point!\rIf you’d like, I can teach you a\nfew things.\fOK, then! Follow me!\r</language>
+		<language name="English">Toi, tu débutes, non?\nÇa se voit!\rMais c’est pas grave! Tout le monde\nest un débutant un jour ou l’autre!\rNe crains rien, je vais t’apprendre deux\nou trois trucs! Suis-moi!\r</language>
 	</row>
 	<row id="msg_0550_T21_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ohh... I’m sorry.\nI forgot that you weren’t wearing the\fRunning Shoes!\rI’ll try to go as slow as possible, so\ntry keeping up!\r</language>
+		<language name="English">Ah, je n’avais pas vu!\nTu n’as pas de Chaussures de Sport!\rJe vais essayer de marcher moins vite,\nalors essaie de me suivre!\r</language>
 	</row>
 	<row id="msg_0550_T21_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a Pokémon Center. They heal\nyour Pokémon in no time at all.\rYou’ll be relying on them a lot, so\nyou better learn about them.\r</language>
+		<language name="English">C’est un Centre Pokémon!\nConfie-leur tes Pokémon blessés,\fils les soigneront en un rien de temps!\rTu en auras grand besoin dans le futur,\nalors souviens-toi de leur existence!\r</language>
 	</row>
 	<row id="msg_0550_T21_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a Pokémon Mart.\nThey sell Poké Balls for catching wild\fPokémon and other useful items.\r</language>
+		<language name="English">C’est une Boutique Pokémon! On y vend\nplein de choses utiles, notamment des\fPoké Balls pour attraper les Pokémon!\r</language>
 	</row>
 	<row id="msg_0550_T21_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 30 is out this way.\rTrainers will be battling their\nPokémon there.\rIf you go a little farther,\nyou’ll see Mr. Pokémon’s House.\r</language>
+		<language name="English">Par là, c’est la Route 30!\rLes Dresseurs s’y affrontent avec\nleurs Pokémon favoris, et un peu plus\floin, il y a la maison de M. Pokémon!\r</language>
 	</row>
 	<row id="msg_0550_T21_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is the sea, as you can see.\rSome Pokémon are found only in water.\r</language>
+		<language name="English">Comme tu le vois, là, c’est la mer!\rCertains Pokémon se trouvent\nuniquement dans l’eau!\r</language>
 	</row>
 	<row id="msg_0550_T21_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here...\nIt’s my house!\rFor your effort keeping up with me,\nI’ll give you my Running Shoes!\fThey’re still warm!\r...\n...\rGot you, didn’t I?\nDon’t worry, these are brand new!\r</language>
+		<language name="English">... Et là...\nC’est chez moi!\rBravo, tu m’as suivi partout! Pour la\npeine, je t’offre mes Chaussures de\fSport! Elles ont encore ma chaleur\fet mon odeur de transpiration!\r...\n...\rJe plaisante! Tiens!\nNe crains rien, elles sont neuves!\r</language>
 	</row>
 	<row id="msg_0550_T21_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Running Shoes from the Guide Gent!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit des\nChaussures de Sport!</language>
 	</row>
 	<row id="msg_0550_T21_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The instructions read,\n“Touch the Sprint Button on the\fTouch Screen to sprint.”\rIt also says,\n“Hold the B Button down to sprint.”\r</language>
+		<language name="English">Sur le mode d’emploi, il est marqué:\n“Vous pouvez courir en touchant\fl’icône de course sur l’écran tactile.”\rEt aussi:\r“C’est aussi possible en\ngardant le bouton B enfoncé!”\r</language>
 	</row>
 	<row id="msg_0550_T21_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Hffp... Hffp...\nI made it...\rI forgot about one thing.\nThis is another token from me!\rTake it.\r</language>
+		<language name="English">Haa... Haa... Haa...\nJ’ai pu te rattraper...!\rJ’oubliais que j’avais autre chose\nà t’offrir!\rTiens!\r</language>
 	</row>
 	<row id="msg_0550_T21_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Guide Gent loaded the Map Card\non {STRVAR_1 3, 0, 0}’s Pokégear!</language>
+		<language name="English">Il glisse un Coupon Carte dans\nvotre Pokématos!</language>
 	</row>
 	<row id="msg_0550_T21_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Pokégear\ncan now show the Town Map!\r</language>
+		<language name="English">Vous pouvez maintenant consulter la\ncarte depuis votre Pokématos!\r</language>
 	</row>
 	<row id="msg_0550_T21_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Select the Pokégear on the\nTouch Screen and then select\fthe Town Map icon.\rYou’ll see the map of the region\nyou’re currently in!\rThe Pokégear becomes more useful as\nyou add Cards.\rI wish you luck on your journey!\r</language>
+		<language name="English">Choisis le Pokématos sur l’écran\ntactile, puis la carte, et tu pourras\fvoir où tu te trouves dans la région!\rTu peux installer de nouvelles fonctions\nsur ton Pokématos grâce à ces coupons\fpour le rendre encore plus utile!\rAllez, bonne chance!\r</language>
 	</row>
 	<row id="msg_0550_T21_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\rYou got a Pokémon at the Lab.\nWhat a waste.\rThat’s a Pokémon that’s too good for\na wimp like you.\r...\nDon’t you get what I’m saying?\rWell, I too have a good Pokémon.\nI’ll show you what I mean!\r</language>
+		<language name="English">...\rToi, t’as reçu un des Pokémon\ndu Laboratoire...\rQuel gâchis de le donner à une\nmauviette comme toi...\r...\rQuoi? Tu comprends pas quand\non te parle?\r... Tu ne me laisses pas le choix.\nMoi aussi, j’ai un bon Pokémon, et je\fvais te montrer comment on s’en sert.\r</language>
 	</row>
 	<row id="msg_0550_T21_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\rDo you want to know who I am?\n...\rI’m going to be the world’s greatest\nPokémon Trainer.\r</language>
+		<language name="English">...\rTu veux savoir qui je suis?\nEh bien...\rJe suis l’homme qui deviendra le plus\ngrand Dresseur de Pokémon du monde.\r</language>
 	</row>
 	<row id="msg_0550_T21_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give it back!\nThat’s my Trainer Card!\rOh no!\nYou saw my name...\r</language>
+		<language name="English">Rends-moi ça! Je l’ai fait tomber,\nc’est ma Carte de Dresseur!\rPfff...\nTu as vu mon nom...?\r</language>
 	</row>
 	<row id="msg_0550_T21_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you talk to the old man by the\nPokémon Center?\rHe’ll put a Map of Johto on your\nPokégear.</language>
+		<language name="English">As-tu parlé au vieil homme près du\nCentre Pokémon?\rIl peut te donner un Coupon Carte\npour ton Pokématos.</language>
 	</row>
 	<row id="msg_0550_T21_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you’re with Pokémon,\ngoing anywhere is fun.</language>
+		<language name="English">Avec mon Pokémon, je pourrais aller\nau bout du monde!</language>
 	</row>
 	<row id="msg_0550_T21_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Pokémon’s house is still farther\nup ahead.\rYou could use the Running Shoes if\nyou had a pair.\rBut beware of wild Pokémon and\nTrainers!\rWhen you run, the noise will\nattract them.</language>
+		<language name="English">La maison de M. Pokémon est\nencore assez loin...\rSi tu as les Chaussures de Sport,\nça ira plus vite en courant.\rMais fais attention, parce que tu fais\nplus de bruit en courant, et ça attire\fPokémon sauvages et Dresseurs!</language>
 	</row>
 	<row id="msg_0550_T21_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I battled the Trainers on the road.\nMy Pokémon lost.\rThey’re a mess! I must take them to\na Pokémon Center.</language>
+		<language name="English">Je me suis battu bravement contre un\nDresseur sur la route...\rMais mes Pokémon se sont pris\nune raclée... Je dois aller au Centre\fPokémon le plus vite possible!</language>
 	</row>
 	<row id="msg_0550_T21_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon I caught had an item.\nI think it’s Mystic Water.\rI don’t need it, so do you want it?\r</language>
+		<language name="English">J’ai attrapé un Pokémon qui\ntenait un objet.\rJe crois que c’est de l’Eau Mystique.\nMais je me contente de pêcher les\fPokémon, alors si tu la veux,\fje te la donne.\r</language>
 	</row>
 	<row id="msg_0550_T21_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Back to fishing for me, then.</language>
+		<language name="English">Allez hop, retour à la pêche!</language>
 	</row>
 	<row id="msg_0550_T21_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have room for this.</language>
+		<language name="English">Ah! Tu n’as plus de place...</language>
 	</row>
 	<row id="msg_0550_T21_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cherrygrove City\nThe City of Fragrant Flowers</language>
+		<language name="English">Ville Griotte\nLa ville au parfum de fleurs</language>
 	</row>
 	<row id="msg_0550_T21_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guide Gent’s House\nFull-of-Energy, High-Speed Old Man</language>
+		<language name="English">Maison du Guide\rLe gentil vieillard à\ngrande vitesse</language>
 	</row>
 </body>

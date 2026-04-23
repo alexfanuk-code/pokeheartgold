@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0468_T04FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ll run into many Trainers on\nthe way to Cerulean Cape.\rThey want to see how they stack\nup against other Trainers.</language>
+		<language name="English">Il y a beaucoup de Dresseurs sur la\nroute du Cap d’Azuria.\rIls testent la force des Dresseurs\nqui passent par là.</language>
 	</row>
 	<row id="msg_0468_T04FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty is about the only person in town\nwho can beat the Trainers at\fCerulean Cape.</language>
+		<language name="English">Ondine est la seule de toute la ville\nqui soit capable de vaincre tous les\fDresseurs du Cap d’Azuria.</language>
 	</row>
 </body>

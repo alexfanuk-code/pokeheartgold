@@ -2,90 +2,90 @@
 <body language="English">
 	<row id="msg_0669_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tiffany</language>
+		<language name="English">Flavie</language>
 	</row>
 	<row id="msg_0669_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! You like CLEFAIRY, too?\nThey’re so very cute, aren’t they?\rI think we can be good friends!\nI want to know your phone number!\rLet’s talk about CLEFAIRY! {YESNO 0}</language>
+		<language name="English">Dis, tu aimes les MELOFEE?\rIls sont troooop mimiiii!\rOn dirait qu’on va bien s’entendre!\nOn devient camarades?\fJe peux avoir ton numéro, s’il te plaît?\rOn pourra parler de MELOFEE! {YESNO 0}</language>
 	</row>
 	<row id="msg_0669_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Isn’t my CLEFAIRY super adorable?</language>
+		<language name="English">Mon MELOFEE, c’est le plus mimiiii!!!\nT’es d’accord, hein?</language>
 	</row>
 	<row id="msg_0669_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww... Oh well. Look for me if you want\nto talk about CLEFAIRY.</language>
+		<language name="English">Oh zut!\rMais si tu veux parler de MELOFEE,\nreviens me voir, hein!</language>
 	</row>
 	<row id="msg_0669_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Won’t you give me your number?\nLet’s talk about CLEFAIRY! {YESNO 0}</language>
+		<language name="English">Tu veux bien me donner ton numéro, dis?\rOn pourra parler de MELOFEE! {YESNO 0}</language>
 	</row>
 	<row id="msg_0669_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, there you are!\nI’ll give this to you then.\fIt’s a CLEFAIRY Poké Doll!\r</language>
+		<language name="English">Ah, te voilà!\nTiens, c’est pour toi!\fUne Poképoupée MELOFEE!\r</language>
 	</row>
 	<row id="msg_0669_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Um... Well...\nIs it that difficult to talk to me?\rI mean, by phone is all right, but if\nwe’re this close, you don’t have to\fstay away.\fYou can just come talk to me.</language>
+		<language name="English">Euh...\nTu as peur de me parler?\rLe téléphone, c’est bien, mais tu\npourrais aussi venir directement!</language>
 	</row>
 	<row id="msg_0669_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 14, 4, 0}!\nIt’s awful. My CLEFAIRY...\rHuh? This is {STRVAR_1 3, 0, 0}?\rOh, sorry! I was in a hurry, and I...\nI have to go! Bye-bye!</language>
+		<language name="English">Allô {STRVAR_1 14, 4, 0}! C’est terrible!\nMon MELOFEE, il est...\f... Quoi?\fC’est toi {STRVAR_1 3, 0, 0}?\rDésolée!!!\nJe me suis trompée de numéro!\rBon, au revoir!</language>
 	</row>
 	<row id="msg_0669_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 14, 4, 0}!\nIt’s awful. My CLEFAIRY...\rHuh? This is {STRVAR_1 3, 0, 0}?\rOh, sorry! I was in a hurry, and I...\nI have to go! Bye-bye!</language>
+		<language name="English">Allô {STRVAR_1 14, 4, 0}! C’est terrible!\nMon MELOFEE, il est...\f... Quoi?\fC’est toi {STRVAR_1 3, 0, 0}?\rDésolée!!!\nJe me suis trompée de numéro!\rBon, au revoir!</language>
 	</row>
 	<row id="msg_0669_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0}’s adorable, don’t you\nthink so?\rI always sleep next to it--it’s so\nfluffy and warm!\rOh, and we had to battle a wild\n{STRVAR_1 0, 11, 0} a while ago...\rMy CLEFAIRY came close to fainting!\nIsn’t that awful?\rI hate those nasty {STRVAR_1 0, 11, 0}!\nBye-bye!</language>
+		<language name="English">Tu ne trouves pas que mon\n{STRVAR_1 0, 10, 0} est troooop mimiiii?\rOn dort toujours ensemble, et il est si\ndoux et si chaud!\rL’autre jour, je me suis battue contre\nun {STRVAR_1 0, 11, 0}...\rMon MELOFEE chéri a failli s’évanouir!\rC’est terrible, hein?\nJe déteste les {STRVAR_1 0, 11, 0}!\rBon, au revoir!</language>
 	</row>
 	<row id="msg_0669_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0}’s adorable, don’t you\nthink so?\rI always sleep next to it--it’s so\nfluffy and warm!\rOh, and we had to battle a wild\n{STRVAR_1 0, 11, 0} a while ago...\rMy CLEFAIRY got frightened, so we ran\naway as fast as we could!\rI just can’t help feeling protective of\nmy CLEFAIRY.\rBye-bye!</language>
+		<language name="English">Tu ne trouves pas que mon\n{STRVAR_1 0, 10, 0} est troooop mimiiii?\rOn dort toujours ensemble, et il est si\ndoux et si chaud!\rL’autre jour, je me suis battue contre\nun {STRVAR_1 0, 11, 0}...\rMon MELOFEE chéri était intimidé et on\na dû s’enfuir!\rIl fallait que je protège mon MELOFEE\nd’amour, hein!\rBon, au revoir!</language>
 	</row>
 	<row id="msg_0669_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I know this might surprise you, but\nwould you like to battle?\rI’ll be waiting with CLEFAIRY on\n{STRVAR_1 4, 3, 0}.</language>
+		<language name="English">Je sais que c’est un peu brusque,\nmais... Tu voudrais pas faire un combat?\rAvec MELOFEE, on t’attend sur la\n{STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0669_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s wrong? Can’t you visit?\rCLEFAIRY got tired and fell asleep.\nI’m not sure if I can wake it up...\rPlease hurry to {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Alors, tu viens pas?\rMon MELOFEE d’amour s’ennuie tellement\nqu’il s’est endormi!\fIl sera réveillé pour le combat\fj’espère...\rOn t’attend sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0669_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I love dressing up my CLEFAIRY!</language>
+		<language name="English">J’adore faire beau mon MELOFEE\nd’amour!</language>
 	</row>
 	<row id="msg_0669_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">While I was at the Goldenrod Dept.\nStore recently, I found these\fsuper-cute Poké Dolls!\fI’ll give you one!\rCome collect it on {STRVAR_1 4, 3, 0}.</language>
+		<language name="English">J’ai trouvé une Poképoupée MELOFEE\ntroooop mimiiii l’autre jour au Centre\fCommercial de Doublonville!\rViens la chercher si tu passes par la\n{STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0669_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s wrong? Can’t you visit?\rThis Poké Doll is so cute, too!\nPlease hurry to {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Tu viens pas la chercher la Poképoupée?\nAlors qu’elle est troooop mimiiii?\rViens la prendre sur la\n{STRVAR_1 4, 3, 0}, on t’attend!</language>
 	</row>
 	<row id="msg_0669_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grandpa</language>
+		<language name="English">Papy</language>
 	</row>
 	<row id="msg_0669_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grandma</language>
+		<language name="English">Mamy</language>
 	</row>
 	<row id="msg_0669_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom</language>
+		<language name="English">Maman</language>
 	</row>
 	<row id="msg_0669_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dad</language>
+		<language name="English">Papa</language>
 	</row>
 	<row id="msg_0669_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sis</language>
+		<language name="English">Grande sœur</language>
 	</row>
 	<row id="msg_0669_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bro</language>
+		<language name="English">Grand frère</language>
 	</row>
 </body>

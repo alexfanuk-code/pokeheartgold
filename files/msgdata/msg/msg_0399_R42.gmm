@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="msg_0399_R42_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 42 Ecruteak City\nto Mahogany Town</language>
+		<language name="English">Route 42\nEst: Acajou</language>
 	</row>
 	<row id="msg_0399_R42_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mt. Mortar\nWaterfall Cave Inside</language>
+		<language name="English">Mont Creuset\nAbrite la Grotte Cascade</language>
 	</row>
 	<row id="msg_0399_R42_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mt. Mortar\nWaterfall Cave Inside</language>
+		<language name="English">Mont Creuset\nAbrite la Grotte Cascade</language>
 	</row>
 	<row id="msg_0399_R42_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 42 Mahogany Town\nto Ecruteak City</language>
+		<language name="English">Route 42\nOuest: Rosalia</language>
 	</row>
 	<row id="msg_0399_R42_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{SIZE 200}Thud!{SIZE 100}\r</language>
+		<language name="English">{SIZE 200}BANG!{SIZE 100}\r</language>
 	</row>
 	<row id="msg_0399_R42_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, boy!\rSorry that I bumped into you.\rDid I hurt you?\rPlease don’t cry.\nHere, take this.\r</language>
+		<language name="English">Oh là là! Quel maladroit!\rJ’ai failli réduire un innocent Dresseur\nen bouillie!\rTu n’as rien?\nPour me faire pardonner, je vais te\fdonner ça, alors ne pleure pas, hein!\r</language>
 	</row>
 	<row id="msg_0399_R42_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a move called Strength!\rWhen a Pokémon learns it, it can move\nboulders out of your way.\fEnjoy a happy mountain-climbing life!\r</language>
+		<language name="English">C’est la capacité Force!\rSi l’un de tes Pokémon la connaît, tu\npourras lui demander de pousser les\frochers qui t’empêchent d’avancer!\rC’est pas mal, hein?\rAvec ça, la vie en montagne devient\nbeaucoup plus facile!\r</language>
 	</row>
 	<row id="msg_0399_R42_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: SUICUNE...\nHow brave it is!\fHow refreshing it is!\fHow beautiful it is!\fAnd how quickly it moves!\r</language>
+		<language name="English">Eusine: SUICUNE...\nQuelle vaillance...\fQuelle fraîcheur...\fQuelle beauté...\fQuelle vitesse pour m’échapper!\r</language>
 	</row>
 	<row id="msg_0399_R42_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}!\nYou seem to be around where\fSUICUNE would appear.\rWell, that’s OK.\nMy desire to search for SUICUNE is\ffar beyond yours...\rMy grandpa was...quite into myths.\nI’ve heard so many stories about\fSUICUNE from him.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}!\nTu es toujours là où SUICUNE apparaît!\rMais je ne t’en veux pas.\nCar tu ne peux pas désirer SUICUNE\fplus que moi...\rMon grand-père...\nIl connaissait toutes les légendes.\fJ’ai appris toutes celles de SUICUNE\fdès mon enfance.\r</language>
 	</row>
 	<row id="msg_0399_R42_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SUICUNE...\rI won’t stop following you until\nI’ve found out what you’re after...\rYou hear me!\r</language>
+		<language name="English">SUICUNE...\rJe te poursuivrai jusqu’à ce que\nje trouve où tu te diriges...\rPrépare-toi!\r</language>
 	</row>
 </body>

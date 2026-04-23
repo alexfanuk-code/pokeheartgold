@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="msg_0226_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}♈{COLOR 0}ITEMS</language>
+		<language name="English">{COLOR 2}♈{COLOR 0}OBJETS</language>
 	</row>
 	<row id="msg_0226_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}♌{COLOR 0}MEDICINE</language>
+		<language name="English">{COLOR 2}♌{COLOR 0}MEDICAMENTS</language>
 	</row>
 	<row id="msg_0226_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}♎{COLOR 0}POKé BALLS</language>
+		<language name="English">{COLOR 2}♎{COLOR 0}BALLS</language>
 	</row>
 	<row id="msg_0226_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}♊{COLOR 0}TMs &amp; HMs</language>
+		<language name="English">{COLOR 2}♊{COLOR 0}CT &amp; CS</language>
 	</row>
 	<row id="msg_0226_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}♍{COLOR 0}BERRIES</language>
+		<language name="English">{COLOR 2}♍{COLOR 0}BAIES</language>
 	</row>
 	<row id="msg_0226_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}♋{COLOR 0}MAIL</language>
+		<language name="English">{COLOR 2}♋{COLOR 0}LETTRES</language>
 	</row>
 	<row id="msg_0226_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}♏{COLOR 0}BATTLE ITEMS</language>
+		<language name="English">{COLOR 2}♏{COLOR 0}OBJETS COMBAT</language>
 	</row>
 	<row id="msg_0226_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 2}♉{COLOR 0}KEY ITEMS</language>
+		<language name="English">{COLOR 2}♉{COLOR 0}OBJETS RARES</language>
 	</row>
 </body>

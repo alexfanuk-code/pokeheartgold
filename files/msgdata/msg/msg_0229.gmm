@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="msg_0229_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The save file is corrupted.\nThe previous save file will be loaded.</language>
+		<language name="English">Fichier de sauvegarde corrompu.\nLe fichier précédent sera chargé.</language>
 	</row>
 	<row id="msg_0229_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The save file will be erased\ndue to corruption or damage.</language>
+		<language name="English">Le fichier de sauvegarde a été effacé\ncar il était corrompu ou endommagé.</language>
 	</row>
 	<row id="msg_0229_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The most recent Battle Video is\ncorrupted.\rThe previously saved Battle Video will\nbe loaded instead.\n</language>
+		<language name="English">La Vidéo de combat la plus récente est\ncorrompue.\rLa Vidéo de combat précédemment\nsauvegardée sera chargée à la place.</language>
 	</row>
 	<row id="msg_0229_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Battle Video appears to have been\nerased.</language>
+		<language name="English">Il semble qu’une Vidéo de\ncombat ait été effacée.</language>
 	</row>
 	<row id="msg_0229_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The most recent Battle Hall record\nis corrupted.\rThe previously saved record will be\nloaded instead.\n</language>
+		<language name="English">Les données de la Scène de Combat les\nplus récentes sont corrompues.\rLes données précédemment sauvegardées\nseront chargées à la place.</language>
 	</row>
 	<row id="msg_0229_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Hall record has been erased.\n\n</language>
+		<language name="English">Les données de la Scène de Combat ont\nété effacées.</language>
 	</row>
 </body>

@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0534_T11R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\r...\r...\r...I got it!\rYou wanted this!\r</language>
+		<language name="English">...\r....\r.....\r...... Je sais!\rTu veux ça!\r</language>
 	</row>
 	<row id="msg_0534_T11R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TM29 is Psychic.\rIt may lower the target’s Sp. Def.</language>
+		<language name="English">Tu le sais déjà...\nLa CT29 contient Psyko.\r... Ça peut baisser la Défense\nSpéciale de l’ennemi!</language>
 	</row>
 </body>

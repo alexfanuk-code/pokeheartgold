@@ -2,35 +2,35 @@
 <body language="English">
 	<row id="msg_0379_R31R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must be an adventuring Trainer.\nDid you challenge the Pokémon Gym yet?</language>
+		<language name="English">Salut, Dresseur en balade!\nTu vas défier un Champion d’Arène?</language>
 	</row>
 	<row id="msg_0379_R31R0101_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0379_R31R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: I knew it was you, {STRVAR_1 3, 0, 0}!\rHow did you get past me?\nHere is something neat for\fsurprising me, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Célesta: J’étais sûre que c’était toi!\rT’es super rapide! Quand est-ce que tu\nm’as dépassée?\rTiens! Pour te récompenser,\nvoilà un cadeau!\r</language>
 	</row>
 	<row id="msg_0379_R31R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: I knew it was you, {STRVAR_1 3, 0, 0}!\rHow did you get past me?\nHere is something neat for\fsurprising me, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Luth: J’étais sûr que c’était toi!\rT’es super rapide! Quand est-ce que tu\nm’as dépassé?\rTiens! Pour te récompenser,\nvoilà un cadeau!\r</language>
 	</row>
 	<row id="msg_0379_R31R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Vs. Recorder can record\nyour Pokémon battles.\rI have to go now!\fI won’t let you pass me again!\r</language>
+		<language name="English">Le Magnéto VS te permet d’enregistrer\nles combats de Pokémon!\rAllez, je pars devant!\nEt cette fois je resterai en tête!\r</language>
 	</row>
 	<row id="msg_0379_R31R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Vs. Recorder can record\nyour Pokémon battles.\rI have to go now!\fI won’t let you pass me again!\r</language>
+		<language name="English">Le Magnéto VS te permet d’enregistrer\nles combats de Pokémon!\rAllez, je pars devant!\nEt cette fois je resterai en tête!\r</language>
 	</row>
 	<row id="msg_0379_R31R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s go, MARILL!\r</language>
+		<language name="English">Allons-y, MARILL!\r</language>
 	</row>
 	<row id="msg_0379_R31R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come on, MARILL!\r</language>
+		<language name="English">Suis-moi, MARILL!\r</language>
 	</row>
 </body>

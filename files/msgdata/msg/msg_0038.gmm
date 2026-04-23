@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0038_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enter the Friend Code.</language>
+		<language name="English">Veuillez saisir le code ami.</language>
 	</row>
 	<row id="msg_0038_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enter the data number.</language>
+		<language name="English">Veuillez saisir le code.</language>
 	</row>
 	<row id="msg_0038_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BACK</language>
+		<language name="English">EFFACER</language>
 	</row>
 	<row id="msg_0038_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,14 +18,14 @@
 	</row>
 	<row id="msg_0038_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enter your Wii number.</language>
+		<language name="English">Veuillez saisir votre code Wii.</language>
 	</row>
 	<row id="msg_0038_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enter the Registration Code.</language>
+		<language name="English">Veuillez saisir le code d’inscription.</language>
 	</row>
 	<row id="msg_0038_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enter the 4-digit password.</language>
+		<language name="English">Entrez les 4 chiffres du mot de passe.</language>
 	</row>
 </body>

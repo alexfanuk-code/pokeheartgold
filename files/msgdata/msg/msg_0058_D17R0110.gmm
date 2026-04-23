@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0058_D17R0110_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zuki: Yes, this is where we welcome\nHO-OH.\rWhen the dance we practiced for many\ndays becomes one with the sound of the\fClear Bell we entrusted to you,\rthen HO-OH shall come down from the\ngreat arch of the sky once again!\r</language>
+		<language name="English">Tamao: C’est exact... C’est ici que\nnous allons accueillir HO-OH.\rQuand le Glas Transparent que nous\nt’avons confié entrera en résonance\favec cette danse, que nous avons\frépétée chaque jour pour ce moment,\ralors HO-OH, qui danse dans le ciel,\nreviendra voler parmi nous!\r</language>
 	</row>
 	<row id="msg_0058_D17R0110_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is all we can do for you...\nWhat you do now is entirely up to you...</language>
+		<language name="English">Nous ne pouvons rien faire de plus...\nC’est à toi que revient la charge\fd’écrire la suite...</language>
 	</row>
 	<row id="msg_0058_D17R0110_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That IS indeed HO-OH...\nThe guardian of the sky around here\ffrom ancient times...\rSo many have tried and tried, only\nto fail...\r{STRVAR_1 3, 0, 0}, your heart and the Clear\nBell in harmony have finally made\fit appear...\r</language>
+		<language name="English">Cet être n’est nul autre que HO-OH,\nle protecteur de ces cieux,\fvénéré depuis des temps reculés...\rInnombrables furent ceux qui tentèrent\nen vain d’arriver jusque-là...\rMais ton cœur, jeune {STRVAR_1 3, 0, 0}, a\nrésonné avec le Glas Transparent,\fet... il est venu...\r</language>
 	</row>
 	<row id="msg_0058_D17R0110_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, don’t you see?\rHO-OH must have been waiting for\nsomeone like you all this time.\fWouldn’t you agree...?\r</language>
+		<language name="English">Regarde, jeune {STRVAR_1 3, 0, 0}!\rHO-OH semble...\nIl semble qu’il attendait la venue\fd’un être tel que toi...\r</language>
 	</row>
 	<row id="msg_0058_D17R0110_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
@@ -22,18 +22,18 @@
 	</row>
 	<row id="msg_0058_D17R0110_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have done a great job.\nSay hello to Professor Elm for us.</language>
+		<language name="English">Félicitations pour tout ce que tu as\naccompli. Salue le Professeur Orme, si\ftes pas croisent à nouveau les siens.</language>
 	</row>
 	<row id="msg_0058_D17R0110_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have not only made HO-OH appear,\nbut you have also caught it...\rYou are so wonderful.\nThere is nothing more for us to say.\rTake good care of yourself in\nyour journey...</language>
+		<language name="English">Non seulement tu as appelé HO-OH\njusqu’ici, mais de surcroît tu as réussi\fà faire tienne sa puissance...\rC’est absolument admirable.\nTu n’as plus rien à apprendre de nous.\rQue le bonheur t’accompagne\njusqu’au bout de ton voyage...</language>
 	</row>
 	<row id="msg_0058_D17R0110_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If that is what you believe, we will not\ntry to convince you otherwise.\rStill, if you want to see HO-OH once\nmore, perhaps you can come back here\fafter everything has been settled...</language>
+		<language name="English">Si c’était là ton désir, alors\nnous n’avons rien à répondre.\rToutefois... Si tu formais le souhait de\nrencontrer HO-OH à nouveau, reviens,\florsque tu auras récolté tous les\ffruits de ton voyage, en ce lieu\foù tout est rassemblé...</language>
 	</row>
 	<row id="msg_0058_D17R0110_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think when you turn your back to it,\nHO-OH will not come back for\fsome time...\rIf you want to see HO-OH, perhaps you\ncan come back here after everything\fhas been settled...</language>
+		<language name="English">Il me semble que HO-OH ne désire pas\nreparaître immédiatement après que\fl’on s’est détourné de lui...\rIl faudrait que tu viennes à nouveau ici\nlorsque tu auras récolté tous\fles fruits de ton voyage...</language>
 	</row>
 </body>

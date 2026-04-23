@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0232_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAILBOX</language>
+		<language name="English">BOITE LETTRES</language>
 	</row>
 	<row id="msg_0232_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -14,50 +14,50 @@
 	</row>
 	<row id="msg_0232_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">RETOUR</language>
 	</row>
 	<row id="msg_0232_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CLOSE</language>
+		<language name="English">FERMER</language>
 	</row>
 	<row id="msg_0232_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">READ</language>
+		<language name="English">LIRE</language>
 	</row>
 	<row id="msg_0232_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ERASE</language>
+		<language name="English">EFFACER</language>
 	</row>
 	<row id="msg_0232_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GIVE</language>
+		<language name="English">DONNER</language>
 	</row>
 	<row id="msg_0232_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">RETOUR</language>
 	</row>
 	<row id="msg_0232_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What would you like to do with\n{STRVAR_1 3, 0, 0}’s Mail?</language>
+		<language name="English">Que faire avec la Lettre de\n{STRVAR_1 3, 0, 0}?</language>
 	</row>
 	<row id="msg_0232_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The message will be lost.\nIs that OK?</language>
+		<language name="English">Le message sera perdu.\nContinuer?</language>
 	</row>
 	<row id="msg_0232_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The message was erased.</language>
+		<language name="English">Le message a été effacé.</language>
 	</row>
 	<row id="msg_0232_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let a Pokémon hold this Mail?</language>
+		<language name="English">Un Pokémon doit tenir la Lettre?</language>
 	</row>
 	<row id="msg_0232_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Mail’s message was erased,\nand it was put in the Bag.</language>
+		<language name="English">La Lettre a été mise dans le Sac\net son message a été effacé.</language>
 	</row>
 	<row id="msg_0232_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Bag is full...\nThe Mail was discarded.</language>
+		<language name="English">Le Sac est plein.\nLa Lettre a été jetée.</language>
 	</row>
 </body>

@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0101_D32FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some Trainers rely on a Pokémon’s\npotential alone. But you can use items\fand medicines to help improve a\fPokémon’s capabilities.</language>
+		<language name="English">Certains Dresseurs se contentent des\npoints forts naturels des Pokémon;\fpourtant, il est possible de les\faméliorer grandement avec des objets\fou des médicaments.</language>
 	</row>
 	<row id="msg_0101_D32FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mountain climbing and Pokémon are\nsimilar in a sense.\rThey both come down to potential!\rI do not rely on items or medicines\nbut rather potential and training\ffor battle!</language>
+		<language name="English">Que ce soit en alpinisme ou en combat\nde Pokémon, c’est le talent naturel\fqui décide de tout!\rMoi, je n’ai confiance ni dans les objets\nni dans les médicaments! Un combat se\fgagne avec talent et entraînement!</language>
 	</row>
 </body>

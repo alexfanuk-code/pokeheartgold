@@ -2,176 +2,176 @@
 <body language="English">
 	<row id="msg_0066_D23R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Radio is good, you know?\rCool music and Pokémon information...\nSurprising news and moving dramas...\fIt has everything!\rThe only thing missing would be images.\r..................\nOops, they call that a TV!</language>
+		<language name="English">C’est formidable, la radio!\rIl y a de la musique sympa,\ndes conseils sur les Pokémon,\fdes informations étonnantes,\fdes séries émouvantes,\fY’a tout, je te dis, tout!\rIl ne manque plus que l’image!\r...\nAh, c’est vrai, ça s’appelle la télé,\fça...</language>
 	</row>
 	<row id="msg_0066_D23R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lullabies on the radio make wild\nPokémon sleepy.\rThat’s why you don’t see many Pokémon\nwhen the radio plays lullabies in the\ftall grass.</language>
+		<language name="English">Les berceuses diffusées à la radio\ndonnent sommeil aux Pokémon sauvages.\rVoilà pourquoi, si tu te promènes dans\nles herbes en les écoutant, tu en\frencontres beaucoup moins.</language>
 	</row>
 	<row id="msg_0066_D23R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why would they want to take over the\nRadio Tower?</language>
+		<language name="English">Qu’est-ce qu’ils comptent faire en\nenvahissant la Tour Radio?</language>
 	</row>
 	<row id="msg_0066_D23R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JIGGLYPUFF: Jiggly...</language>
+		<language name="English">RONDOUDOU: Douuu...</language>
 	</row>
 	<row id="msg_0066_D23R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry. Authorized personnel only\nbeyond this point.\rIt wasn’t that way before. There’s\nsomething wrong with the Director...</language>
+		<language name="English">Seul le personnel autorisé peut aller\nplus haut...\rCette mesure vient d’être promulguée.\nLe directeur est bizarre, ces temps-ci.</language>
 	</row>
 	<row id="msg_0066_D23R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Feel free to look around anywhere.\nThe Director is nice again, just as he\fwas before.</language>
+		<language name="English">Vous pouvez aller où vous voulez.\nLe directeur est redevenu gentil!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">2F Sales</language>
+		<language name="English">1¹: Ventes</language>
 	</row>
 	<row id="msg_0066_D23R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Talk with Professor Oak\nThe Hottest Show on the Air!</language>
+		<language name="English">Chronique Pokémon du Professeur Chen:\nL’émission star sur vos ondes!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">2F Studio 2</language>
+		<language name="English">1¹: Studio 2</language>
 	</row>
 	<row id="msg_0066_D23R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Huh?\nToday’s password?\rHELP, of course!</language>
+		<language name="English">Buena: Hein? Tu veux connaître\nle mot de passe d’aujourd’hui?\rFacile: c’est “AU SECOURS”!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Hi! I’m Buena!\rDo you know about the radio show\ncalled Buena’s Password?\rIf you can tell me the password from\nthe program, you will earn points.\rSave up those points and trade them\nwith that sweet young lady over there\ffor some choice prizes!\rHere you go!\nIt’s your very own point card!\r</language>
+		<language name="English">Buena: Salut! Moi, c’est Buena!\nTu connais l’émission\f“Le Mot de Passe”?\rSi tu me dis le mot de passe prononcé\ndans l’émission, tu gagnes un point.\rQuand tu as plein de points, tu peux les\néchanger auprès de la jolie fille là-bas\fcontre de fabuleux prix!\rTiens!\nVoilà ta carte à points! Je te l’offre!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Thank you for listening in\nevery day!\r</language>
+		<language name="English">Buena: Merci d’être fidèle\nà mon émission!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: {STRVAR_1 3, 0, 0}!\nThank you for listening to my show!\r</language>
+		<language name="English">Buena: {STRVAR_1 3, 0, 0}!\nMerci d’être fidèle à mon émission!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: {STRVAR_1 3, 0, 0}!\nThank you for listening in to my show!\r</language>
+		<language name="English">Buena: {STRVAR_1 3, 0, 0}!\nMerci d’être fidèle à mon émission!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Do you remember today’s\npassword? {YESNO 0}</language>
+		<language name="English">Buena: Tu te souviens du mot de\npasse d’aujourd’hui? {YESNO 0}</language>
 	</row>
 	<row id="msg_0066_D23R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Oh, wow! Thank you!\nWhat was your name again?\r...{STRVAR_1 3, 0, 0}!\rCome on, {STRVAR_1 3, 0, 0}.\nJoin the show.\r</language>
+		<language name="English">Buena: Oh! Merci!\nAlors... Comment t’appelles-tu?\r... {STRVAR_1 3, 0, 0}?\rAllez! Tu es en direct!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Oh, wow! Thank you!\nWhat was your name again?\r...{STRVAR_1 3, 0, 0}!\rCome on, {STRVAR_1 3, 0, 0}.\nJoin the show.\r</language>
+		<language name="English">Buena: Oh! Merci!\nAlors... Comment t’appelles-tu?\r... {STRVAR_1 3, 0, 0}?\rAllez! Tu es en direct!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Thanks, {STRVAR_1 3, 0, 0}!\rPlease join the show like you always do!\r</language>
+		<language name="English">Buena: {STRVAR_1 3, 0, 0}! Merci pour\nta fidélité!\rAllez, vas-y! Tu as l’habitude,\nmaintenant!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Thanks, {STRVAR_1 3, 0, 0}!\rPlease join the show like you always do!\r</language>
+		<language name="English">Buena: {STRVAR_1 3, 0, 0}! Merci pour\nta fidélité!\rAllez, vas-y! Tu as l’habitude,\nmaintenant!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Come back after you listen to\nmy show, OK? Catch ya later!</language>
+		<language name="English">Buena: Reviens après avoir écouté mon\némission, OK? A plus tard!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Everyone ready?\rI want to hear you shout out today’s\npassword for {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Buena: Tout le monde est prêt?\rAlors {STRVAR_1 3, 0, 0}, vas-y, balance le\nmot de passe du jour!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Everyone ready?\rI want to hear you shout out today’s\npassword for {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Buena: Tout le monde est prêt?\rAlors {STRVAR_1 3, 0, 0}, vas-y, balance le\nmot de passe du jour!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Yippee! That’s right!\rYou did tune in! I’m so happy!\nYou earned one point! Congratulations!\r</language>
+		<language name="English">Buena: Ouiiiii! C’est exact!\rTu as bien écouté mon émission!\nJ’suis trop contente!\rTiens, tu as gagné un point!\nFélicitations!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Aww... That’s not it...\nDid you forget the password?</language>
+		<language name="English">Buena: Aaah... Dommage, c’est faux!\nTu as oublié mon mot de passe?</language>
 	</row>
 	<row id="msg_0066_D23R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Oh! Your Blue Card reached 30\npoints today! That’s so wild!\rHmm... You came by so often,\n{STRVAR_1 3, 0, 0}, I’ll make you a\fspecial deal!\rHow would you like my phone number?\r</language>
+		<language name="English">Buena: Oh! Ta Carte Bleue a atteint les\n30 points aujourd’hui! Incroyable!\rHmmm... Je sais! Tu viens si souvent que\nje dois te donner quelque chose!\rPar exemple... Mon numéro\nde téléphone!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Oh! Your Blue Card reached 30\npoints today! That’s so wild!\rHmm... You came by so often,\n{STRVAR_1 3, 0, 0}, I’ll make you a\fspecial deal!\rHow would you like my phone number?\r</language>
+		<language name="English">Buena: Oh! Ta Carte Bleue a atteint les\n30 points aujourd’hui! Incroyable!\rHmmm... Je sais! Tu viens si souvent que\nje dois te donner quelque chose!\rPar exemple... Mon numéro\nde téléphone!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Buena\nin the Pokégear!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré Buena\ndans son Pokématos!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: I look forward to hearing\nfrom you!\r</language>
+		<language name="English">Buena: Appelle-moi vite!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Tune in to my password show!</language>
+		<language name="English">Buena: Ecoutez tous l’émission\n“Le Mot de Passe”!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Sorry...\nYou get just one chance each day.\rCome back tomorrow for another try!</language>
+		<language name="English">Buena: Désolée... Tu n’as droit qu’à\nun essai par jour.\rReviens donc demain!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Your Bag is full!</language>
+		<language name="English">Buena: Tu n’as plus de place!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00031" index="31">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0066_D23R0102_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Tune in to my show again\ntomorrow!\r</language>
+		<language name="English">Buena: Ne rate pas l’émission\nde demain!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Save up the Blue Card points for some\nchoice prizes!</language>
+		<language name="English">Vous pouvez gagner de fabuleux prix\nen accumulant des points\fsur votre Carte Bleue!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your points total on your\nBlue Card is now {STRVAR_1 51, 0, 0}.</language>
+		<language name="English">Vous avez actuellement {STRVAR_1 51, 0, 0} point(s)\nsur votre Carte Bleue!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\rYour points total is now {STRVAR_1 51, 0, 0}. The prize\nis this {STRVAR_1 8, 1, 0}. Here you are!\r</language>
+		<language name="English">Félicitations!\rVous avez accumulé {STRVAR_1 51, 0, 0} point(s),\nce qui vous donne droit à ceci:\f{STRVAR_1 8, 1, 0}! Revenez nous voir!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Blue Card points have reached\ntheir max.\fI will give you a new card!\r</language>
+		<language name="English">Votre Carte Bleue est pleine!\nEn voici une nouvelle!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You received a new Blue Card!</language>
+		<language name="English">Vous avez reçu une Carte Bleue neuve!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please join the show again!\r</language>
+		<language name="English">Tente à nouveau ta chance\ndurant l’émission!\r</language>
 	</row>
 	<row id="msg_0066_D23R0102_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Somebody needs to put a beating on this\nmean Team Rocket!\fLike three years ago even!</language>
+		<language name="English">Quelle bande de ploucs, cette Team\nRocket! J’espère qu’ils vont se faire\frétamer, comme il y a 3 ans!</language>
 	</row>
 	<row id="msg_0066_D23R0102_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CYNDAQUIL</language>
+		<language name="English">HERICENDRE</language>
 	</row>
 	<row id="msg_0066_D23R0102_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TOTODILE</language>
+		<language name="English">KAIMINUS</language>
 	</row>
 	<row id="msg_0066_D23R0102_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHIKORITA</language>
+		<language name="English">GERMIGNON</language>
 	</row>
 	<row id="msg_0066_D23R0102_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -183,7 +183,7 @@
 	</row>
 	<row id="msg_0066_D23R0102_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Parlyz Heal</language>
+		<language name="English">Anti-Para</language>
 	</row>
 	<row id="msg_0066_D23R0102_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
@@ -191,11 +191,11 @@
 	</row>
 	<row id="msg_0066_D23R0102_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Great Ball</language>
+		<language name="English">Super Ball</language>
 	</row>
 	<row id="msg_0066_D23R0102_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ultra Ball</language>
+		<language name="English">Hyper Ball</language>
 	</row>
 	<row id="msg_0066_D23R0102_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
@@ -207,7 +207,7 @@
 	</row>
 	<row id="msg_0066_D23R0102_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GEODUDE</language>
+		<language name="English">RACAILLOU</language>
 	</row>
 	<row id="msg_0066_D23R0102_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
@@ -215,70 +215,70 @@
 	</row>
 	<row id="msg_0066_D23R0102_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPINARAK</language>
+		<language name="English">MIMIGAL</language>
 	</row>
 	<row id="msg_0066_D23R0102_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DROWZEE</language>
+		<language name="English">SOPORIFIK</language>
 	</row>
 	<row id="msg_0066_D23R0102_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">New Bark Town</language>
+		<language name="English">Bourg Geon</language>
 	</row>
 	<row id="msg_0066_D23R0102_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cherrygrove City</language>
+		<language name="English">Ville Griotte</language>
 	</row>
 	<row id="msg_0066_D23R0102_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azalea Town</language>
+		<language name="English">Ecorcia</language>
 	</row>
 	<row id="msg_0066_D23R0102_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bug Pokémon</language>
+		<language name="English">Pokémon Insecte</language>
 	</row>
 	<row id="msg_0066_D23R0102_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bird Pokémon</language>
+		<language name="English">Pokémon Oiseau</language>
 	</row>
 	<row id="msg_0066_D23R0102_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grass Pokémon</language>
+		<language name="English">Pokémon Plante</language>
 	</row>
 	<row id="msg_0066_D23R0102_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tackle</language>
+		<language name="English">Charge</language>
 	</row>
 	<row id="msg_0066_D23R0102_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Growl</language>
+		<language name="English">Rugissement</language>
 	</row>
 	<row id="msg_0066_D23R0102_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mud-Slap</language>
+		<language name="English">Coud’Boue</language>
 	</row>
 	<row id="msg_0066_D23R0102_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">X Attack</language>
+		<language name="English">Attaque +</language>
 	</row>
 	<row id="msg_0066_D23R0102_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">X Defend</language>
+		<language name="English">Défense +</language>
 	</row>
 	<row id="msg_0066_D23R0102_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">X Speed</language>
+		<language name="English">Vitesse +</language>
 	</row>
 	<row id="msg_0066_D23R0102_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Talk</language>
+		<language name="English">Chronique Pokémon</language>
 	</row>
 	<row id="msg_0066_D23R0102_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Music</language>
+		<language name="English">Musique Pokémon</language>
 	</row>
 	<row id="msg_0066_D23R0102_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena’s Password</language>
+		<language name="English">Le Mot de Passe de Buena</language>
 	</row>
 </body>

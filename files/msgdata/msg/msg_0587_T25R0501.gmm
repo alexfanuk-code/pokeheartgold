@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="msg_0587_T25R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The train hasn’t come in...\rI know! I’ll carry the passengers on\nmy back!\rThat won’t work.</language>
+		<language name="English">Le train ne vient toujours pas!\rJe vais donc devoir porter tous les\npassagers sur mon dos jusqu’à...\rHum, je suis pas sûr que ça marche.</language>
 	</row>
 	<row id="msg_0587_T25R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Magnet Train is back in service!\rPassengers need to go through the\ngate for the automatic ticket check...\r</language>
+		<language name="English">Le Train Magnétique est à nouveau en\nactivité.\rTous les voyageurs sont priés de\nvalider leur Passe dans les bornes\fmises à leur disposition...\r</language>
 	</row>
 	<row id="msg_0587_T25R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Beep!\rI am so sorry, but you need a\nMagnet Train Pass to get on\fthe Magnet Train...\r</language>
+		<language name="English">... BOOOOP.\rNous sommes désolés, mais seules les\npersonnes en possession d’un Passe\fpeuvent emprunter le Train Magnétique!\r</language>
 	</row>
 	<row id="msg_0587_T25R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Passengers need to go through the\ngate for the automatic ticket check...\r</language>
+		<language name="English">Tous les voyageurs sont priés de\nvalider leur Passe dans les bornes\fmises à leur disposition...\r</language>
 	</row>
 	<row id="msg_0587_T25R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ping...fwip!\nHere is your Pass back.\rThis train is about to leave\nfor Saffron City.</language>
+		<language name="English">... Ding dong!\nAttention à la fermeture des portes!\rLe Train Magnétique en direction\nde Safrania va partir!</language>
 	</row>
 	<row id="msg_0587_T25R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enjoy the attractive and magnetic\njourney!</language>
+		<language name="English">Profitez-bien de votre voyage,\nentre poésie et magnétisme!</language>
 	</row>
 	<row id="msg_0587_T25R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are arriving at Goldenrod!\nGoldenrod! The accent is on the “o”!</language>
+		<language name="English">Doublonville... Doublonville. Sans\nespace entre “Doublon” et “Ville”.</language>
 	</row>
 	<row id="msg_0587_T25R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enjoy the attractive and magnetic\njourney!\r</language>
+		<language name="English">Profitez-bien de votre voyage,\nentre poésie et magnétisme!\r</language>
 	</row>
 	<row id="msg_0587_T25R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the President.\rMy dream was to build a train that\nis faster than any Pokémon.\rIt really brings Johto much closer\nto Kanto.</language>
+		<language name="English">C’est moi le président!\rMon rêve, ce n’était pas les Pokémon:\nc’était les trains à grande vitesse!\rEt grâce à moi, Johto et Kanto sont\nà un jet de pierre!</language>
 	</row>
 	<row id="msg_0587_T25R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We request that you make sure you\nrefrain from keeping large Pokémon out\fat the station.</language>
+		<language name="English">Pour la tranquillité des autres\nvoyageurs, veuillez ne pas vous\fpromener avec des Pokémon encombrants\fdans l’enceinte de la gare.</language>
 	</row>
 </body>

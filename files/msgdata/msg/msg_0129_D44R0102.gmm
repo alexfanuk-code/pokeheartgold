@@ -2,139 +2,139 @@
 <body language="English">
 	<row id="msg_0129_D44R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wait!\r</language>
+		<language name="English">Attends!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: I’m sorry about this.\nHere, take this as my apology.\r</language>
+		<language name="English">Sandra: Ouais, bon, désolée pour tout.\nPour me faire pardonner, tiens.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0129_D44R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That contains Dragon Pulse.\rWell, Dragon Pulse is a kind of er...\nnever mind!\rIt’s huge energy of some kind.\nIf you don’t want it, you don’t\fhave to take it.\r</language>
+		<language name="English">Elle contient Dracochoc.\rC’est un choc si puissant que... Euh...\nBref! C’est vachement bien!\rEt puis si tu la veux pas, ne te force\npas, laisse-la là!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? You don’t have any room for this.\rI’m going back to the Gym, so make\nroom, then come see me there.\r</language>
+		<language name="English">Oh? Tu n’as plus de place.\nJe retourne à l’Arène.\fFais de la place et reviens me voir.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s the matter?\nIf you are headed to the Pokémon\fLeague, go back to New Bark Town\fand Surf along Route 27.\rYour face...is telling me you have\nsome unfinished business...\rCome on!\rWhatever you have to face from now,\ndon’t you dare give up!\rIf you do, I’ll feel even worse\nabout having lost to you!\fGive it your all.\r</language>
+		<language name="English">Eh ben alors?\nSi c’est la Ligue Pokémon que tu\fcherches, va d’abord au Bourg Geon,\fpuis surfe vers la Route 27.\rMais... Je vois sur ton visage que tu as\nencore des choses à faire ici.\rRemue-toi!\nEt attention, quoi que tu affrontes,\ft’as pas intérêt à abandonner!\rSi tu perds, de quoi j’aurais l’air, moi?\r...\nFais de ton mieux.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dragon Shrine\rA shrine revering the Dragon Pokémon\nsaid to have lived in Dragon’s Den.</language>
+		<language name="English">Autel Dragon\rEn l’honneur des Pokémon de type\nDragon ayant vécu dans cet antre.</language>
 	</row>
 	<row id="msg_0129_D44R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: ...\nWhat? {STRVAR_1 3, 0, 0}?\rYeah, I am training my Pokémon here.\nYou can laugh at me now...\rBut it needs to be done.\nMy Pokémon aren’t ready to beat you.\fI can’t push them too hard now.\rI have to be disciplined to become\nthe greatest Pokémon Trainer...</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: ...\nAh, c’est toi, {STRVAR_1 3, 0, 0}...\rOui, j’entraîne mes Pokémon ici.\nTu trouves sans doute ça étrange...\rMais je m’en fiche. Après tout, ils\nn’ont aucune chance de gagner\fcontre les tiens, pour le moment.\rJe dois apprendre à respecter leurs\nlimites. Sinon, je ne pourrai jamais\fdevenir le plus grand des Dresseurs...</language>
 	</row>
 	<row id="msg_0129_D44R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: ...\rWhew...\rLearn to stay out\nof my way...</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: ...\rPfffuuu...\nTu me déranges!</language>
 	</row>
 	<row id="msg_0129_D44R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: It’s still early, and you’ve got\nnothing to do already?\rI may have time to listen to you.\nIf you insist, I can exchange\fnumbers, too! {YESNO 0}</language>
+		<language name="English">Sandra: Tu n’as vraiment rien à faire\nde ton temps pour déranger les gens à\fune heure pareille!\rAllez, je veux bien discuter avec toi un\nmoment. Et si tu veux, je peux te\fdonner mon numéro de téléphone! {YESNO 0}</language>
 	</row>
 	<row id="msg_0129_D44R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Clair\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré Sandra\ndans son Pokématos!</language>
 	</row>
 	<row id="msg_0129_D44R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: I can battle you on Friday\nnights if you insist!</language>
+		<language name="English">Sandra: Si tu veux, on peut se battre\nle vendredi soir!\rMais seulement parce que tu insistes!</language>
 	</row>
 	<row id="msg_0129_D44R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: ...</language>
+		<language name="English">Sandra: ...</language>
 	</row>
 	<row id="msg_0129_D44R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: So you do want to\nexchange numbers? {YESNO 0}</language>
+		<language name="English">Sandra: Ah, finalement, tu veux\nmon numéro de téléphone, hein? {YESNO 0}</language>
 	</row>
 	<row id="msg_0129_D44R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: ...What?\nAre you here to make fun of\fmy training?\rHumph!\nI took my time coming all the way here,\rbut the Master won’t tell me anything,\nand he’s making a big deal out of it...\rSo I decided to train my Pokémon\nhere instead.\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: ... Quoi encore?\nTu me déranges pendant\fmon entraînement.\rPfff! Je me suis déplacé spécialement\npour apprendre comment devenir plus\ffort, mais le vieux refuse de\fm’enseigner quoi que ce soit.\rVoilà pourquoi j’entraîne\nmes Pokémon là...\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Hi, {STRVAR_1 3, 0, 0}!\nAnd...you.\fWe met at the Team Rocket hideout.\r</language>
+		<language name="English">Peter: Salut, {STRVAR_1 3, 0, 0}!\nAh... Et toi, je t’ai croisé dans\fle Repaire de la Team Rocket...\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Hi, {STRVAR_1 3, 0, 0}!\nAnd...you.\fWe met at the Team Rocket hideout.\r</language>
+		<language name="English">Peter: Salut, {STRVAR_1 3, 0, 0}!\nAh... Et toi, je t’ai croisé dans\fle Repaire de la Team Rocket...\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: You!\nWhere have you been all this time?\rPrepare to lose to me this time.\nI challenge you!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: Toi!\nTu te cachais où?!\rCette fois, je vais te battre, alors\nprépare-toi!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Calm down.\nI was in a bit of a hurry then.\rSorry for that.\nBut...I always welcome challengers!\rHey!\nHow about a Double Battle?\r</language>
+		<language name="English">Peter: Allons, pas la peine de se\nmettre en colère. J’étais pressé\flors de notre première rencontre,\fje suis désolé.\rEt puis... Je suis plus que d’accord\npour ce combat!\rAh, j’ai une idée!\rPuisque vous êtes là, que diriez-vous\nd’un combat 2 contre 2?\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: Humph!\nYou can’t beat me one-on-one, can you?\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: Pfff!\nJe savais que tu ne pouvais pas me\fvaincre seul...\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Come on.\nA Double Battle is really not bad.\f{STRVAR_1 3, 0, 0}, you’ll be on my side!\r</language>
+		<language name="English">Peter: Allons, ne dis pas ça. Un combat\n2 contre 2 peut être amusant aussi!\rAllez, {STRVAR_1 3, 0, 0}! Faisons\nencore équipe!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Come on.\nA Double Battle is really not bad.\f{STRVAR_1 3, 0, 0}, you’ll be on my side!\r</language>
+		<language name="English">Peter: Allons, ne dis pas ça. Un combat\n2 contre 2 peut être amusant aussi!\rAllez, {STRVAR_1 3, 0, 0}! Faisons\nencore équipe!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Well then, you over there!\nWill you team up with me?\r</language>
+		<language name="English">Sandra: Bon, dans ce cas...\nToi, là, tu fais équipe avec moi?\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: You must be kidding!\rThat embarrassing one in the weird\ncostume for me?\fNo way I can battle with her!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: Et puis quoi encore!\rJe vais quand même pas faire équipe\navec une fille dans cette tenue!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}!\nCome to my side!\fWe’ll beat Lance together!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}!\nC’est toi qui vas faire équipe avec moi!\rOn va écraser Peter tous les deux!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Just as I expected.\nYou two make quite a team...\rGoing solo is certainly one way to aim\nfor the top...\rBut that’s not all there is to Pokémon\nbattle. Although I don’t feel it’s\fnecessary to remind you guys.\rSee you, {STRVAR_1 3, 0, 0},\nanother time!\r</language>
+		<language name="English">Peter: Je le savais!\nVotre coordination était spectaculaire.\rOn peut bien sûr chercher à devenir\nplus fort tout seul, se dépasser\fencore et encore...\rMais l’intérêt des combats de Pokémon\nne se limite pas à cela.\rBah... Je n’ai même pas à mettre des\nmots sur cette émotion. Vous devez\fdéjà sentir de quoi je parle.\rAllez, {STRVAR_1 3, 0, 0}!\nA la prochaine!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: Just as I expected.\nYou two make quite a team...\rGoing solo is certainly one way to aim\nfor the top...\rBut that’s not all there is to Pokémon\nbattle. Although I don’t feel it’s\fnecessary to remind you guys.\rSee you, {STRVAR_1 3, 0, 0},\nanother time!\r</language>
+		<language name="English">Peter: Je le savais!\nVotre coordination était spectaculaire.\rOn peut bien sûr chercher à devenir\nplus fort tout seul, se dépasser\fencore et encore...\rMais l’intérêt des combats de Pokémon\nne se limite pas à cela.\rBah... Je n’ai même pas à mettre des\nmots sur cette émotion. Vous devez\fdéjà sentir de quoi je parle.\rAllez, {STRVAR_1 3, 0, 0}!\nA la prochaine!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: I must excuse myself.\r...{STRVAR_1 3, 0, 0}, it was a fun battle.\rThat goes for you, too, wise guy.\r</language>
+		<language name="English">Sandra: Alors je vais y aller aussi.\r... {STRVAR_1 3, 0, 0}. Ce combat\nétait sympa.\rÇa vaut aussi pour toi,\nmalgré ton air bougon.\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0}: {STRVAR_1 3, 0, 0}...\rIt wasn’t supposed to go this way...\nAnyway, I am not giving up beating you!\rI’ll train my Pokémon and...my own\nheart, too.\rI’ll come back as the toughest\nchallenge for you!\r</language>
+		<language name="English">{STRVAR_1 3, 1, 0}: {STRVAR_1 3, 0, 0}...\rC’était pas vraiment ce que j’avais\nen tête...\rMais ne crois pas que j’ai abandonné\nl’idée de te battre!\rJe vais continuer à entraîner mes\nPokémon, et aussi...\f... endurcir mon cœur.\fEt un jour, je me dresserai à nouveau\fdevant toi...\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: You...\nseem desperate to take pictures\fwith me. {YESNO 0}</language>
+		<language name="English">Sandra: Ah, c’est toi...\nT’as l’air de vouloir prendre une\fphoto avec moi, pas vrai? {YESNO 0}</language>
 	</row>
 	<row id="msg_0129_D44R0102_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Are you ready?\r</language>
+		<language name="English">Sandra: Allez, on la prend!\r</language>
 	</row>
 	<row id="msg_0129_D44R0102_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: Excellent one of me!\nAnother cool picture.</language>
+		<language name="English">Sandra: Je suis fière de moi!\nVoilà une belle photo!</language>
 	</row>
 	<row id="msg_0129_D44R0102_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair: That’s too bad.</language>
+		<language name="English">Sandra: Ah. Bon. Dommage.</language>
 	</row>
 	<row id="msg_0129_D44R0102_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.\n</language>
+		<language name="English">Votre Album Photo est plein!\rRevenez après y avoir fait le ménage\ndans votre PC.</language>
 	</row>
 </body>

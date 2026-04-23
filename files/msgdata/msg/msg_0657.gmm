@@ -2,62 +2,62 @@
 <body language="English">
 	<row id="msg_0657_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock</language>
+		<language name="English">Pierre</language>
 	</row>
 	<row id="msg_0657_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you. I think we’ve\ngot a bad connection.\rGo somewhere else and call again!</language>
+		<language name="English">Je capte mal.\rEssaye de me rappeler\nd’un autre endroit!</language>
 	</row>
 	<row id="msg_0657_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nWhat’s up?\fI’m doing great!\r</language>
+		<language name="English">Allô?\nOui?\fJe vais bien!\r</language>
 	</row>
 	<row id="msg_0657_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm... I’d like to battle you again, but\nI think there’re some Gyms that you\fhaven’t visited yet, aren’t there?</language>
+		<language name="English">J’ai bien envie de me battre encore\ncontre toi, mais il te reste plein\fd’autres Champions à rencontrer\favant, non?</language>
 	</row>
 	<row id="msg_0657_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can take a break on Saturday\nevenings, if you want to give me a call\fagain then.</language>
+		<language name="English">Je suis disponible le samedi soir!\nJ’attends ton coup de fil!</language>
 	</row>
 	<row id="msg_0657_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you called at just the right time!\nI’m free right now.\fWant to battle me again? {YESNO 0}</language>
+		<language name="English">Tu tombes à pic!\nJuste quand je suis libre!\fOn refait un combat? {YESNO 0}</language>
 	</row>
 	<row id="msg_0657_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right, all right!\nI’m looking forward to it!\rI’ll meet you at the Fighting Dojo in\nSaffron City!\rI won’t be at the Pewter Gym, all right?\nDon’t get confused!</language>
+		<language name="English">C’est super, ça!\rJe t’attends au Dojo de Safrania!\nPas l’Arène d’Argenta, hein!\fNe te trompe pas!</language>
 	</row>
 	<row id="msg_0657_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is that so...\nWell, I suppose you must have a lot of\fthings to do yourself...</language>
+		<language name="English">Ah?\nBon, je comprends, tu dois avoir\fbeaucoup de choses à faire...</language>
 	</row>
 	<row id="msg_0657_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah, I’d really like to battle with you\nagain... But I think you’ve got an\fappointment with someone else?\rOnce you’ve taken care of your\nobligations with other Trainers,\fthen call me again!</language>
+		<language name="English">Moi aussi, j’ai super envie de me battre\ncontre toi, mais tu as d’autres\frendez-vous avant, non?\rRappelle-moi quand tu auras fini!</language>
 	</row>
 	<row id="msg_0657_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be waiting for you to arrive at\nthe Fighting Dojo in Saffron City.\fIt’s a promise between Trainers!</language>
+		<language name="English">Je t’attends au Dojo de Safrania!\nPromesse de Dresseur, hein?</language>
 	</row>
 	<row id="msg_0657_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Brock.\nOh hey, how are you doing?\r</language>
+		<language name="English">Allô, c’est Pierre!\nTu vas bien?\r</language>
 	</row>
 	<row id="msg_0657_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We made plans to battle at the Fighting\nDojo in Saffron City, didn’t we?\fYou didn’t forget, did you?</language>
+		<language name="English">Promis, on se retrouve au Dojo de\nSafrania, hein?\fPas de lapin!</language>
 	</row>
 	<row id="msg_0657_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A large earthquake struck recently.\nSome of the walls in my Gym\fcrumbled a bit.\rWell, I guess that’s just the kind of\nthing my Gym’s known for.\rSo even if the walls crumbled a bit,\nnobody would really notice!</language>
+		<language name="English">Il y a eu un sacré tremblement de\nterre y’a pas longtemps.\fLes murs de l’Arène ont commencé à\fs’écrouler.\rMais comme c’est mon Arène,\npersonne ne s’en est aperçu!\fÇa veut dire quoi, hein?</language>
 	</row>
 	<row id="msg_0657_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are so many different types of\nPokémon in the world. As you could\fguess, I like Rock-type Pokémon best.\rThey’re solid and rough, and yet\nsomewhat brittle at the same time.\fOnce you’ve really gotten to know\fthem, they’re even quite cute.\rWhat do you think?</language>
+		<language name="English">Il existe plein de types de Pokémon,\nmais mes préférés, y’a pas à dire,\fc’est vraiment le type Roche!\rIls ont l’air durs, forts, un peu\neffrayants même, mais une fois qu’on\fest devenu ami avec, c’est vraiment les\fplus mignons du monde!\rTu n’es pas d’accord?</language>
 	</row>
 	<row id="msg_0657_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Every town’s Pokémon Gym is different!\nThe design, the tricks, everything is so\fdifferent. It’s interesting!\rEach Gym Leader assigned to take care\nof a Gym by the Pokémon League gets to\fdesign as they please.\rOf course, Pewter Gym’s design is my\npride and joy!\rThe tricks aren’t much, but you can’t\ndeny that when you enter, the design\fhas a breathtaking impact, right?</language>
+		<language name="English">Le design des Arènes et des pièges\nvarie d’une ville à l’autre. Je trouve\fça super intéressant!\rLe Champion désigné par la Ligue est\nlibre d’aménager l’Arène à son goût!\rLe style de celle d’Argenta, ben...\nC’est moi qui l’ai fait!\rLes pièges, c’est pas forcément ça,\nmais avoue que quand on rentre dans\fmon Arène, ça fait de l’effet, non?</language>
 	</row>
 </body>

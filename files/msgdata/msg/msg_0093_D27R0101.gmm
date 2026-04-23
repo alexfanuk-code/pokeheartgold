@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0093_D27R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">People train at this Lighthouse.\rIt’s not easy to climb because of\nall the Trainers.</language>
+		<language name="English">Les gens s’entraînent au phare.\nY monter est dur à cause\fde tous les Dresseurs.</language>
 	</row>
 	<row id="msg_0093_D27R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the past, Pokémon used to light\nthe sea around Olivine at night.\rThe Lighthouse was made to pay tribute\nto those Pokémon.</language>
+		<language name="English">Il y a longtemps, des Pokémon\nilluminaient les mers autour d’Oliville.\rLe phare a été construit en\nhommage à ces Pokémon.</language>
 	</row>
 </body>

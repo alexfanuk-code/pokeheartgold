@@ -2,11 +2,11 @@
 <body language="English">
 	<row id="msg_0001_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">RETOUR</language>
 	</row>
 	<row id="msg_0001_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}UNOWN Report</language>
+		<language name="English">{ALN_CENTER}Carnet ZARBI</language>
 	</row>
 	<row id="msg_0001_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
@@ -14,11 +14,11 @@
 	</row>
 	<row id="msg_0001_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER} Number of UNOWN</language>
+		<language name="English">{ALN_CENTER}Nombre de ZARBI</language>
 	</row>
 	<row id="msg_0001_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Current Kinds: {STRVAR_1 51, 0, 0}</language>
+		<language name="English">{ALN_CENTER}Sortes découvertes: {STRVAR_1 51, 0, 0}</language>
 	</row>
 	<row id="msg_0001_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,59 +26,59 @@
 	</row>
 	<row id="msg_0001_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Found a strange puzzle in the\nruins. Solved it, and suddenly a\nhole opened up in the ground\nand I dropped into the room\nbelow! Should have known that\nancient ruins would have\nsurprising tricks like that.</language>
+		<language name="English">Vous avez découvert d’étranges\npuzzles de pierre dans les ruines.\nEn les résolvant, un trou s’est\nouvert dans le sol et vous avez\nchuté dans la chambre\nen dessous! Voilà bien un\ndispositif très ancien!</language>
 	</row>
 	<row id="msg_0001_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There was a stone statue where I\nfell. The place might have been a\nreception hall. Then, suddenly,\nthe UNOWN appeared. That puzzle\nwas like a key somehow. It woke\nthe UNOWN up from their sleep.\nThese ruins have become difficult.</language>
+		<language name="English">Cette chambre secrète est pleine\nde statues de pierre.\nPuis des ZARBI se sont mis à\napparaître tout à coup.\nCe qui veut dire que ces puzzles\nde pierre doivent servir de\nclés pour réveiller les ZARBI! Que\nces ruines sont mystérieuses!</language>
 	</row>
 	<row id="msg_0001_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you turn on the radio in the\nruins, you can receive mysterious\nradio waves! It’s proof that the\nUNOWN communicate with each\nother using radio waves!</language>
+		<language name="English">En allumant la radio dans les\nruines, on peut capter un bruit\nétrange...\nC’est la preuve que les ZARBI\ncommuniquent entre eux\npar ondes!</language>
 	</row>
 	<row id="msg_0001_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are as many UNOWN as there\nare letters in the alphabet.\nRight now, we’re confirming the\nexistence of 26 kinds of UNOWN.\nDo you think you can find\nall 26 of them?</language>
+		<language name="English">26 signes différents ont été\nidentifiés, il doit donc exister\nautant de variétés de ZARBI.\nLe même nombre que les lettres\nde l’alphabet! \nVous les avez toutes trouvées?</language>
 	</row>
 	<row id="msg_0001_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It seems that individually they\ndon’t make much sense, but when\nthe various UNOWN are arranged\nin order, they begin to make\nsense. In nature, they seem to be\nscattered around randomly, but\nthe truth is they’re arranged in\na very specific order.</language>
+		<language name="English">L’existence des ZARBI, dont on a\nlongtemps douté, est enfin\navérée. Ils apparaissent en\ndésordre dans la nature, mais il\nest certain qu’ils suivent en\nréalité une certaine logique...</language>
 	</row>
 	<row id="msg_0001_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In this report, the scattered\nUNOWN were sorted and put into\norder by the research-center\nstaff. That makes the UNOWN much\neasier to understand.</language>
+		<language name="English">Les ZARBI enregistrés dans le\nCarnet ont été rangés dans le\nbon ordre par les membres du\nCentre de Recherche.\nIl est ainsi plus facile de\ndéchiffrer leur mystère.</language>
 	</row>
 	<row id="msg_0001_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Scratched on the floor of the\nruins are UNOWN letters. Finding\nthe room feels like a huge\ndiscovery! The Researchers were\nvery excited and said they were\ngoing to go check it out.</language>
+		<language name="English">Une chambre secrète a été\ndécouverte sous les ruines!\nQuelle trouvaille incroyable!\nLes membres du Centre sont tout\nexcités à l’idée de l’explorer.</language>
 	</row>
 	<row id="msg_0001_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There aren’t just 26 different\nkinds of UNOWN. Two more have\nbeen discovered! But that begs\nthe question of where those\nother two kinds are hiding...</language>
+		<language name="English">Il n’y a pas seulement 26\nvariétés de ZARBI. 2 autres\nsignes ont été identifiés, ce qui\nveut dire que 2 nouvelles\nvariétés sont encore cachées\nquelque part.</language>
 	</row>
 	<row id="msg_0001_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{CURSOR_Y 24}The characters found scratched\non the floor in the small room are\ntranscribed here in this report.</language>
+		<language name="English">{CURSOR_Y 24}Les signes du panneau de pierre\nde la pièce secrète sont\nreproduits dans ce carnet.</language>
 	</row>
 	<row id="msg_0001_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{CURSOR_Y 72}OUR FRIENDS LOOK\nUP AND HEARTILY\nCONGRATULATE US</language>
+		<language name="English">{CURSOR_Y 72}AMITIE\nSUR VOUS VEILLONS\nSOYEZ HEUREUX</language>
 	</row>
 	<row id="msg_0001_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{CURSOR_Y 120}We don’t know what this could\npossibly mean yet.</language>
+		<language name="English">{CURSOR_Y 120}Qu’est-ce que ça peut signifier?\nQuel mystère!</language>
 	</row>
 	<row id="msg_0001_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Researchers were saying\nthat they’ll need to examine the\nruins again, but...?</language>
+		<language name="English">Les membres du Centre disent\nqu’ils doivent repasser les ruines\nau peigne fin, mais pourquoi...?</language>
 	</row>
 	<row id="msg_0001_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In the past, it seems that UNOWN\nlived with relatives of humans in\nthese ruins. In the lower levels\nof these ruins is a Pokémon\nstatue. We’ve come to understand\nthat it was those relatives who\nmade that statue.</language>
+		<language name="English">Il y a très longtemps, il semble\nque les ZARBI vivaient avec une\ntribu d’humains dans ces ruines.\nC’est cette tribu qui aurait\nsculpté les statues de Pokémon\ndu sous-sol.</language>
 	</row>
 	<row id="msg_0001_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The UNOWN are very timid\ncreatures, so they don’t go\noutside the ruins. Even if a bunch\nof people gathered near the\nruins, it is said that the ones who\nwished for UNOWN and humans to\nagain coexist have all left.</language>
+		<language name="English">Les ZARBI étant peureux, ils ne\nsortaient jamais.\nLes humains se multipliaient\nautour des ruines, il y eut de\nplus en plus d’échanges, et la\ntribu qui cohabitait avec les\nZARBI a quitté cet endroit.</language>
 	</row>
 	<row id="msg_0001_00020" index="20">
 		<attribute name="window_context_name">used</attribute>

@@ -2,66 +2,66 @@
 <body language="English">
 	<row id="msg_0602_T25R1203_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What you see here is how much people\naround the world love Pokémon.\rWatching Battle Videos lets you share\nthe fun these people had.</language>
+		<language name="English">Ici, on voit bien à quel point les gens\ndu monde entier aiment les Pokémon.\rIls diffusent des Vidéos de combat pour\npartager leur joie avec les autres.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a great idea.\nAnyone and everyone can participate.\rEven if you lose, that battle could still\nbecome an outstanding Battle Video.</language>
+		<language name="English">C’est une super idée.\nTout le monde peut participer.\rMême si tu perds, ta Vidéo de combat\npourrait être utile à plein de gens!</language>
 	</row>
 	<row id="msg_0602_T25R1203_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What stunning, gripping Battle Videos!\nShould I go home and retrain\fmy Pokémon?</language>
+		<language name="English">Cette Vidéo de combat, elle déchire!\rDès que je rentre à la maison, je\nme remets à l’entraînement avec\fmes Pokémon.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My Battle Videos starring only cute\nlittle MARILL are the ones I like best.</language>
+		<language name="English">Je n’aime que les Vidéos de combat où il\ny a des MARILL. Ils sont si mignons.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What an amazing collection!\nI can see why this is so popular.\rJust seeing some of these Battle Videos\nmakes me feel tougher!</language>
+		<language name="English">Quelle collection incroyable!\nPas étonnant que ce soit si populaire.\rRien qu’à voir certaines de ces Vidéos\nde combat, je me sens déjà plus fort!</language>
 	</row>
 	<row id="msg_0602_T25R1203_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To treat one’s self to Battle Videos\nevery day...\rI would consider that a hobby worthy\nof a true gentleman.</language>
+		<language name="English">Prendre le temps de regarder quelques\nVidéos de combat chaque jour...\rC’est ce que j’appelle un passe-temps\ndigne d’un véritable gentleman.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My mysterious Battle Video.\nMy mysterious Battle Video.\rWhat’s on it?\nWhat’s on it?\rIt’s a mystery!\nIt’s a mystery! And I mean it!</language>
+		<language name="English">Drôle de Vidéo de combat.\nDrôle de Vidéo de combat.\rQuel Pokémon y apparaît?\nQuel Pokémon y apparaît?\rOui, lequel c’est? Lequel c’est?\nOui, lequel c’est?\n</language>
 	</row>
 	<row id="msg_0602_T25R1203_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me attempt the alphabet rap using\nGoldenrod, dig?\rG... Go south from here for the\nIlex Forest.\rO... Over land is not where you’ll find\nthe Goldenrod Tunnel.\rL... Looking like criminals in their black\npajamas is Team Rocket.\rD... Um... D... is...\nYeah, I know, lame-o.\fYou give it a try!</language>
+		<language name="English">Allez hop! Un rap alphabétique sur le\nthème de Doublonville!\fEn avant la musique!\rD... Début de ton aventure!\rO... Oublie à quel point c’est dur!\rU... Unis avec nos Pokémon,\ntous ensemble.\rB... Brave les dangers et jamais ne\ntremble!\rL... Loin, toujours plus loin!\rO... Obstiné jusqu’à la fin!\rN... Nous vaincrons!</language>
 	</row>
 	<row id="msg_0602_T25R1203_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Hiker enjoying the Box Data down\non 2F is my little brother.</language>
+		<language name="English">Le Montagnard en train d’admirer les\nClichés Boîte au 1¹ est mon petit\ffrère.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Warps to the GTS and the Trainer\nRankings on 1F.</language>
+		<language name="English">Vers la GTS et le Classement des\nDresseurs au rez-de-chaussée.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Warps to the studios for Box Data and\nDress-Up Data on 2F.</language>
+		<language name="English">Vers les studios des Clichés Boîte et\nClichés habillage au 1¹ étage.</language>
 	</row>
 	<row id="msg_0602_T25R1203_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Connect to Nintendo Wi-Fi\nConnection for Battle Videos? {YESNO 0}</language>
+		<language name="English">Se connecter à la CWF Nintendo pour\nvoir ou diffuser des Vidéos\fde combat? {YESNO 0}</language>
 	</row>
 	<row id="msg_0602_T25R1203_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here, you may post a Battle Video of\nyour Pokémon.\rYou may also view Battle Videos posted\nby other Trainers.\rThe Battle Videos may be sorted by\nPokémon, battle facility, and so on.\rThe Battle Video you post will be\nassigned a 12-digit number.\rYour friends may view your Battle Video\nby entering this 12-digit code here.\r</language>
+		<language name="English">Ici, vous pouvez diffuser des Vidéos de\ncombat avec vos Pokémon.\rVous pouvez aussi voir les Vidéos de\ncombat des autres Dresseurs.\rLes vidéos sont triées par type de\nPokémon, lieu de combat, etc.\rA chaque Vidéo de combat est assigné\nun code de 12 chiffres.\rDonnez ce code à vos amis pour qu’ils\nretrouvent facilement votre vidéo.\r</language>
 	</row>
 	<row id="msg_0602_T25R1203_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">USE</language>
+		<language name="English">CONNEXION</language>
 	</row>
 	<row id="msg_0602_T25R1203_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">INFO</language>
+		<language name="English">INFOS</language>
 	</row>
 	<row id="msg_0602_T25R1203_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 </body>

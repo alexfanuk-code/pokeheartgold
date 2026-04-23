@@ -2,202 +2,202 @@
 <body language="English">
 	<row id="msg_0137_D49_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Muhaha!\r</language>
+		<language name="English">Mmmh...!\r</language>
 	</row>
 	<row id="msg_0137_D49_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I feel it!\rThe twinkle in your eyes!\nThe twinkle of friendship!\rYou’re quite something.\nYour {STRVAR_1 0, 1, 0} is quite a Pokémon!\rIt’s ready to participate in the\nPokéathlon, bud!\rMost of all, your solidarity with and\ntrust of Pokémon makes me\fbelieve in infinite potential!\rAll right. Follow me!\r</language>
+		<language name="English">J’te connais!\rJe connais cette lueur dans tes yeux!\nC’est la lueur des vainqueurs!\rQu’est-ce que j’ai attendu ce moment!\nTon {STRVAR_1 0, 1, 0} se débrouille pas mal!\rTu parais digne de participer au\nPokéathlon!\rNe serait-ce que parce que toi et ton\nPokémon, vous coopérez!\fEt vous débordez de potentiel!\fEt de confiance!\r... Bien!\nSuis-moi!\r</language>
 	</row>
 	<row id="msg_0137_D49_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you think?\nThis is the Pokéathlon Dome!\r</language>
+		<language name="English">Tu vois? Ça, c’est le Dôme Pokéathlon!\r</language>
 	</row>
 	<row id="msg_0137_D49_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokéathlon is a sports festival for\nTrainers and Pokémon!\rInside the Dome are various challenges\nawaiting Trainers and Pokémon to test\ftheir friendship.\fWhy don’t you try it?\r</language>
+		<language name="English">Le Pokéathlon, du sport pour les\nPokémon comme pour les Dresseurs!\rL’effort renforce leurs liens\nau milieu du stade!\rToi aussi, rejoins-nous!\r</language>
 	</row>
 	<row id="msg_0137_D49_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re amazing, bud!\nThis is a pleasant surprise!\rTo see a Pokéathlete with strong\npotential is such a pleasure! I’m glad\fI held the Pokéathlon here in Johto.\r...My name is Magnus.\nWe shall meet again, bud.\rMagnus: See you, young Pokéathlete!\r</language>
+		<language name="English">Ah, mais je m’attendais pas à ça!\nQuelle excellente surprise!\rQui aurait cru qu’un Poké Athlète si\ntalentueux apparaîtrait devant moi!\rJe suis bien content que le Pokéathlon\nait lieu à Johto!\r... Moi, c’est Alcide!\nOn se retrouvera, toi et moi!\rAlcide: Allez, à la prochaine!\nJeune Poké Athlète!\r</language>
 	</row>
 	<row id="msg_0137_D49_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I feel it!\rThe twinkle in your eyes!\nThe twinkle of friendship!\rYou’re ready to participate in the\nPokéathlon, bud!\rMost of all, your mutual trust and\nteamwork with Pokémon makes me\fbelieve anything is possible!\rAll right. Follow me, bud!\r</language>
+		<language name="English">J’te connais!\rJe connais cette lueur dans tes yeux!\nC’est la lueur des vainqueurs!\rQu’est-ce que j’ai attendu ce moment!\nTu parais digne de participer au\fPokéathlon!\rNe serait-ce que parce que toi et ton\nPokémon, vous coopérez!\fEt vous débordez de potentiel!\fEt de confiance!\r... Bien!\nSuis-moi!\r</language>
 	</row>
 	<row id="msg_0137_D49_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmm...\r</language>
+		<language name="English">... Hoho!\r</language>
 	</row>
 	<row id="msg_0137_D49_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Running and jumping and...\nThere are so many events for Pokémon\fto choose from. Which one should I try?</language>
+		<language name="English">Il y a toutes sortes d’épreuves!\nOù les Pokémon courent! Sautent!\rAh, comment choisir...</language>
 	</row>
 	<row id="msg_0137_D49_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ODDISH: Odd! Odd!</language>
+		<language name="English">MYSTHERBE: Mysther! Mysther!</language>
 	</row>
 	<row id="msg_0137_D49_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is more to Pokémon than battling!</language>
+		<language name="English">Les Pokémon peuvent faire des tas de\nchoses, pas seulement se battre!</language>
 	</row>
 	<row id="msg_0137_D49_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MEOWTH: Nyaah!</language>
+		<language name="English">MIAOUSS: Miaouss...</language>
 	</row>
 	<row id="msg_0137_D49_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s not good at battles...but no\nPokémon can beat it at running, thanks\fto the walk we take every morning!</language>
+		<language name="English">Je n’aime pas me battre, mais tous les\nmatins, on fait de longues balades!\fC’est un super entraînement:\fpersonne n’est plus rapide que nous!</language>
 	</row>
 	<row id="msg_0137_D49_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huff huff!\nEveryday training is the sure way\fto glory!\rDashing 1,000 times!\nThat’s my goal for now.\r</language>
+		<language name="English">Ha! Ha! Pfiou...\nL’entraînement quotidien, c’est la\fclé de la réussite!\r1 000 sprints!\nC’est mon objectif du moment!\r</language>
 	</row>
 	<row id="msg_0137_D49_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s your goal?\nHaving a goal lets you enjoy life more.</language>
+		<language name="English">Et toi, tu as un objectif?\rLe simple fait d’en avoir un rend\nchaque jour beaucoup plus intéressant!</language>
 	</row>
 	<row id="msg_0137_D49_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">............\nOh, you have done the dash 1,000 times?\rI thought it was basically impossible,\nbut you make me feel courageous.\rThank you!\nPlease take this!\r</language>
+		<language name="English">...\rHé!\nToi, là!\rTu as piqué 1 000 sprints, toi!\rPour être honnête, je ne pensais pas\nque c’était possible...\rMais grâce à toi, je sais que c’est\npossible, et ça me donne du courage!\fTiens! Un cadeau pour te remercier!\r</language>
 	</row>
 	<row id="msg_0137_D49_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve become your fan! I would run\nanywhere for you!\fI’ll be supporting you!</language>
+		<language name="English">Oooooh!\nÇa y est, je suis ta plus grande fan!\rJe suis prête à courir au bout du monde\npour toi!\fEt je continuerai à t’applaudir!</language>
 	</row>
 	<row id="msg_0137_D49_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PIDGEY: Po po!</language>
+		<language name="English">ROUCOOL: Rrrou!</language>
 	</row>
 	<row id="msg_0137_D49_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you heard of Aprijuice?\rPokémon can increase their Performance\nwith food and drink.\rAprijuice is a drink developed from\nnutrition research to improve\fPerformance.\rIf you let your Pokémon drink it before\na Pokéathlon event, it will show its\ftrue potential!</language>
+		<language name="English">Dis, tu connais les Noigrume Drinks?\nOn dit que les performances des\fPokémon changent selon\fleur alimentation...\rLes Noigrume Drinks sont élaborés pour\nfournir tous les nutriments nécessaires\fà des performances optimales!\rFais-en boire à tes Pokémon avant un\nPokéathlon, ils battront\ftous les records!</language>
 	</row>
 	<row id="msg_0137_D49_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOWBRO: Whick!</language>
+		<language name="English">FLAGADOSS: Doss!</language>
 	</row>
 	<row id="msg_0137_D49_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Each Pokémon has its unique traits.\rA true Pokéathlete knows them and lets\nthe true Performance of his or her\fPokémon emerge!</language>
+		<language name="English">Les Pokémon ont des caractéristiques\nqui leur sont propres.\rPour devenir un vrai Poké Athlète,\ntu dois les apprendre et les\futiliser à leur maximum!</language>
 	</row>
 	<row id="msg_0137_D49_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MACHOP: Machao!</language>
+		<language name="English">MACHOC: Maaaa! Choc!</language>
 	</row>
 	<row id="msg_0137_D49_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh!\nThey look good today!\rThey weren’t so well yesterday, but\nwe’ll win today for sure!</language>
+		<language name="English">Oh!\nC’est la grande forme aujourd’hui!\rHier, on a perdu, mais aujourd’hui, je\nsuis sûr qu’on va gagner!</language>
 	</row>
 	<row id="msg_0137_D49_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOWPOKE: Moah!</language>
+		<language name="English">RAMOLOSS: Ramo!</language>
 	</row>
 	<row id="msg_0137_D49_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FARFETCH’D: Teree!</language>
+		<language name="English">CANARTICHO: Ticho!</language>
 	</row>
 	<row id="msg_0137_D49_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PSYDUCK: Guack!</language>
+		<language name="English">PSYKOKWAK: Kwa!</language>
 	</row>
 	<row id="msg_0137_D49_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Energy drink!\nWelcome to the Aprijuice stand!\rAre you giving your Pokémon Aprijuice?\nI can explain anything you\fneed to know about it! {YESNO 0}</language>
+		<language name="English">Bienvenue à la Boutique de Noigrume\nDrinks: tout pour vos performances!\fFais boire des Drinks à tes Pokémon!\rSi quelque chose t’échappe,\nje peux tout t’expliquer! {YESNO 0}</language>
 	</row>
 	<row id="msg_0137_D49_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Energy drink!\nWelcome to the Aprijuice stand!\rHuh? What’s that confused look about?\nYou don’t know about Aprijuice?\fThere, take this!\r</language>
+		<language name="English">Bienvenue à la Boutique de Noigrume\nDrinks, tout pour vos performances!\fAh, je vois sur ton visage que tu ne\fsais pas ce qu’est un Noigrume Drink!\rAlors tiens, prends ça!\r</language>
 	</row>
 	<row id="msg_0137_D49_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Apriblender!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit un\nNoigrume Shaker!</language>
 	</row>
 	<row id="msg_0137_D49_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You put away the Apriblender\nin the Apricorn Box.\r</language>
+		<language name="English">Vous rangez votre Noigrume Shaker\ndans la Boîte Noigrume!\r</language>
 	</row>
 	<row id="msg_0137_D49_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you have the Apriblender, you can\nmake Aprijuice to let your Pokémon show\ftheir true potential!\rIt’s so easy to make! All you have to\ndo is to put Apricorns in the\fApriblender. Put in as many as you can!\rThe more, the merrier!\nThen you walk!\rYou can run if you want...\n98...99...100 steps!\rHere! Then you open it, give it to your\nPokémon, or drink it yourself.\rYou can buy Aprijuice here.\nWhy don’t you try and see how it works?\rDo you have any more questions? {YESNO 0}</language>
+		<language name="English">Avec un Noigrume Shaker, tu peux\npréparer tes propres Noigrume Drinks\fpour obtenir le meilleur de tes Pokémon!\rEt c’est si facile, en plus!\nMets des Noigrumes dans le Shaker,\fet c’est tout!\fPlus il y en a, mieux c’est!\rEt ensuite, il faut marcher.\nOu même courir! C’est mieux!\f98... 99... 100 pas...\rPas un de plus!\rLà, tu ouvres ton Shaker,\net voilà, la Médaille est à toi!\rTu peux acheter des Drinks ici d’abord,\npour les essayer!\rTu veux d’autres explications? {YESNO 0}</language>
 	</row>
 	<row id="msg_0137_D49_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aprijuice improves a Pokémon’s\nPerformance! Pokémon have strengths\fand weaknesses.\rBut there is no need to worry. Give it\nAprijuice, and you can max out its\fPerformance!\rYou will need it!\rDo you have any more questions? {YESNO 0}</language>
+		<language name="English">Les Noigrume Drinks sont des boissons\nqui augmentent les performances\fdes Pokémon!\rTous les Pokémon ont des domaines où\nils sont plus doués que d’autres.\rMais ne crains rien!\rLes Noigrume Drinks permettent de\nmaximiser leur potentiel!\rTu en auras forcément besoin si tu veux\nrégner sur le Pokéathlon!\rTu veux d’autres explications? {YESNO 0}</language>
 	</row>
 	<row id="msg_0137_D49_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose from the three Apriblenders.\rThe labels tell you what kind of drink\nit is. Different drinks have\fdifferent effects.\rYou should use them to suit the event\nyou want to participate in. That’s how\fto make a top Pokéathlete.\rBut remember this!\nIf your Pokémon’s Performance is maxed\fout, you cannot make it higher.\rYou should check your Pokémon’s\nPerformance before you\fgive it Aprijuice.\rDo you have any more questions? {YESNO 0}</language>
+		<language name="English">Choisis l’un des trois Shakers.\rLe type de Drink est marqué sur\nl’étiquette!\rEt chaque Drink fait quelque chose de\ndifférent! Un Poké Athlète de haut\fniveau connaît les propriétés de chacun\fet adapte le régime de ses Pokémon à\fl’épreuve à laquelle ils participent!\rToutefois!\rSi leurs performances sont déjà au\nmaximum, tu ne peux pas aller au-delà!\fFais attention!\rGarde un œil sur leurs performances\nquand tu leur donnes un Noigrume Drink!\rTu veux d’autres explications? {YESNO 0}</language>
 	</row>
 	<row id="msg_0137_D49_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Charge yourself with friendship!\nGet in the know about Aprijuice!\fPick one from the shelf!</language>
+		<language name="English">Crois au pouvoir de l’amitié!\nBon Noigrume Drink!\rAllez, choisis parmi ceux qui sont\nsur l’étagère!</language>
 	</row>
 	<row id="msg_0137_D49_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So discerning of you!\n{STRVAR_1 3, 0, 0}’s {STRVAR_1 8, 1, 0}!\fOnly ${STRVAR_1 53, 2, 0}! Quite a bargain! {YESNO 0}</language>
+		<language name="English">Excellent choix!\nUn {STRVAR_1 8, 1, 0} de {STRVAR_1 3, 0, 0}!\fSeulement {STRVAR_1 53, 2, 0} $! {YESNO 0}</language>
 	</row>
 	<row id="msg_0137_D49_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you!\nWhich Pokémon do you want to give it to?\r</language>
+		<language name="English">C’est décidé!\nA qui veux-tu le faire boire?\r</language>
 	</row>
 	<row id="msg_0137_D49_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Charge yourself with friendship!\nCome back again when you want more!\r</language>
+		<language name="English">Crois au pouvoir de l’amitié!\nSi tu veux plus de Noigrume Drinks,\freviens me voir!\r</language>
 	</row>
 	<row id="msg_0137_D49_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s a pity!\nCome back when you want to win!\r</language>
+		<language name="English">Gwaaah! Dommage!\rSi tu veux remporter une compétition,\nreviens me voir!\r</language>
 	</row>
 	<row id="msg_0137_D49_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you don’t have enough money!\r</language>
+		<language name="English">Oh là! Tu n’as pas assez d’argent!\r</language>
 	</row>
 	<row id="msg_0137_D49_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s {STRVAR_1 8, 1, 0}!\nOnly ${STRVAR_1 53, 2, 0}! Quite a bargain! {YESNO 0}</language>
+		<language name="English">Un {STRVAR_1 8, 1, 0} de {STRVAR_1 3, 0, 0}!\nSeulement {STRVAR_1 53, 2, 0} $! {YESNO 0}</language>
 	</row>
 	<row id="msg_0137_D49_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! What can I do for you?\r</language>
+		<language name="English">Salutations et bienvenue!\r</language>
 	</row>
 	<row id="msg_0137_D49_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its richness is {STRVAR_1 52, 3, 0}!\nIts smoothness is {STRVAR_1 52, 4, 0}!\r</language>
+		<language name="English">Goût: {STRVAR_1 52, 3, 0}!\nOnctuosité: {STRVAR_1 52, 4, 0}!\r</language>
 	</row>
 	<row id="msg_0137_D49_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner’s Comment\nSomebody, somewhere put it together!\fThe mysterious {STRVAR_1 8, 1, 0}!\rIt may go up.\nIt may go down.\fMay your luck be with this juice!\r</language>
+		<language name="English">- Commentaire de la maison -\nUn mystérieux {STRVAR_1 8, 1, 0}. Seule\fcertitude: c’est à base de Noigrumes!\rÇa peut faire monter!\nOu descendre!\rLaissez votre chance décider\npour vous!\r</language>
 	</row>
 	<row id="msg_0137_D49_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner’s Comment\nNot many people know about it!\rIt’s the newcomer Pokéathlete\n{STRVAR_1 3, 0, 0}’s {STRVAR_1 8, 1, 0}!\rIt’s a long way to perfection!\nBut it’s irresistible to some!\fIt’s a gleam of {STRVAR_1 8, 1, 0}!\r</language>
+		<language name="English">- Commentaire de la maison -\nLe Drink des connaisseurs!\rLe {STRVAR_1 8, 1, 0} de {STRVAR_1 3, 0, 0},\nApprenti Poké Athlète!\rA peine passé!\nMais c’est pour ça qu’on aime!\rLaissez-vous séduire par\nle {STRVAR_1 8, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0137_D49_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner’s Comment\nYou know who’s around here!\rThis {STRVAR_1 8, 1, 0} is what has helped\nmake you-know-who who they\fare today!\fTry it if you feel sluggish!\r</language>
+		<language name="English">- Commentaire de la maison -\nNul besoin de présenter le célèbre\fPoké Athlète inventeur de ce Drink!\fLe secret de sa force:\rce {STRVAR_1 8, 1, 0}!\rPour ceux qui ont du mal à\ndémarrer!\r</language>
 	</row>
 	<row id="msg_0137_D49_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner’s Comment\nYou don’t know it?\fThat’s the last thing you want to hear!\rIt is time you try {STRVAR_1 3, 0, 0}’s\n{STRVAR_1 8, 1, 0}, the sign of a new era!\r</language>
+		<language name="English">- Commentaire de la maison -\nQuoi? Vous ne le connaissez pas?!\rSi vous voulez absolument éviter\nd’entendre ça, vous vous devez de\fgoûter le {STRVAR_1 8, 1, 0} de\f{STRVAR_1 3, 0, 0}, le Drink d’une\fnouvelle ère!\r</language>
 	</row>
 	<row id="msg_0137_D49_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner’s Comment\n{STRVAR_1 8, 1, 0} was developed by\fthat popular Pokéathlete!\rYou may never be able to shake hands,\nbut you can still drink the same juice!\rThis is a must-buy juice for every\nPokéathlete!\r</language>
+		<language name="English">- Commentaire de la maison -\nLe {STRVAR_1 8, 1, 0}, préparé par un\fcélèbre Poké Athlète!\rUn Drink que vous pouvez boire\ncontinuellement sans craindre le\fmoindre effet secondaire!\rUn achat indispensable pour tous\nles Poké Athlètes!\r</language>
 	</row>
 	<row id="msg_0137_D49_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner’s Comment\n{STRVAR_1 8, 1, 0}!\fDeveloped by that elite Pokéathlete!\rYou may never see it again.\nIf you won’t win today, when will you?\rFor those who want to win today, here\nis the juice of victory!\r</language>
+		<language name="English">- Commentaire de la maison -\nCe {STRVAR_1 8, 1, 0} est le fruit des\fétudes de l’élite des Poké Athlètes!\rSi vous ne l’achetez pas maintenant,\nquand comptez-vous le faire?!\rEt si vous ne l’achetez pas maintenant,\ncomment comptez-vous gagner?\rPour toi, qui veux gagner aujourd’hui!\nBois un grand verre de victoire!\r</language>
 	</row>
 	<row id="msg_0137_D49_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Owner’s Comment\n{STRVAR_1 8, 1, 0} of the legendary\fPokéathlete!\rIt grew side by side with {STRVAR_1 3, 0, 0}!\rThe road to victory is shown when you\ndrink it! This will make you a legend!\r</language>
+		<language name="English">- Commentaire de la maison -\nLe légendaire {STRVAR_1 8, 1, 0}, par le\flégendaire Poké Athlète!\rUn Noigrume Drink élaboré à la sueur de\nson front par {STRVAR_1 3, 0, 0}!\rLa victoire se trouve au fond de\nce verre!\rBuvez ce Drink et vous pourrez\nà votre tour devenir une légende!\r</language>
 	</row>
 	<row id="msg_0137_D49_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It improves your Pokémon’s\nPerformance!\rLet it shine its best with Aprijuice!</language>
+		<language name="English">Buvez ces Noigrume Drinks pour des\nperformances inoubliables et des\fPokémon au sommet de leur forme!</language>
 	</row>
 	<row id="msg_0137_D49_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokéathlon Dome\nThe Place for True Pokéathletes!</language>
+		<language name="English">Bienvenue au Dôme Pokéathlon!\nQue les plus courageux s’avancent!\fVenez, Poké Athlètes de tout le pays!</language>
 	</row>
 </body>

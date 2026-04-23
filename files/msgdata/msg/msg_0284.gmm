@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0284_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONFIRM</language>
+		<language name="English">CONFIRM.</language>
 	</row>
 	<row id="msg_0284_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0284_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">QUIT</language>
+		<language name="English">RETOUR</language>
 	</row>
 </body>

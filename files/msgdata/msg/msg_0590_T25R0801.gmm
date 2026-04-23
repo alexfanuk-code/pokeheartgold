@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0590_T25R0801_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once while I was battling, my Pokémon\ncouldn’t use any moves.\rThe Power Points, or PP, of its\nmoves were all gone.</language>
+		<language name="English">Une fois, je me battais, et mon\nPokémon a arrêté d’attaquer...\rIl n’avait plus de Points de Pouvoir!</language>
 	</row>
 	<row id="msg_0590_T25R0801_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sometimes, a healthy Pokémon\nmay be unable to use its moves.\rIf that happens, heal it at a\nPokémon Center or use an item.</language>
+		<language name="English">Même s’il est en pleine forme, il\npeut arriver qu’un Pokémon ne puisse\fplus attaquer!\rIl faut alors soit utiliser un objet\nsoit l’emmener dans un Centre Pokémon.</language>
 	</row>
 </body>

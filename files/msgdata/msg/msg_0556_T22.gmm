@@ -2,114 +2,114 @@
 <body language="English">
 	<row id="msg_0556_T22_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, {STRVAR_1 3, 0, 0}? We discovered\nsomething about the Egg!\rMy assistant is at the Pokémon Center\nin Violet City.\fCould you talk to him?</language>
+		<language name="English">Allô, {STRVAR_1 3, 0, 0}?\nJ’ai découvert quelque chose\fsur cet Oeuf!\rJ’ai envoyé mon assistant à la\nBoutique Pokémon de Mauville.</language>
 	</row>
 	<row id="msg_0556_T22_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bonjour!\nYou are Trainer?\rBattle Gym Leader, win you did? {YESNO 0}</language>
+		<language name="English">Hé, tu es un! Dresseur, non?\nTu as battu le Champion! d’Arène? {YESNO 0}</language>
 	</row>
 	<row id="msg_0556_T22_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooh, la la!\nVery indeed nice!</language>
+		<language name="English">C’est très bravo!</language>
 	</row>
 	<row id="msg_0556_T22_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is that so? Then study shall you!\fFollow me!\r</language>
+		<language name="English">Ah bon! Alors il faut! étudier.\nSuis-moi!\r</language>
 	</row>
 	<row id="msg_0556_T22_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here, teacher I am.\nGood it is you study here!\r</language>
+		<language name="English">Je suis le professeur du coin!\nTu peux étudier ici!\r</language>
 	</row>
 	<row id="msg_0556_T22_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There have been reports of Ghost-type\nPokémon appearing in Sprout Tower.\rThey say Normal-type Pokémon moves\nhave no effect on them.</language>
+		<language name="English">On raconte qu’il y a des fantômes\nla nuit dans la Tour CHETIFLOR...\rEt puis quand on les combat avec des\nPokémon, les attaques de type Normal\fne leur font rien...</language>
 	</row>
 	<row id="msg_0556_T22_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you’re a Pokémon Trainer?\rIf you beat the Gym Leader here,\nyou’ll be ready for prime time!</language>
+		<language name="English">Oh, un Dresseur de Pokémon?\rSi tu bats le Champion d’Arène de la\nville, tu en seras un vrai!</language>
 	</row>
 	<row id="msg_0556_T22_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner, from the Violet City Pokémon\nGym, is a fine Trainer!\rHe inherited his father’s Gym and\nhas done a great job with it.</language>
+		<language name="English">Albert de l’Arène de Mauville est\nun très bon Dresseur!\rIl a pris la succession de son père et\nil fait un très bon travail!</language>
 	</row>
 	<row id="msg_0556_T22_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You cannot have your Pokémon out\nwalking with you in some places.\rPlaces like buildings, caves, and\nwhere there are huge crowds.\rBut all you have to do is to put it in\na Poké Ball!</language>
+		<language name="English">Il ne faut pas entrer avec son Pokémon\ndans les endroits où il y a beaucoup de\fmonde, les bâtiments et les grottes.\rTu dois le faire rentrer dans\nsa Poké Ball!</language>
 	</row>
 	<row id="msg_0556_T22_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Violet City\nThe City of Nostalgic Scents</language>
+		<language name="English">Mauville\nVille au parfum de nostalgie</language>
 	</row>
 	<row id="msg_0556_T22_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Violet City Pokémon Gym\nLeader: Falkner\fThe Elegant Master of Flying Pokémon</language>
+		<language name="English">Arène de Mauville\rChampion: Albert\nMaître des Pokémon Vol!</language>
 	</row>
 	<row id="msg_0556_T22_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sprout Tower\rExperience the Way of Pokémon\nto Cast Aside Your Doubts.</language>
+		<language name="English">Tour CHETIFLOR\rDébarrassez-vous de tous vos doutes\ngrâce à l’entraînement de Pokémon.</language>
 	</row>
 	<row id="msg_0556_T22_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon School\rEarl will show you all\nthere is to Pokémon!</language>
+		<language name="English">Académie\rMonsieur Théophile vous apprendra\ntout ce qu’il faut sur les Pokémon!</language>
 	</row>
 	<row id="msg_0556_T22_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Me oh my...\nThat Egg must be...!\r</language>
+		<language name="English">Oh, mais, cet Oeuf...!\r</language>
 	</row>
 	<row id="msg_0556_T22_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nSo it was handed from Mr. Pokémon to\fProfessor Elm, then from Professor Elm\fto you.\rNow I get it...\r</language>
+		<language name="English">Hoho, je comprends...\nDe M. Pokémon au Professeur Orme,\fpuis du Professeur Orme à toi...\rJe comprends...\r</language>
 	</row>
 	<row id="msg_0556_T22_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Egg is truly an important Egg.\nPlease do take good care of it for me.\rIs that understood?\r</language>
+		<language name="English">C’est un Oeuf d’une importance rare.\nPrends-en un soin infini!\fPuis-je te faire confiance pour cela?\r</language>
 	</row>
 	<row id="msg_0556_T22_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am counting on you.\r</language>
+		<language name="English">Parfait, alors!\r</language>
 	</row>
 	<row id="msg_0556_T22_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shard de Berry!\nShard de Berry!\rYah, yah!\nI trade Berry for a Shard.\rIf ya bring me some Shards,\nI will give ya three Berries, yah.\r</language>
+		<language name="English">Tesson contre Baie!\nTesson contre Baie!\rSalut salut! J’échange des Tessons\ncontre des Baies!\rSi tu me donnes un Tesson, je te\ndonnerai 3 Baies en échange!\r</language>
 	</row>
 	<row id="msg_0556_T22_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shard de Berry!\nShard de Berry!\rYah, yah!\nI trade Berry for Shard.\rIf ya bring me some Shards,\nI will give ya three Berries, yah.\rWhich Shard will ya trade for\nde Berry? {YESNO 0}</language>
+		<language name="English">Tesson contre Baies!\nTesson contre Baies!\rSalut salut! J’échange des Tessons\ncontre des Baies!\rSi tu me donnes un Tesson, je te\ndonnerai un lot de 3 Baies en échange!\rOn joue à Tesson contre Baies? {YESNO 0}</language>
 	</row>
 	<row id="msg_0556_T22_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">More Shards to trade for\nde Berries? {YESNO 0}</language>
+		<language name="English">On continue Tesson contre Baies? {YESNO 0}</language>
 	</row>
 	<row id="msg_0556_T22_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yah, yah!\nCome back when ya’ve changed\fya mind, yah.\r</language>
+		<language name="English">Salut salut! Reviens jouer à\nTesson contre Baies quand tu veux!\r</language>
 	</row>
 	<row id="msg_0556_T22_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll give ya de Berry set A\nfor de Red Shard, yah.\r</language>
+		<language name="English">Si tu me donnes un Tesson Rouge,\nje te donne le lot de Baies A!\r</language>
 	</row>
 	<row id="msg_0556_T22_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll give ya de Berry set B\nfor de Blue Shard, yah.\r</language>
+		<language name="English">Si tu me donnes un Tesson Bleu,\nje te donne le lot de Baies B!\r</language>
 	</row>
 	<row id="msg_0556_T22_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll give ya de Berry set C\nfor de Yellow Shard, yah.\r</language>
+		<language name="English">Si tu me donnes un Tesson Jaune,\nje te donne le lot de Baies C!\r</language>
 	</row>
 	<row id="msg_0556_T22_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll give ya de Berry set D\nfor de Green Shard, yah.\r</language>
+		<language name="English">Si tu me donnes un Tesson Vert,\nje te donne le lot de Baies D!\r</language>
 	</row>
 	<row id="msg_0556_T22_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ya already have many Berries\nof dis set.\rCome back when ya need more, yah.\r</language>
+		<language name="English">Tu as déjà assez de Baies de ce lot.\nReviens quand tu en auras moins!\r</language>
 	</row>
 	<row id="msg_0556_T22_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We care about the traditional buildings\naround here. That’s why even the\fPoké Mart and Pokémon Center are\fpainted a bit somberly to blend in.</language>
+		<language name="English">Ici l’on prend grand soin du\npanorama urbain...\rDonc on a changé les toitures du Centre\nPokémon et de la Boutique Pokémon\fpour qu’elles se fondent mieux\fdans le décor.</language>
 	</row>
 	<row id="msg_0556_T22_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know that Pokégear allows you\nto put marks and memos on its Map?\rI’d love to have one of those\nPokégears, but my mom won’t let me.</language>
+		<language name="English">Sur la carte du Pokématos, eh bien\non peut mettre des marques!\fÇa permet de se rappeler des trucs!\rMoi aussi j’ai envie d’un Pokématos,\nmais maman veut pas m’en acheter...</language>
 	</row>
 </body>

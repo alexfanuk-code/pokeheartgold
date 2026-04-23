@@ -2,15 +2,15 @@
 <body language="English">
 	<row id="msg_0785_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Aucun</language>
 	</row>
 	<row id="msg_0785_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Baden-Wurttemberg</language>
+		<language name="English">Bade-Wurtemberg</language>
 	</row>
 	<row id="msg_0785_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bayern</language>
+		<language name="English">Bavière</language>
 	</row>
 	<row id="msg_0785_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
@@ -18,47 +18,47 @@
 	</row>
 	<row id="msg_0785_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brandenburg</language>
+		<language name="English">Brandebourg</language>
 	</row>
 	<row id="msg_0785_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bremen</language>
+		<language name="English">Brême</language>
 	</row>
 	<row id="msg_0785_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hamburg</language>
+		<language name="English">Hambourg</language>
 	</row>
 	<row id="msg_0785_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hessen</language>
+		<language name="English">Hesse</language>
 	</row>
 	<row id="msg_0785_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mecklenburg-Vorpommern</language>
+		<language name="English">Mecklembourg-Poméranie-Occidentale</language>
 	</row>
 	<row id="msg_0785_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Niedersachsen</language>
+		<language name="English">Basse-Saxe</language>
 	</row>
 	<row id="msg_0785_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nordrhein-Westfalen</language>
+		<language name="English">Rhénanie-du-Nord-Westphalie</language>
 	</row>
 	<row id="msg_0785_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rheinland-Pfalz</language>
+		<language name="English">Rhénanie-Palatinat</language>
 	</row>
 	<row id="msg_0785_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saarland</language>
+		<language name="English">Sarre</language>
 	</row>
 	<row id="msg_0785_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sachsen</language>
+		<language name="English">Saxe</language>
 	</row>
 	<row id="msg_0785_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sachsen-Anhalt</language>
+		<language name="English">Saxe-Anhalt</language>
 	</row>
 	<row id="msg_0785_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -66,6 +66,6 @@
 	</row>
 	<row id="msg_0785_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Freistaat Thuringen</language>
+		<language name="English">Etat libre de Thuringe</language>
 	</row>
 </body>

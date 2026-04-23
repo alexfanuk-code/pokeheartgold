@@ -2,234 +2,234 @@
 <body language="English">
 	<row id="msg_0666_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prof. Oak</language>
+		<language name="English">Prof. Chen</language>
 	</row>
 	<row id="msg_0666_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak...\rHmm... It’s strange.\nI know your voice, {STRVAR_1 3, 0, 0}, but\fsomehow hearing it over the phone\fmakes you sound so different.</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil...\rOh, je me souviens de toi,\n{STRVAR_1 3, 0, 0}, mais ta voix me semble\fdifférente au téléphone...</language>
 	</row>
 	<row id="msg_0666_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak...\rHmm... It’s strange.\nI know your voice, {STRVAR_1 3, 0, 0}, but\fsomehow hearing it over the phone\fmakes you sound so different.</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil...\rOh, je me souviens de toi,\n{STRVAR_1 3, 0, 0}, mais ta voix me semble\fdifférente au téléphone...</language>
 	</row>
 	<row id="msg_0666_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak!\rYou’re catching a lot of Pokémon,\naren’t you?</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil!\rJ’ai ouï dire que tu attrapais\nplein de Pokémon!</language>
 	</row>
 	<row id="msg_0666_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak!\nYour Pokédex is really filling up!</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil!\rJ’ai ouï dire que tu avançais bien\ndans le Pokédex!</language>
 	</row>
 	<row id="msg_0666_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak!\rYou’re moving along at an\nincredible pace! You remind me of\fmyself when I was younger!</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil!\rTu vas à une vitesse surprenante!\nTu me rappelles ma jeunesse...</language>
 	</row>
 	<row id="msg_0666_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak!\rIf you start to get tired, you should\ntake a break. Don’t push yourself\ftoo hard!</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil!\rPrends une pause quand tu sens la\nfatigue! Il ne faut pas t’épuiser!</language>
 	</row>
 	<row id="msg_0666_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Professor Oak...\rWhen I’m recording my radio show, I\nhave to travel back and forth between\fKanto and Johto. It gets a bit tiring...\rOh, but never mind that! You’re doing a\ngreat job on filling your Pokédex!</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil!\rTu as fait l’aller-retour entre Kanto\net Johto! Je savais que je pouvais\fcompter sur toi!\fTon Pokédex se remplit vraiment vite!</language>
 	</row>
 	<row id="msg_0666_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak!\rIt looks like you’ve found some Pokémon\nthat aren’t from the Johto or the\fKanto regions, haven’t you?\rYou’re a strong Trainer, and you’re\nreally making some discoveries!</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil!\rTu as même trouvé des Pokémon qui ne\nvivent ni à Kanto, ni à Johto!\rAvec un Dresseur aussi doué que toi,\nmes recherches sur les Pokémon\fvont progresser rapidement!</language>
 	</row>
 	<row id="msg_0666_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...This is Professor Oak.\nI’ve been so busy with my research\fthat I haven’t gotten much\fsleep lately...\rOh, but never mind that!\nYou’ve made such good progress on your\fPokédex. I can’t wait to see it!</language>
+		<language name="English">Allô... c’est le Professeur Chen\nà l’appareil...\rJe suis tellement débordé par mes\nrecherches que je n’ai presque plus le\ftemps de dormir!\rMais revenons à toi! Ton Pokédex sera\nbientôt complet! Félicitations!</language>
 	</row>
 	<row id="msg_0666_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak!\rHave you noticed that your circle of\nfriends has gotten bigger since you\fstarted working on the Pokédex?\fThat’s the best thing about Pokémon!</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil!\rTu as dû te faire beaucoup d’amis en\ncomplétant ton Pokédex!\rC’est une des joies des Pokémon!</language>
 	</row>
 	<row id="msg_0666_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak!\nYou know, I don’t see many wonderful\fTrainers such as yourself very\foften lately!\rI’ll have to thank Professor Elm for\nintroducing us!</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil!\rDes Dresseurs de ta trempe sont\nvraiment rares!\rJe ne remercierai jamais assez Orme de\nnous avoir présentés!</language>
 	</row>
 	<row id="msg_0666_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak!\nOh, you don’t have to say anything!\fI know better than anyone else how\fhard you’re working!\rI thought I should get you a present\nor something in appreciation...\fWell, I picked something up, but I\fcompletely forgot to give it to you!\fHa ha ha!\rOh, you don’t have to wonder about it\nat all. I know it’s something that will\fbe very helpful to you. You should just\fcome here and pick it up!\rI’ll be waiting for you at my Laboratory\nin Pallet Town!\n</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil!\rNon, tu n’as pas besoin de dire quoi\nque ce soit. Je comprends mieux que\fpersonne à quel point tu as fait des\fefforts!\rJe voulais te faire un cadeau pour te\nféliciter, mais j’ai complètement oublié\fde te le donner!\fHohoho! C’est tout moi!\rMais ne t’inquiète pas!\nC’est quelque chose qui te sera très\futile, alors passe le prendre!\rJe serai au Laboratoire,\nà Bourg Palette!</language>
 	</row>
 	<row id="msg_0666_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak...\nOh, hello, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil!\rAh, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0666_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, this is Professor Oak...\nOh, hello, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Allô, c’est le Professeur Chen\nà l’appareil!\rAh, {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0666_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, how’s your Pokédex coming along?</language>
+		<language name="English">Alors, ton Pokédex avance bien?</language>
 	</row>
 	<row id="msg_0666_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit</language>
+		<language name="English">Quitter</language>
 	</row>
 	<row id="msg_0666_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have Pokédex Evaluated</language>
+		<language name="English">Montrer le Pokédex</language>
 	</row>
 	<row id="msg_0666_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have Johto Pokédex Evaluated</language>
+		<language name="English">Montrer le Pokédex de Johto</language>
 	</row>
 	<row id="msg_0666_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have National Pokédex Evaluated</language>
+		<language name="English">Montrer le Pokédex National</language>
 	</row>
 	<row id="msg_0666_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm, let’s see...\nYou’ve seen {STRVAR_1 52, 5, 0} Pokémon, and\fyou’ve caught {STRVAR_1 52, 6, 0} Pokémon!\fI see!\r</language>
+		<language name="English">Hummm...\nTu as trouvé {STRVAR_1 52, 5, 0} Pokémon...\fEt tu en as attrapé {STRVAR_1 52, 6, 0}...\fHummm...\r</language>
 	</row>
 	<row id="msg_0666_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Show me your Pokédex again anytime!</language>
+		<language name="English">Montre-moi ton Pokédex une\nprochaine fois!</language>
 	</row>
 	<row id="msg_0666_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nThat is a complete Johto Pokédex!\rThanks to you, {STRVAR_1 3, 0, 0}, the Johto\nPokédex is complete!\rWow...\nYou’ve done an incredible job!</language>
+		<language name="English">Oh!\nLe Pokédex de Johto est complet!\rEt c’est grâce à toi, {STRVAR_1 3, 0, 0}!\rTu es quelqu’un d’exceptionnel!</language>
 	</row>
 	<row id="msg_0666_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nThat is a complete Johto Pokédex!\rThanks to you, {STRVAR_1 3, 0, 0}, the Johto\nPokédex is complete!\rWow...\nYou’ve done an incredible job!</language>
+		<language name="English">Oh!\nLe Pokédex de Johto est complet!\rEt c’est grâce à toi, {STRVAR_1 3, 0, 0}!\rTu es quelqu’un d’exceptionnel!</language>
 	</row>
 	<row id="msg_0666_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excellent!\nThat is an amazing National Pokédex!\rWow...\nYou’ve lived up to my expectations\fwonderfully!\rNo, you’ve exceeded them,\n{STRVAR_1 3, 0, 0}. You’ve become an\famazing Trainer!\rThank you, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Incroyable!\nLe Pokédex National est complet!\rAh...\nJe ne m’étais donc pas trompé à ton\fsujet quand nous nous sommes\frencontrés.\rNon! Tu as même dépassé mes\nespérances!\rEncore merci, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0666_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excellent!\nThat is an amazing National Pokédex!\rWow...\nYou’ve lived up to my expectations\fwonderfully!\rNo, you’ve exceeded them,\n{STRVAR_1 3, 0, 0}. You’ve become an\famazing Trainer!\rThank you, {STRVAR_1 3, 0, 0}!</language>
+		<language name="English">Incroyable!\nLe Pokédex National est complet!\rAh...\nJe ne m’étais donc pas trompé à ton\fsujet quand nous nous sommes\frencontrés.\rNon! Tu as même dépassé mes\nespérances!\rEncore merci, {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0666_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Really, you’ve surprised me!\rBut just as I expected, you’ve\ncompleted the Johto Pokédex.\fI am so grateful!\rIf you’ve got that much determination,\nthen even more exciting adventures\fawait you in the world of Pokémon!</language>
+		<language name="English">Tu ne lasses pas de m’étonner!\rTu as complété le Pokédex de Johto,\ncomme je te l’avais demandé, et je t’en\fremercie infiniment!\rTu es capable de découvrir tous les\nPokémon du monde, je le sens!</language>
 	</row>
 	<row id="msg_0666_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have truly surprised me!\rYou’ve more than exceeded my\nexpectations. You’ve gone far past\fthem in completing the\fNational Pokédex!\rI’m speechless...!\rBecause of this, the world of Pokémon\nand Trainers is more vast, deeper,\fand more abundant!\rNow there will be no end to\nPokémon research!</language>
+		<language name="English">Tu ne lasses pas de m’étonner!\rTu as dépassé toutes mes espérances,\net tu as été jusqu’à compléter\fle Pokédex National!\fJe t’en remercie infiniment!\rLe métier de Dresseur et le monde\ndes Pokémon sont plein de surprises,\ftu en apprendras toujours!\rC’est pour cela que je continuerai\ntoujours mes recherches!</language>
 	</row>
 	<row id="msg_0666_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Look for Pokémon in grassy areas!\r</language>
+		<language name="English">Essaye de marcher dans les hautes\nherbes pour attraper des Pokémon!\r</language>
 	</row>
 	<row id="msg_0666_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good. I see you understand how to use\nPoké Balls.\r</language>
+		<language name="English">Hummm!\nOn dirait que tu sais te servir de tes\fPoké Balls!\r</language>
 	</row>
 	<row id="msg_0666_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re getting good at this,\nbut you have a long way to go.\r</language>
+		<language name="English">On dirait que tu as les choses en main!\rMais il t’en reste encore beaucoup\nà saisir!\r</language>
 	</row>
 	<row id="msg_0666_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm, you’re catching Pokémon at a\ndecent pace!\r</language>
+		<language name="English">Tu as trouvé ton rythme, je vois!\r</language>
 	</row>
 	<row id="msg_0666_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re trying--I can see that.\nYour Pokédex is coming together.\r</language>
+		<language name="English">Ah, tu progresses bien!\nTon Pokédex prend une bonne tournure!\r</language>
 	</row>
 	<row id="msg_0666_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re training them well. You know\nsome Pokémon don’t evolve just by\fbattling with others, right?\r</language>
+		<language name="English">Il y a des Pokémon qui n’évoluent\npas de manière habituelle!\r</language>
 	</row>
 	<row id="msg_0666_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you have a Fishing Rod?\nThere are some Pokémon that can only\fbe found by fishing!\r</language>
+		<language name="English">Ce ne serait pas une Canne que\ntu as là?\rIl existe des Pokémon que tu ne peux\nattraper qu’en les pêchant!\r</language>
 	</row>
 	<row id="msg_0666_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excellent! You seem to be good at\ncollecting things!\r</language>
+		<language name="English">Incroyable!\nTu as un véritable talent pour\ftrouver les choses!\r</language>
 	</row>
 	<row id="msg_0666_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some Pokémon only appear during\ncertain times of the day.\r</language>
+		<language name="English">Il existe des Pokémon qui\nn’apparaissent qu’à certaines heures!\r</language>
 	</row>
 	<row id="msg_0666_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokédex is really filling up.\nKeep up the good work!\r</language>
+		<language name="English">Tu as de plus en plus de Pokémon\nenregistrés!\fContinue comme ça!\r</language>
 	</row>
 	<row id="msg_0666_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m impressed.\nYou’re evolving Pokémon, not just\fcatching them.\r</language>
+		<language name="English">Oh! Bravo!\nMais il ne faut pas seulement attraper\fdes Pokémon, il faut aussi les faire\févoluer!\r</language>
 	</row>
 	<row id="msg_0666_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you can learn how to use the custom\nPoké Balls made by Kurt effectively,\fyou’ll be able to catch Pokémon better!\r</language>
+		<language name="English">Si tu parviens à utiliser correctement\nles Poké Balls de Fargas, tu pourras\fattraper de nombreux Pokémon\fen un rien de temps!\r</language>
 	</row>
 	<row id="msg_0666_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you trade Pokémon, you can also\ntrade information. Your friends can\freally help you!\r</language>
+		<language name="English">Quand tu essayes d’attraper des\nPokémon, il est toujours utile de\fpartager des informations avec ses\famis!\r</language>
 	</row>
 	<row id="msg_0666_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you trading your Pokémon?\nIt’s tough to do this alone!\r</language>
+		<language name="English">As-tu essayé d’échanger des Pokémon\navec tes amis?\fCe doit être dur si tu n’as personne!\r</language>
 	</row>
 	<row id="msg_0666_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! You’ve reached 200!\nYour Pokédex is looking great!\r</language>
+		<language name="English">Tu as dépassé la barre des 200!\nC’est tout à fait incroyable!\fTon Pokédex est sur la bonne voie!\r</language>
 	</row>
 	<row id="msg_0666_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ve found so many Pokémon!\nYou’ve really helped my studies!\r</language>
+		<language name="English">Tu as trouvé tellement de Pokémon!\nMes recherches progressent vite\fgrâce à toi!\r</language>
 	</row>
 	<row id="msg_0666_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Magnificent! You have the ability to\nbecome a great Pokémon Professor\fsomeday!\r</language>
+		<language name="English">C’est tout bonnement incroyable!\nTu peux devenir toi aussi un professeur\fspécialiste en Pokémon!\r</language>
 	</row>
 	<row id="msg_0666_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokédex is amazing!\nYou’re ready to turn professional!\r</language>
+		<language name="English">Tu as tellement avancé dans le Pokédex.\nC’est du travail de professionnel!\r</language>
 	</row>
 	<row id="msg_0666_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The goal may be far away, but don’t\ngive up yet! Keep going!\r</language>
+		<language name="English">Tu es encore loin du but, mais il ne\nfaut pas te laisser décourager!\r</language>
 	</row>
 	<row id="msg_0666_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t forget, some Pokémon only appear\nat certain times of the day!\r</language>
+		<language name="English">N’oublie pas qu’il existe des Pokémon\nqui ne se montrent pas à certaines\fheures!\r</language>
 	</row>
 	<row id="msg_0666_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you break rocks, some Pokémon that\nwere hiding there might come\fjumping out!\r</language>
+		<language name="English">En cassant des pierres, tu peux parfois\ntrouver des Pokémon cachés dessous!\r</language>
 	</row>
 	<row id="msg_0666_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s wonderful you’ve been able\nto gather this many Pokémon! The path\fahead is long. Keep up the great work!\r</language>
+		<language name="English">Bon travail!\nIl te reste encore beaucoup à faire!\fCourage, continue comme ça!\r</language>
 	</row>
 	<row id="msg_0666_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you Headbutt a tree, sometimes\na Pokémon might fall out!\r</language>
+		<language name="English">En utilisant Coup d’Boule sur les\narbres, tu peux faire tomber\fdes Pokémon!\r</language>
 	</row>
 	<row id="msg_0666_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A lot of Pokémon not found in the\nJohto region like to congregate at the\fSafari Zone.\r</language>
+		<language name="English">Au Parc Safari, on trouve plein de\nPokémon inconnus à Johto!\r</language>
 	</row>
 	<row id="msg_0666_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Music on the radio might also entice\nPokémon to leap out!\r</language>
+		<language name="English">Certains Pokémon sont attirés par le\nbruit de la radio!\r</language>
 	</row>
 	<row id="msg_0666_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you’ve gotten so far...!\nI’m actually a little surprised!\r</language>
+		<language name="English">Tu ne manques pas de ressources!\nTu m’impressionnes vraiment!\r</language>
 	</row>
 	<row id="msg_0666_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a critical moment!\nYou can’t become discouraged!\r</language>
+		<language name="English">C’est le moment de vérité!\nTu ne dois surtout pas abandonner!\r</language>
 	</row>
 	<row id="msg_0666_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just a little more!\nI’ve got high expectations for you!\r</language>
+		<language name="English">Allez! Tu y es presque!\nJ’ai foi en toi!\r</language>
 	</row>
 	<row id="msg_0666_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I have never before in all my years\nseen such an incredible Trainer!\r</language>
+		<language name="English">Je n’avais encore jamais rencontré un\nDresseur aussi exceptionnel!\r</language>
 	</row>
 	<row id="msg_0666_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, how’s your Pokédex coming\nalong? {YESNO 0}</language>
+		<language name="English">Alors, ton Pokédex avance bien? {YESNO 0}</language>
 	</row>
 </body>

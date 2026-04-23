@@ -2,334 +2,334 @@
 <body language="English">
 	<row id="msg_0426_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">First, I’ll need to hold on to any\nitems held by your Pokémon.\r</language>
+		<language name="English">Avant tout, nous allons mettre de côté\ntous les objets tenus par vos Pokémon.\r</language>
 	</row>
 	<row id="msg_0426_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please wait a moment.</language>
+		<language name="English">Veuillez patienter.</language>
 	</row>
 	<row id="msg_0426_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0426_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good going!\nWe’ll heal your Pokémon now.</language>
+		<language name="English">Excellent!\nLaissez-moi soigner vos Pokémon.</language>
 	</row>
 	<row id="msg_0426_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next up, game no. {STRVAR_1 53, 0, 0}!\nAre you ready?</language>
+		<language name="English">Prochaine étape, le combat nº {STRVAR_1 53, 0, 0}!\nOn y va?</language>
 	</row>
 	<row id="msg_0426_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to save the last battle\nas your Battle Video?</language>
+		<language name="English">Voulez-vous enregistrer la vidéo du\ndernier combat sur le Magnéto VS?</language>
 	</row>
 	<row id="msg_0426_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s battle has been saved\nas a Battle Video.\r</language>
+		<language name="English">La Vidéo de combat de {STRVAR_1 3, 0, 0}\na été sauvegardée.\r</language>
 	</row>
 	<row id="msg_0426_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There was an error.\nThe Battle Video couldn’t be saved.\r</language>
+		<language name="English">Une erreur est survenue.\nLa sauvegarde a échoué.\r</language>
 	</row>
 	<row id="msg_0426_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Delete your existing Battle Video and\nsave the last battle?</language>
+		<language name="English">Effacer la Vidéo de combat précédente\npour enregistrer ce combat?</language>
 	</row>
 	<row id="msg_0426_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Sauvegarde en cours...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0426_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to save and take a break\nfrom playing?</language>
+		<language name="English">Voulez-vous sauvegarder et faire une\npause?</language>
 	</row>
 	<row id="msg_0426_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0426_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0426_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to retire from this\nchallenge?</language>
+		<language name="English">Voulez-vous abandonner?</language>
 	</row>
 	<row id="msg_0426_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0426_00015" index="15">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0426_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} is choosing.\nPlease wait.</language>
+		<language name="English">Attente d’une réponse de {STRVAR_1 3, 0, 0}.\nVeuillez patienter.</language>
 	</row>
 	<row id="msg_0426_00017" index="17">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0426_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} chose to retire.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a décidé d’abandonner.</language>
 	</row>
 	<row id="msg_0426_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Arcade!\r</language>
+		<language name="English">Bienvenue à l’Arcade de Combat!\r</language>
 	</row>
 	<row id="msg_0426_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Game no. {STRVAR_1 53, 0, 0}!\nCome on!</language>
+		<language name="English">Combat numéro {STRVAR_1 53, 0, 0}!\nC’est parti!</language>
 	</row>
 	<row id="msg_0426_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Without further ado...\nLet’s activate the game board!</language>
+		<language name="English">Sans plus attendre...\nActivons le tableau de jeu!</language>
 	</row>
 	<row id="msg_0426_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is our current event!</language>
+		<language name="English">Et voici le résultat!</language>
 	</row>
 	<row id="msg_0426_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon without full HP!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0}\ncommenceront le combat avec\fdes PV en moins!</language>
 	</row>
 	<row id="msg_0426_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\fPokémon without full HP!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} et\n{STRVAR_1 3, 1, 0} commenceront le combat\favec des PV en moins!</language>
 	</row>
 	<row id="msg_0426_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon leveled up!</language>
+		<language name="English">Le niveau des Pokémon de {STRVAR_1 3, 0, 0}\nsera augmenté pour ce combat!</language>
 	</row>
 	<row id="msg_0426_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\fPokémon leveled up!</language>
+		<language name="English">Le niveau des Pokémon de {STRVAR_1 3, 0, 0}\net {STRVAR_1 3, 1, 0} sera augmenté\fpour ce combat!</language>
 	</row>
 	<row id="msg_0426_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon poisoned!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} seront\nempoisonnés avant le combat!</language>
 	</row>
 	<row id="msg_0426_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\fPokémon poisoned!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} et\n{STRVAR_1 3, 1, 0} seront empoisonnés\favant le combat!</language>
 	</row>
 	<row id="msg_0426_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon paralyzed!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} seront\nparalysés avant le combat!</language>
 	</row>
 	<row id="msg_0426_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\fPokémon paralyzed!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} et\n{STRVAR_1 3, 1, 0} seront paralysés\favant le combat!</language>
 	</row>
 	<row id="msg_0426_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon burned!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} seront\nbrûlés avant le combat!</language>
 	</row>
 	<row id="msg_0426_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\fPokémon burned!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} et\n{STRVAR_1 3, 1, 0} seront brûlés\favant le combat!</language>
 	</row>
 	<row id="msg_0426_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon asleep!</language>
+		<language name="English">Un Pokémon de {STRVAR_1 3, 0, 0} sera\nendormi avant le combat!</language>
 	</row>
 	<row id="msg_0426_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\fPokémon asleep!</language>
+		<language name="English">Un Pokémon de {STRVAR_1 3, 0, 0} ou\n{STRVAR_1 3, 1, 0} sera endormi\favant le combat!</language>
 	</row>
 	<row id="msg_0426_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0}’s Pokémon frozen!</language>
+		<language name="English">Un Pokémon de {STRVAR_1 3, 0, 0}\nsera gelé avant le combat!</language>
 	</row>
 	<row id="msg_0426_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The match will commence with\n{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\fPokémon frozen!</language>
+		<language name="English">Un Pokémon de {STRVAR_1 3, 0, 0} ou\n{STRVAR_1 3, 1, 0} sera gelé\favant le combat!</language>
 	</row>
 	<row id="msg_0426_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will be loaned\nthe {STRVAR_1 8, 2, 0}.</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} tiendront\nl’objet {STRVAR_1 8, 2, 0}.</language>
 	</row>
 	<row id="msg_0426_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0}’s\nPokémon will be loaned the\f{STRVAR_1 8, 2, 0}.</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} et\n{STRVAR_1 3, 1, 0} tiendront l’objet\f{STRVAR_1 8, 2, 0}!</language>
 	</row>
 	<row id="msg_0426_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here you go!\r</language>
+		<language name="English">Et voilà!\r</language>
 	</row>
 	<row id="msg_0426_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This match will be conducted under\nharsh sunlight.</language>
+		<language name="English">Ce combat aura lieu sous un\nsoleil brûlant!</language>
 	</row>
 	<row id="msg_0426_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This match will be conducted under a\nsteady rainfall.</language>
+		<language name="English">Ce combat aura lieu sous\nune pluie torrentielle!</language>
 	</row>
 	<row id="msg_0426_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This match will be conducted under\na raging sandstorm.</language>
+		<language name="English">Ce combat aura lieu au beau milieu\nd’une tempête de sable!</language>
 	</row>
 	<row id="msg_0426_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This match will be conducted under\npelting hail.</language>
+		<language name="English">Ce combat aura lieu sous la grêle!</language>
 	</row>
 	<row id="msg_0426_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This match will be conducted in a\ndense fog.</language>
+		<language name="English">Ce combat aura lieu dans un\népais brouillard!</language>
 	</row>
 	<row id="msg_0426_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This match will be conducted on a floor\nwhere time and space are distorted.</language>
+		<language name="English">Pour ce combat, les dimensions seront\nfaussées!</language>
 	</row>
 	<row id="msg_0426_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Pokémon will be switched with the\nother Trainer’s for this match.</language>
+		<language name="English">Pour ce combat, vos Pokémon seront\néchangés contre ceux de l’adversaire!</language>
 	</row>
 	<row id="msg_0426_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">From the next game on, the\ngame board’s speed will be increased.</language>
+		<language name="English">Après ce combat, le curseur du tableau\nde jeu se déplacera plus rapidement.</language>
 	</row>
 	<row id="msg_0426_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">From the next game on, the\ngame board’s speed will be decreased.</language>
+		<language name="English">Après ce combat, le curseur du tableau\nde jeu se déplacera plus lentement.</language>
 	</row>
 	<row id="msg_0426_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For the next game, the game board’s\nmotion will become random.</language>
+		<language name="English">Au tour suivant, le curseur du tableau\nde jeu se déplacera aléatoirement.</language>
 	</row>
 	<row id="msg_0426_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 2, 0} BP!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} obtient {STRVAR_1 51, 2, 0} PCo!</language>
 	</row>
 	<row id="msg_0426_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} and {STRVAR_1 3, 1, 0} received\n{STRVAR_1 51, 2, 0} BP!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} et {STRVAR_1 3, 1, 0}\nobtiennent {STRVAR_1 51, 2, 0} PCo!</language>
 	</row>
 	<row id="msg_0426_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you ready?</language>
+		<language name="English">Tout le monde est prêt?</language>
 	</row>
 	<row id="msg_0426_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! Lucky!\nYou can skip the battle!</language>
+		<language name="English">Oh! Quelle chance!\nVous évitez ce combat!</language>
 	</row>
 	<row id="msg_0426_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Too bad!\nThere is no event this time!</language>
+		<language name="English">Dommage!\nPas d’événement pour ce combat!</language>
 	</row>
 	<row id="msg_0426_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK! Let the battle commence!</language>
+		<language name="English">Bien! Que le combat commence!</language>
 	</row>
 	<row id="msg_0426_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will enter the\nmatch poisoned...\rOh! A lucky break!\r{STRVAR_1 3, 0, 0} has no Pokémon that can\nbe poisoned!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} seront\nempoisonnés avant le combat...\rOh! Quelle chance!\rAucun des Pokémon de {STRVAR_1 3, 0, 0} ne\npeut être empoisonné!</language>
 	</row>
 	<row id="msg_0426_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\nPokémon will begin poisoned...\rOh! A lucky break!\rNeither of them has a Pokémon that\ncan be poisoned!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} et\n{STRVAR_1 3, 1, 0} seront empoisonnés\favant le combat...\rOh! Quelle chance!\rAucun de leurs Pokémon ne peut être\nempoisonné!</language>
 	</row>
 	<row id="msg_0426_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will enter the\nmatch paralyzed...\rOh! A lucky break!\r{STRVAR_1 3, 0, 0} has no Pokémon that can\nbe paralyzed!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} seront\nparalysés avant le combat...\rOh! Quelle chance!\rAucun des Pokémon de {STRVAR_1 3, 0, 0} ne\npeut être paralysé!</language>
 	</row>
 	<row id="msg_0426_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\nPokémon will begin paralyzed...\rOh! A lucky break!\rNeither of them has a Pokémon that\ncan be paralyzed!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} et\n{STRVAR_1 3, 1, 0} seront paralysés\favant le combat...\rOh! Quelle chance!\rAucun de leurs Pokémon ne peut être\nparalysé!</language>
 	</row>
 	<row id="msg_0426_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will enter the\nmatch burned...\rOh! A lucky break!\r{STRVAR_1 3, 0, 0} has no Pokémon that can\nbe burned!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} seront\nbrûlés avant le combat...\rOh! Quelle chance!\rAucun des Pokémon de {STRVAR_1 3, 0, 0} ne\npeut être brûlé!</language>
 	</row>
 	<row id="msg_0426_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\nPokémon will begin burned...\rOh! A lucky break!\rNeither of them has a Pokémon that\ncan be burned!</language>
+		<language name="English">Les Pokémon de {STRVAR_1 3, 0, 0} et\n{STRVAR_1 3, 1, 0} seront brûlés\favant le combat...\rOh! Quelle chance!\rAucun de leurs Pokémon ne peut être\nbrûlé!</language>
 	</row>
 	<row id="msg_0426_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will enter the\nmatch asleep...\rOh! A lucky break!\r{STRVAR_1 3, 0, 0} has no Pokémon that can\nbe made to sleep!</language>
+		<language name="English">Un Pokémon de {STRVAR_1 3, 0, 0} sera\nendormi avant le combat...\rOh! Quelle chance!\rAucun des Pokémon de {STRVAR_1 3, 0, 0} ne\npeut être endormi!</language>
 	</row>
 	<row id="msg_0426_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\nPokémon will begin asleep...\rOh! A lucky break!\rNeither of them has a Pokémon that\ncan be made to sleep!</language>
+		<language name="English">Un Pokémon de {STRVAR_1 3, 0, 0} ou\n{STRVAR_1 3, 1, 0} va être endormi\favant le combat...\rOh! Quelle chance!\rAucun de leurs Pokémon ne peut être\nendormi!</language>
 	</row>
 	<row id="msg_0426_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Pokémon will enter the\nmatch frozen...\rOh! A lucky break!\r{STRVAR_1 3, 0, 0} has no Pokémon that can\nbe frozen!</language>
+		<language name="English">Un Pokémon de {STRVAR_1 3, 0, 0} sera\ngelé avant le combat...\rOh! Quelle chance!\rAucun des Pokémon de {STRVAR_1 3, 0, 0} ne\npeut être gelé!</language>
 	</row>
 	<row id="msg_0426_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s and {STRVAR_1 3, 1, 0}’s\nPokémon will begin frozen...\rOh! A lucky break!\rNeither of them has a Pokémon that\ncan be frozen!</language>
+		<language name="English">Un Pokémon de {STRVAR_1 3, 0, 0} ou\n{STRVAR_1 3, 1, 0} sera gelé\favant le combat...\rOh! Quelle chance!\rAucun de leurs Pokémon ne peut être\ngelé!</language>
 	</row>
 	<row id="msg_0426_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have cleared your seventh battle!\nCongratulations!\rYou have earned BP as your prize!\r</language>
+		<language name="English">Vous avez remporté votre septième\ncombat d’affilée! Félicitations!\rPrenez ces PCo en récompense!\r</language>
 	</row>
 	<row id="msg_0426_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 1, 0} BP!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} obtient {STRVAR_1 51, 1, 0} PCo!\r</language>
 	</row>
 	<row id="msg_0426_00068" index="68">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0426_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We will return any items we were holding\nfor you.\r</language>
+		<language name="English">Vous pouvez reprendre les objets\nque vous nous aviez laissés.\r</language>
 	</row>
 	<row id="msg_0426_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Sauvegarde en cours...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0426_00071" index="71">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0426_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONTINUE</language>
+		<language name="English">CONTINUER</language>
 	</row>
 	<row id="msg_0426_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RECORD</language>
+		<language name="English">ENREGISTRER</language>
 	</row>
 	<row id="msg_0426_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REST</language>
+		<language name="English">FAIRE UNE PAUSE</language>
 	</row>
 	<row id="msg_0426_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RETIRE</language>
+		<language name="English">ABANDONNER</language>
 	</row>
 	<row id="msg_0426_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations, Trainer!\rIn recognition of your outstanding\nskill, our Frontier Brain is demanding\fa match with you.\rSo, your next match is against the\nArcade Star; no ifs or buts!\rAre you ready?\r</language>
+		<language name="English">Félicitations, Dresseur!\rVos qualités ont impressionné notre\nMeneur de Zone, qui a décidé de vous\faffronter en personne.\rLors du prochain combat, vous\naffronterez la Diva Arcade!\rVoulez-vous relever le défi?\r</language>
 	</row>
 	<row id="msg_0426_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dahlia: No need to worry. ♫\nLet chance do what it does.\rLike surprises from the game board,\nlife goes through twists and turns.\rNo need to worry. ♫\nThings will go as they will.\rBut, enough of that.\nI know one thing for certain.\rYou have arrived here not merely\nbecause you were lucky.\rLet us not waste any time.\nI wish to test your skills myself!\r</language>
+		<language name="English">Dahlia: A quoi bon s’inquiéter? ♫\nLes choses sont-elles déjà décidées?\rLe tableau de jeu, la vie...\nQue va-t-il se passer?\rA quoi bon s’inquiéter? ♫\nOn ne peut changer sa destinée!\rMais assez de poésie!\rLa chance est ton alliée, mais tes\ncompétences sont avérées.\rAllons, ne perdons plus de temps,\ncar tu dois m’affronter!\r</language>
 	</row>
 	<row id="msg_0426_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dahlia: No need to worry. ♫\nLet chance do what it does.\rLike surprises from the game board,\nlife goes through twists and turns.\rNo need to worry. ♫\nThings will go as they will.\rBut, enough of that.\nYou are proving yourself incredible.\rAre you incredible because you are so\nlucky you shrug off bad luck entirely?\rOr, are you so incredibly talented to\nnot be swayed by luck, good or bad?\rI wish to see for myself what brought\nyou to me today!\r</language>
+		<language name="English">Dahlia: A quoi bon s’inquiéter? ♫\nLes choses sont-elles déjà décidées?\rLe tableau de jeu, la vie...\nQue va-t-il se passer?\rA quoi bon s’inquiéter? ♫\nOn ne peut changer sa destinée!\rMais assez de poésie. Tu es\nabsolument incroyable!\rA nouveau, tu te trouves devant moi,\nla chance a l’air de ton côté!\rOu peut-être n’as-tu que faire de\nla chance?\rJe vais pouvoir en juger!\r</language>
 	</row>
 	<row id="msg_0426_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dahlia: How fabulous of you!\rYour love of Pokémon shone through,\nand, in turn, your Pokémon believed\fin you.\rThat is why you handled everything\nthrown your way splendidly.\rA most wonderful victory it was!\r</language>
+		<language name="English">Dahlia: Quel talent!\nCette victoire m’a épatée!\rTon amour des Pokémon m’inspire\nbien plus que je ne saurais dire.\rLes mots me manquent pour exprimer\nla splendeur de notre combat passé.\rUn moment magique!\r</language>
 	</row>
 	<row id="msg_0426_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dahlia: Truly, it was so very fabulous\nof all of you!\rBad luck, you cast aside, and good\nluck, you netted.\rThat you did so is evidence of your\nabilities.\rBy defeating me, Dahlia, you have\nproven your mastery brilliantly!\rI am sincerely happy for having this\nbattle against you!\r</language>
+		<language name="English">Dahlia: Quel talent!\nCette victoire m’a épatée!\rTu as su faire de la chance ton alliée.\rC’est une qualité importante!\rMême moi, Dahlia, dus m’incliner\ndevant de telles capacités!\rMerci pour ce combat!\r</language>
 	</row>
 </body>

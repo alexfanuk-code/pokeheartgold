@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0336_R07_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a notice!\r...Uncouth Trainers have been holding\nbattles in the Underground Path.\rBecause of rising complaints by local\nresidents, the Underground Path has\fbeen sealed indefinitely.\f           Signed, the Celadon Police</language>
+		<language name="English">Il y a une affiche...\rDe plus en plus de Dresseurs manquant\nde la plus élémentaire courtoisie se\fbattaient dans le souterrain.\rSuite à de nombreuses plaintes de\nriverains, nous avons pris la décision\fde le fermer.\f                 Police de Céladopole</language>
 	</row>
 	<row id="msg_0336_R07_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It won’t open!\rIt’s locked...</language>
+		<language name="English">C’est fermé à clé...</language>
 	</row>
 </body>

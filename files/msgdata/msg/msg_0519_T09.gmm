@@ -2,90 +2,90 @@
 <body language="English">
 	<row id="msg_0519_T09_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are you?\rMy name’s Blue.\nI was once the Kanto Champion.\rAlthough it was short-lived thanks\nto Red...\fAnyway, take a good look around you...\r</language>
+		<language name="English">T’es qui, toi?\rJe suis Blue! L’homme qui a conquis tout\nKanto et qui est devenu Maître!\r... Enfin, sauf que Red est venu me\ngâcher la vie et je ne suis pas resté\fMaître bien longtemps...\rQuoi qu’il en soit, regarde un peu ça...\r</language>
 	</row>
 	<row id="msg_0519_T09_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: A volcano erupts, and just\nlike that, a whole town disappears.\rWe can go on winning and losing in\nPokémon, but if nature so much as\ftwitches, we can be overwhelmed\fin a second...\rThat’s the way it is...\nBut, anyway, I’m still a Trainer.\rIf I see a strong opponent, it makes me\nwant to battle.\r</language>
+		<language name="English">Blue: Il a suffi d’une petite\néruption volcanique pour détruire\fune ville tout entière...\rOn a beau gagner et perdre des combats\nde Pokémon, la nature n’a qu’à trembler\fet il ne reste plus rien de nous...\r...\n... Bref.\fJe suis un Dresseur.\fQuand je croise quelqu’un de fort,\fje ne peux que l’affronter.\r</language>
 	</row>
 	<row id="msg_0519_T09_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to battle me...for real,\ncome to the Viridian Gym.\r</language>
+		<language name="English">Si tu as tant envie de me combattre que\nça, viens dans mon Arène de Jadielle.\r</language>
 	</row>
 	<row id="msg_0519_T09_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be waiting for you!\r</language>
+		<language name="English">Je pars devant. Je t’attends.\r</language>
 	</row>
 	<row id="msg_0519_T09_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you want to battle me...for real,\nshow me how many Kanto Badges\fyou’ve got.\r...\n{STRVAR_1 50, 0, 0}...\rYou’re not ready to battle me...</language>
+		<language name="English">Toi... Si tu veux vraiment\nm’affronter, montre-moi combien de\fBadges de Kanto tu as récoltés.\r...\n{STRVAR_1 50, 0, 0}...\rCe n’est pas suffisant pour te battre\ncontre moi...</language>
 	</row>
 	<row id="msg_0519_T09_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: You are quite something!\nYou defeated Red!?\fThat’s great!\rLet’s take a picture together! {YESNO 0}</language>
+		<language name="English">Blue: T’es incroyable, toi!\nTu as combattu Red, et t’as gagné?!\rAllez! Prends une photo avec moi! {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: All right!\r</language>
+		<language name="English">Blue: Super!\r</language>
 	</row>
 	<row id="msg_0519_T09_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Thanks for the nice picture!</language>
+		<language name="English">Blue: Merci.\nC’est une super photo!</language>
 	</row>
 	<row id="msg_0519_T09_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue: Oh, well...</language>
+		<language name="English">Blue: Ah bon...</language>
 	</row>
 	<row id="msg_0519_T09_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.</language>
+		<language name="English">Votre Album Photo est plein!\rRevenez après y avoir fait le ménage\ndans votre PC.</language>
 	</row>
 	<row id="msg_0519_T09_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: I’ll never give up until the \nday I’ve rebuilt the Cinnabar Gym!\rWhy not exchange numbers! {YESNO 0}</language>
+		<language name="English">Auguste: Je resterai là jusqu’à ce\nqu’on rebâtisse notre Arène ici!\rDonne-moi ton numéro\nde téléphone! {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Blaine\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré Auguste\ndans son Pokématos!</language>
 	</row>
 	<row id="msg_0519_T09_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Hmmm...\nWe should be able to battle\fon Tuesday evenings!</language>
+		<language name="English">Auguste: Très bien!\nJe peux me battre avec toi le mardi\fdans la journée!</language>
 	</row>
 	<row id="msg_0519_T09_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Oh...how disappointing!</language>
+		<language name="English">Auguste: Mmmh... Quel dommage!</language>
 	</row>
 	<row id="msg_0519_T09_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Do we want to exchange\nnumbers? {YESNO 0}</language>
+		<language name="English">Auguste: Tu veux me donner ton\nnuméro de téléphone? {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Oh, it is you!\nSay, do you want to take a picture\fwith me right here? {YESNO 0}</language>
+		<language name="English">Auguste: Oh! C’est toi!\nQue dirais-tu de prendre une\fphoto ici, avec moi? {YESNO 0}</language>
 	</row>
 	<row id="msg_0519_T09_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: There, stand next to me!\r</language>
+		<language name="English">Auguste: Bien!\nViens à côté de moi!\r</language>
 	</row>
 	<row id="msg_0519_T09_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Oh, this is a good picture!</language>
+		<language name="English">Auguste: Excellente photo!</language>
 	</row>
 	<row id="msg_0519_T09_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blaine: Noooo!</language>
+		<language name="English">Auguste: Wooooooh!!!</language>
 	</row>
 	<row id="msg_0519_T09_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC to delete\nsome pictures.</language>
+		<language name="English">Votre Album Photo est plein!\rRevenez après y avoir fait le ménage\ndans votre PC.</language>
 	</row>
 	<row id="msg_0519_T09_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a notice here...\rThe Cinnabar Gym has relocated\nto Seafoam Islands.\f           Blaine</language>
+		<language name="English">... Annonce importante!\rL’Arène de Cramois’Ile a déménagé\naux Iles Ecume.\f          ... Auguste</language>
 	</row>
 	<row id="msg_0519_T09_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cinnabar Island\nThe Ravaged Town of the Past</language>
+		<language name="English">Ici: Cramois’Ile\nVille du passé</language>
 	</row>
 </body>

@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0798_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Aucun</language>
 	</row>
 	<row id="msg_0798_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,19 +10,19 @@
 	</row>
 	<row id="msg_0798_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Albania</language>
+		<language name="English">Albanie</language>
 	</row>
 	<row id="msg_0798_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Algeria</language>
+		<language name="English">Algérie</language>
 	</row>
 	<row id="msg_0798_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">American Samoa</language>
+		<language name="English">Samoa américaines</language>
 	</row>
 	<row id="msg_0798_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Andorra</language>
+		<language name="English">Andorre</language>
 	</row>
 	<row id="msg_0798_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -34,15 +34,15 @@
 	</row>
 	<row id="msg_0798_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Antigua and Barbuda</language>
+		<language name="English">Antigua-et-Barbuda</language>
 	</row>
 	<row id="msg_0798_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argentina</language>
+		<language name="English">Argentine</language>
 	</row>
 	<row id="msg_0798_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Armenia</language>
+		<language name="English">Arménie</language>
 	</row>
 	<row id="msg_0798_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
@@ -50,15 +50,15 @@
 	</row>
 	<row id="msg_0798_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Australia</language>
+		<language name="English">Australie</language>
 	</row>
 	<row id="msg_0798_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Austria</language>
+		<language name="English">Autriche</language>
 	</row>
 	<row id="msg_0798_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azerbaijan</language>
+		<language name="English">Azerbaïdjan</language>
 	</row>
 	<row id="msg_0798_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
@@ -66,7 +66,7 @@
 	</row>
 	<row id="msg_0798_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bahrain</language>
+		<language name="English">Bahreïn</language>
 	</row>
 	<row id="msg_0798_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
@@ -74,15 +74,15 @@
 	</row>
 	<row id="msg_0798_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Barbados</language>
+		<language name="English">La Barbade</language>
 	</row>
 	<row id="msg_0798_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Belarus</language>
+		<language name="English">Biélorussie</language>
 	</row>
 	<row id="msg_0798_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Belgium</language>
+		<language name="English">Belgique</language>
 	</row>
 	<row id="msg_0798_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -90,23 +90,23 @@
 	</row>
 	<row id="msg_0798_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Benin</language>
+		<language name="English">Bénin</language>
 	</row>
 	<row id="msg_0798_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bermuda</language>
+		<language name="English">Les Bermudes</language>
 	</row>
 	<row id="msg_0798_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bhutan</language>
+		<language name="English">Bhoutan</language>
 	</row>
 	<row id="msg_0798_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bolivia</language>
+		<language name="English">Bolivie</language>
 	</row>
 	<row id="msg_0798_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bosnia and Herzegovina</language>
+		<language name="English">Bosnie-Herzégovine</language>
 	</row>
 	<row id="msg_0798_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -114,19 +114,19 @@
 	</row>
 	<row id="msg_0798_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brazil</language>
+		<language name="English">Brésil</language>
 	</row>
 	<row id="msg_0798_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">British Virgin Islands</language>
+		<language name="English">Iles Vierges britanniques</language>
 	</row>
 	<row id="msg_0798_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brunei Darussalam</language>
+		<language name="English">Sultanat du Brunei</language>
 	</row>
 	<row id="msg_0798_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bulgaria</language>
+		<language name="English">Bulgarie</language>
 	</row>
 	<row id="msg_0798_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
@@ -138,11 +138,11 @@
 	</row>
 	<row id="msg_0798_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cambodia</language>
+		<language name="English">Cambodge</language>
 	</row>
 	<row id="msg_0798_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cameroon</language>
+		<language name="English">Cameroun</language>
 	</row>
 	<row id="msg_0798_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -150,47 +150,47 @@
 	</row>
 	<row id="msg_0798_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cape Verde</language>
+		<language name="English">Cap-Vert</language>
 	</row>
 	<row id="msg_0798_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cayman Islands</language>
+		<language name="English">Iles Caïmans</language>
 	</row>
 	<row id="msg_0798_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Central African Republic</language>
+		<language name="English">République centrafricaine</language>
 	</row>
 	<row id="msg_0798_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chad</language>
+		<language name="English">Tchad</language>
 	</row>
 	<row id="msg_0798_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Channel Islands</language>
+		<language name="English">Iles du Détroit</language>
 	</row>
 	<row id="msg_0798_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chile</language>
+		<language name="English">Chili</language>
 	</row>
 	<row id="msg_0798_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">China</language>
+		<language name="English">Chine</language>
 	</row>
 	<row id="msg_0798_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Christmas Island</language>
+		<language name="English">Iles Christmas</language>
 	</row>
 	<row id="msg_0798_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Colombia</language>
+		<language name="English">Colombie</language>
 	</row>
 	<row id="msg_0798_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Comoros</language>
+		<language name="English">Les Comores</language>
 	</row>
 	<row id="msg_0798_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Democratic Republic of the Congo</language>
+		<language name="English">République démocratique du Congo</language>
 	</row>
 	<row id="msg_0798_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -198,7 +198,7 @@
 	</row>
 	<row id="msg_0798_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cook Islands</language>
+		<language name="English">Iles Cook</language>
 	</row>
 	<row id="msg_0798_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
@@ -206,11 +206,11 @@
 	</row>
 	<row id="msg_0798_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cote d’Ivoire</language>
+		<language name="English">Côte d’Ivoire</language>
 	</row>
 	<row id="msg_0798_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Croatia</language>
+		<language name="English">Croatie</language>
 	</row>
 	<row id="msg_0798_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
@@ -218,15 +218,15 @@
 	</row>
 	<row id="msg_0798_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cyprus</language>
+		<language name="English">Chypre</language>
 	</row>
 	<row id="msg_0798_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Czech Republic</language>
+		<language name="English">République tchèque</language>
 	</row>
 	<row id="msg_0798_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Denmark</language>
+		<language name="English">Danemark</language>
 	</row>
 	<row id="msg_0798_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
@@ -234,55 +234,55 @@
 	</row>
 	<row id="msg_0798_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dominica</language>
+		<language name="English">Dominique</language>
 	</row>
 	<row id="msg_0798_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dominican Republic</language>
+		<language name="English">République dominicaine</language>
 	</row>
 	<row id="msg_0798_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecuador</language>
+		<language name="English">Equateur</language>
 	</row>
 	<row id="msg_0798_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Egypt</language>
+		<language name="English">Egypte</language>
 	</row>
 	<row id="msg_0798_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">El Salvador</language>
+		<language name="English">Salvador</language>
 	</row>
 	<row id="msg_0798_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Equatorial Guinea</language>
+		<language name="English">Guinée équatoriale</language>
 	</row>
 	<row id="msg_0798_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eritrea</language>
+		<language name="English">Erythrée</language>
 	</row>
 	<row id="msg_0798_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Estonia</language>
+		<language name="English">Estonie</language>
 	</row>
 	<row id="msg_0798_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethiopia</language>
+		<language name="English">Ethiopie</language>
 	</row>
 	<row id="msg_0798_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Faroe Islands</language>
+		<language name="English">Iles Féroé</language>
 	</row>
 	<row id="msg_0798_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkland Islands</language>
+		<language name="English">Iles Malouines</language>
 	</row>
 	<row id="msg_0798_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fiji</language>
+		<language name="English">Fidji</language>
 	</row>
 	<row id="msg_0798_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Finland</language>
+		<language name="English">Finlande</language>
 	</row>
 	<row id="msg_0798_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
@@ -290,11 +290,11 @@
 	</row>
 	<row id="msg_0798_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">French Guiana</language>
+		<language name="English">Guyane française</language>
 	</row>
 	<row id="msg_0798_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">French Polynesia</language>
+		<language name="English">Polynésie française</language>
 	</row>
 	<row id="msg_0798_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
@@ -302,15 +302,15 @@
 	</row>
 	<row id="msg_0798_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gambia</language>
+		<language name="English">Gambie</language>
 	</row>
 	<row id="msg_0798_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Georgia</language>
+		<language name="English">Géorgie</language>
 	</row>
 	<row id="msg_0798_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Germany</language>
+		<language name="English">Allemagne</language>
 	</row>
 	<row id="msg_0798_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
@@ -322,15 +322,15 @@
 	</row>
 	<row id="msg_0798_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Greece</language>
+		<language name="English">Grèce</language>
 	</row>
 	<row id="msg_0798_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Greenland</language>
+		<language name="English">Groenland</language>
 	</row>
 	<row id="msg_0798_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grenada</language>
+		<language name="English">Grenade</language>
 	</row>
 	<row id="msg_0798_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
@@ -346,11 +346,11 @@
 	</row>
 	<row id="msg_0798_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guinea</language>
+		<language name="English">Guinée</language>
 	</row>
 	<row id="msg_0798_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guinea-Bissau</language>
+		<language name="English">Guinée-Bissau</language>
 	</row>
 	<row id="msg_0798_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
@@ -358,7 +358,7 @@
 	</row>
 	<row id="msg_0798_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Haiti</language>
+		<language name="English">Haïti</language>
 	</row>
 	<row id="msg_0798_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
@@ -370,19 +370,19 @@
 	</row>
 	<row id="msg_0798_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hungary</language>
+		<language name="English">Hongrie</language>
 	</row>
 	<row id="msg_0798_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Iceland</language>
+		<language name="English">Islande</language>
 	</row>
 	<row id="msg_0798_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">India</language>
+		<language name="English">Inde</language>
 	</row>
 	<row id="msg_0798_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Indonesia</language>
+		<language name="English">Indonésie</language>
 	</row>
 	<row id="msg_0798_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
@@ -390,39 +390,39 @@
 	</row>
 	<row id="msg_0798_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Iraq</language>
+		<language name="English">Irak</language>
 	</row>
 	<row id="msg_0798_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ireland</language>
+		<language name="English">Irlande</language>
 	</row>
 	<row id="msg_0798_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Isle of Man </language>
+		<language name="English">Ile de Man</language>
 	</row>
 	<row id="msg_0798_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Israel</language>
+		<language name="English">Israël</language>
 	</row>
 	<row id="msg_0798_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Italy</language>
+		<language name="English">Italie</language>
 	</row>
 	<row id="msg_0798_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jamaica</language>
+		<language name="English">Jamaïque</language>
 	</row>
 	<row id="msg_0798_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Japan</language>
+		<language name="English">Japon</language>
 	</row>
 	<row id="msg_0798_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jordan</language>
+		<language name="English">Jordanie</language>
 	</row>
 	<row id="msg_0798_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kashmir</language>
+		<language name="English">Cachemire</language>
 	</row>
 	<row id="msg_0798_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
@@ -438,31 +438,31 @@
 	</row>
 	<row id="msg_0798_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">D.P. Republic of Korea</language>
+		<language name="English">Corée du Nord</language>
 	</row>
 	<row id="msg_0798_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Republic of Korea</language>
+		<language name="English">Corée du Sud</language>
 	</row>
 	<row id="msg_0798_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kuwait</language>
+		<language name="English">Koweït</language>
 	</row>
 	<row id="msg_0798_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kyrgyzstan</language>
+		<language name="English">Kirghizistan</language>
 	</row>
 	<row id="msg_0798_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lao People’s Democratic Republic</language>
+		<language name="English">Laos</language>
 	</row>
 	<row id="msg_0798_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Latvia</language>
+		<language name="English">Lettonie</language>
 	</row>
 	<row id="msg_0798_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lebanon</language>
+		<language name="English">Liban</language>
 	</row>
 	<row id="msg_0798_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
@@ -470,11 +470,11 @@
 	</row>
 	<row id="msg_0798_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Liberia</language>
+		<language name="English">Libéria</language>
 	</row>
 	<row id="msg_0798_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Libyan Arab Jamahiriya</language>
+		<language name="English">Lybie</language>
 	</row>
 	<row id="msg_0798_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
@@ -482,7 +482,7 @@
 	</row>
 	<row id="msg_0798_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lithuania</language>
+		<language name="English">Lituanie</language>
 	</row>
 	<row id="msg_0798_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
@@ -490,11 +490,11 @@
 	</row>
 	<row id="msg_0798_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Macau</language>
+		<language name="English">Macao</language>
 	</row>
 	<row id="msg_0798_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Macedonia (FYROM)</language>
+		<language name="English">Macédoine (ARYM)</language>
 	</row>
 	<row id="msg_0798_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
@@ -506,7 +506,7 @@
 	</row>
 	<row id="msg_0798_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Malaysia</language>
+		<language name="English">Malaisie</language>
 	</row>
 	<row id="msg_0798_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
@@ -518,11 +518,11 @@
 	</row>
 	<row id="msg_0798_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Malta</language>
+		<language name="English">Malte</language>
 	</row>
 	<row id="msg_0798_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Marshall Islands</language>
+		<language name="English">Iles Marshall</language>
 	</row>
 	<row id="msg_0798_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
@@ -530,11 +530,11 @@
 	</row>
 	<row id="msg_0798_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mauritania</language>
+		<language name="English">Mauritanie</language>
 	</row>
 	<row id="msg_0798_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mauritius</language>
+		<language name="English">Maurice</language>
 	</row>
 	<row id="msg_0798_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
@@ -542,15 +542,15 @@
 	</row>
 	<row id="msg_0798_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mexico</language>
+		<language name="English">Mexique</language>
 	</row>
 	<row id="msg_0798_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Micronesia</language>
+		<language name="English">Micronésie</language>
 	</row>
 	<row id="msg_0798_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Republic of Moldova</language>
+		<language name="English">Moldavie</language>
 	</row>
 	<row id="msg_0798_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
@@ -558,11 +558,11 @@
 	</row>
 	<row id="msg_0798_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mongolia</language>
+		<language name="English">Mongolie</language>
 	</row>
 	<row id="msg_0798_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morocco</language>
+		<language name="English">Maroc</language>
 	</row>
 	<row id="msg_0798_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
@@ -574,7 +574,7 @@
 	</row>
 	<row id="msg_0798_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Namibia</language>
+		<language name="English">Namibie</language>
 	</row>
 	<row id="msg_0798_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
@@ -582,23 +582,23 @@
 	</row>
 	<row id="msg_0798_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nepal</language>
+		<language name="English">Népal</language>
 	</row>
 	<row id="msg_0798_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Netherlands</language>
+		<language name="English">Pays-Bas</language>
 	</row>
 	<row id="msg_0798_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Netherlands Antilles</language>
+		<language name="English">Antilles néerlandaises</language>
 	</row>
 	<row id="msg_0798_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">New Caledonia</language>
+		<language name="English">Nouvelle-Calédonie</language>
 	</row>
 	<row id="msg_0798_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">New Zealand</language>
+		<language name="English">Nouvelle-Zélande</language>
 	</row>
 	<row id="msg_0798_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
@@ -610,7 +610,7 @@
 	</row>
 	<row id="msg_0798_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nigeria</language>
+		<language name="English">Nigéria</language>
 	</row>
 	<row id="msg_0798_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
@@ -618,15 +618,15 @@
 	</row>
 	<row id="msg_0798_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Norfolk Island</language>
+		<language name="English">Ile Norfolk</language>
 	</row>
 	<row id="msg_0798_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Northern Mariana Islands</language>
+		<language name="English">Iles Mariannes du Nord</language>
 	</row>
 	<row id="msg_0798_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Norway</language>
+		<language name="English">Norvège</language>
 	</row>
 	<row id="msg_0798_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
@@ -638,15 +638,15 @@
 	</row>
 	<row id="msg_0798_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Palau</language>
+		<language name="English">Palaos</language>
 	</row>
 	<row id="msg_0798_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Panama</language>
+		<language name="English">Panamá</language>
 	</row>
 	<row id="msg_0798_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Papua New Guinea</language>
+		<language name="English">Papouasie-Nouvelle-Guinée</language>
 	</row>
 	<row id="msg_0798_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
@@ -654,7 +654,7 @@
 	</row>
 	<row id="msg_0798_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Peru</language>
+		<language name="English">Pérou</language>
 	</row>
 	<row id="msg_0798_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
@@ -662,11 +662,11 @@
 	</row>
 	<row id="msg_0798_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pitcairn Islands</language>
+		<language name="English">Iles Pitcairn</language>
 	</row>
 	<row id="msg_0798_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poland</language>
+		<language name="English">Pologne</language>
 	</row>
 	<row id="msg_0798_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
@@ -674,7 +674,7 @@
 	</row>
 	<row id="msg_0798_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Puerto Rico</language>
+		<language name="English">Porto Rico</language>
 	</row>
 	<row id="msg_0798_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
@@ -682,15 +682,15 @@
 	</row>
 	<row id="msg_0798_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reunion</language>
+		<language name="English">Ile de la Réunion</language>
 	</row>
 	<row id="msg_0798_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Romania</language>
+		<language name="English">Roumanie</language>
 	</row>
 	<row id="msg_0798_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Russian Federation</language>
+		<language name="English">Russie</language>
 	</row>
 	<row id="msg_0798_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
@@ -698,23 +698,23 @@
 	</row>
 	<row id="msg_0798_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saint Helena</language>
+		<language name="English">Sainte-Hélène</language>
 	</row>
 	<row id="msg_0798_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saint Kitts and Nevis</language>
+		<language name="English">Saint-Christophe-et-Niévès</language>
 	</row>
 	<row id="msg_0798_00176" index="176">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saint Lucia</language>
+		<language name="English">Sainte-Lucie</language>
 	</row>
 	<row id="msg_0798_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saint-Pierre and Miquelon</language>
+		<language name="English">Saint-Pierre et Miquelon</language>
 	</row>
 	<row id="msg_0798_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saint Vincent and the Grenadines</language>
+		<language name="English">Saint-Vincent et les Grenadines</language>
 	</row>
 	<row id="msg_0798_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
@@ -722,23 +722,23 @@
 	</row>
 	<row id="msg_0798_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">San Marino</language>
+		<language name="English">Saint-Marin</language>
 	</row>
 	<row id="msg_0798_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sao Tome and Principe</language>
+		<language name="English">Sao Tomé-et-Principe</language>
 	</row>
 	<row id="msg_0798_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saudi Arabia</language>
+		<language name="English">Arabie saoudite</language>
 	</row>
 	<row id="msg_0798_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Senegal</language>
+		<language name="English">Sénégal</language>
 	</row>
 	<row id="msg_0798_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serbia and Montenegro</language>
+		<language name="English">Serbie-et-Monténegro</language>
 	</row>
 	<row id="msg_0798_00185" index="185">
 		<attribute name="window_context_name">used</attribute>
@@ -750,31 +750,31 @@
 	</row>
 	<row id="msg_0798_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Singapore</language>
+		<language name="English">Singapour</language>
 	</row>
 	<row id="msg_0798_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slovakia</language>
+		<language name="English">Slovaquie</language>
 	</row>
 	<row id="msg_0798_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slovenia</language>
+		<language name="English">Slovénie</language>
 	</row>
 	<row id="msg_0798_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Solomon Islands</language>
+		<language name="English">Iles Salomon</language>
 	</row>
 	<row id="msg_0798_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Somalia</language>
+		<language name="English">Somalie</language>
 	</row>
 	<row id="msg_0798_00192" index="192">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">South Africa</language>
+		<language name="English">Afrique du Sud</language>
 	</row>
 	<row id="msg_0798_00193" index="193">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spain</language>
+		<language name="English">Espagne</language>
 	</row>
 	<row id="msg_0798_00194" index="194">
 		<attribute name="window_context_name">used</attribute>
@@ -782,7 +782,7 @@
 	</row>
 	<row id="msg_0798_00195" index="195">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sudan</language>
+		<language name="English">Soudan</language>
 	</row>
 	<row id="msg_0798_00196" index="196">
 		<attribute name="window_context_name">used</attribute>
@@ -790,7 +790,7 @@
 	</row>
 	<row id="msg_0798_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jan Mayen Island</language>
+		<language name="English">Ile Jan Mayen</language>
 	</row>
 	<row id="msg_0798_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
@@ -798,35 +798,35 @@
 	</row>
 	<row id="msg_0798_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sweden</language>
+		<language name="English">Suède</language>
 	</row>
 	<row id="msg_0798_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swiss Confederation</language>
+		<language name="English">Suisse</language>
 	</row>
 	<row id="msg_0798_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Syrian Arab Republic</language>
+		<language name="English">Syrie</language>
 	</row>
 	<row id="msg_0798_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Taiwan</language>
+		<language name="English">Taïwan</language>
 	</row>
 	<row id="msg_0798_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tajikistan</language>
+		<language name="English">Tadjikistan</language>
 	</row>
 	<row id="msg_0798_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">United Republic of Tanzania</language>
+		<language name="English">Tanzanie</language>
 	</row>
 	<row id="msg_0798_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thailand</language>
+		<language name="English">Thaïlande</language>
 	</row>
 	<row id="msg_0798_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Democratic Republic of Timor-Leste</language>
+		<language name="English">Timor oriental</language>
 	</row>
 	<row id="msg_0798_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
@@ -842,23 +842,23 @@
 	</row>
 	<row id="msg_0798_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trinidad and Tobago</language>
+		<language name="English">Trinité-et-Tobago</language>
 	</row>
 	<row id="msg_0798_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tunisia</language>
+		<language name="English">Tunisie</language>
 	</row>
 	<row id="msg_0798_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Turkey</language>
+		<language name="English">Turquie</language>
 	</row>
 	<row id="msg_0798_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Turkmenistan</language>
+		<language name="English">Turkménistan</language>
 	</row>
 	<row id="msg_0798_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Turks and Caicos Islands</language>
+		<language name="English">Iles Turques et Caïques</language>
 	</row>
 	<row id="msg_0798_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
@@ -866,7 +866,7 @@
 	</row>
 	<row id="msg_0798_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uganda</language>
+		<language name="English">Ouganda</language>
 	</row>
 	<row id="msg_0798_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
@@ -874,19 +874,19 @@
 	</row>
 	<row id="msg_0798_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">United Arab Emirates</language>
+		<language name="English">Emirats arabes unis</language>
 	</row>
 	<row id="msg_0798_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">United Kingdom</language>
+		<language name="English">Royaume-Uni</language>
 	</row>
 	<row id="msg_0798_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">United States of America</language>
+		<language name="English">Etats-Unis</language>
 	</row>
 	<row id="msg_0798_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">United States Virgin Islands</language>
+		<language name="English">Iles Vierges américaines</language>
 	</row>
 	<row id="msg_0798_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
@@ -894,7 +894,7 @@
 	</row>
 	<row id="msg_0798_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uzbekistan</language>
+		<language name="English">Ouzbékistan</language>
 	</row>
 	<row id="msg_0798_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
@@ -902,7 +902,7 @@
 	</row>
 	<row id="msg_0798_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vatican City</language>
+		<language name="English">Vatican</language>
 	</row>
 	<row id="msg_0798_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
@@ -910,11 +910,11 @@
 	</row>
 	<row id="msg_0798_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vietnam</language>
+		<language name="English">Viêt Nam</language>
 	</row>
 	<row id="msg_0798_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wallis and Futuna</language>
+		<language name="English">Wallis et Futuna</language>
 	</row>
 	<row id="msg_0798_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
@@ -922,15 +922,15 @@
 	</row>
 	<row id="msg_0798_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Western Sahara</language>
+		<language name="English">Sahara occidental</language>
 	</row>
 	<row id="msg_0798_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yemen</language>
+		<language name="English">République du Yémen</language>
 	</row>
 	<row id="msg_0798_00232" index="232">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Zambia</language>
+		<language name="English">Zambie</language>
 	</row>
 	<row id="msg_0798_00233" index="233">
 		<attribute name="window_context_name">used</attribute>

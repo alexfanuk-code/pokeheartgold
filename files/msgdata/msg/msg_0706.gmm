@@ -2,54 +2,54 @@
 <body language="English">
 	<row id="msg_0706_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kenji</language>
+		<language name="English">Jacky</language>
 	</row>
 	<row id="msg_0706_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our battle was remarkable!\rI wish for something to remember\nyou by!\rPerhaps your phone number will do?\rMy training makes it impossible to\nchat much, but... {YESNO 0}</language>
+		<language name="English">Notre combat était magnifique!\rJe veux que tu me laisses un petit\nsouvenir!\rTon numéro de téléphone!\rJe ne pourrai pas trop discuter\npendant des heures, mais... {YESNO 0}</language>
 	</row>
 	<row id="msg_0706_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I must train harder to become\nthe mightiest!</language>
+		<language name="English">Je dois continuer à m’entraîner!</language>
 	</row>
 	<row id="msg_0706_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you decide you want my number, come\nand find me.</language>
+		<language name="English">Si tu veux mon numéro, viens me voir.</language>
 	</row>
 	<row id="msg_0706_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My training makes chatting tough.\nSo, take down my number? {YESNO 0}</language>
+		<language name="English">Je m’entraîne beaucoup\nmais veux-tu mon\fnuméro de téléphone? {YESNO 0}</language>
 	</row>
 	<row id="msg_0706_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today, I’d like to thank you,\n{STRVAR_1 3, 0, 0}!\rI’ve been training all alone...\nI was happy that you cared to call...\r{STRVAR_1 3, 0, 0}! I want you to have this!\r</language>
+		<language name="English">Je tiens à te dire merci, {STRVAR_1 3, 0, 0}!\nJe m’entraînais en solitaire...\rMerci d’avoir appelé...\nVoilà pour toi!\r</language>
 	</row>
 	<row id="msg_0706_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your strength will not let you carry\nanother thing! I will hold this till you\flighten your Bag!</language>
+		<language name="English">Tu ne peux plus rien porter!\nJe vais garder ça.\rVide donc ton Sac!</language>
 	</row>
 	<row id="msg_0706_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me?\nIf you’re nearby, then I’d appreciate\fthe politeness of talking face-to-face!</language>
+		<language name="English">Viens me voir directement au lieu de\ntéléphoner!</language>
 	</row>
 	<row id="msg_0706_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you still on your journey?\nI remain dedicated to my training.\fOooooaaarrrgh!</language>
+		<language name="English">Tu te balades toujours?\nMoi je m’entraîne.\rOooooaaarrrgh!</language>
 	</row>
 	<row id="msg_0706_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My apologies, but I don’t have time to\nchat while I am in training!\rI’ll have time to chat tomorrow!\nYiiihah!</language>
+		<language name="English">Pardon, mais je m’entraîne!\nOn parlera demain!\rYiiihah!</language>
 	</row>
 	<row id="msg_0706_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I plan to take a lunch break, so come\nand visit with me then!\fAyiiiyah!</language>
+		<language name="English">Je compte faire une pause pour\ndéjeuner! Viens me voir!</language>
 	</row>
 	<row id="msg_0706_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m taking a break on Route 45!\nWhy not drop by? We can have a battle!</language>
+		<language name="English">Je fais une pause sur la Route 45!\nTu viens me dire bonjour?</language>
 	</row>
 	<row id="msg_0706_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I rested up over my lunch break.\nNow, it’s time to resume training!\fOooryaah!</language>
+		<language name="English">J’ai mangé...\nEt j’ai dormi.\rMaintenant...\nEntraînement!\rYaaaaahaha!</language>
 	</row>
 </body>

@@ -2,226 +2,226 @@
 <body language="English">
 	<row id="msg_0752_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: Glad to meet you. I’m Monica\nof Monday.\rAs a token of our friendship, I have a\ngift for you!\r</language>
+		<language name="English">Lucie: Bonjour!\nJe suis Lucie, du lundi.\rPour sceller notre amitié, voilà un\npetit cadeau!\r</language>
 	</row>
 	<row id="msg_0752_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: It’s an item that raises the\npower of Flying-type moves.\rYou should equip a bird Pokémon with\nthat item.</language>
+		<language name="English">Lucie: C’est un objet qui améliore\nles capacités du type Vol.\rTu devrais le donner à un Pokémon\nOiseau.</language>
 	</row>
 	<row id="msg_0752_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: My brothers and sisters are all\nover the place.\rSee if you could find them all!</language>
+		<language name="English">Lucie: Mes frères et sœurs sont un\npeu partout.\rTrouve-les tous!</language>
 	</row>
 	<row id="msg_0752_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: Oh no! Today isn’t Monday.\nSee you another time!</language>
+		<language name="English">Lucie: On n’est pas lundi aujourd’hui!\nDommage...</language>
 	</row>
 	<row id="msg_0752_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: Please allow me to introduce\nmyself. I am Tuscany of Tuesday.\rBy way of introduction, please accept\nthis gift, a TwistedSpoon.\r</language>
+		<language name="English">Marie: Il me semble que c’est la\npremière fois que l’on se rencontre.\rPermets-moi de me présenter. Je suis\nMarie, du mardi.\rEn cadeau...\nPermets-moi de t’offrir...\fUne Cuillertordu.\r</language>
 	</row>
 	<row id="msg_0752_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: Wouldn’t you agree that it is\nmost adorable?\rIt strengthens Psychic-type moves.\rI am certain it will be of use.</language>
+		<language name="English">Marie: C’est ravissant, tu ne trouves\npas?\rCela améliore les capacités de type Psy.\nJe suis sûre que cela te sera utile.</language>
 	</row>
 	<row id="msg_0752_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: Have you met Monica, my older\nsister?\rOr my younger brother, Wesley?\rI am the second of seven children.</language>
+		<language name="English">Marie: As-tu rencontré Lucie,\nma grande sœur?\rOu mon petit frère, Homer?\rJe suis la deuxième des sept enfants.</language>
 	</row>
 	<row id="msg_0752_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: Tuesday was over before I\neven noticed...\rI’ll see you again next Tuesday...</language>
+		<language name="English">Marie: Le mardi se finit si vite!\nRencontrons-nous un prochain mardi!</language>
 	</row>
 	<row id="msg_0752_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: I’m Wesley of Wednesday.\rPleased to meet you. Please take a\nsouvenir.\r</language>
+		<language name="English">Homer: Alors, comment va?\rMoi c’est Homer, du mercredi. Et\naujourd’hui...\fC’est mercredi!\rEnchanté de faire ta connaissance.\nV’là un souvenir.\r</language>
 	</row>
 	<row id="msg_0752_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: Black Belt beefs up the power\nof Fighting-type moves.</language>
+		<language name="English">Homer: La Ceinture Noire renforce le\npouvoir des capacités du type Combat.</language>
 	</row>
 	<row id="msg_0752_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: Since you found me, you must\nhave met my brothers and sisters.\rOr did you just get lucky?</language>
+		<language name="English">Homer: Avant de m’avoir trouvé,\nt’as dû rencontrer mes frères et\fsœurs.\rOu alors t’es en veine?</language>
 	</row>
 	<row id="msg_0752_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: No way!\nWednesday’s already over!\fSee you next week!</language>
+		<language name="English">Homer: Pas de bol!\nMercredi, c’est fini!\fA la semaine prochaine!</language>
 	</row>
 	<row id="msg_0752_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: Who are you?\rI’m Arthur of Thursday.\rHere, take this!\r</language>
+		<language name="English">Jérôme: T’es qui?\rJ’suis Jérôme, du jeudi.\rTiens!\r</language>
 	</row>
 	<row id="msg_0752_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: If you use Rock-type moves,\nyou should give that to your Pokémon.\rIt raises the strength of\nRock-type moves.</language>
+		<language name="English">Jérôme: Essaye de la donner à un\nPokémon qui a des capacités Roche.\rÇa va améliorer ses attaques!</language>
 	</row>
 	<row id="msg_0752_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: I’m Arthur of Thursday!\nI’m the second son in a line of seven\fsiblings!</language>
+		<language name="English">Jérôme: Je suis Jérôme, du jeudi!\nLe cadet de la fratrie des 7.</language>
 	</row>
 	<row id="msg_0752_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: Do you think that the middle of\nthe week is Wednesday?\fOr do you think it’s Thursday?\rGo decide, and I’ll see you\nnext Thursday!</language>
+		<language name="English">Jérôme: Tu crois que le mercredi, c’est\nle milieu de la semaine?\fOu plutôt le jeudi?\rBah, si tu veux qu’on se revoie, ce sera\njeudi de la semaine prochaine\fen tout cas!</language>
 	</row>
 	<row id="msg_0752_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: Yahoo! It’s Friday!\rI’m Frieda of Friday!\nNice to meet you!\rHere’s a Poison Barb for you!\r</language>
+		<language name="English">Vanessa: Ouais! On est vendredi!\rJe suis Vanessa, du vendredi!\nBonjour toi!\rVoilà un Pic Venin pour toi!\r</language>
 	</row>
 	<row id="msg_0752_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: Give it to a Pokémon that has\nPoison-type moves.\rOh! It’s wicked!\rYou’ll be shocked how good it makes\nPoison-type moves!</language>
+		<language name="English">Vanessa: Donne-le à un Pokémon qui a\ndes capacités du type Poison.\rOh!\rC’est terrible!\rTu verras à quel point ça peut les\naméliorer!</language>
 	</row>
 	<row id="msg_0752_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: Hiya! What day do you like?\rI love Friday. No doubt about it!\rDon’t you think it’s great too?</language>
+		<language name="English">Vanessa: Ouais!\nQuel est le meilleur jour de la semaine?\rMoi j’aime le vendredi, hé oui!\rT’es pas d’accord?</language>
 	</row>
 	<row id="msg_0752_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: Oh, today’s not Friday?\rMan... I wish every day were Friday,\nthat’d be so much fun!</language>
+		<language name="English">Vanessa: On est vendredi, aujourd’hui?\rMoi j’aime que le vendredi!</language>
 	</row>
 	<row id="msg_0752_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: ...It’s Saturday...\rI’m Santos of Saturday...\rTake this...\r</language>
+		<language name="English">Samuel: ...\rJe suis Samuel, du samedi...\rTiens...\r</language>
 	</row>
 	<row id="msg_0752_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: ...\rSoft Sand...\rGround-type moves get stronger...\nIt will startle you...</language>
+		<language name="English">Samuel: ...\rSable Doux...\rLes attaques Sol sont plus fortes...\rTu vas voir...</language>
 	</row>
 	<row id="msg_0752_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: ...\rSee you again on another Saturday...</language>
+		<language name="English">Samuel: ...\rA samedi prochain...</language>
 	</row>
 	<row id="msg_0752_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: Today’s Saturday...\nNo... Wait... Huh?\rI’ll see you next Saturday then...</language>
+		<language name="English">Samuel: On n’est pas samedi...\nA samedi prochain alors...</language>
 	</row>
 	<row id="msg_0752_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: Hi! I’m Sunny of Sunday, meaning\nit’s Sunday today!\rI was told to give you this if I saw you!\r</language>
+		<language name="English">Dimitri: Salut! Moi c’est Dimitri,\ndu dimanche. Et on est dimanche!\rOn m’a dit de te donner ça!\r</language>
 	</row>
 	<row id="msg_0752_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: That thing...\rUm...\r...What was it now...\r...\rOh! I remember now!\rA Pokémon that knows Electric-type\nmoves should hold it.\rMy sis Monica said it powers up\nElectric-type moves!</language>
+		<language name="English">Dimitri: Ça...\rHeu...\r... C’est...\r...\rOh! Je me souviens!\rC’est pour un Pokémon à capacités\nElectrik.\rMa sœur Lucie dit que ça les\naméliore!</language>
 	</row>
 	<row id="msg_0752_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: My sister Monica...\nMy sister Tuscany...\fMy brother Wesley...\fMy brother Arthur...\fMy sister Frieda...\fAnd my brother Santos.\rThey’re all older than me!</language>
+		<language name="English">Dimitri: Mes frères et sœurs sont\nLucie, Marie, Homer, Jérôme, Vanessa\fet Samuel.\rIls sont tous plus âgés que moi!</language>
 	</row>
 	<row id="msg_0752_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: Huh? Isn’t today Sunday?\nUm... I forgot!</language>
+		<language name="English">Dimitri: On n’est pas dimanche?\nHeu! Je sais plus!</language>
 	</row>
 	<row id="msg_0752_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Alert Ribbon!\r</language>
+		<language name="English">Lucie: Ah, c’est toi!\nTu nous as trouvés tous les 7.\rNous sommes tous des amis\nmaintenant!\rEt en preuve de cette amitié, voici\nun Ruban Alerte!\r</language>
 	</row>
 	<row id="msg_0752_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Monica: That Alert Ribbon looks great\non your Pokémon...</language>
+		<language name="English">Lucie: Ce Ruban Alerte ira très bien à\nton Pokémon!</language>
 	</row>
 	<row id="msg_0752_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} put on the Alert Ribbon!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} reçoit le Ruban Alerte.</language>
 	</row>
 	<row id="msg_0752_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
+		<language name="English">Je ne donne qu’un ruban par semaine.\rSi tu en veux d’autres, reviens à partir\nde la semaine prochaine!</language>
 	</row>
 	<row id="msg_0752_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Shock Ribbon!\r</language>
+		<language name="English">Marie: Ah, c’est toi!\nTu nous as trouvés tous les 7.\rNous sommes tous des amis\nmaintenant!\rEt en preuve de cette amitié, voici\nun Ruban Choc!\r</language>
 	</row>
 	<row id="msg_0752_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tuscany: That Shock Ribbon looks great\non your Pokémon...</language>
+		<language name="English">Marie: Ce Ruban Choc siéra parfaitement\nà ton Pokémon!</language>
 	</row>
 	<row id="msg_0752_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} put on the Shock Ribbon!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} reçoit le Ruban Choc.</language>
 	</row>
 	<row id="msg_0752_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
+		<language name="English">Je ne donne qu’un ruban par semaine.\rSi tu en veux d’autres, reviens à partir\nde la semaine prochaine!</language>
 	</row>
 	<row id="msg_0752_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: Hey, you!\nThe one who found all of my siblings!\fYeah, you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Downcast Ribbon!\r</language>
+		<language name="English">Homer: Ah, c’est toi!\nTu nous as trouvés tous les 7.\rNous sommes tous des amis\nmaintenant, hein?\rEt en preuve de cette amitié, voici\nun Ruban Déprime!\r</language>
 	</row>
 	<row id="msg_0752_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wesley: That Downcast Ribbon looks\ngreat on your Pokémon...</language>
+		<language name="English">Homer: Ce Ruban Déprime ira super\nbien à ton Pokémon!</language>
 	</row>
 	<row id="msg_0752_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} put on the\nDowncast Ribbon!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} reçoit le Ruban Déprime.</language>
 	</row>
 	<row id="msg_0752_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
+		<language name="English">Je ne donne qu’un ruban par semaine.\rSi tu en veux d’autres, reviens à partir\nde la semaine prochaine!</language>
 	</row>
 	<row id="msg_0752_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: Hey, you found all of my\nsiblings, didn’t you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Careless Ribbon!\r</language>
+		<language name="English">Jérôme: Ah, c’est toi!\nTu nous as trouvés tous les 7.\rNous sommes tous des potes\nmaintenant!\rEt en preuve de cette amitié, voici\nun Ruban Négligence!\r</language>
 	</row>
 	<row id="msg_0752_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arthur: That Careless Ribbon looks\ngreat on your Pokémon...</language>
+		<language name="English">Jérôme: Ce Ruban Négligence ira à ton\nPokémon, j’en suis sûr!</language>
 	</row>
 	<row id="msg_0752_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} put on the\nCareless Ribbon!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} reçoit le\nRuban Négligence.</language>
 	</row>
 	<row id="msg_0752_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
+		<language name="English">Je ne donne qu’un ruban par semaine.\rSi tu en veux d’autres, reviens à partir\nde la semaine prochaine!</language>
 	</row>
 	<row id="msg_0752_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: Hey, you’re the one who found\nall of my siblings, aren’t you!\rWe’re pretty good friends now, don’t\nyou agree?\rSince we’re such good friends, I’ll give\nyou this Relax Ribbon!\r</language>
+		<language name="English">Vanessa: Ah, c’est toi!\nTu nous as trouvés tous les 7.\rNous sommes tous des amis\nmaintenant, oui!\rEt en preuve de cette amitié, voici\nun Ruban Détente!\r</language>
 	</row>
 	<row id="msg_0752_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frieda: That Relax Ribbon looks great\non your Pokémon...</language>
+		<language name="English">Vanessa: Ce Ruban Détente ira à ton\nPokémon comme un gant!</language>
 	</row>
 	<row id="msg_0752_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} put on the Relax Ribbon!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} reçoit le Ruban Détente.</language>
 	</row>
 	<row id="msg_0752_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
+		<language name="English">Je ne donne qu’un ruban par semaine.\rSi tu en veux d’autres, reviens à partir\nde la semaine prochaine!</language>
 	</row>
 	<row id="msg_0752_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: ...\nYou found all of my siblings...\rWe’re pretty good friends...\n...Right?\rHere... Have this Snooze Ribbon...\r</language>
+		<language name="English">Samuel: ...\nTu nous as trouvés tous les 7...\rNous sommes tous... amis...\rEn preuve... voici...\nRuban Sieste...\r</language>
 	</row>
 	<row id="msg_0752_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Santos: That Snooze Ribbon looks good\non your Pokémon...</language>
+		<language name="English">Samuel: Ce Ruban Sieste ira... à ton\nPokémon...</language>
 	</row>
 	<row id="msg_0752_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} put on the Snooze Ribbon!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} reçoit le Ruban Sieste.</language>
 	</row>
 	<row id="msg_0752_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
+		<language name="English">Je ne donne qu’un ruban par semaine...\rPour d’autres, reviens... la semaine\nprochaine...</language>
 	</row>
 	<row id="msg_0752_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: Hey, you found all of my siblings!\rWe’re pretty good friends now, right?\rSince we’re such good friends, I’ll give\nyou this Smile Ribbon!\r</language>
+		<language name="English">Dimitri: Tu as trouvé tous mes frères et\nsœurs!\rComme on est tous amis, je te donne\nun Ruban Sourire.\r</language>
 	</row>
 	<row id="msg_0752_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny: That Smile Ribbon looks great\non your Pokémon...</language>
+		<language name="English">Dimitri: Ce Ruban Sourire ira\nmerveilleusement à ton Pokémon.</language>
 	</row>
 	<row id="msg_0752_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} put on the Smile Ribbon!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} reçoit le Ruban Sourire.</language>
 	</row>
 	<row id="msg_0752_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can only get one ribbon per week...\rIf you want another ribbon, come find\nme again next week!</language>
+		<language name="English">Je ne donne qu’un ruban par semaine.\rSi tu en veux d’autres, reviens à partir\nde la semaine prochaine!</language>
 	</row>
 </body>

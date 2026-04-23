@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0788_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Aucun</language>
 	</row>
 	<row id="msg_0788_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -22,7 +22,7 @@
 	</row>
 	<row id="msg_0788_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cote d’Azur</language>
+		<language name="English">Côte d’Azur</language>
 	</row>
 	<row id="msg_0788_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -46,7 +46,7 @@
 	</row>
 	<row id="msg_0788_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Franche-Comte</language>
+		<language name="English">Franche-Comté</language>
 	</row>
 	<row id="msg_0788_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -62,7 +62,7 @@
 	</row>
 	<row id="msg_0788_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pays-de-la-Loire</language>
+		<language name="English">Pays de la Loire</language>
 	</row>
 	<row id="msg_0788_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0788_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Midi-Pyrenees</language>
+		<language name="English">Midi-Pyrénées</language>
 	</row>
 	<row id="msg_0788_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -82,7 +82,7 @@
 	</row>
 	<row id="msg_0788_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rhone-Alpes</language>
+		<language name="English">Rhône-Alpes</language>
 	</row>
 	<row id="msg_0788_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
@@ -90,6 +90,6 @@
 	</row>
 	<row id="msg_0788_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Loire</language>
+		<language name="English">Centre</language>
 	</row>
 </body>

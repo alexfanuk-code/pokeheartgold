@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="msg_0592_T25R1001_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Goldenrod\nDepartment Store.</language>
+		<language name="English">Bienvenue au Centre Commercial\nde Doublonville!</language>
 	</row>
 	<row id="msg_0592_T25R1001_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The department store has a\ndecent selection.\rBut some items are only available\nas Game Corner prizes.</language>
+		<language name="English">Ce Centre Commercial a toutes sortes\nde produits.\rMais il y a dans cette ville des objets\nque l’on ne peut gagner qu’au Casino.</language>
 	</row>
 	<row id="msg_0592_T25R1001_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of business would a\nTeam Rocket member have here?\rWe aren’t selling sanity here.</language>
+		<language name="English">Qu’est-ce que la Team Rocket a à faire\ndans un Centre Commercial!\rOn ne vend pas d’uniformes\nridicules, ici!</language>
 	</row>
 	<row id="msg_0592_T25R1001_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m raring to shop again today!</language>
+		<language name="English">Je vais encore faire plein de shopping\naujourd’hui!</language>
 	</row>
 	<row id="msg_0592_T25R1001_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Be it Team Rocket, “Team Pocket,” or\nwhatever...leave me alone!\rI’m busy shopping and have no time\nto waste!</language>
+		<language name="English">Je me fiche de vos Team Rocket ou\nPocket, hors de mon chemin!\rJe ne permets à personne de m’empêcher\nde faire mon shopping!</language>
 	</row>
 	<row id="msg_0592_T25R1001_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom’s good at bargain hunting.\rShe always buys stuff at lower prices.</language>
+		<language name="English">Maman est la reine des courses!\rElle achète toujours les trucs\nun peu moins chers!</language>
 	</row>
 	<row id="msg_0592_T25R1001_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom told me to stay away from\npeople in black suits.</language>
+		<language name="English">Ma maman m’a dit de ne pas m’approcher\ndes gens habillés tout en noir.</language>
 	</row>
 	<row id="msg_0592_T25R1001_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1F Service Counter\n2F Trainer’s Market\f3F Battle Collection\f4F Medicine Box\f5F TM Corner\f6F Rooftop Atrium</language>
+		<language name="English">RC: Accueil\n1¹: Boutique du Dresseur\f2⁴: Collection de Combat\f3⁴: Pharmacie\f4⁴: Le Coin des CT\f5⁴: Coin tranquille</language>
 	</row>
 </body>

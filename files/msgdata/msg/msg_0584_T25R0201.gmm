@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0584_T25R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sigh... I opened a branch here,\nbut I can’t sell my Bicycles.\fWhy is that?\rCould you ride a Bicycle and\nadvertise for me? {YESNO 0}</language>
+		<language name="English">... (soupir)...\nJ’ai ouvert ce magasin ici, mais\fles Bicyclettes ne se vendent pas...\rDis-moi, toi!\nTu pourrais faire de la Bicyclette\fpour me faire de la pub? {YESNO 0}</language>
 	</row>
 	<row id="msg_0584_T25R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Really? Great!\rGive me your name and phone number,\nand I’ll loan you a Bicycle. {YESNO 0}</language>
+		<language name="English">V... Vraiment?\rAlors donne-moi ton nom et ton\nnuméro de téléphone!\fJe vais te prêter une Bicyclette! {YESNO 0}</language>
 	</row>
 	<row id="msg_0584_T25R0201_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0584_T25R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The main shop is at Cerulean\nback in Kanto.\rSay hello to the shop manager\nif you happen to go there!\rOur Bicycles are first-rate!\nYou can ride them in Kanto, too!</language>
+		<language name="English">La maison mère de ce magasin se trouve\nà Azuria, dans la région de Kanto.\rSi tu as l’occasion d’y aller, passe\nle bonjour au patron pour moi!\rLes Bicyclettes de Cycles à Gogo sont\nles meilleures du marché, on ne trouve\fqu’elles à Kanto!</language>
 	</row>
 	<row id="msg_0584_T25R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sigh... Oh, for the kindness\nof people...</language>
+		<language name="English">... (soupir)... J’aimerais tomber\nsur quelqu’un de gentil, un jour...</language>
 	</row>
 	<row id="msg_0584_T25R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a shiny new Bicycle!</language>
+		<language name="English">C’est une Bicyclette toute neuve!</language>
 	</row>
 </body>

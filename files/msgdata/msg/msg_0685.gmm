@@ -2,94 +2,94 @@
 <body language="English">
 	<row id="msg_0685_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chad</language>
+		<language name="English">Mathys</language>
 	</row>
 	<row id="msg_0685_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? Is that thing a Pokédex? Have you\nmet Professor Oak?\rHuh? You have?\nThat’s way cool!\rI have a dream of becoming a Pokémon\nresearcher like Professor Oak.\rMay I please have your phone number?\rWe should chat about Professor Oak.\rI’m sure it will be loads of fun! {YESNO 0}</language>
+		<language name="English">De quoi? Ce truc, c’est un Pokédex?\nTu connais le Professeur Chen?\rC’est vrai? Trop cool!\rMoi aussi je veux être un chercheur\ncélèbre, comme le Professeur!\rDis, je peux abuser?\nJ’aimerais ton numéro.\rOn pourra parler du Professeur\nChen tous les deux! {YESNO 0}</language>
 	</row>
 	<row id="msg_0685_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must listen to Professor Oak’s\nPokémon Talk, right?</language>
+		<language name="English">Tu écoutes la Chronique Pokémon du\nProfesseur Chen, non?</language>
 	</row>
 	<row id="msg_0685_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... I wish I had a chance to meet\nProfessor Oak...</language>
+		<language name="English">Oh... J’aurais bien aimé rencontrer\nle Professeur...</language>
 	</row>
 	<row id="msg_0685_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">May I please have your phone number?\rWe should chat about Professor\nOak. It will be loads of fun! {YESNO 0}</language>
+		<language name="English">J’aimerais ton numéro.\rOn pourra parler du Professeur\nChen tous les deux!\fOn va bien s’amuser! {YESNO 0}</language>
 	</row>
 	<row id="msg_0685_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nWait, aren’t you nearby?\fDo you like the phone that much?</language>
+		<language name="English">Mais!\nViens me parler en face!</language>
 	</row>
 	<row id="msg_0685_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I recently began observing wild\n{STRVAR_1 0, 10, 0}.\rI’ve been learning all sorts of new\nthings through my observations.\rI wish I could become a Pokémon\nresearcher like Professor Oak soon.\rSee you later!</language>
+		<language name="English">J’ai commencé à observer\nles {STRVAR_1 0, 10, 0} sauvages.\rDe cette manière, j’ai appris tout\nplein de trucs.\rJe veux être un chercheur Pokémon\ncomme le Professeur Chen.\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yes, I managed to knock out a wild\n{STRVAR_1 0, 11, 0} a while back.\rWell, considering all the Pokémon\nstudying I do every day,\fit was inevitable.\rSee you later!</language>
+		<language name="English">J’ai réussi à battre un {STRVAR_1 0, 11, 0}\nsauvage.\rVu que j’étudie comme un fou,\nc’est normal.\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh yes, I came close to catching\na wild {STRVAR_1 0, 11, 0}, but it got away.\rFor the longest time, I’ve been wanting\nto observe {STRVAR_1 0, 11, 0}. Man...\rSee you later!\n</language>
+		<language name="English">J’ai failli attraper un {STRVAR_1 0, 11, 0},\nmais il est parti.\rJ’ai toujours voulu observer\nun {STRVAR_1 0, 11, 0} pourtant.\fC’est dommage...\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know Blue?\rHe’s Professor Oak’s grandson and a\nformer Pokémon League Champion!\fHe’s one super Pokémon Trainer!\rSee you later!</language>
+		<language name="English">Tu connais Blue?\rC’est le petit-fils du Professeur Chen\net un ancien Maître de la Ligue!\fC’est un sacré Dresseur!\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak has a granddaughter\nnamed Daisy.\rWhen she’s around, even the most\nferocious Pokémon calm right down.\rSee you later!</language>
+		<language name="English">La petite-fille du Professeur Chen\ns’appelle Nina.\rElle a le pouvoir de calmer même\nles Pokémon les plus féroces.\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everyone’s talking about\nProfessor Elm.\rHe used to be an assistant to the great\nProfessor Oak!\rThat is so cool! I envy him!\rSee you later!</language>
+		<language name="English">Tout le monde parle du\nProfesseur Orme. Il était l’assistant\fdu Professeur Chen!\rC’est trop cool! Je l’envie!\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak’s dream is to compile a\ncomprehensive Pokédex.\rI envy you for taking part in that\nproject...\rSee you later!</language>
+		<language name="English">Le rêve du Professeur Chen est d’avoir\nun Pokédex complet.\rJe t’envie de faire partie de ce\nprojet...\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know Kurt, the Poké Ball\ncreator?\rHe and Professor Oak go back a long\nway. I guess great people attract\fone another!\rSee you later!</language>
+		<language name="English">Tu connais Fargas, le fabricant de\nPoké Balls?\rIl connaît le Professeur Chen depuis\nlongtemps.\rLes grands esprits se rencontrent!\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon League is the great\ngathering place for all Trainers who\fwish to become the Champion.\rProfessor Oak acts as an advisor to\nthe Pokémon League’s headquarters.\rHe really is a great man.\rSee you later!</language>
+		<language name="English">La Ligue Pokémon est le centre le plus\nvisité par les Dresseurs en quête de\fvictoire.\rLe Professeur Chen est un consultant\nau quartier général de la Ligue.\fIl est si merveilleux.\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak’s Pokémon Talk is a\npopular radio show, right?\rDid you know that he was going to turn\ndown the show at first?\rBut Mary’s energy and persistence wore\nhim down.\fSo we have Mary to thank for it!\rSee you later!</language>
+		<language name="English">Tu connais “La Chronique Pokémon”,\nl’émission de radio du Professeur Chen?\rAu début, le Professeur ne voulait pas\nla faire, mais Lula a été si persuasive\fqu’il a fini par accepter!\fRemercions tous Lula!\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak used to be a Trainer a\nlong time ago.\rBut rather than battling, he found\nPokémon themselves to be interesting.\rSo he abandoned his training to focus\non becoming a researcher.\rSee you later!</language>
+		<language name="English">Le Professeur Chen était un Dresseur\nil y a longtemps.\rMais il n’était pas très porté sur\nles combats.\rIl a alors arrêté son entraînement\npour devenir chercheur.\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak has a granddaughter\nnamed Daisy.\rShe has tea every day for an hour from\nthree in the afternoon.\rI wish I could join her for tea and chat\nabout Professor Oak.\rSee you later!</language>
+		<language name="English">Le Professeur Chen a une petite-fille\ndu nom de Nina.\rElle aime prendre le thé tous les jours\nvers 3 heures de l’après-midi.\rJ’aimerais être de la fête pour\nparler avec le Professeur Chen...\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know?\nProfessor Oak traveled all over the\fworld when he was young.\rWhile traveling, he must’ve learned\nabout Pokémon naturally.\rI envy him... I’d like to travel and\nlearn about things, too...\rSee you later!</language>
+		<language name="English">Le savais-tu?\nLe Professeur Chen a fait le tour du\fmonde étant jeune.\rIl a dû en apprendre beaucoup sur\nles Pokémon.\fComme je l’envie!\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know?\nProfessor Oak traveled all over the\fworld when he was young.\rWhile traveling, he must’ve learned\nabout Pokémon naturally.\rI envy him... I’d like to travel and\nlearn about things, too...\rSee you later!</language>
+		<language name="English">Le savais-tu?\nLe Professeur Chen a fait le tour du\fmonde étant jeune.\rIl a dû en apprendre beaucoup sur\nles Pokémon.\fComme je l’envie!\rA plus tard!</language>
 	</row>
 	<row id="msg_0685_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Want to battle?\rI have to battle every so often to\navoid getting rusty.\rI’ll be on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Un combat?\nS’entraîner, c’est la santé.\rJe suis sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0685_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you remember about our battle?\rThe place is {STRVAR_1 4, 3, 0}.\nHurry over--I’m waiting.</language>
+		<language name="English">Tu te souviens de notre combat?\rC’était sur la {STRVAR_1 4, 3, 0}.\nViens vite! Je t’attends.</language>
 	</row>
 	<row id="msg_0685_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m going to study all about Pokémon so\nthat Professor Oak will make me his\fassistant!</language>
+		<language name="English">Je vais étudier pour devenir\nl’assistant du Professeur Chen!</language>
 	</row>
 </body>

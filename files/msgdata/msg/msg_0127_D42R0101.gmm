@@ -2,19 +2,19 @@
 <body language="English">
 	<row id="msg_0127_D42R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whoa! You startled me there!\rI had my BlackGlasses on, so I didn’t\nnotice you at all.\rWhat am I doing here?\rHey, don’t you worry about it.\nI’ll give you a pair of BlackGlasses, so\fforget you saw me, OK?\r</language>
+		<language name="English">Woah! Tu m’as fait peur!\rJ’avais mes Lunettes Noires, alors je\nn’ai pas vu que tu étais là.\rTu te demandes ce que je fais là?\rEt pourquoi je serais pas là?!\rTiens, prends cette paire de Lunettes\nNoires, et oublie que tu m’as vu.\r</language>
 	</row>
 	<row id="msg_0127_D42R0101_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0127_D42R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BlackGlasses up the power of\nDark-type moves.</language>
+		<language name="English">Si tu les donnes à un Pokémon, elles\naugmenteront la puissance de ses\fattaques de type Ténèbres.</language>
 	</row>
 	<row id="msg_0127_D42R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have room for this...</language>
+		<language name="English">Tu n’as plus de place...</language>
 	</row>
 </body>

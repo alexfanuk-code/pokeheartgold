@@ -2,58 +2,58 @@
 <body language="English">
 	<row id="msg_0689_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Alan</language>
+		<language name="English">Aimé</language>
 	</row>
 	<row id="msg_0689_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I’m reading textbooks and walking,\nI have to look down, so I notice items\fon the ground.\rNext time I find something, I’ll give it\nto you.\rMay I have your phone number? {YESNO 0}</language>
+		<language name="English">Lire des livres, c’est important.\nJe lis et marche en même temps.\fAlors je regarde en bas.\rDe cette manière, je trouve des\nobjets sur le sol.\rMa prochaine trouvaille est pour\ntoi!\rJe peux avoir ton numéro? {YESNO 0}</language>
 	</row>
 	<row id="msg_0689_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll call you as soon as I find\nsomething. You can count on it!</language>
+		<language name="English">Je t’appelle si je trouve quelque\nchose. Tu peux compter sur moi!</language>
 	</row>
 	<row id="msg_0689_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... I thought it would be a good\nbreak to call you when I’m studying...</language>
+		<language name="English">Oh... Je pensais qu’on s’entendait\nbien...</language>
 	</row>
 	<row id="msg_0689_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If I find something, it’s yours.\nSo may I have your phone number? {YESNO 0}</language>
+		<language name="English">Ma prochaine trouvaille est pour toi,\npromis!\rJe peux avoir ton numéro? {YESNO 0}</language>
 	</row>
 	<row id="msg_0689_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This, this! This is yours! Ta-da!\r</language>
+		<language name="English">Tiens!\nC’est pour toi!\r</language>
 	</row>
 	<row id="msg_0689_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nWait. Don’t tell me you’re nearby?\rDid you not notice because you were\ntoo busy looking at the ground, too?</language>
+		<language name="English">Tu n’es pas loin?\nPourquoi tu ne viens pas me voir?</language>
 	</row>
 	<row id="msg_0689_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0}’s getting stronger,\nexactly as I calculated!\rBy the way, we knocked out a wild\n{STRVAR_1 0, 11, 0} just the other day.\rStudying up in advance worked!\rSee you later!</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0} est très fort!\nJe l’avais prévu!\rAu fait, j’ai battu un {STRVAR_1 0, 11, 0}\nl’autre jour.\rLa préparation, ça paye!\rA plus tard!</language>
 	</row>
 	<row id="msg_0689_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0}’s getting stronger,\nexactly as I calculated!\rBy the way, a wild {STRVAR_1 0, 11, 0} escaped\non me yesterday.\rA computational error on my part...\rSee you later!</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0} est très fort!\nJe l’avais prévu!\rAu fait, un {STRVAR_1 0, 11, 0} m’a\néchappé hier.\rUne erreur de calcul...\rA plus tard!</language>
 	</row>
 	<row id="msg_0689_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve studied quite a bit since then, and\nI’ve gotten a lot better!\rI’m hanging out on {STRVAR_1 4, 3, 0}.\nCan you come down for a battle?</language>
+		<language name="English">J’ai bien étudié et j’ai fait de\ngros progrès!\rJe suis sur la {STRVAR_1 4, 3, 0}.\nTu viens te faire un p’tit combat?</language>
 	</row>
 	<row id="msg_0689_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If we don’t battle soon, I’ll forget my\nstrategy!\rI’m waiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Y faut qu’on se batte! Sinon je vais\noublier ma super stratégie!\rJ’attends sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0689_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I haven’t picked up anything yet.\nI’ll call you if I find something.</language>
+		<language name="English">Je n’ai encore rien trouvé.\rJe t’appelle si j’ai du nouveau.</language>
 	</row>
 	<row id="msg_0689_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heh heh. I found something really\nawesome earlier!\rI’ll give it to you. Can you come to\n{STRVAR_1 4, 3, 0} and pick it up?</language>
+		<language name="English">J’ai trouvé quelque chose de bien!\rJe te l’offre. Tu peux venir jusqu’à\nla {STRVAR_1 4, 3, 0} pour le chercher?</language>
 	</row>
 	<row id="msg_0689_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I have to do my homework, so can you\ncome get your gift right away?\rI’m waiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">J’ai des devoirs à faire. Tu peux venir\nprendre ton cadeau maintenant?\rJ’attends sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 </body>

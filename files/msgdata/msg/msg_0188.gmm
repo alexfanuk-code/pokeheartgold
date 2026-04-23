@@ -2,259 +2,259 @@
 <body language="English">
 	<row id="msg_0188_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Check Wii Number</language>
+		<language name="English">Vérifier le code Wii</language>
 	</row>
 	<row id="msg_0188_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Register Wii Number</language>
+		<language name="English">Enregistrer le code Wii</language>
 	</row>
 	<row id="msg_0188_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Set Wii Message Reception</language>
+		<language name="English">Réception du message Wii</language>
 	</row>
 	<row id="msg_0188_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Delete Wii Message Settings</language>
+		<language name="English">Eff. param. message Wii</language>
 	</row>
 	<row id="msg_0188_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Exit</language>
+		<language name="English">Quitter</language>
 	</row>
 	<row id="msg_0188_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you in a location where you can\nconnect to Nintendo Wi-Fi Connection?</language>
+		<language name="English">Pouvez-vous vous connecter à la\nconnexion Wi-Fi Nintendo?</language>
 	</row>
 	<row id="msg_0188_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please register when you can connect\nto Nintendo Wi-Fi Connection.\r</language>
+		<language name="English">Pour enregistrer un code Wii, vous\ndevez avoir accès à la CWF Nintendo.\r</language>
 	</row>
 	<row id="msg_0188_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Wii number and this Nintendo DS\nsystem’s Nintendo WFC User Information\fwill be saved.\rConnect to Nintendo Wi-Fi Connection?</language>
+		<language name="English">Le code Wii et les paramètres de la\nconfiguration CWF Nintendo de cette\fNintendo DS vont être sauvegardés.\rSe connecter à la CWF Nintendo?</language>
 	</row>
 	<row id="msg_0188_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unable to connect to Nintendo Wi-Fi\nConnection.\rPlease check your connection settings.</language>
+		<language name="English">Impossible de se connecter à la\nconnexion Wi-Fi Nintendo.\rVérifiez les paramètres de la\nconnexion.</language>
 	</row>
 	<row id="msg_0188_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Registration Code has been sent to\nyour Wii console.\rPlease enter the Registration Code.</language>
+		<language name="English">Un code d’inscription a été envoyé\nsur votre console Wii.\rVeuillez saisir ce code d’inscription.</language>
 	</row>
 	<row id="msg_0188_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Disconnect from Nintendo WFC and\ncancel registering your Wii number?</language>
+		<language name="English">Se déconnecter de la CWF Nintendo et\nannuler l’enregistrement du code Wii?</language>
 	</row>
 	<row id="msg_0188_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Disconnecting from Nintendo Wi-Fi\nConnection.</language>
+		<language name="English">Déconnexion de la connexion \nWi-Fi Nintendo.</language>
 	</row>
 	<row id="msg_0188_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are now disconnected from Nintendo\nWi-Fi Connection.</language>
+		<language name="English">Vous avez été déconnecté de\nla connexion Wi-Fi Nintendo.</language>
 	</row>
 	<row id="msg_0188_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enter the last four digits of\nthe Registration Code from the\fWii message.\r</language>
+		<language name="English">Veuillez saisir les quatre derniers\nchiffres du code d’inscription\fqui vous a été communiqué par\fmessage Wii.\r</language>
 	</row>
 	<row id="msg_0188_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Confirming the Registration Code.\nPlease wait...</language>
+		<language name="English">Confirmation du code d’inscription.\nVeuillez patienter...</language>
 	</row>
 	<row id="msg_0188_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Incorrect Registration Code.\r</language>
+		<language name="English">Code d’inscription incorrect.\r</language>
 	</row>
 	<row id="msg_0188_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Wii number has been registered.\r</language>
+		<language name="English">Votre code Wii est maintenant\nenregistré.\r</language>
 	</row>
 	<row id="msg_0188_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A password is needed to confirm your\nWii number.\rPlease enter a 4-digit number and make\nnote of it as your Wii number password.\r</language>
+		<language name="English">Un mot de passe est requis pour\nconfirmer votre code Wii.\rVeuillez saisir un nombre à quatre\nchiffres et en prendre note.\rCe nombre constituera le mot de passe\nlié à votre code Wii.\r</language>
 	</row>
 	<row id="msg_0188_00022" index="22">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00023" index="23">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Wii number password has been set.\r</language>
+		<language name="English">Le mot de passe lié à votre code Wii\nest enregistré.\r</language>
 	</row>
 	<row id="msg_0188_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may choose to receive a\nWii message when a trade\fgoes through at the GTS.\rWould you like to be notified\nby a Wii message?</language>
+		<language name="English">Vous pouvez choisir de recevoir un\nmessage Wii lorsqu’un échange\fest conclu à la GTS.\rVoulez-vous activer la notification\npar message Wii?</language>
 	</row>
 	<row id="msg_0188_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have chosen to receive\nWii messages.\rThe next time you use the GTS, you will\nbe notified of trades by Wii messages.\r</language>
+		<language name="English">Vous avez choisi de recevoir les\nmessages Wii de confirmation.\rQuand vous utiliserez la GTS, tout\néchange sera confirmé par message Wii.\r</language>
 	</row>
 	<row id="msg_0188_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have chosen not to receive\nWii messages.\rThe next time you use the GTS,\nyou will not be notified of trades by\fWii messages.\r</language>
+		<language name="English">Vous avez choisi de ne pas recevoir\nles messages Wii de confirmation.\rQuand vous utiliserez la GTS, les\néchanges ne seront donc pas confirmés\fpar message Wii.\r</language>
 	</row>
 	<row id="msg_0188_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Wii message settings and the\npassword will be deleted. Is that OK?</language>
+		<language name="English">Les paramètres des messages Wii et\nle mot de passe lié à votre code Wii\fseront effacés. Confirmer?</language>
 	</row>
 	<row id="msg_0188_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All Wii message settings were deleted.\r</language>
+		<language name="English">Les paramètres des messages Wii ont\nété effacés.\r</language>
 	</row>
 	<row id="msg_0188_00030" index="30">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00031" index="31">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Sauvegarde en cours...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0188_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} saved the game.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a sauvegardé la partie.</language>
 	</row>
 	<row id="msg_0188_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Save error.</language>
+		<language name="English">Erreur de sauvegarde.</language>
 	</row>
 	<row id="msg_0188_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00036" index="36">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00037" index="37">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">For confirmation, please reenter your\nWii number.\r</language>
+		<language name="English">Pour confirmer, veuillez saisir votre\ncode Wii une nouvelle fois.\r</language>
 	</row>
 	<row id="msg_0188_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Wii number does not match.\nPlease reenter it.\r</language>
+		<language name="English">Ce code Wii est différent du précédent.\nVeuillez saisir votre code à nouveau.\r</language>
 	</row>
 	<row id="msg_0188_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This password is incorrect.\nPlease reenter it.\r</language>
+		<language name="English">Mot de passe incorrect.\nVeuillez le saisir à nouveau.\r</language>
 	</row>
 	<row id="msg_0188_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Wii number is:\n{STRVAR_1 53, 0, 0} {STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}\r</language>
+		<language name="English">Votre code Wii:\n{STRVAR_1 53, 0, 0} {STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}\r</language>
 	</row>
 	<row id="msg_0188_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t register</language>
+		<language name="English">Ne pas enregistrer</language>
 	</row>
 	<row id="msg_0188_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Register</language>
+		<language name="English">Enregistrer</language>
 	</row>
 	<row id="msg_0188_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 1}Registering a Wii Number{COLOR 0}\n\nIf your Wii number is registered,\nwhen a trade goes through at the\nGTS, you will be notified of the fact\nby a Wii message.\n\nFor details, please refer to the\nInstruction Booklet.\n\nWould you like to register your\nWii number?</language>
+		<language name="English">{COLOR 1}Enregistrer un code Wii{COLOR 0}\n\nSi votre code Wii est enregistré, vous\nrecevrez un message Wii chaque fois\nque vous conclurez un échange à la GTS.\n\nPour plus de détails, veuillez\nvous référer au mode d’emploi.\n\nVoulez-vous enregistrer votre\ncode Wii?</language>
 	</row>
 	<row id="msg_0188_00045" index="45">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00046" index="46">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00047" index="47">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00048" index="48">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00049" index="49">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00050" index="50">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00051" index="51">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00052" index="52">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">X</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00053" index="53">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0188_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nintendo Wi-Fi Connection is\nundergoing maintenance.\rPlease try again later.\r</language>
+		<language name="English">La connexion Wi-Fi Nintendo n’est\npas accessible pour le moment.\rVeuillez réessayer ultérieurement.\r</language>
 	</row>
 	<row id="msg_0188_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nintendo WFC is experiencing high\ntraffic volumes or the service is down.\rPlease try again later.\r</language>
+		<language name="English">Soit la connexion Wi-Fi Nintendo connaît\nun trafic trop important, soit le\fservice est interrompu.\rVeuillez réessayer ultérieurement.\r</language>
 	</row>
 	<row id="msg_0188_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Unable to connect to Nintendo Wi-Fi\nConnection.\r</language>
+		<language name="English">Impossible de se connecter à la\nconnexion Wi-Fi Nintendo.\r</language>
 	</row>
 	<row id="msg_0188_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Communication error. You have been\ndisconnected from Nintendo WFC.\r</language>
+		<language name="English">Erreur de communication. Vous n’êtes\nplus connecté à la connexion Wi-Fi\fNintendo.\r</language>
 	</row>
 	<row id="msg_0188_00058" index="58">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 </body>

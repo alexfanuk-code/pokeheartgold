@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0411_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena’s Password</language>
+		<language name="English">Le Mot de Passe de Buena</language>
 	</row>
 	<row id="msg_0411_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,18 +10,18 @@
 	</row>
 	<row id="msg_0411_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Drama and documentary!\nThis is the Variety Hour Guy!</language>
+		<language name="English">Drames et documentaires!\nC’est l’heure des plaisirs variés!</language>
 	</row>
 	<row id="msg_0411_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Variety Channel that’s a treasure\nchest filled with laughter and tears!</language>
+		<language name="English">Du rire, des larmes... et plein d’autres\nchoses sur votre chaîne VA-RIE-TE!!!</language>
 	</row>
 	<row id="msg_0411_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Hello, everyone! It’s Buena!\nTime for today’s password!\nToday’s password is...\n{STRVAR_34 18, 0, 0}!\nDon’t forget it!\nI’m looking forward to your visiting\nme at the Goldenrod City Radio Tower!</language>
+		<language name="English">Buena: Salut les p’tits loups,\nc’est Buena!\nLe mot de passe du jour est...\n{STRVAR_34 18, 0, 0}!\nNe l’oubliez pas!\nJe vous attends à la Tour Radio de\nDoublonville. Venez nombreux!</language>
 	</row>
 	<row id="msg_0411_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Buena: Hello, everyone! It’s Buena!\nAll my listeners out there, have you gone\nto the Goldenrod City Radio Tower to get\nyour Blue Card yet? Remember the\npassword we announce on the show, and\ngo to the Goldenrod City Radio Tower.\nIf you come visit me on the second floor\nand tell me the password, you’ll get\npoints on your card! Collect enough\npoints, and you can turn them in for\nsome great prizes! Try your best to\ngather points, everyone!</language>
+		<language name="English">Buena: Salut les p’tits loups,\nc’est Buena!\nMes auditeurs chéris ont tous\nleur Carte Bleue?\nSi oui, venez me voir à la Tour Radio de\nDoublonville pour me répéter le mot de\npasse du jour! C’est le bon, et vous\ngagnez des points sur votre Carte!\nAccumulez-en plein pour gagner de\nsomptueux cadeaux!\nAllez les p’tits loups! La chasse aux\npoints est ouverte!\n</language>
 	</row>
 </body>

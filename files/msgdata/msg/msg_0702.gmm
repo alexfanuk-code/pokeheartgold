@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0702_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tim &amp; Sue</language>
+		<language name="English">André&amp;Tina</language>
 	</row>
 	<row id="msg_0702_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, how about we exchange phone\nnumbers?{YESNO 0}</language>
+		<language name="English">On pourrait échanger nos numéros? {YESNO 0}</language>
 	</row>
 	<row id="msg_0702_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give me a call if you think of anything!</language>
+		<language name="English">Téléphone-nous quand tu veux!</language>
 	</row>
 	<row id="msg_0702_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uh, OK. That’s too bad...</language>
+		<language name="English">Dommage!</language>
 	</row>
 	<row id="msg_0702_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you decide you wanted to\nexchange phone numbers? {YESNO 0}</language>
+		<language name="English">Ah, on s’échange nos numéros,\nfinalement? {YESNO 0}</language>
 	</row>
 	<row id="msg_0702_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uh-huh? Where are you calling from?\rIf you’re nearby, you might as well\ncome over and talk in person, you know?</language>
+		<language name="English">Tu nous appelles d’où?\rAllez, viens plutôt nous voir si tu es\ndans les parages!</language>
 	</row>
 	<row id="msg_0702_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Sue!\rHow have you been since we last talked?\fAre you doing a good job training your\nPokémon? We’re doing great!\r{STRVAR_1 0, 10, 0} is working hard.\rYou have a good Pokémon, too. After a\nwhile, you’ll find it will become a\fsensational partner! Hee hee!</language>
+		<language name="English">C’est Tina!\rComment tu vas?\nTout se passe bien avec tes Pokémon?\rNous, c’est la super forme!\n{STRVAR_1 0, 10, 0} fait beaucoup d’efforts!\rTu as déjà une équipe formidable...\nIl te reste à trouver une personne\fformidable pour partager ta vie!</language>
 	</row>
 	<row id="msg_0702_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Sue!\rHow have you been since we spoke last?\nAre your Pokémon winning their battles?\rWe’re doing great!\nWe even beat a wild {STRVAR_1 0, 11, 0}.\rYou have a good Pokémon, also.\nAll you need now is a great partner...\fKnow what I mean? Hee hee!</language>
+		<language name="English">C’est Tina!\rComment tu vas?\nTu gagnes toujours beaucoup?\rNous, c’est la super forme!\nOn a battu un {STRVAR_1 0, 11, 0}!\rTu as déjà un Pokémon formidable...\nIl te reste à trouver une personne\fformidable pour partager ta vie!</language>
 	</row>
 	<row id="msg_0702_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Sue!\rHow have you been feeling since our\nlast talk? I’ve got many Pokémon... Ah!\rHello? This is Tim!\nLet me talk on the phone... Wah!\rAnyway, he let a wild {STRVAR_1 0, 11, 0}\nget away recently!\rHe sometimes says the strangest\nthings. He said he couldn’t compare\fPokémon with me, but... Ah!\rHello! This is Tim!\nShe is really... Wah!\rYeah, that’s just how it is, isn’t it!\nI’ll leave it at that. We’ll call you\fagain later. Bye-bye!</language>
+		<language name="English">C’est Tina!\rComment tu vas?\nBen moi, mon Pokémon est...\rAllô? C’est André! Tu voudrais pas\nme parler de temps à...\rTu sais quoi? L’autre jour, j’ai laissé\nfiler un {STRVAR_1 0, 11, 0}, mais tu sais ce\fqu’André m’a dit?\f“De toute façon, tu vaux tellement\fmieux qu’un Pokémon mon amour!”\fEt...\rAllô? C’est André! Ma copine, elle\nest vraiment tellement...\rBon, sur ce, on va te laisser!\nJe te rappellerai une prochaine fois!\fBye-bye!</language>
 	</row>
 	<row id="msg_0702_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, would you like to battle us again?\rSound good?\rWe’re waiting on {STRVAR_1 4, 3, 0}.\nSee you there!</language>
+		<language name="English">Tu ne voudrais pas refaire un combat?\rSi? Alors on t’attend sur la\n{STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0702_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, did you forget our promise?\rI’m here with Tim, so I’m not getting\ntoo bored, but still...\rWe’re waiting on {STRVAR_1 4, 3, 0},\nso please hurry.</language>
+		<language name="English">Tu as oublié ta promesse?\rBon, grâce à André, je ne m’ennuie pas\ntrop, mais...\rOn t’attend sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0702_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, this is Sue!\nI’m so, so, so bored right now.\rTim stepped out, but I expect\nhim to be back soon. That reminds me!\rWe recently saw a really amazing guy.\rHe was wearing a purple tuxedo and a\nred bowtie. It looked great on him.\rOh--my boyfriend’s back!\nTalk to you later!</language>
+		<language name="English">C’est Tina!\nJe m’ennuyais justement!\rAndré est parti faire un tour et ne\ndevrait plus trop tarder...\rEn parlant de ça, j’ai vu un mec trop\ncraquant l’autre jour!\rIl avait un costume violet et une belle\ncravate rouge... Ça lui allait comme\fun gant!\rOups, André est rentré!\nBye-bye!</language>
 	</row>
 </body>

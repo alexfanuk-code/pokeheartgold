@@ -2,38 +2,38 @@
 <body language="English">
 	<row id="msg_0056_D15R0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Elder: You showed us what you’ve got,\nand it is indeed good...\rTake this Technical Machine.\rHowever, you should care more about\nyour Pokémon.\rThe way you treat your Pokémon can\nbe too harsh...\rRemember, Pokémon are not tools\nof war...\r</language>
+		<language name="English">Ancien: Ta puissance est réelle...\nComme promis, voici ta CT.\rToutefois... Tu devrais traiter tes\nPokémon avec davantage d’égards.\rTu es bien trop âpre au combat...\nLes Pokémon ne sont pas des armes...\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: ...\r...Humph!\nHe calls himself the Elder, but he was\fno match for me.\rSure enough, those who lecture how\nyou should be “nice” to Pokémon...\fThey cannot defeat me.\rAll I care about are strong Pokémon\nthat win every time.\rThe rest of them don’t mean anything\nto me.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: ...\r... Pfff!\nPour quelqu’un d’assez prétentieux\fpour se faire appeler “Ancien”, tu n’en\fas pas beaucoup dans le ventre!\r... Bah, ça ne me surprend pas.\nJe n’allais quand même pas me faire\fbattre par quelqu’un qui raconte qu’il\ffaut être gentil avec ses Pokémon et\fje ne sais quelles âneries...\rJe ne m’intéresse qu’aux Pokémon\ncapables de gagner.\rJe me fiche des autres.\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} used\nan Escape Rope!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} utilise Corde Sortie!</language>
 	</row>
 	<row id="msg_0056_D15R0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So good of you to come here!\rSprout Tower is a place of training.\nPeople and Pokémon test their bonds\fto build a bright future together.\fI am the final test.\rAllow me to check the ties between\nyou and your Pokémon!\r</language>
+		<language name="English">Bienvenue à toi mon enfant!\rLa Tour CHETIFLOR est un lieu où\nhumains et Pokémon s’entraînent pour\fun avenir radieux.\rVoici venue ta dernière épreuve:\nil te faudra me battre.\rA moi de tester le lien que tu\nentretiens avec ton équipe de Pokémon.\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmm...\nThe way you battle is quite elegant.\rYou should be able to stand up\nto Falkner.\rAnd you should be able to make good use\nof this...\rIt is a Technical Machine called Flash.\nTake it with you!\r</language>
+		<language name="English">Bien...\nTa façon de te battre est extrêmement\fefficace.\rAvec un tel potentiel, tu parais\ncapable de te mesurer à Albert.\rD’autre part... Tu as mérité cette\nCT Flash!\rJe suis sûr que tu sauras l’utiliser\ncomme il convient!\r</language>
 	</row>
 	<row id="msg_0056_D15R0103_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When a Pokémon learns Flash, you can\nilluminate caves no matter how dark\fthey may be.\rYou can try it on BELLSPROUT,\nfor example...</language>
+		<language name="English">Si un Pokémon apprend Flash, il pourra\néclairer n’importe quel lieu obscur.\rTu peux choisir de l’apprendre à un\nCHETIFLOR, par exemple...</language>
 	</row>
 	<row id="msg_0056_D15R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I hope you learn and grow from\nyour journey.</language>
+		<language name="English">Je souhaite que ton voyage\nt’enrichisse de mille découvertes.</language>
 	</row>
 	<row id="msg_0056_D15R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a powerful painting of a\nBELLSPROUT.</language>
+		<language name="English">Un CHETIFLOR a été peint par un\nartiste extrêmement talentueux...</language>
 	</row>
 	<row id="msg_0056_D15R0103_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon statue...\nIt looks very distinguished.</language>
+		<language name="English">C’est le Pokémon vénéré ici...\nCette seule pensée impose le respect.</language>
 	</row>
 </body>

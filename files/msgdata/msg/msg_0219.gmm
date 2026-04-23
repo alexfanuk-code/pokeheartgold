@@ -3,110 +3,110 @@
 	<row id="msg_0219_00000" index="0">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\rYaaaaaaawn...\n...\rHuh? It’s already become so\nbright outside!\r</language>
+		<language name="English">...\n...\r... (bâillement)...\n...\rHein? Quoi?\nIl fait déjà jour dehors!\r</language>
 	</row>
 	<row id="msg_0219_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\rYaaaaawn...\n...\rHuh? What?! Is it already that late?!\nOh no! I overslept!\r</language>
+		<language name="English">...\n...\r... (bâillement)...\n...\rHein? Quoi? Déjà?\nNoooon! J’ai raté l’heure!\r</language>
 	</row>
 	<row id="msg_0219_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\rHmm. Looks like the sun is descending\nin the sky...\r...So this would be what is called\n“twilight,” wouldn’t it?\r</language>
+		<language name="English">...\n...\rOn dirait que le soleil va bientôt\nse coucher...\rAh! Mais c’est pas le moment d’être\nmélancolique!\r</language>
 	</row>
 	<row id="msg_0219_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\rHmm... Interesting...\n...\rHuh? Oh! Excuse me, sorry!\nI was just reading this book here.\r</language>
+		<language name="English">...\n...\rHum... Intéressant...\n...\rOh! Désolé! J’étais plongé dans\nun livre!\r</language>
 	</row>
 	<row id="msg_0219_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\rYaaaaaaawn...\n...\rHuh? A guest?\nAt this hour?\r</language>
+		<language name="English">...\n...\r... (bâillement)...\n...\rHein? De la visite?\nA cette heure-ci?\r</language>
 	</row>
 	<row id="msg_0219_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry to keep you waiting!\rWelcome to the world of Pokémon!\rMy name is Professor Oak.\rBut everyone calls me the\nPokémon Professor.\rBefore we go any further, I’d like to\ntell you a few things you should\fknow about this world!\r</language>
+		<language name="English">Désolé de t’avoir fait attendre!\rBienvenue dans le monde de Pokémon!\rMon nom est Chen.\rMais tout le monde m’appelle\nle Professeur Pokémon.\rTu débutes tout juste ton aventure,\nje me trompe?\rLaisse-moi tout d’abord t’enseigner\nles bases de ce monde!\r</language>
 	</row>
 	<row id="msg_0219_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will first tell you important\nthings about this game.\n\nPlease touch any topic you’d like\nto know more about on the\nlower screen.</language>
+		<language name="English">Je vais tout d’abord t’apprendre\nles choses importantes concernant\nce jeu.\n\nAvec ton stylet, touche le sujet\nque tu veux aborder sur l’écran\ninférieur.</language>
 	</row>
 	<row id="msg_0219_00008" index="8">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll explain this game’s controls.\n\nYou can control this game by\ntouching the lower screen, also\ncalled the Touch Screen.\n\nPlease touch the panel in the\nbottom right of the Touch Screen.</language>
+		<language name="English">Voici les informations sur les\ncommandes de ce jeu.\n\nEn touchant l’écran inférieur,\naussi appelé écran tactile,\non peut contrôler le jeu.\n\nTouche tout d’abord le bouton\nen bas à droite.</language>
 	</row>
 	<row id="msg_0219_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By touching the Touch Screen\nlike this, you can confirm\nselections and advance\nconversations.</language>
+		<language name="English">En touchant l’écran, il est\npossible de valider un choix, de\nfaire dérouler une conversation...</language>
 	</row>
 	<row id="msg_0219_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can also advance by pressing\nthe A Button when you see the\nA Button icon on the Touch Screen.</language>
+		<language name="English">Il est aussi possible d’appuyer sur\nle bouton A à la place quand l’icône\n“A” apparaît.</language>
 	</row>
 	<row id="msg_0219_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Different touch buttons will appear\non the Touch Screen depending on\nthe situation.</language>
+		<language name="English">Différents boutons apparaissent\nsur l’écran tactile en fonction de\nla situation.</language>
 	</row>
 	<row id="msg_0219_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next, I’ll explain the button\noperations.\n\nYou can move the main character\naround on the screen using the\n+Control Pad.</language>
+		<language name="English">Je vais maintenant expliquer le\nfonctionnement des boutons.\n\nDéplace le personnage principal\navec la manette +.</language>
 	</row>
 	<row id="msg_0219_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Next, I’ll explain about buttons.\n\nUse the +Control Pad to move\nthe main character.\n\nYou can also use the +Control\nPad to select entries.</language>
+		<language name="English">Je vais maintenant expliquer le\nfonctionnement des boutons.\n\nLa manette sert à contrôler les\ndéplacements du personnage.\n\nTu peux aussi l’utiliser pour\nsélectionner une option.</language>
 	</row>
 	<row id="msg_0219_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can operate the screens using\nbuttons instead of touching the\nTouch Screen.</language>
+		<language name="English">Il est possible d’utiliser les\nboutons plutôt que de\ntoucher l’écran.</language>
 	</row>
 	<row id="msg_0219_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Used to confirm a choice, check\nthings, chat, and scroll text.\n\nUsed to exit, cancel a choice,\nand cancel a mode.</language>
+		<language name="English">Confirmer un choix, examiner,\nparler et faire défiler le texte.\n\nQuitter, annuler un choix ou\nun mode.</language>
 	</row>
 	<row id="msg_0219_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use this to move within menus.\n\nPress to use a Key Item, such\nas a Bicycle, that has been\nregistered in advance.</language>
+		<language name="English">Appuyer pour ouvrir le menu.\n\nAppuyer pour utiliser un objet,\ntel que la Bicyclette, ayant été\nenregistré.</language>
 	</row>
 	<row id="msg_0219_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00019" index="19">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00020" index="20">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00021" index="21">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00022" index="22">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If this mark is shown in the\nmessage window, there are active\nbuttons you can touch on the\nTouch Screen below.</language>
+		<language name="English">Si ce symbole apparaît dans la\nfenêtre de message, cela signifie\nqu’il y a des boutons qu’on peut\ntoucher sur l’écran tactile.</language>
 	</row>
 	<row id="msg_0219_00024" index="24">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -114,162 +114,162 @@
 	</row>
 	<row id="msg_0219_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you understand everything\nso far? {YESNO 0}</language>
+		<language name="English">Tout te semble clair pour le\nmoment? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00027" index="27">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are about to enter a world\nwhere you will embark on a grand\nadventure of your very own.</language>
+		<language name="English">Prépare-toi à te lancer dans une\ngrande aventure, à la découverte\nd’un nouveau monde.</language>
 	</row>
 	<row id="msg_0219_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speak to people and check things\nwherever you go, be it in towns,\nroads, or caves.\nGather information and hints from\nevery possible source.</language>
+		<language name="English">Tu vas faire de nouvelles\nrencontres et découvrir de\nnouvelles villes.\nProfites-en pour récolter autant\nd’informations que possible.</language>
 	</row>
 	<row id="msg_0219_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">New paths will open to you when\nyou help people in need, overcome\nchallenges, and solve mysteries.</language>
+		<language name="English">En résolvant des mystères et en\naidant les gens, tu pourras ouvrir\nde nouvelles voies.</language>
 	</row>
 	<row id="msg_0219_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At times, you will be challenged\nby others to a battle.\nAt other times, wild creatures\nmay stand in your way.\n\nBy overcoming such hurdles,\nyou will gain great power.</language>
+		<language name="English">Attends-toi à te faire défier par\nde nombreux Dresseurs et à\naffronter des créatures sauvages.\nSois brave et ne perds pas espoir.\n\nEn surmontant de telles épreuves,\ntu gagneras en puissance.</language>
 	</row>
 	<row id="msg_0219_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">However, your adventure is not\nsolely about becoming powerful.</language>
+		<language name="English">Mais tu t’apercevras que ce n’est\npas une simple question de force.</language>
 	</row>
 	<row id="msg_0219_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">On your travels, we hope that\nyou will meet countless people\nand, through them, achieve\npersonal growth.\n\nThis is the most important\nobjective of this adventure.</language>
+		<language name="English">Nous espérons que tu rencontreras\ntoutes sortes de gens pendant ce\nvoyage et que tu apprendras à\nmieux te connaître.\n\nC’est l’objectif principal de\ncette aventure.</language>
 	</row>
 	<row id="msg_0219_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This world is widely inhabited by\ncreatures known as Pokémon.\r</language>
+		<language name="English">Ce monde est peuplé de créatures\nappelées Pokémon.\r</language>
 	</row>
 	<row id="msg_0219_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We humans live alongside Pokémon\nas friends.\rAt times we play together, and at\nother times we work together.\rSome people use their Pokémon to\nbattle and develop closer bonds\fwith them.\r</language>
+		<language name="English">Nous, les humains, vivons avec les\nPokémon.\rIl nous arrive de jouer\nou de travailler ensemble.\rCertaines personnes utilisent les\nPokémon pour combattre et créent\fun lien très fort avec eux.\rMoi?\rJe me contente de faire des\nrecherches, pour que nous en\fsachions plus sur les Pokémon.\r</language>
 	</row>
 	<row id="msg_0219_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now, why don’t you tell me a little bit\nabout yourself?\r</language>
+		<language name="English">Mais avant tout, parle-moi\nun peu de toi.\r</language>
 	</row>
 	<row id="msg_0219_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you a boy?\nOr are you a girl?\fWon’t you please tell me? {YESNO 0}</language>
+		<language name="English">Es-tu un garçon?\nOu bien une fille?\fDis-moi tout... {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you’re a boy then? {YESNO 0}</language>
+		<language name="English">Tu es donc un garçon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you’re a girl then? {YESNO 0}</language>
+		<language name="English">Tu es donc une fille? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please tell me your name.</language>
+		<language name="English">Comment t’appelles-tu?</language>
 	</row>
 	<row id="msg_0219_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your name is {STRVAR_1 3, 0, 0}? {YESNO 0}</language>
+		<language name="English">Tu t’appelles {STRVAR_1 3, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your name is {STRVAR_1 3, 0, 0}? {YESNO 0}</language>
+		<language name="English">Tu t’appelles {STRVAR_1 3, 0, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0219_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}!\nAre you ready?\rYour very own tale of grand adventure\nis about to unfold.\rFun experiences, difficult experiences,\nthere’s so much waiting for you!\rDreams! Adventure!\nLet’s go to the world of Pokémon!\rI’ll see you later!\r</language>
+		<language name="English">Le moment est venu, {STRVAR_1 3, 0, 0}!\nTout est prêt?\rTu es sur le point d’embarquer\npour une aventure unique.\rTu vas vivre des moments de joie,\nd’autres de peine... Tout un monde\fde choses à expérimenter!\rAllez, plonge dans le monde des\nPokémon!\rSur ce, à très bientôt!\r</language>
 	</row>
 	<row id="msg_0219_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONTROL INFO</language>
+		<language name="English">INFOS COMMANDES</language>
 	</row>
 	<row id="msg_0219_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ADVENTURE INFO</language>
+		<language name="English">INFOS AVENTURE</language>
 	</row>
 	<row id="msg_0219_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO INFO NEEDED</language>
+		<language name="English">NON MERCI</language>
 	</row>
 	<row id="msg_0219_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">OUI</language>
 	</row>
 	<row id="msg_0219_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">NON</language>
 	</row>
 	<row id="msg_0219_00049" index="49">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00050" index="50">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00051" index="51">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00052" index="52">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00053" index="53">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00054" index="54">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00055" index="55">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00056" index="56">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00057" index="57">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00058" index="58">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00059" index="59">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0219_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Touch</language>
+		<language name="English">TOUCHER</language>
 	</row>
 	<row id="msg_0219_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Yes</language>
+		<language name="English">{ALN_CENTER} Oui</language>
 	</row>
 	<row id="msg_0219_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}No</language>
+		<language name="English">{ALN_CENTER} Non</language>
 	</row>
 </body>

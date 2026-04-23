@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0569_T23R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ilex Forest is big. Be careful!\nDon’t get lost.</language>
+		<language name="English">Le Bois aux Chênes est vaste!\nVeillez à ne pas vous perdre!</language>
 	</row>
 	<row id="msg_0569_T23R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The forest is watched over by\nits protector.\rStay out of mischief!</language>
+		<language name="English">On dit qu’une divinité veille sur cette\nforêt, alors tiens-toi bien!</language>
 	</row>
 </body>

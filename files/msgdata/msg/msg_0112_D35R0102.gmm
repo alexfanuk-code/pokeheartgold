@@ -2,46 +2,46 @@
 <body language="English">
 	<row id="msg_0112_D35R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey!\nIntruder alert!\r</language>
+		<language name="English">Hé là!\nUn intrus! Plus un geste!\r</language>
 	</row>
 	<row id="msg_0112_D35R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s my turn!\nThere’s no escape!\r</language>
+		<language name="English">C’est mon tour!\nTu ne nous échapperas pas!\r</language>
 	</row>
 	<row id="msg_0112_D35R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a PERSIAN statue...\nIts eyes are glowing red...\rYou feel that somebody may be\nwatching...</language>
+		<language name="English">Une statue de PERSIAN...\nSes yeux rouges brillent...!\rVous avez l’impression que quelqu’un,\nquelque part, vous épie...</language>
 	</row>
 	<row id="msg_0112_D35R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a PERSIAN statue...\nIts eyes are glowing blue...\rYou don’t feel anyone watching you...</language>
+		<language name="English">Une statue de PERSIAN...\nSes yeux bleus brillent...!\rVous n’avez plus l’impression\nd’être épié...</language>
 	</row>
 	<row id="msg_0112_D35R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The eyes of the PERSIAN statue\nare no longer glowing...</language>
+		<language name="English">Une statue de PERSIAN...\nSes yeux ne brillent plus...</language>
 	</row>
 	<row id="msg_0112_D35R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A secret switch!\rThe red switch is flashing in a\nsuspicious manner.\fWill you press it? {YESNO 0}</language>
+		<language name="English">Un interrupteur caché!\rUne diode rouge clignote\nde façon inquiétante.\fVoulez-vous l’actionner? {YESNO 0}</language>
 	</row>
 	<row id="msg_0112_D35R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A secret switch!\rThe blue switch is lit.\fWill you press it? {YESNO 0}</language>
+		<language name="English">Un interrupteur caché!\rLa diode bleue est allumée.\nVoulez-vous l’actionner? {YESNO 0}</language>
 	</row>
 	<row id="msg_0112_D35R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Better press it.\r</language>
+		<language name="English">... Clic!\r</language>
 	</row>
 	<row id="msg_0112_D35R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The secret switch is not lit anymore...</language>
+		<language name="English">La diode de l’interrupteur caché est\néteinte...</language>
 	</row>
 	<row id="msg_0112_D35R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The surveillance system is off!</language>
+		<language name="English">Le système de surveillance\nest désactivé!</language>
 	</row>
 	<row id="msg_0112_D35R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The surveillance system is on!</language>
+		<language name="English">Le système de surveillance\nest activé!</language>
 	</row>
 </body>

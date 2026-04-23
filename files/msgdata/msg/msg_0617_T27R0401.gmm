@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0617_T27R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This happened when I was young.\rThe sky suddenly turned black.\nA giant Flying-type Pokémon was\fblocking out the sun.\rI wonder what that Pokémon was?\rIt was like a bird and like a dragon.</language>
+		<language name="English">Ça s’est passé du temps où j’étais\njeune.\rLe ciel s’était obscurci tout à coup.\nUn gigantesque Pokémon cachait le\fsoleil.\rIl ressemblait à un oiseau...\nou un dragon...\fqu’est-ce que ça pouvait bien être?</language>
 	</row>
 	<row id="msg_0617_T27R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is there really a Pokémon that big?\fIf it exists, it must be powerful.</language>
+		<language name="English">Ça existe vraiment, un Pokémon aussi\ngrand? Si c’est le cas, il doit être\fsuuuuper fort!</language>
 	</row>
 </body>

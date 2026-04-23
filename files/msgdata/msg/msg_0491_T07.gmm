@@ -2,146 +2,146 @@
 <body language="English">
 	<row id="msg_0491_T07_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is my trusted pal, POLIWRATH.\rI wonder if it will become a Frog\nPokémon someday.</language>
+		<language name="English">C’est mon copain: TARTARD!\rTu crois qu’un jour il pourra devenir\nun Pokémon Grenouille?</language>
 	</row>
 	<row id="msg_0491_T07_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POLIWRATH: Poli poli!</language>
+		<language name="English">TARTARD: Tartartar!</language>
 	</row>
 	<row id="msg_0491_T07_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, my!\nWere you staring at me?\rSeeing me come out of the Game Corner\nwith a whole pile of Coins...\fAnd grinning to myself?\fYou were, weren’t you?</language>
+		<language name="English">Hé!\nTu m’as vue?\rTu m’as vue sortir du Casino, hein?\rTu m’as vue sortir de là, rayonnant\nd’une joie mauvaise, croulant sous\fles jetons, presque honteuse d’avoir\ffait sauter la banque... Tu m’as vue!</language>
 	</row>
 	<row id="msg_0491_T07_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GRIMER started to appear recently.\nYou see the pond in front of the house?\rIt has GRIMER, too.\nI wonder where they came from.\rSigh...</language>
+		<language name="English">Il y a une invasion de TADMORV\nces temps-ci...\rY’en a jusque dans l’étang\ndevant ma maison!\rD’où viennent-ils?\nQuel ennui...</language>
 	</row>
 	<row id="msg_0491_T07_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ha ha! This Gym is great!\nIt’s full of strong Trainers!</language>
+		<language name="English">Héhé! Cette Arène est terrible!\nY’a plein de super Dresseurs!</language>
 	</row>
 	<row id="msg_0491_T07_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll tell you a secret!\rThe Celadon Condominiums have some\nplaces you can only reach by taking the\felevator on the second floor!</language>
+		<language name="English">Je vais te dire un secret!\rIl y a des endroits dans la Résidence\nCéladon que l’on ne peut atteindre\fqu’avec l’ascenseur du 1¹ étage!</language>
 	</row>
 	<row id="msg_0491_T07_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The restaurant there is having an\neating contest.\rI heard that we have a great\ncontestant from the Sinnoh region\fthis year.</language>
+		<language name="English">Il y a un concours de gloutonnerie\ndans le restaurant.\rCette année, il y a un concurrent de\nSinnoh particulièrement redoutable...</language>
 	</row>
 	<row id="msg_0491_T07_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Celadon Department Store offers\nthe widest range of items!\fYou can buy anything you want!\r...Do I sound like their\nsales representative?</language>
+		<language name="English">Aucun magasin n’a plus de produits que\nle Centre Commercial de Céladopole!\fIls ont tout ce que je veux!\r...\nJe sonne comme une publicitaire, non?</language>
 	</row>
 	<row id="msg_0491_T07_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I love this kind of place where\nthere are many buildings!\rI heard Johto also has a city called\nGoldenrod that has many\ftall buildings.\fI would love to visit there sometime.</language>
+		<language name="English">J’aime les endroits où il y a\nde grands immeubles!\rOn m’a dit qu’il y en avait aussi à\nDoublonville, à Johto?\rOuah... J’aimerais bien aller\nà Johto, un jour...</language>
 	</row>
 	<row id="msg_0491_T07_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Hi, Jasmine. I heard Whitney from\nGoldenrod Gym said you were too\fplain and should look more fancy.\fIs that true?\r</language>
+		<language name="English">Erika: Au fait, Jasmine!\rEst-ce vrai que Blanche, de l’Arène de\nDoublonville, t’a dit un jour: “C’est\fquoi cette tenue! Et la couleur?”\r</language>
 	</row>
 	<row id="msg_0491_T07_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Yes...\rI’m thinking maybe I should\nparticipate in this Contest in Sinnoh\fto try and be more vibrant...\r</language>
+		<language name="English">Jasmine: Oui...\rAlors, j’ai pensé aller à Sinnoh pour\nparticiper à un de leurs Concours, en\fpensant que ça me permettrait\fd’être plus enjouée...\r</language>
 	</row>
 	<row id="msg_0491_T07_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: How did it go?\r</language>
+		<language name="English">Erika: Et alors?\r</language>
 	</row>
 	<row id="msg_0491_T07_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: I couldn’t bring myself to\ngo to the Contest.\r</language>
+		<language name="English">Jasmine: Je n’ai pas eu le courage\nde participer...\r</language>
 	</row>
 	<row id="msg_0491_T07_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Oh, I see...\rThen why don’t you try putting on\nsomething especially gorgeous?\r</language>
+		<language name="English">Erika: Ah bon...\rEt si tu sautais à l’eau d’un coup, en\nmettant une robe vraiment outrancière?\r</language>
 	</row>
 	<row id="msg_0491_T07_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Ah, yes!\nMaybe I can bring myself to\fenter the Contest!\r</language>
+		<language name="English">Jasmine: Ah! C’est une bonne idée!\nEt peut-être que j’aurais alors\fle courage de participer au Concours!\r</language>
 	</row>
 	<row id="msg_0491_T07_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: How about a fancy, light blue\noutfit with a cape over it?\r</language>
+		<language name="English">Erika: Par exemple, une combinaison\nsuper moulante bleu clair et une cape\fpar-dessus! Qu’est-ce que tu en dis?\r</language>
 	</row>
 	<row id="msg_0491_T07_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: What?\nThat’s too embarrassing!\r</language>
+		<language name="English">Jasmine: Quoi?! Non! Quelle horreur!\nJe ne pourrais jamais enfiler\fune tenue aussi ridicule!\r</language>
 	</row>
 	<row id="msg_0491_T07_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: I see.\nYou think Clair from Blackthorn is a\flittle embarrassing...\fI’m just taking notes.\r</language>
+		<language name="English">Erika: Bon, bon...\nDonc Sandra d’Ebènelle est ridicule...\fJe note, je note...\r</language>
 	</row>
 	<row id="msg_0491_T07_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Oh, no!\nErika, that’s not what I meant!</language>
+		<language name="English">Jasmine: Ah...!!\n... C’était vraiment un coup bas...</language>
 	</row>
 	<row id="msg_0491_T07_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Hi, {STRVAR_1 3, 0, 0}.\rWould you like to\nexchange numbers? {YESNO 0}</language>
+		<language name="English">Erika: Oh! {STRVAR_1 3, 0, 0}!\nTu veux mon numéro de téléphone? {YESNO 0}</language>
 	</row>
 	<row id="msg_0491_T07_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Erika\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré\nErika dans son Pokématos!</language>
 	</row>
 	<row id="msg_0491_T07_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: I am often free in the morning\non Sunday.\rCall me around then.</language>
+		<language name="English">Erika: J’ai du temps libre le\ndimanche matin.\rTu peux m’appeler à ce moment.</language>
 	</row>
 	<row id="msg_0491_T07_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Oh, that’s too bad...</language>
+		<language name="English">Erika: Oh, quel dommage...</language>
 	</row>
 	<row id="msg_0491_T07_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Would you like to\nexchange numbers? {YESNO 0}</language>
+		<language name="English">Erika: Veux-tu mon numéro de\ntéléphone? {YESNO 0}</language>
 	</row>
 	<row id="msg_0491_T07_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Hi!\nGood to see you here.\rHow would you like to take a picture\nwith me? {YESNO 0}</language>
+		<language name="English">Erika: Ah! Tu tombes à point!\rEt si nous prenions une photo\nensemble? {YESNO 0}</language>
 	</row>
 	<row id="msg_0491_T07_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Try and look cool now.\r</language>
+		<language name="English">Erika: Très bien. On ne bouge plus...\r</language>
 	</row>
 	<row id="msg_0491_T07_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Good job.\nIt looks good!</language>
+		<language name="English">Erika: Parfait!\nLa photo est réussie!</language>
 	</row>
 	<row id="msg_0491_T07_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erika: Oh, that’s too bad...</language>
+		<language name="English">Erika: Oh, quel dommage...</language>
 	</row>
 	<row id="msg_0491_T07_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.</language>
+		<language name="English">Votre Album Photo est plein!\rRevenez après y avoir fait le ménage\ndans votre PC.</language>
 	</row>
 	<row id="msg_0491_T07_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Amphy is well thanks to you.</language>
+		<language name="English">Jasmine: Phary va très bien, merci!</language>
 	</row>
 	<row id="msg_0491_T07_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon City\nCity of the Rainbow’s Colors</language>
+		<language name="English">Céladopole\nVille aux vastes arcs-en-ciel</language>
 	</row>
 	<row id="msg_0491_T07_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon City Pokémon Gym\nLeader: Erika\fThe Nature-Loving Princess!</language>
+		<language name="English">Arène de Céladopole\rChampion: Erika\nLa Reine des Plantes</language>
 	</row>
 	<row id="msg_0491_T07_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Find what you need at the\nCeladon Dept. Store!</language>
+		<language name="English">Y’a tout ce qu’il faut au Centre\nCommercial de Céladopole!</language>
 	</row>
 	<row id="msg_0491_T07_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon Condominiums</language>
+		<language name="English">Résidence Céladon</language>
 	</row>
 	<row id="msg_0491_T07_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon Game Corner\nA Fun Place for Everyone</language>
+		<language name="English">Le Casino de Céladopole\nDe l’amusement pour tous!</language>
 	</row>
 	<row id="msg_0491_T07_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rGuard Spec. protects Pokémon\nfrom status-reduction moves\fduring battle.\rGet your items at the\nCeladon Dept. Store!</language>
+		<language name="English">Conseils aux Dresseurs!\rDéfense Spéc empêche vos Pokémon de\nperdre des statistiques pendant\f5 tours de combat!\rY’a tout ce qu’il faut au Centre\nCommercial de Céladopole!</language>
 	</row>
 </body>

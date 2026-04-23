@@ -2,41 +2,41 @@
 <body language="English">
 	<row id="msg_0300_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONFIRM</language>
+		<language name="English">CONFIR.</language>
 	</row>
 	<row id="msg_0300_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">RETOUR</language>
 	</row>
 	<row id="msg_0300_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -65,67 +65,67 @@
 	<row id="msg_0300_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00015" index="15">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00016" index="16">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00017" index="17">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00019" index="19">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00020" index="20">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00021" index="21">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00022" index="22">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00023" index="23">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00024" index="24">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00026" index="26">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">X</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
@@ -137,473 +137,473 @@
 	</row>
 	<row id="msg_0300_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose a Pokémon.</language>
+		<language name="English">Choisissez un Pokémon.</language>
 	</row>
 	<row id="msg_0300_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose a Pokémon.\r</language>
+		<language name="English">Choisissez un Pokémon.\r</language>
 	</row>
 	<row id="msg_0300_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move to where?</language>
+		<language name="English">Le mettre où?</language>
 	</row>
 	<row id="msg_0300_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give to which Pokémon?</language>
+		<language name="English">Donner à quel Pokémon?</language>
 	</row>
 	<row id="msg_0300_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use on which Pokémon?</language>
+		<language name="English">Utiliser sur quel Pokémon?</language>
 	</row>
 	<row id="msg_0300_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Teach which Pokémon?</language>
+		<language name="English">Enseigner à quel Pokémon?</language>
 	</row>
 	<row id="msg_0300_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose Pokémon and confirm.</language>
+		<language name="English">Choisir un Pokémon.</language>
 	</row>
 	<row id="msg_0300_00036" index="36">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use on which Pokémon?</language>
+		<language name="English">Utiliser sur quel Pokémon?</language>
 	</row>
 	<row id="msg_0300_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do what with\n{STRVAR_1 1, 0, 0}?</language>
+		<language name="English">Que faire avec\n{STRVAR_1 1, 0, 0}?</language>
 	</row>
 	<row id="msg_0300_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do what with\nan item?</language>
+		<language name="English">Que faire avec un\nobjet?</language>
 	</row>
 	<row id="msg_0300_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do what with\nthe Mail?</language>
+		<language name="English">Que faire avec la\nLettre?</language>
 	</row>
 	<row id="msg_0300_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Restore\nwhich move?</language>
+		<language name="English">Restaurer quelle\ncapacité?</language>
 	</row>
 	<row id="msg_0300_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boost the PP\nof which move?</language>
+		<language name="English">Augmenter quels\nPP?</language>
 	</row>
 	<row id="msg_0300_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Set this\ncustom Ball?</language>
+		<language name="English">Appliquer cette\nCapsule Ball?</language>
 	</row>
 	<row id="msg_0300_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Send the removed Mail to\nyour PC?</language>
+		<language name="English">Envoyer la Lettre enlevée sur votre\nPC?</language>
 	</row>
 	<row id="msg_0300_00045" index="45">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00046" index="46">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Mail was sent to your PC.\r</language>
+		<language name="English">La Lettre a été envoyée sur votre PC.\r</language>
 	</row>
 	<row id="msg_0300_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If the Mail is removed, its written\nmessage will be lost. Is that OK?</language>
+		<language name="English">Si la Lettre est enlevée, le message\nsera perdu. D’accord?</language>
 	</row>
 	<row id="msg_0300_00049" index="49">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00050" index="50">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your PC’s Mailbox is full.\r</language>
+		<language name="English">La Boîte aux Lettres du PC est pleine.\r</language>
 	</row>
 	<row id="msg_0300_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mail was taken from the\nPokémon.\r</language>
+		<language name="English">La Lettre a été prise au Pokémon.\r</language>
 	</row>
 	<row id="msg_0300_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wants to learn the\nmove {STRVAR_1 6, 1, 0}.\rHowever, {STRVAR_1 1, 0, 0} already\nknows four moves.\rShould a move be deleted and\nreplaced with {STRVAR_1 6, 1, 0}?</language>
+		<language name="English">{STRVAR_1 1, 0, 0} veut apprendre\n{STRVAR_1 6, 1, 0}.\rMais {STRVAR_1 1, 0, 0} connaît déjà\nquatre capacités.\rRemplacer une capacité\npar {STRVAR_1 6, 1, 0}?</language>
 	</row>
 	<row id="msg_0300_00054" index="54">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00055" index="55">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stop trying to teach\n{STRVAR_1 6, 1, 0}?</language>
+		<language name="English">Arrêter d’enseigner\n{STRVAR_1 6, 1, 0}?</language>
 	</row>
 	<row id="msg_0300_00057" index="57">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00058" index="58">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} did not learn the\nmove {STRVAR_1 6, 1, 0}.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} n’a pas appris la\ncapacité {STRVAR_1 6, 1, 0}.\r</language>
 	</row>
 	<row id="msg_0300_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which move should be\nforgotten?\r</language>
+		<language name="English">Oublier quelle capacité?\r</language>
 	</row>
 	<row id="msg_0300_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1, {PAUSE 20}2, and{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... Poof!{WAIT 3}{WAIT 5}\r{STRVAR_1 1, 0, 0} forgot how to\nuse {STRVAR_1 6, 1, 0}.\rAnd...\r</language>
+		<language name="English">1, {PAUSE 20}2, et{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... Tadaa!{WAIT 3}{WAIT 5}\r{STRVAR_1 1, 0, 0} ne sait plus\ncomment utiliser {STRVAR_1 6, 1, 0}.\rEt...\r</language>
 	</row>
 	<row id="msg_0300_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} learned\n{STRVAR_1 6, 1, 0}!{WAIT 4}{WAIT 2}\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} apprend\n{STRVAR_1 6, 1, 0}!{WAIT 4}{WAIT 2}\r</language>
 	</row>
 	<row id="msg_0300_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} and {STRVAR_1 6, 1, 0}\nare not compatible.\r{STRVAR_1 6, 1, 0} can’t be learned.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} et {STRVAR_1 6, 1, 0}\nne sont pas compatibles.\rImpossible de l’enseigner.\r</language>
 	</row>
 	<row id="msg_0300_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} already knows\n{STRVAR_1 6, 1, 0}.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} connaît déjà\n{STRVAR_1 6, 1, 0}.\r</language>
 	</row>
 	<row id="msg_0300_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s HP was restored\nby {STRVAR_1 52, 1, 0} point(s).\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} récupère {STRVAR_1 52, 1, 0} PV.\r</language>
 	</row>
 	<row id="msg_0300_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was cured of its\npoisoning.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} n’est plus\nempoisonné.\r</language>
 	</row>
 	<row id="msg_0300_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was cured of\nparalysis.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} n’est plus\nparalysé.\r</language>
 	</row>
 	<row id="msg_0300_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s\nburn was healed.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} n’est plus brûlé.\r</language>
 	</row>
 	<row id="msg_0300_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was\nthawed out.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} est dégelé.\r</language>
 	</row>
 	<row id="msg_0300_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PP was restored.\r</language>
+		<language name="English">Les PP sont restaurés.\r</language>
 	</row>
 	<row id="msg_0300_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}\nregained health.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} récupère son énergie.\r</language>
 	</row>
 	<row id="msg_0300_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}\nbecame healthy.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} retrouve la forme.\r</language>
 	</row>
 	<row id="msg_0300_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 0, 0}’s PP\nincreased.\r</language>
+		<language name="English">Les PP de {STRVAR_1 6, 0, 0}\naugmentent.\r</language>
 	</row>
 	<row id="msg_0300_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} snapped out of its\nconfusion.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} n’est plus confus.\r</language>
 	</row>
 	<row id="msg_0300_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} got over its\ninfatuation.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} n’est plus\namoureux.\r</language>
 	</row>
 	<row id="msg_0300_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}’s base {STRVAR_1 13, 1, 0}\nrose!\r</language>
+		<language name="English">{STRVAR_1 13, 1, 0} de {STRVAR_1 1, 0, 0}\naugmente.\r</language>
 	</row>
 	<row id="msg_0300_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This can’t be used until a new\nBadge is obtained.\r</language>
+		<language name="English">Impossible de l’utiliser jusqu’à\nl’obtention du prochain Badge.\r</language>
 	</row>
 	<row id="msg_0300_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Must remove Mail before the\nPokémon is allowed to hold an item.\r</language>
+		<language name="English">Il faut enlever la Lettre pour\npouvoir tenir autre chose.\r</language>
 	</row>
 	<row id="msg_0300_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is already holding\n{STRVAR_1 8, 1, 0}.\rWould you like to switch the\ntwo items?</language>
+		<language name="English">{STRVAR_1 1, 0, 0} tient déjà\nl’objet {STRVAR_1 8, 1, 0}!\rEchanger les deux objets?</language>
 	</row>
 	<row id="msg_0300_00080" index="80">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00081" index="81">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} isn’t holding\nanything.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} ne tient rien.\r</language>
 	</row>
 	<row id="msg_0300_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Received the {STRVAR_1 8, 1, 0}\nfrom {STRVAR_1 1, 0, 0}.\r</language>
+		<language name="English">Obtenu {STRVAR_1 8, 1, 0} de\n{STRVAR_1 1, 0, 0}.\r</language>
 	</row>
 	<row id="msg_0300_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Bag is full.\r</language>
+		<language name="English">Le Sac est plein.\r</language>
 	</row>
 	<row id="msg_0300_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 1, 0} was taken and\nreplaced with the {STRVAR_1 8, 2, 0}.\r</language>
+		<language name="English">{STRVAR_1 8, 2, 0} a remplacé\n{STRVAR_1 8, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0300_00086" index="86">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00087" index="87">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00088" index="88">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00089" index="89">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00090" index="90">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00091" index="91">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}\nwoke up.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} se réveille.\r</language>
 	</row>
 	<row id="msg_0300_00093" index="93">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00094" index="94">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00095" index="95">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00096" index="96">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00097" index="97">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00098" index="98">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No more than two Pokémon\nmay enter.\r</language>
+		<language name="English">Seuls deux Pokémon\npeuvent participer.\r</language>
 	</row>
 	<row id="msg_0300_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re already surfing.\r</language>
+		<language name="English">Vous surfez déjà.\r</language>
 	</row>
 	<row id="msg_0300_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t use that here.\r</language>
+		<language name="English">Impossible ici.\r</language>
 	</row>
 	<row id="msg_0300_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It won’t have any effect.\r</language>
+		<language name="English">Ça n’aura aucun effet.\r</language>
 	</row>
 	<row id="msg_0300_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Two Pokémon are needed.\r</language>
+		<language name="English">Il faut deux Pokémon.\r</language>
 	</row>
 	<row id="msg_0300_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} became more friendly.\rHowever, its base {STRVAR_1 13, 1, 0} fell!\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} est devenu amical.\r{STRVAR_1 13, 1, 0} de base en baisse!\r</language>
 	</row>
 	<row id="msg_0300_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} adores you!\rIts base {STRVAR_1 13, 1, 0} fell!\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} vous adore!\r{STRVAR_1 13, 1, 0} de base en baisse!\r</language>
 	</row>
 	<row id="msg_0300_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} became more friendly.\rIts base {STRVAR_1 13, 1, 0} can’t go lower.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} est devenu amical.\r{STRVAR_1 13, 1, 0} de base ne peut pas\nbaisser!\r</language>
 	</row>
 	<row id="msg_0300_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was given the\n{STRVAR_1 8, 1, 0} to hold.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} tient\n{STRVAR_1 8, 1, 0}!\r</language>
 	</row>
 	<row id="msg_0300_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Three Pokémon are needed.\r</language>
+		<language name="English">Il faut trois Pokémon.\r</language>
 	</row>
 	<row id="msg_0300_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Four Pokémon are needed.\r</language>
+		<language name="English">Il faut quatre Pokémon.\r</language>
 	</row>
 	<row id="msg_0300_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Five Pokémon are needed.\r</language>
+		<language name="English">Il faut cinq Pokémon.\r</language>
 	</row>
 	<row id="msg_0300_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Six Pokémon are needed.\r</language>
+		<language name="English">Il faut six Pokémon.\r</language>
 	</row>
 	<row id="msg_0300_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No more than one Pokémon\nmay enter.\r</language>
+		<language name="English">Seul un Pokémon peut participer.\r</language>
 	</row>
 	<row id="msg_0300_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No more than three Pokémon\nmay enter.\r</language>
+		<language name="English">Seuls trois Pokémon peuvent participer.\r</language>
 	</row>
 	<row id="msg_0300_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No more than four Pokémon\nmay enter.\r</language>
+		<language name="English">Seuls quatre Pokémon peuvent\nparticiper.\r</language>
 	</row>
 	<row id="msg_0300_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No more than five Pokémon\nmay enter.\r</language>
+		<language name="English">Seuls cinq Pokémon peuvent participer.\r</language>
 	</row>
 	<row id="msg_0300_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mail was transferred from\nthe Mailbox.\r</language>
+		<language name="English">La Lettre est retirée de la Boîte aux\nLettres.\r</language>
 	</row>
 	<row id="msg_0300_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Pokémon is holding an item.\nIt cannot hold Mail.\r</language>
+		<language name="English">Ce Pokémon tient un objet.\nIl ne peut pas tenir cette Lettre.\r</language>
 	</row>
 	<row id="msg_0300_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ball Capsule was set.\r</language>
+		<language name="English">La Capsule Ball a été appliquée.\r</language>
 	</row>
 	<row id="msg_0300_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Two Capsules can’t be set.\r</language>
+		<language name="English">Impossible d’appliquer deux\nCapsules Ball.\r</language>
 	</row>
 	<row id="msg_0300_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This can’t be used on\nthat Pokémon.\r</language>
+		<language name="English">C’est inutilisable sur ce Pokémon.\r</language>
 	</row>
 	<row id="msg_0300_00121" index="121">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00122" index="122">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00123" index="123">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00124" index="124">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00125" index="125">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00126" index="126">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not enough HP...\r</language>
+		<language name="English">Pas assez de PV...\r</language>
 	</row>
 	<row id="msg_0300_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCH</language>
+		<language name="English">ORDRE</language>
 	</row>
 	<row id="msg_0300_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SUMMARY</language>
+		<language name="English">RESUME</language>
 	</row>
 	<row id="msg_0300_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ITEM</language>
+		<language name="English">OBJET</language>
 	</row>
 	<row id="msg_0300_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAIL</language>
+		<language name="English">LETTRE</language>
 	</row>
 	<row id="msg_0300_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">READ</language>
+		<language name="English">LIRE</language>
 	</row>
 	<row id="msg_0300_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TAKE</language>
+		<language name="English">PRENDRE</language>
 	</row>
 	<row id="msg_0300_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">STORE</language>
+		<language name="English">DEPOSER</language>
 	</row>
 	<row id="msg_0300_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">QUIT</language>
+		<language name="English">ANNU.</language>
 	</row>
 	<row id="msg_0300_00136" index="136">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ENTER</language>
+		<language name="English">INSCRIRE</language>
 	</row>
 	<row id="msg_0300_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO ENTRY</language>
+		<language name="English">RETIRER</language>
 	</row>
 	<row id="msg_0300_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
@@ -623,11 +623,11 @@
 	</row>
 	<row id="msg_0300_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GIVE</language>
+		<language name="English">DONNER</language>
 	</row>
 	<row id="msg_0300_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TAKE</language>
+		<language name="English">PRENDRE</language>
 	</row>
 	<row id="msg_0300_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
@@ -647,91 +647,91 @@
 	</row>
 	<row id="msg_0300_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SET</language>
+		<language name="English">APPLIQUER</language>
 	</row>
 	<row id="msg_0300_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NOT ENTERED</language>
+		<language name="English">APTE</language>
 	</row>
 	<row id="msg_0300_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BANNED</language>
+		<language name="English">INTERDIT</language>
 	</row>
 	<row id="msg_0300_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIRST</language>
+		<language name="English">PREMIER</language>
 	</row>
 	<row id="msg_0300_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SECOND</language>
+		<language name="English">DEUXIEME</language>
 	</row>
 	<row id="msg_0300_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">THIRD</language>
+		<language name="English">TROISIEME</language>
 	</row>
 	<row id="msg_0300_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FOURTH</language>
+		<language name="English">QUATRIEME</language>
 	</row>
 	<row id="msg_0300_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FIFTH</language>
+		<language name="English">CINQUIEME</language>
 	</row>
 	<row id="msg_0300_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SIXTH</language>
+		<language name="English">SIXIEME</language>
 	</row>
 	<row id="msg_0300_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABLE!</language>
+		<language name="English">APTE</language>
 	</row>
 	<row id="msg_0300_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNABLE!</language>
+		<language name="English">PAS APTE</language>
 	</row>
 	<row id="msg_0300_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEARNED</language>
+		<language name="English">APPRIS</language>
 	</row>
 	<row id="msg_0300_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABLE!</language>
+		<language name="English">APTE</language>
 	</row>
 	<row id="msg_0300_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNABLE!</language>
+		<language name="English">PAS APTE</language>
 	</row>
 	<row id="msg_0300_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABLE!</language>
+		<language name="English">APTE</language>
 	</row>
 	<row id="msg_0300_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNABLE!</language>
+		<language name="English">PAS APTE</language>
 	</row>
 	<row id="msg_0300_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Identical Pokémon are not permitted.\r</language>
+		<language name="English">Les Pokémon identiques sont interdits.\r</language>
 	</row>
 	<row id="msg_0300_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some Pokémon are holding identical\nitems.\r</language>
+		<language name="English">Les objets tenus par les Pokémon\ndoivent être différents.\r</language>
 	</row>
 	<row id="msg_0300_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The total of all party members’\nlevels has gone over {STRVAR_1 52, 0, 0}.\r</language>
+		<language name="English">Le total des niveaux de tous les\nmembres de l’équipe dépasse {STRVAR_1 52, 0, 0}.\r</language>
 	</row>
 	<row id="msg_0300_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are three or more\nlegendary Pokémon.\r</language>
+		<language name="English">Il y a 3 Pokémon légendaires ou plus.\r</language>
 	</row>
 	<row id="msg_0300_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAX HP</language>
+		<language name="English">PV MAX.</language>
 	</row>
 	<row id="msg_0300_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ATTACK</language>
+		<language name="English">ATTAQUE</language>
 	</row>
 	<row id="msg_0300_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
@@ -739,15 +739,15 @@
 	</row>
 	<row id="msg_0300_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SP. ATK</language>
+		<language name="English">ATQ. SPE.</language>
 	</row>
 	<row id="msg_0300_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SP. DEF</language>
+		<language name="English">DEF. SPE.</language>
 	</row>
 	<row id="msg_0300_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SPEED</language>
+		<language name="English">VITESSE</language>
 	</row>
 	<row id="msg_0300_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
@@ -759,23 +759,23 @@
 	</row>
 	<row id="msg_0300_00177" index="177">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} was elevated to\nLv. {STRVAR_1 52, 1, 0}.{WAIT 4}{WAIT 2}\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} monte au\nN. {STRVAR_1 52, 1, 0}!{WAIT 4}{WAIT 2}\r</language>
 	</row>
 	<row id="msg_0300_00178" index="178">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} learned\n{STRVAR_1 6, 1, 0}!{WAIT 4}{WAIT 2}\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} apprend\n{STRVAR_1 6, 1, 0}!{WAIT 4}{WAIT 2}\r</language>
 	</row>
 	<row id="msg_0300_00179" index="179">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ball Capsule will be detached.\nWill that be OK?</language>
+		<language name="English">La Capsule Ball va être détachée.\nContinuer?</language>
 	</row>
 	<row id="msg_0300_00180" index="180">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can’t use that when you have\nsomeone with you.\r</language>
+		<language name="English">Inutilisable quand quelqu’un\nest avec vous.\r</language>
 	</row>
 	<row id="msg_0300_00181" index="181">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This isn’t the place for that!\r</language>
+		<language name="English">Ce n’est pas le moment pour ça!\r</language>
 	</row>
 	<row id="msg_0300_00182" index="182">
 		<attribute name="window_context_name">used</attribute>
@@ -783,39 +783,39 @@
 	</row>
 	<row id="msg_0300_00183" index="183">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What will you do\nwith the Egg?</language>
+		<language name="English">Voulez-vous\néchanger l’Oeuf?</language>
 	</row>
 	<row id="msg_0300_00184" index="184">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please select an Egg.</language>
+		<language name="English">Veuillez choisir un Oeuf.</language>
 	</row>
 	<row id="msg_0300_00185" index="185">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0300_00186" index="186">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONFIRM</language>
+		<language name="English">CONFIRMER</language>
 	</row>
 	<row id="msg_0300_00187" index="187">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must use the same kind\nof Pokémon.\r</language>
+		<language name="English">Vous devez sélectionner deux\nPokémon de la même espèce!\r</language>
 	</row>
 	<row id="msg_0300_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} changed Forme!\r</language>
+		<language name="English">{STRVAR_1 0, 0, 0} a changé de forme!\r</language>
 	</row>
 	<row id="msg_0300_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} cannot hold\n{STRVAR_1 8, 1, 0}!\r</language>
+		<language name="English">Impossible de faire tenir\n{STRVAR_1 8, 1, 0} à {STRVAR_1 1, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0300_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 8, 0, 0} cannot be\ngiven here.\r</language>
+		<language name="English">Impossible de donner {STRVAR_1 8, 0, 0}\nici.\r</language>
 	</row>
 	<row id="msg_0300_00191" index="191">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon holding a Soul Dew cannot be\nentered in the GS Cup.\r</language>
+		<language name="English">Les Pokémon tenant une Rosée Ame ne\npeuvent pas participer à la Coupe GS.\r</language>
 	</row>
 </body>

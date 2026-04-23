@@ -2,127 +2,127 @@
 <body language="English">
 	<row id="msg_0377_R30R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must be {STRVAR_1 3, 0, 0}.\rIt was I who sent an email\nto Professor Elm earlier.\r</language>
+		<language name="English">Bienvenue!\nTu dois être {STRVAR_1 3, 0, 0}?\rC’est moi qui ai envoyé cette Lettre\nau Professeur Orme.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must be {STRVAR_1 3, 0, 0}.\rIt was I who sent an email\nto Professor Elm earlier.\r</language>
+		<language name="English">Bienvenue!\nTu dois être {STRVAR_1 3, 0, 0}?\rC’est moi qui ai envoyé cette Lettre\nau Professeur Orme.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is what I want Professor Elm\nto examine.\r</language>
+		<language name="English">Voilà ce que je voudrais que le\nProfesseur Orme examine.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A friend of mine from Ecruteak gave\nit to me.\rI bet you can’t find this kind of\nEgg in Johto.\rI thought Professor Elm might be able\nto tell what this is.\r“He’s the best when it comes to the\nresearch of Pokémon evolution.”\rThat’s a quote from the famous\nProfessor Oak.\r</language>
+		<language name="English">Une de mes connaissances de Rosalia\nm’a confié cet Oeuf...\fQu’en dis-tu?\fTu as déjà vu une chose pareille?\rJe suis sûr que le Professeur Orme\nsaura ce que c’est...\rIl étudie les évolutions de Pokémon,\npersonne ne s’y connaît mieux que lui!\rC’est du moins ce que dit le Professeur\nChen, une célébrité lui aussi!\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are returning to Professor Elm?\rHere. Your Pokémon should have\nsome rest.\r</language>
+		<language name="English">Tu retournes voir le Professeur Orme?\nAvant d’y aller, laisse ton Pokémon\fse reposer.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry to trouble you, having you go\nback and forth.\rBut please make sure to hand it to\nProfessor Elm!</language>
+		<language name="English">Désolé de te faire courir partout comme\nça, mais il faut vraiment qu’il voie\fcet Oeuf!</language>
 	</row>
 	<row id="msg_0377_R30R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Life is delightful!\nAlways, new discoveries to be made!</language>
+		<language name="English">Quel monde formidable!\nToujours plein de découvertes à faire!</language>
 	</row>
 	<row id="msg_0377_R30R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kimono Girls? What’re you talking\nabout? I don’t know such people.\fHee hee...\r</language>
+		<language name="English">Des femmes en kimonos? Comment ça?\nJe ne vois pas du tout\fde quoi tu veux parler...\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: And with that...\rI’m Professor Oak, a Pokémon\nresearcher!\rSo you’re {STRVAR_1 3, 0, 0}!\rI was just visiting my friend\nMr. Pokémon.\rI heard you were running an errand\nfor Professor Elm, so I waited here.\r</language>
+		<language name="English">Chen: Bien! Je suis le Professeur\nChen, chercheur en Pokémon!\rTu t’appelles donc {STRVAR_1 3, 0, 0}?\rJ’étais venu rendre visite à mon ami\nM. Pokémon, et voilà que le jeune Orme\fme dit qu’il venait d’envoyer quelqu’un!\fJe suis donc resté pour t’attendre.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: And with that...\rI’m Professor Oak, a Pokémon\nresearcher!\rSo you’re {STRVAR_1 3, 0, 0}!\rI was just visiting my friend\nMr. Pokémon.\rI heard you were running an errand\nfor Professor Elm, so I waited here.\r</language>
+		<language name="English">Chen: Bien! Je suis le Professeur\nChen, chercheur en Pokémon!\rTu t’appelles donc {STRVAR_1 3, 0, 0}?\rJ’étais venu rendre visite à mon ami\nM. Pokémon, et voilà que le jeune Orme\fme dit qu’il venait d’envoyer quelqu’un!\fJe suis donc resté pour t’attendre.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: Oh! What’s this?\nA rare Pokémon!\rI see!\nYou must be helping Professor Elm’s\fresearch! I think I understand why\fProfessor Elm gave you that Pokémon.\rYou will treat your Pokémon with love\nand care, it seems.\r</language>
+		<language name="English">Chen: Hohoho!\nTu te promènes avec un Pokémon\fpeu commun...\rAh, je vois!\nTu aides Orme dans ses recherches!\rHmmm... Je crois que je vois pourquoi\nil t’a confié ce Pokémon...!\rIl était sûr que tu en prendrais\nle plus grand soin!\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: ...Ah!\rYou seem to be dependable.\nHow would you like to help me out?\rSee? This is the latest version of\nthe Pokédex.\rIt automatically records data on\nPokémon you’ve seen or caught.\rIt’s a high-tech encyclopedia!\nI’d like you to have it.\r</language>
+		<language name="English">Chen: ... Ah! Justement!\rTu es vraiment digne de confiance.\nJe vais te demander un service...\rEn fait...\rRegarde ça: c’est un nouveau\nmodèle de Pokédex!\rIl enregistre automatiquement les \ndonnées sur les Pokémon rencontrés, et\fcrée lui-même de nouvelles pages.\rEt j’ai envie de te le confier!\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received the Pokédex\nfrom Professor Oak!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit un Pokédex de\nla part du Professeur Chen!</language>
 	</row>
 	<row id="msg_0377_R30R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go meet many kinds of Pokémon and\ncomplete that Pokédex!\fBut I’ve stayed too long.\rI have to get to Goldenrod for my\nusual radio show.\r{STRVAR_1 3, 0, 0}, I have a feeling that\nthis is not the last time we’ll meet...\rLet’s exchange numbers\njust to be on the safe side.\r</language>
+		<language name="English">Rencontre un maximum de Pokémon et\ncomplète ce Pokédex jusqu’au bout!\rAh!\nJe me suis attardé!\rJe dois aller à Doublonville pour mon\némission de radio.\r{STRVAR_1 3, 0, 0}, je suis sûr que nous nous\nretrouverons bientôt, mais pour parer\fà toutes les éventualités, je vais te\fdonner mon numéro de téléphone.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go meet many kinds of Pokémon and\ncomplete that Pokédex!\fBut I’ve stayed too long.\rI have to get to Goldenrod for my\nusual radio show.\r{STRVAR_1 3, 0, 0}, I have a feeling that\nthis is not the last time we’ll meet...\rLet’s exchange numbers\njust to be on the safe side.\r</language>
+		<language name="English">Rencontre un maximum de Pokémon et\ncomplète ce Pokédex jusqu’au bout!\rAh!\nJe me suis attardé!\rJe dois aller à Doublonville pour mon\némission de radio.\r{STRVAR_1 3, 0, 0}, je suis sûr que nous nous\nretrouverons bientôt, mais pour parer\fà toutes les éventualités, je vais te\fdonner mon numéro de téléphone.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Professor Oak\nin the Pokégear!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré le \nProfesseur Chen dans son Pokématos!\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? That Red Scale! What’s that?\nA red GYARADOS?\fThat’s rare! I... I want it...\r{STRVAR_1 3, 0, 0}, would you\ncare to trade it?\rI can offer this Exp. Share I got\nfrom Professor Oak. {YESNO 0}</language>
+		<language name="English">Oh? Cette écaille!\nComment?! Un LEVIATOR rouge?!\rC’est incroyable!\nJe la veux...\r{STRVAR_1 3, 0, 0}, veux-tu l’échanger?\nJe peux te donner le Multi Exp que\fle Professeur Chen m’a donné... {YESNO 0}</language>
 	</row>
 	<row id="msg_0377_R30R0201_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? That Red Scale! What’s that?\nA red GYARADOS?\fThat’s rare! I... I want it...\r{STRVAR_1 3, 0, 0}, would you\ncare to trade it?\rI can offer this Exp. Share I got\nfrom Professor Oak. {YESNO 0}</language>
+		<language name="English">Oh? Cette écaille!\nComment! Un LEVIATOR rouge?!\rC’est incroyable!\nJe la veux...\r{STRVAR_1 3, 0, 0}, veux-tu l’échanger?\nJe peux te donner le Multi Exp que\fle Professeur Chen m’a donné... {YESNO 0}</language>
 	</row>
 	<row id="msg_0377_R30R0201_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0377_R30R0201_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Arrgh, I reckon yer Bag’s full.</language>
+		<language name="English">Ah, tu n’as plus la place...</language>
 	</row>
 	<row id="msg_0377_R30R0201_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s disappointing.\nThat happens to be very rare.</language>
+		<language name="English">Quel dommage!\nUne chose aussi rare...</language>
 	</row>
 	<row id="msg_0377_R30R0201_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\rI have something I want you to have\nand was just about to send an email\fto Professor Oak.\r</language>
+		<language name="English">Bienvenue {STRVAR_1 3, 0, 0}!\rJ’allais justement envoyer un message\nau Professeur Chen, parce que j’avais\fquelque chose à te donner!\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, {STRVAR_1 3, 0, 0}!\rI have something I want you to have\nand was just about to send an email\fto Professor Oak.\r</language>
+		<language name="English">Bienvenue {STRVAR_1 3, 0, 0}!\rJ’allais justement envoyer un message\nau Professeur Chen, parce que j’avais\fquelque chose à te donner!\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The thing is...\nA friend of mine from Hoenn\fcame over to give this to me.\r</language>
+		<language name="English">En fait...\nUne connaissance qui vit dans une\frégion nommée Hoenn m’a envoyé ceci.\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Blue Orb!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit un Orbe Bleu!\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Red Orb!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit un Orbe Rouge!\r</language>
 	</row>
 	<row id="msg_0377_R30R0201_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Orb has something to do with\nthe ancient ruins located past\fCianwood City, called the\fEmbedded Tower.\rBut only a handful of Trainers can\nreach there...\rThat’s where you come in.\rProfessor Oak thinks highly of you,\nand you are the proud Champion\fafter all.\rI’m sure you can solve the mystery\nof the Orb and the secret of the ruins.</language>
+		<language name="English">Cet Orbe a un rapport particulier avec\ndes ruines situées non loin d’Irisia.\fCes ruines sont celles d’un édifice très\fancien appelé la Tour Enfouie.\rMais seuls les Dresseurs de premier\nordre peuvent s’en approcher...\rVoilà pourquoi j’ai pensé à toi!\nLe Professeur Chen t’a fait confiance,\fet tu as vaincu le Maître par-dessus\fle marché!\rJe suis sûr que tu perceras le secret\nde cet Orbe et de cette tour!</language>
 	</row>
 	<row id="msg_0377_R30R0201_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Embedded Tower is past Cianwood,\nsomewhere in the Cliff Cave.\rOr so I heard.\rOr so I remember.\rOr so I believe!</language>
+		<language name="English">Il semble que la Tour Enfouie se trouve\nquelque part sur la route escarpée\faprès Irisia.\rIl me semble!\rC’est du moins ce qu’on m’a dit!\rDu moins j’en ai l’impression!</language>
 	</row>
 	<row id="msg_0377_R30R0201_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s packed with foreign magazines.\rCan’t even read their titles...</language>
+		<language name="English">Il y a plein de magazines du\nmonde entier!\r...\nLes titres sont illisibles...</language>
 	</row>
 	<row id="msg_0377_R30R0201_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a big computer.\nHmm. It’s broken.</language>
+		<language name="English">Un gros ordinateur!\n... Il a l’air cassé...</language>
 	</row>
 	<row id="msg_0377_R30R0201_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A whole pile of strange coins!\fMaybe they’re from another country...</language>
+		<language name="English">Un tas de pièces jamais vues!\nElles sont peut-être d’un autre pays?</language>
 	</row>
 </body>

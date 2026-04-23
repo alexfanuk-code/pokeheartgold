@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0715_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Krise</language>
+		<language name="English">Jezebel</language>
 	</row>
 	<row id="msg_0715_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You...\nYou think I’m cool right?\rSo how about we exchange phone\nnumbers? {YESNO 0}</language>
+		<language name="English">Je sais que... je t’intéresse...\rAlors, je te donne mon numéro? {YESNO 0}</language>
 	</row>
 	<row id="msg_0715_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t worry, you can call me anytime!</language>
+		<language name="English">N’hésite SURTOUT PAS à me rappeler...</language>
 	</row>
 	<row id="msg_0715_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I see...\nMaybe I was overthinking things...</language>
+		<language name="English">Je me suis fait des idées...</language>
 	</row>
 	<row id="msg_0715_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew it! I knew you’d think I\nwas cool!\rSo, shall we trade phone\nnumbers now? {YESNO 0}</language>
+		<language name="English">Je savais bien... que je t’intéressais...\rAlors, je te donne mon numéro? {YESNO 0}</language>
 	</row>
 	<row id="msg_0715_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must be really shy.\nIf you’re nearby, you can come talk to\fme in person. It’s all right.</language>
+		<language name="English">Quelle timidité! Voyons, il ne faut pas!\nJe ne te mangerai pas\fsi tu viens me voir...</language>
 	</row>
 	<row id="msg_0715_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My prized {STRVAR_1 0, 10, 0} is doing great.\rWhich Pokémon do you like best?\nYou should show me sometime.</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0} chéri fait de\nson mieux!\rQuel est ton Pokémon préféré?\nTu me le montreras la prochaine fois?</language>
 	</row>
 	<row id="msg_0715_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, listen up!\nYesterday we were fighting a wild\f{STRVAR_1 0, 11, 0}.\rI thoughtlessly used a Potion at the\nwrong moment, and it looked like we were\fgoing to lose.\rMy Pokémon worked so hard. I really\nwanted to win, you know?\rWell, those kinds of things happen,\nI guess.</language>
+		<language name="English">Ecoute donc!\nHier, je me suis battue contre un\f{STRVAR_1 0, 11, 0}!\rJ’ai utilisé une Potion au mauvais\nmoment, tout mon timing a été fichu en\fl’air, et j’ai été à deux doigts de\fperdre.\rMais mes Pokémon ne se sont pas laissés\nabattre, on s’est ressaisi,\fet on a réussi à gagner!\fÇa te surprend, hein?</language>
 	</row>
 	<row id="msg_0715_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you keep all the Pokémon you\ncapture in PC Boxes?\rMe, I usually just let them go...\rThat reminds me, I recently let this\n{STRVAR_1 0, 11, 0} go...\rThat’s kind of a waste, isn’t it?</language>
+		<language name="English">Tu as pu capturer tous les Pokémon\nque tu as rencontrés?\rJ’en ai laissé filer un certain nombre...\rL’autre jour, c’était un {STRVAR_1 0, 11, 0}!\rQuel gâchis!</language>
 	</row>
 	<row id="msg_0715_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, what do you think about battling\nwith me again?\rI’m at the {STRVAR_1 4, 3, 0}\nright now.\rCome on over!</language>
+		<language name="English">Tu ne voudrais pas que nous nous\nrevoyions un de ces quatre?\rJe t’attends au {STRVAR_1 4, 3, 0}!\nJe compte sur toi!!!</language>
 	</row>
 	<row id="msg_0715_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello?\nDo you remember your promise?\rWe have to battle soon!\nI’ll be at the {STRVAR_1 4, 3, 0}.</language>
+		<language name="English">Allôôôô?\nTu m’as déjà oubliée?\rJe suis toujours au\n{STRVAR_1 4, 3, 0} pourtant!\fNe me déçois pas!</language>
 	</row>
 	<row id="msg_0715_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It wasn’t a very smart move to come to\nthe Park in a miniskirt, was it...?\rI mean, these leaves keep scratching\nmy legs...</language>
+		<language name="English">Aller au parc en minijupe\na été un fiasco!\rJe me suis écorché les jambes avec\ntoutes ces feuilles tranchantes!</language>
 	</row>
 </body>

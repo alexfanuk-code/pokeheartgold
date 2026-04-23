@@ -2,34 +2,34 @@
 <body language="English">
 	<row id="msg_0351_R14_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know which is the cutest Pokémon\nin the world?\fIt’s CHANSEY, of course!\fI say CHANSEY, and that’s final!\r</language>
+		<language name="English">Tu sais lequel c’est, le Pokémon\nle plus mignon du monde?\fFacile: c’est LEVEINARD!\fY’a pas photo!\r</language>
 	</row>
 	<row id="msg_0351_R14_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I will give you something good\nif you can bring me a CHANSEY!</language>
+		<language name="English">Si tu m’amènes un LEVEINARD,\nje te donnerai un truc chouette!</language>
 	</row>
 	<row id="msg_0351_R14_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Pokémon is...CHANSEY!\rWhat are the chances of\nseeing CHANSEY this close?\rTake this as a token of my gratitude!\r</language>
+		<language name="English">Mais... C’est un LEVEINARD!\rHiiiii! Quelle veinarde je suis de pouvoir\nen voir un d’aussi près!\rPour te remercier, prends ceci!\r</language>
 	</row>
 	<row id="msg_0351_R14_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let a CHANSEY hold this Lucky Punch,\nand it’ll have a better chance at\fgetting critical hits!\rIsn’t that awesome?!</language>
+		<language name="English">Fais porter ce Poing Chance à un\nLEVEINARD, cela augmentera son taux\fde critiques!\rC’est pas mal, hein?</language>
 	</row>
 	<row id="msg_0351_R14_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, you lovely CHANSEY!</language>
+		<language name="English">LEVEINARD! Gouzi-gouzi!</language>
 	</row>
 	<row id="msg_0351_R14_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know which is the cutest Pokémon\nin the world?\fIt is CHANSEY, of course!\fI say CHANSEY, and that’s final!</language>
+		<language name="English">Tu sais lequel c’est, le Pokémon\nle plus mignon du monde?\fFacile: c’est LEVEINARD!\fY’a pas photo!</language>
 	</row>
 	<row id="msg_0351_R14_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: {STRVAR_1 3, 0, 0}! Not again!\nI’ll be there first next time!\rHaving followed it here, I’m\nstarting to understand what\fSUICUNE is after.\rTo be honest, I would like to keep\nthis information to myself.\rBut I want to be an honest Trainer in\nfront of SUICUNE!\rThat’s why I am sharing a clue with you.\nIt seems that...\r...SUICUNE prefers a hilly place\nnear water...\f...Somewhere north.\rI don’t know exactly where, yet.\nIt will be just you and me!\rWho’ll find it first? I challenge you!</language>
+		<language name="English">Eusine: Encore toi, {STRVAR_1 3, 0, 0}!\rCette fois, je ne me laisserai pas faire!\nAprès tout ce temps passé à suivre\fSUICUNE, j’ai compris où il se dirigeait!\rSi j’ai raison, j’aimerais garder cette\ninformation pour moi tout seul, mais\fje ne peux pas me montrer égoïste\fdevant SUICUNE...\rAlors je vais te donner un indice!\rSUICUNE se dirige vers le nord...\nUn endroit au bord de l’eau...\fUn peu surélevé...\fC’est là qu’il apparaîtra ensuite!\rJe ne sais pas exactement où ce lieu\nse trouve, mais je compte bien\fle découvrir avant toi!</language>
 	</row>
 	<row id="msg_0351_R14_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: What’s wrong, {STRVAR_1 3, 0, 0}?\nTo be honest, I would like to keep\fthis information to myself.\rBut I want to be an honest Trainer in\nfront of SUICUNE!\rThat’s why I am sharing a clue with you.\rIt seems that...\n...SUICUNE prefers a hilly place\fnear water...\f...Somewhere north.\rI don’t know exactly where, yet.\nIt will be just you and me!</language>
+		<language name="English">Eusine: Eh bien, {STRVAR_1 3, 0, 0}?\nJe ne peux pas me montrer égoïste\fdevant SUICUNE...\rAlors je vais te donner un indice!\rSUICUNE se dirige vers le nord...\nUn endroit au bord de l’eau...\fUn peu surélevé...\fC’est là qu’il apparaîtra ensuite!\rJe ne sais pas exactement où ce lieu\nse trouve, mais je compte bien\fle découvrir avant toi!</language>
 	</row>
 </body>

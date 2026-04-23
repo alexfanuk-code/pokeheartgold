@@ -2,41 +2,41 @@
 <body language="English">
 	<row id="msg_0802_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SEEN</language>
+		<language name="English">VUS</language>
 	</row>
 	<row id="msg_0802_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OBTAINED</language>
+		<language name="English">PRIS</language>
 	</row>
 	<row id="msg_0802_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0802_00003" index="3">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">X</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0802_00004" index="4">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0802_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0802_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0802_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0802_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
@@ -48,75 +48,75 @@
 	</row>
 	<row id="msg_0802_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HT</language>
+		<language name="English">HAUT.</language>
 	</row>
 	<row id="msg_0802_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WT</language>
+		<language name="English">POIDS</language>
 	</row>
 	<row id="msg_0802_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Search Mode</language>
+		<language name="English">MODE RECHERCHE</language>
 	</row>
 	<row id="msg_0802_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please enter the search criteria.</language>
+		<language name="English">Choisissez un mode de classement.</language>
 	</row>
 	<row id="msg_0802_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Search Results</language>
+		<language name="English">RESULTATS DE LA RECHERCHE</language>
 	</row>
 	<row id="msg_0802_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RESULTS {STRVAR_1 52, 0, 0}</language>
+		<language name="English">RESULTATS {STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0802_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Select the Pokédex listing mode.</language>
+		<language name="English">Choisissez un mode de classement.</language>
 	</row>
 	<row id="msg_0802_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">List by the first letter in the name.</language>
+		<language name="English">Recherche par la première lettre du nom.</language>
 	</row>
 	<row id="msg_0802_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">List by type.</language>
+		<language name="English">Recherche par le type.</language>
 	</row>
 	<row id="msg_0802_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">List by weight range.</language>
+		<language name="English">Recherche par le poids.</language>
 	</row>
 	<row id="msg_0802_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">List by height range.</language>
+		<language name="English">Recherche par la taille.</language>
 	</row>
 	<row id="msg_0802_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">List by body style.</language>
+		<language name="English">Recherche par la forme du corps.</language>
 	</row>
 	<row id="msg_0802_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">List by area.</language>
+		<language name="English">Recherche par zone.</language>
 	</row>
 	<row id="msg_0802_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No matching Pokémon were found.</language>
+		<language name="English">Aucun Pokémon ne correspond</language>
 	</row>
 	<row id="msg_0802_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not found...</language>
+		<language name="English">à la recherche.</language>
 	</row>
 	<row id="msg_0802_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Searching...</language>
+		<language name="English">Recherche en cours...</language>
 	</row>
 	<row id="msg_0802_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ORDER</language>
+		<language name="English">CLASSEMENT</language>
 	</row>
 	<row id="msg_0802_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NAME</language>
+		<language name="English">NOM</language>
 	</row>
 	<row id="msg_0802_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
@@ -124,45 +124,45 @@
 	</row>
 	<row id="msg_0802_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HT</language>
+		<language name="English">HAUT.</language>
 	</row>
 	<row id="msg_0802_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WT</language>
+		<language name="English">POIDS</language>
 	</row>
 	<row id="msg_0802_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AREA</language>
+		<language name="English">ZONE</language>
 	</row>
 	<row id="msg_0802_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FORM</language>
+		<language name="English">CORPS</language>
 	</row>
 	<row id="msg_0802_00033" index="33">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0802_00034" index="34">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0802_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RESET</language>
+		<language name="English">REINIT.</language>
 	</row>
 	<row id="msg_0802_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">START</language>
+		<language name="English">CHERCHER</language>
 	</row>
 	<row id="msg_0802_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0802_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 52, 0, 0}.{STRVAR_1 50, 1, 0}</language>
+		<language name="English">{STRVAR_1 52, 0, 0},{STRVAR_1 50, 1, 0}</language>
 	</row>
 	<row id="msg_0802_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -170,67 +170,67 @@
 	</row>
 	<row id="msg_0802_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0802_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Numerical</language>
+		<language name="English">Numérique</language>
 	</row>
 	<row id="msg_0802_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A to Z</language>
+		<language name="English">A à Z</language>
 	</row>
 	<row id="msg_0802_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heaviest</language>
+		<language name="English">+ - lourd</language>
 	</row>
 	<row id="msg_0802_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lightest</language>
+		<language name="English">+ - léger</language>
 	</row>
 	<row id="msg_0802_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tallest</language>
+		<language name="English">+ - grand</language>
 	</row>
 	<row id="msg_0802_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Smallest</language>
+		<language name="English">+ - petit</language>
 	</row>
 	<row id="msg_0802_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dark</language>
+		<language name="English">Ténèbres</language>
 	</row>
 	<row id="msg_0802_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rock</language>
+		<language name="English">Roche</language>
 	</row>
 	<row id="msg_0802_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Psychic</language>
+		<language name="English">Psy</language>
 	</row>
 	<row id="msg_0802_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fight</language>
+		<language name="English">Combat</language>
 	</row>
 	<row id="msg_0802_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grass</language>
+		<language name="English">Plante</language>
 	</row>
 	<row id="msg_0802_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ice</language>
+		<language name="English">Glace</language>
 	</row>
 	<row id="msg_0802_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ghost</language>
+		<language name="English">Spectre</language>
 	</row>
 	<row id="msg_0802_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ground</language>
+		<language name="English">Sol</language>
 	</row>
 	<row id="msg_0802_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Electric</language>
+		<language name="English">Electrik</language>
 	</row>
 	<row id="msg_0802_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
@@ -246,23 +246,23 @@
 	</row>
 	<row id="msg_0802_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steel</language>
+		<language name="English">Acier</language>
 	</row>
 	<row id="msg_0802_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flying</language>
+		<language name="English">Vol</language>
 	</row>
 	<row id="msg_0802_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fire</language>
+		<language name="English">Feu</language>
 	</row>
 	<row id="msg_0802_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Water</language>
+		<language name="English">Eau</language>
 	</row>
 	<row id="msg_0802_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bug</language>
+		<language name="English">Insecte</language>
 	</row>
 	<row id="msg_0802_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
@@ -278,7 +278,7 @@
 	</row>
 	<row id="msg_0802_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">UNKNOWN</language>
+		<language name="English">INCONNU</language>
 	</row>
 	<row id="msg_0802_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
@@ -484,79 +484,79 @@
 	</row>
 	<row id="msg_0802_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Male</language>
+		<language name="English">Mâle</language>
 	</row>
 	<row id="msg_0802_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Female</language>
+		<language name="English">Femelle</language>
 	</row>
 	<row id="msg_0802_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">West Sea</language>
+		<language name="English">Mer Occident</language>
 	</row>
 	<row id="msg_0802_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">East Sea</language>
+		<language name="English">Mer Orient</language>
 	</row>
 	<row id="msg_0802_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Plant Cloak</language>
+		<language name="English">Cape Plante</language>
 	</row>
 	<row id="msg_0802_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sandy Cloak</language>
+		<language name="English">Cape Sable</language>
 	</row>
 	<row id="msg_0802_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trash Cloak</language>
+		<language name="English">Cape Déchet</language>
 	</row>
 	<row id="msg_0802_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One form</language>
+		<language name="English">Forme unique</language>
 	</row>
 	<row id="msg_0802_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JP Pokédex</language>
+		<language name="English">Pokédex japonais</language>
 	</row>
 	<row id="msg_0802_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EN Pokédex</language>
+		<language name="English">Pokédex anglais</language>
 	</row>
 	<row id="msg_0802_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FR Pokédex</language>
+		<language name="English">Pokédex français</language>
 	</row>
 	<row id="msg_0802_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GE Pokédex</language>
+		<language name="English">Pokédex allemand</language>
 	</row>
 	<row id="msg_0802_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">IT Pokédex</language>
+		<language name="English">Pokédex italien</language>
 	</row>
 	<row id="msg_0802_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SP Pokédex</language>
+		<language name="English">Pokédex espagnol</language>
 	</row>
 	<row id="msg_0802_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Area Unknown</language>
+		<language name="English">Zone Inconnue</language>
 	</row>
 	<row id="msg_0802_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morning</language>
+		<language name="English">Matin</language>
 	</row>
 	<row id="msg_0802_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Day</language>
+		<language name="English">Jour</language>
 	</row>
 	<row id="msg_0802_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Night</language>
+		<language name="English">Nuit</language>
 	</row>
 	<row id="msg_0802_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCH</language>
+		<language name="English">CHANGER</language>
 	</row>
 	<row id="msg_0802_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
@@ -564,170 +564,170 @@
 	</row>
 	<row id="msg_0802_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SHOW ALL</language>
+		<language name="English">TOUT AFFICHER</language>
 	</row>
 	<row id="msg_0802_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SHOW ALL</language>
+		<language name="English">TOUT AFFICHER</language>
 	</row>
 	<row id="msg_0802_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Height Check</language>
+		<language name="English">Hauteur</language>
 	</row>
 	<row id="msg_0802_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Weight Check</language>
+		<language name="English">Poids</language>
 	</row>
 	<row id="msg_0802_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">4’11”</language>
+		<language name="English">1,5 m</language>
 	</row>
 	<row id="msg_0802_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">4’11”</language>
+		<language name="English">1,52 m</language>
 	</row>
 	<row id="msg_0802_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">88.2 lbs.</language>
+		<language name="English">40,0 kg</language>
 	</row>
 	<row id="msg_0802_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">90.4 lbs.</language>
+		<language name="English">41,0 kg</language>
 	</row>
 	<row id="msg_0802_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">AREA</language>
+		<language name="English">ZONE</language>
 	</row>
 	<row id="msg_0802_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SIZE</language>
+		<language name="English">TAILLE</language>
 	</row>
 	<row id="msg_0802_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokédex registration completed.</language>
+		<language name="English">Mise à jour du Pokédex terminée.</language>
 	</row>
 	<row id="msg_0802_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Normal Forme</language>
+		<language name="English">Forme Normale</language>
 	</row>
 	<row id="msg_0802_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Attack Forme</language>
+		<language name="English">Forme Attaque</language>
 	</row>
 	<row id="msg_0802_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Defense Forme</language>
+		<language name="English">Forme Défense</language>
 	</row>
 	<row id="msg_0802_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speed Forme</language>
+		<language name="English">Forme Vitesse</language>
 	</row>
 	<row id="msg_0802_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Land Forme</language>
+		<language name="English">Forme Terrestre</language>
 	</row>
 	<row id="msg_0802_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sky Forme</language>
+		<language name="English">Forme Céleste</language>
 	</row>
 	<row id="msg_0802_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Altered Forme</language>
+		<language name="English">Forme Alternative</language>
 	</row>
 	<row id="msg_0802_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Origin Forme</language>
+		<language name="English">Forme Originelle</language>
 	</row>
 	<row id="msg_0802_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROTOM</language>
+		<language name="English">Forme de MOTISMA</language>
 	</row>
 	<row id="msg_0802_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">HEAT ROTOM</language>
+		<language name="English">MOTISMA CHALEUR</language>
 	</row>
 	<row id="msg_0802_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WASH ROTOM</language>
+		<language name="English">MOTISMA LAVAGE</language>
 	</row>
 	<row id="msg_0802_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FROST ROTOM</language>
+		<language name="English">MOTISMA FROID</language>
 	</row>
 	<row id="msg_0802_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FAN ROTOM</language>
+		<language name="English">MOTISMA HELICE</language>
 	</row>
 	<row id="msg_0802_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MOW ROTOM</language>
+		<language name="English">MOTISMA TONTE</language>
 	</row>
 	<row id="msg_0802_00159" index="159">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0}</language>
+		<language name="English">Forme de {STRVAR_1 0, 0, 0}</language>
 	</row>
 	<row id="msg_0802_00160" index="160">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Normal</language>
+		<language name="English">Forme de MORPHEO</language>
 	</row>
 	<row id="msg_0802_00161" index="161">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunny Form</language>
+		<language name="English">Forme Solaire</language>
 	</row>
 	<row id="msg_0802_00162" index="162">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rainy Form</language>
+		<language name="English">Forme Eau de Pluie</language>
 	</row>
 	<row id="msg_0802_00163" index="163">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Snowy Form</language>
+		<language name="English">Forme Blizzard</language>
 	</row>
 	<row id="msg_0802_00164" index="164">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Overcast Form</language>
+		<language name="English">Temps Couvert</language>
 	</row>
 	<row id="msg_0802_00165" index="165">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunshine Form</language>
+		<language name="English">Temps Ensoleillé</language>
 	</row>
 	<row id="msg_0802_00166" index="166">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spiky-eared</language>
+		<language name="English">Troizépi</language>
 	</row>
 	<row id="msg_0802_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0}</language>
+		<language name="English">{STRVAR_1 0, 0, 0}:</language>
 	</row>
 	<row id="msg_0802_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">COMPARE</language>
+		<language name="English">COMPARER</language>
 	</row>
 	<row id="msg_0802_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Compare {STRVAR_1 0, 0, 0}</language>
+		<language name="English">Comparer {STRVAR_1 0, 0, 0}</language>
 	</row>
 	<row id="msg_0802_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FORMS</language>
+		<language name="English">FORME</language>
 	</row>
 	<row id="msg_0802_00171" index="171">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SWITCH</language>
+		<language name="English">CHANGER</language>
 	</row>
 	<row id="msg_0802_00172" index="172">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">RETOUR</language>
 	</row>
 	<row id="msg_0802_00173" index="173">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">RETOUR</language>
 	</row>
 	<row id="msg_0802_00174" index="174">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RETURN TO LIST</language>
+		<language name="English">RETOUR</language>
 	</row>
 	<row id="msg_0802_00175" index="175">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 51, 0, 0}’{STRVAR_1 51, 1, 0}”</language>
+		<language name="English"></language>
 	</row>
 </body>

@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0134_D47PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Those who come to a Pokémon Center\noften take good care of their Pokémon.\fWouldn’t you agree?</language>
+		<language name="English">Les gens qui viennent très souvent\nau Centre Pokémon sont ceux qui\fs’occupent le mieux de leurs Pokémon!\rTu crois pas?\n</language>
 	</row>
 	<row id="msg_0134_D47PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">After a long walk in the mountains to\nfind a Pokémon Center, when you’re\fjust about to fall flat...\rThen it feels like you are in paradise!</language>
+		<language name="English">Quand on est au bord de l’épuisement,\naprès avoir traîné sur un chemin de\fmontagne interminable, voir le toit\fd’un Centre Pokémon, c’est comme\fapercevoir une oasis après avoir\ftraversé le désert!</language>
 	</row>
 </body>

@@ -2,62 +2,62 @@
 <body language="English">
 	<row id="msg_0692_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Doug</language>
+		<language name="English">Constantin</language>
 	</row>
 	<row id="msg_0692_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We should trade phone numbers, so I\ncan educate you more on the\fmerits of Bug-type Pokémon!{YESNO 0}</language>
+		<language name="English">On échange nos numéros, comme ça, on\npourra discuter de tous les bons\fcôtés des Pokémon Insecte! {YESNO 0}</language>
 	</row>
 	<row id="msg_0692_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You betcha. Thanks!\nI’ll call you sometime!</language>
+		<language name="English">Merci!\nJe te téléphonerai, sans faute!</language>
 	</row>
 	<row id="msg_0692_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t say such sad things...</language>
+		<language name="English">C’est bien dommage...</language>
 	</row>
 	<row id="msg_0692_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, did you decide to exchange\nphone numbers after all? {YESNO 0}</language>
+		<language name="English">Ah, je m’disais bien!\nTu veux mon numéro, hein? {YESNO 0}</language>
 	</row>
 	<row id="msg_0692_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, there you are!\rI thought I’d give you a Berry, so I’ve\nbeen waiting here for you!\rHere you go!\r</language>
+		<language name="English">Ah, te voilà!\rJe t’attendais pour te donner un\ncadeau... Une Baie!\rTiens, voilà!\r</language>
 	</row>
 	<row id="msg_0692_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wait, what?\rIf you’re nearby, don’t bother with the\nphone. Come talk in person!</language>
+		<language name="English">Mais mais mais!\rViens donc me parler directement, ce\nsera plus sympa quand même!</language>
 	</row>
 	<row id="msg_0692_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0} is growing up well,\nif I do say so myself!\rWhy, in a recent battle against\n{STRVAR_1 0, 11, 0}, it knocked it out before\fI could blink!\rBefore I could even blink! Amazing, eh?</language>
+		<language name="English">Je l’élève bien, mon {STRVAR_1 0, 10, 0}!\rPar exemple, l’autre jour...\nBAM!\rOn a dégommé un {STRVAR_1 0, 11, 0}!\nEn un coup!\rEt oui!\rÇa t’étonne, hein?</language>
 	</row>
 	<row id="msg_0692_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argh, I give up! My {STRVAR_1 0, 10, 0} has\ngotten pretty strong, you know.\rI figured that it should be able to\neasily knock out a {STRVAR_1 0, 11, 0}...\rBut once we got a good look at it, we\nsaw it was really high level...\fWe got beaten up, down, and sideways...</language>
+		<language name="English">Mais quelle poisse!\nMon {STRVAR_1 0, 10, 0} est devenu bien fort,\falors je pensais faire qu’une bouchée\fdu {STRVAR_1 0, 11, 0}...\rMais j’avais pas vu qu’il avait un niveau\npas possible...\fEt c’est à lui qu’on a servi\fd’amuse-gueule...</language>
 	</row>
 	<row id="msg_0692_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, earlier by the roadside, this\n{STRVAR_1 0, 11, 0} jumped out at me!\rI really love Pokémon, but...bam!\nIt sure startled me!\rI mean, if you’re going to jump out at a\nperson, you should at least have the\fdecency to introduce yourself first!</language>
+		<language name="English">Je me promenais la dernière fois,\net paf! Un {STRVAR_1 0, 11, 0} qui déboule!\rJ’aime bien les Pokémon, mais\nquand même...\fMe ficher la trouille comme ça...\rIls pourraient au moins se présenter\navant de me tomber dessus.</language>
 	</row>
 	<row id="msg_0692_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I’d really like to sit down and\ntalk with you about the virtues of\fBug-type Pokémon!\rWhat do you think? I’m on\n{STRVAR_1 4, 3, 0}. How about you come\fover for a battle?</language>
+		<language name="English">Bon, j’aimerais te montrer\nl’intérêt des Pokémon Insecte.\rQu’est-ce qui t’arrange comme date?\nMoi, je suis toujours sur la\f{STRVAR_1 4, 3, 0}, donc on peut se\ffaire ça quand tu voudras!</language>
 	</row>
 	<row id="msg_0692_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s have a battle. We haven’t had one\nin a while! I’m on {STRVAR_1 4, 3, 0}...\fDon’t forget!</language>
+		<language name="English">Ça fait longtemps que j’ai pas fait un\nmatch!\fViens me retrouver sur la\f{STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0692_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, my dad was a researcher\nstudying Bug-type Pokémon.\rEver since I was young, there’s\nalways been Bug-type Pokémon\fscattered all over the house.\rThat’s why I started to like Bug-type\nPokémon so much myself.\rMy mom...\nWell, she screamed a lot.</language>
+		<language name="English">Mon papa, il était chercheur spécialisé\ndans les Pokémon Insecte.\rC’est pour ça qu’il y en avait tout le\ntemps plein chez moi quand j’étais\fpetit, et que maintenant, je les adore.\rMaman par contre...\nElle hurlait tous les jours...</language>
 	</row>
 	<row id="msg_0692_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I found some Berries. I’ve already got\nmore than I need, so I’ll give you some!\rI’m on {STRVAR_1 4, 3, 0}. Come pick\nthem up!</language>
+		<language name="English">J’ai trouvé une Baie!\nJ’en ai déjà plein, alors je vais te\fdonner celle-là!\rViens la chercher sur la\n{STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0692_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You want Berries, don’t you?\rI’ll give you some if you come visit me\non {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Tu veux la Baie?\rJe te la donne, hein!\rViens la prendre sur la\n{STRVAR_1 4, 3, 0}!</language>
 	</row>
 </body>

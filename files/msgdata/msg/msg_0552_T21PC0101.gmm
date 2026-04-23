@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="msg_0552_T21PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s great. I can store any number\nof Pokémon, and it’s all free.</language>
+		<language name="English">Heureusement qu’on peut laisser autant\nde Pokémon qu’on veut gratuitement!</language>
 	</row>
 	<row id="msg_0552_T21PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That PC is free for any Trainer to use.</language>
+		<language name="English">Le PC posé là-bas peut être utilisé par\nn’importe quel Dresseur, alors\fne te gêne pas!</language>
 	</row>
 	<row id="msg_0552_T21PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Communication Center upstairs\nwas just built.\rBut they’re still finishing it up.</language>
+		<language name="English">Ils installent un centre de connexion\nà l’étage.\rMais il n’est pas encore prêt.</language>
 	</row>
 	<row id="msg_0552_T21PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Communication Center upstairs\nwas just built.\rI traded Pokémon there already!</language>
+		<language name="English">Ils ont installé un centre de connexion\nà l’étage.\rJ’ai déjà fait un échange de Pokémon!</language>
 	</row>
 	<row id="msg_0552_T21PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Pokémon Wireless\nClub Union Room.\r...Oh, I was just trying to learn that\nline by heart.\rIt’ll take a little longer before\nwe open the Union Room.</language>
+		<language name="English">Bienvenue à la Salle Union du\nClub Sans Fil Pokémon!\r... C’est ce que je vais devoir dire à\ntout le monde quand ça sera ouvert...\rÇa ne devrait plus tarder, alors un\npeu de patience!</language>
 	</row>
 	<row id="msg_0552_T21PC0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Pokémon\nCommunication Club Colosseum.\r...Oh, I was just trying to learn that\nline by heart.\rIt’ll take a little longer before\nwe open the Colosseum.</language>
+		<language name="English">Bienvenue au Colisée du Club Link\nPokémon!\r... C’est ce que je vais devoir dire à\ntout le monde quand ça sera ouvert...\rÇa ne devrait plus tarder, alors un\npeu de patience!</language>
 	</row>
 </body>

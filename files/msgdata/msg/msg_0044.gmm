@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0044_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">sleep</language>
+		<language name="English">sommeil</language>
 	</row>
 	<row id="msg_0044_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,15 +10,15 @@
 	</row>
 	<row id="msg_0044_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">burn</language>
+		<language name="English">brûlure</language>
 	</row>
 	<row id="msg_0044_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">paralysis</language>
+		<language name="English">paralysie</language>
 	</row>
 	<row id="msg_0044_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">frozen</language>
+		<language name="English">gel</language>
 	</row>
 	<row id="msg_0044_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
@@ -26,6 +26,6 @@
 	</row>
 	<row id="msg_0044_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">infatuation</language>
+		<language name="English">attirance</language>
 	</row>
 </body>

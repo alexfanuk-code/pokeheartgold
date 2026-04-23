@@ -2,27 +2,27 @@
 <body language="English">
 	<row id="msg_0779_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PAL PAD</language>
+		<language name="English">REGISTRE AMI</language>
 	</row>
 	<row id="msg_0779_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHECK FRIEND ROSTER</language>
+		<language name="English">VOIR LISTE D’AMIS</language>
 	</row>
 	<row id="msg_0779_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REGISTER FRIEND CODE</language>
+		<language name="English">ENREGISTRER UN CODE AMI</language>
 	</row>
 	<row id="msg_0779_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S FRIEND CODE</language>
+		<language name="English">CODE DE {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0779_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">FERMER</language>
 	</row>
 	<row id="msg_0779_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FRIEND ROSTER</language>
+		<language name="English">LISTE D’AMIS</language>
 	</row>
 	<row id="msg_0779_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
@@ -30,39 +30,39 @@
 	</row>
 	<row id="msg_0779_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}RETURN</language>
+		<language name="English">{ALN_CENTER}RETOUR</language>
 	</row>
 	<row id="msg_0779_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DETAILS</language>
+		<language name="English">CONSULTER</language>
 	</row>
 	<row id="msg_0779_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REWRITE NAME</language>
+		<language name="English">MODIFIER NOM</language>
 	</row>
 	<row id="msg_0779_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DELETE</language>
+		<language name="English">EFFACER</language>
 	</row>
 	<row id="msg_0779_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0779_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What would you like to do\nwith {STRVAR_1 3, 0, 0}’s data?</language>
+		<language name="English">Que souhaitez-vous faire avec\nles données de {STRVAR_1 3, 0, 0}?</language>
 	</row>
 	<row id="msg_0779_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RECORD WITH {STRVAR_1 3, 0, 0}</language>
+		<language name="English">DONNEES DE {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0779_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}A: Return to Previous Screen</language>
+		<language name="English">{ALN_CENTER}A: Revenir à l’écran précédent.</language>
 	</row>
 	<row id="msg_0779_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GROUP</language>
+		<language name="English">GROUPE</language>
 	</row>
 	<row id="msg_0779_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -78,15 +78,15 @@
 	</row>
 	<row id="msg_0779_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE RECORD</language>
+		<language name="English">DONNEES COMBAT</language>
 	</row>
 	<row id="msg_0779_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WIN</language>
+		<language name="English">VICT.</language>
 	</row>
 	<row id="msg_0779_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LOSE</language>
+		<language name="English">DEFAI.</language>
 	</row>
 	<row id="msg_0779_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
@@ -94,7 +94,7 @@
 	</row>
 	<row id="msg_0779_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POKéMON TRADES</language>
+		<language name="English">ECHANGES POKéMON</language>
 	</row>
 	<row id="msg_0779_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
@@ -103,48 +103,48 @@
 	<row id="msg_0779_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0779_00026" index="26">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0779_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DATE LAST PLAYED</language>
+		<language name="English">DERNIERE RENCONTRE</language>
 	</row>
 	<row id="msg_0779_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 51, 1, 0} {STRVAR_1 51, 2, 0}, {STRVAR_1 53, 0, 0}</language>
+		<language name="English">{STRVAR_1 51, 2, 0} {STRVAR_1 51, 1, 0} {STRVAR_1 53, 0, 0}</language>
 	</row>
 	<row id="msg_0779_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE TOWER</language>
+		<language name="English">TOUR DE COMBAT</language>
 	</row>
 	<row id="msg_0779_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE FACTORY</language>
+		<language name="English">USINE DE COMBAT</language>
 	</row>
 	<row id="msg_0779_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE CASTLE</language>
+		<language name="English">CASTEL DE COMBAT</language>
 	</row>
 	<row id="msg_0779_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE HALL</language>
+		<language name="English">SCENE DE COMBAT</language>
 	</row>
 	<row id="msg_0779_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE ARCADE</language>
+		<language name="English">ARCADE DE COMBAT</language>
 	</row>
 	<row id="msg_0779_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PREV</language>
+		<language name="English">PRECEDENT</language>
 	</row>
 	<row id="msg_0779_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CURRENT</language>
+		<language name="English">ACTUEL</language>
 	</row>
 	<row id="msg_0779_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -152,27 +152,27 @@
 	</row>
 	<row id="msg_0779_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WIN STREAK: {STRVAR_1 53, 0, 0}</language>
+		<language name="English">{STRVAR_1 53, 0, 0} VICTOIRE(S)</language>
 	</row>
 	<row id="msg_0779_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEVEL 50</language>
+		<language name="English">NIVEAU 50</language>
 	</row>
 	<row id="msg_0779_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OPEN LEVEL</language>
+		<language name="English">NIVEAU LIBRE</language>
 	</row>
 	<row id="msg_0779_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RENTAL/TRADE</language>
+		<language name="English">LOCATION/ECHANGE</language>
 	</row>
 	<row id="msg_0779_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_RIGHT}CASTLE POINTS</language>
+		<language name="English">{ALN_RIGHT}POINTS CASTEL</language>
 	</row>
 	<row id="msg_0779_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0}’S RECORD</language>
+		<language name="English">RECORD DE {STRVAR_1 0, 0, 0}</language>
 	</row>
 	<row id="msg_0779_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -180,19 +180,19 @@
 	</row>
 	<row id="msg_0779_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_RIGHT}{STRVAR_1 53, 0, 0} CP</language>
+		<language name="English">{ALN_RIGHT}{STRVAR_1 53, 0, 0}PCa</language>
 	</row>
 	<row id="msg_0779_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WIN STREAK: {STRVAR_1 53, 0, 0}</language>
+		<language name="English">{STRVAR_1 53, 0, 0} VICTOIRE(S)</language>
 	</row>
 	<row id="msg_0779_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GAMES CLEARED: {STRVAR_1 53, 0, 0}</language>
+		<language name="English">{STRVAR_1 53, 0, 0} VICTOIRE(S)</language>
 	</row>
 	<row id="msg_0779_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PLAZA GAMES PLAYED</language>
+		<language name="English">PARTICIPATIONS JEUX SQUARE</language>
 	</row>
 	<row id="msg_0779_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
@@ -204,11 +204,11 @@
 	</row>
 	<row id="msg_0779_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’S FRIEND CODE</language>
+		<language name="English">CODE DE {STRVAR_1 3, 0, 0}</language>
 	</row>
 	<row id="msg_0779_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}RETURN</language>
+		<language name="English">{ALN_CENTER}RETOUR</language>
 	</row>
 	<row id="msg_0779_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
@@ -216,58 +216,58 @@
 	</row>
 	<row id="msg_0779_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By exchanging Friend Codes\nwith other players, you may\ntrade and battle with them\nover Nintendo Wi-Fi Connection.</language>
+		<language name="English">En échangeant vos codes ami,\nvous pourrez participer à des\néchanges ou des combats\nvia la CWF Nintendo.</language>
 	</row>
 	<row id="msg_0779_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To obtain your Friend Code,\nplease log on to Nintendo WFC.</language>
+		<language name="English">Pour obtenir votre code ami,\nveuillez vous connecter à la\nconnexion Wi-Fi Nintendo.</language>
 	</row>
 	<row id="msg_0779_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}\n{STRVAR_1 3, 0, 0} will be registered.</language>
+		<language name="English">{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}\n{STRVAR_1 3, 0, 0} sera enregistré(e).</language>
 	</row>
 	<row id="msg_0779_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Friend Code is wrong.\n{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}</language>
+		<language name="English">Le code ami est incorrect.\n{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}</language>
 	</row>
 	<row id="msg_0779_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} will be deleted.\nAre you sure about this?</language>
+		<language name="English">{STRVAR_1 3, 0, 0} sera effacé(e).\nConfirmer?</language>
 	</row>
 	<row id="msg_0779_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Friend Roster is full!</language>
+		<language name="English">Votre liste d’amis est pleine!</language>
 	</row>
 	<row id="msg_0779_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Friend Code has already been\nregistered before.</language>
+		<language name="English">Ce code ami a déjà été enregistré.</language>
 	</row>
 	<row id="msg_0779_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s Friend Code:\n{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}</language>
+		<language name="English">Code ami de {STRVAR_1 3, 0, 0}:\n{STRVAR_1 53, 1, 0} {STRVAR_1 53, 2, 0} {STRVAR_1 53, 3, 0}</language>
 	</row>
 	<row id="msg_0779_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHECK FRIEND CODE</language>
+		<language name="English">VOIR CODE AMI</language>
 	</row>
 	<row id="msg_0779_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Register {STRVAR_1 3, 0, 0} in your\nPal Pad?</language>
+		<language name="English">Enregistrer {STRVAR_1 3, 0, 0}\ndans votre Registre Ami?</language>
 	</row>
 	<row id="msg_0779_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Friend Roster is full.\nWill you delete someone?</language>
+		<language name="English">Votre liste d’amis est pleine.\nVoulez-vous effacer un ami?</language>
 	</row>
 	<row id="msg_0779_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give up on registering\n{STRVAR_1 3, 0, 0}?</language>
+		<language name="English">Abandonner l’enregistrement\nde {STRVAR_1 3, 0, 0}?</language>
 	</row>
 	<row id="msg_0779_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Delete {STRVAR_1 3, 0, 0}’s data from\nyour Friend Roster?</language>
+		<language name="English">Effacer les données de {STRVAR_1 3, 0, 0}\nde votre liste d’amis?</language>
 	</row>
 	<row id="msg_0779_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Connect to {STRVAR_1 3, 0, 0} one more time,\nplease.</language>
+		<language name="English">Veuillez vous reconnecter avec\n{STRVAR_1 3, 0, 0}.</language>
 	</row>
 </body>

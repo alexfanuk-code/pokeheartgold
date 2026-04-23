@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0356_R16R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cycling Road starts here.\nIt’s all downhill, so it’s totally\fexhilarating.\rSome people prefer convenient and cool\ntransportation such as the Fast Ship\fand the Magnet Train.\fYou prefer the Bicycle, don’t you?</language>
+		<language name="English">La Piste Cyclable commence ici.\rSur ta Bicyclette, c’est une descente\nfacile et très reposante.\rCertains préfèrent les gros moyens de\ntransport comme le Train Magnétique\fou le bateau, mais toi, tu préfères\fla Bicyclette, pas vrai?</language>
 	</row>
 	<row id="msg_0356_R16R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You! Stop right there!\rYou have to be on a Bicycle to go on\nthe Cycling Road!\r</language>
+		<language name="English">Hé! Toi, là! Stop!\rLa Piste Cyclable est interdite à ceux\nqui ne sont pas à Bicyclette!\r</language>
 	</row>
 </body>

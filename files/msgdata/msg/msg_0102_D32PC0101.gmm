@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0102_D32PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The karate uniform is the uniform\nof fighters!\rThere is nothing better suited for\ngoing to the Battle Frontier than this!</language>
+		<language name="English">Le kimono de karaté, c’est l’uniforme\ndu combattant!\rIl n’y a pas de tenue plus noble\npour aller à la Zone de Combat!</language>
 	</row>
 	<row id="msg_0102_D32PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Some people are surprised to see a\nsmall girl like me at the Battle Frontier\fall by herself.\rIt’s not like I have to battle myself,\nyou know?\n</language>
+		<language name="English">Tout le monde s’étonne de voir une\npetite fille comme moi toute seule\fdans la Zone de Combat.\rComme si j’étais là pour me battre!</language>
 	</row>
 	<row id="msg_0102_D32PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My lifelong hobby has been\nbattling using Pokémon.\rA battle after breakfast,\na battle after lunch,\fand after dinner...\fI just take a bath and go to bed.</language>
+		<language name="English">Dans mon jeune âge, j’ai décidé que\nje me passionnerais pour les combats\fde Pokémon.\rAprès le petit déjeuner, combat!\nAprès le déjeuner, combat!\fAprès le dîner...\fUn bain et au lit!</language>
 	</row>
 </body>

@@ -2,62 +2,62 @@
 <body language="English">
 	<row id="msg_0659_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pryce</language>
+		<language name="English">Frédo</language>
 	</row>
 	<row id="msg_0659_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? I can’t hear you very well.\nI think we’ve got a bad connection.\rWell, if you have something you want to\ntalk to me about, go somewhere else and\ftry calling again.</language>
+		<language name="English">Hum... On capte mal...\rSi tu veux me parler, essaye de me\nrappeler depuis un autre endroit.</language>
 	</row>
 	<row id="msg_0659_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nOh, hi, how are you?\fI’m doing fine, thanks.\r</language>
+		<language name="English">Allô?\nAh, c’est toi!\fMoi, ça va bien, merci!\r</language>
 	</row>
 	<row id="msg_0659_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there are Gym Leaders out\nthere who are stronger than me.\fYou should try battling them.\fI don’t think you’d lose.</language>
+		<language name="English">Il reste encore de nombreux Champions\nde par le monde.\fJe sais que tu arriveras à les vaincre!\fJ’ai confiance en toi!</language>
 	</row>
 	<row id="msg_0659_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I usually get up pretty early...\nIf we’re going to battle, I’m at my best\fin the morning... How about you give me\fa call on Monday morning!</language>
+		<language name="English">Je suis un lève-tôt, alors pour un\ncombat, cela m’arrangerait si\fc’était en matinée.\rRappelle-moi lundi matin!</language>
 	</row>
 	<row id="msg_0659_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, perfect timing!\nI was starting to get bored...\fDo you want to battle again? {YESNO 0}</language>
+		<language name="English">Très bien!\nJe commençais justement à me refroidir!\fTu ne voudrais pas refaire un\fcombat avec moi par hasard? {YESNO 0}</language>
 	</row>
 	<row id="msg_0659_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Honesty is good.\rSo, I’ll meet you at the Fighting Dojo in\nSaffron City, then?</language>
+		<language name="English">Ah, j’aime cet enthousiasme!\rRetrouvons-nous au Dojo de Safrania!</language>
 	</row>
 	<row id="msg_0659_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see. Well, that’s how it’s got\nto be...\rIf you ever change your mind, give me\na call.\rRemember, I’m free on Monday mornings.</language>
+		<language name="English">Hé bien tant pis ma foi!\rN’hésite pas à me recontacter si tu\nchangeais d’avis!\rMais toujours le lundi matin,\nd’accord?</language>
 	</row>
 	<row id="msg_0659_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm. Do you really have the time to\nbattle me right now?\rIf you’ve got plans with other people,\nyou should take care of those first,\fdon’t you think?</language>
+		<language name="English">Hum... Tu es disponible pour notre\nrencontre, dis-tu?\rTu ne penses pas qu’il vaudrait mieux\ntenir tes précédents engagements\fauparavant?</language>
 	</row>
 	<row id="msg_0659_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right, I will see you at the\nFighting Dojo in Saffron City.\fI won’t be late. Don’t worry!</language>
+		<language name="English">Retrouvons-nous au Dojo de Safrania!\nNe t’inquiète pas, je ne serai pas\fen retard!</language>
 	</row>
 	<row id="msg_0659_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes, this is Pryce.\nHow are you doing?\r</language>
+		<language name="English">Bonjour! C’est Frédo!\nTu vas bien?\r</language>
 	</row>
 	<row id="msg_0659_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We made plans to battle at the Fighting\nDojo in Saffron City.\fYou didn’t forget, did you?\fI’m waiting there for you.</language>
+		<language name="English">Tu n’aurais pas oublié notre\nrendez-vous au Dojo de Safrania?\fJe n’attends plus que toi!</language>
 	</row>
 	<row id="msg_0659_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just like one of my children...\rNo.\rYou’re more like one of my\ngrandchildren...\rThere’s such an age difference between\nmyself and the Trainers who defeat me\fnowadays...\rBut you know, the strange thing is that\nwhen I lose, I don’t feel disappointed.\rI just feel happy.\rJust happy that such talented Trainers\nhave come to see me.\r...I just wanted to talk to someone\nabout that, so I called you.\rThat’s all.</language>
+		<language name="English">J’ai affronté des Dresseurs assez\njeunes pour être mes enfants...\rNon!\rMes petits-enfants!!\rMais je ne ressens aucune amertume,\nmême si je perds. Au contraire!\rQuelle joie de voir tous ces talentueux\njeunes gens prêts à prendre la relève!\r...\rVoilà, j’espère ne pas t’avoir\nfait perdre ton temps.</language>
 	</row>
 	<row id="msg_0659_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know why they call me the winter\nTrainer? Do you recall that my middle\fname is “Willow”?\rThe willow tree looks like it withers in\nwinter’s cold. But really, it sprouts\fdozens of new buds.\rMy fighting style is also strong just\nlike that...\rIt’s written in old books, you know.\nYou should look it up sometime.</language>
+		<language name="English">Tu sais qu’on m’appelle Frédo,\nle Dresseur du froid?\rParce que j’aime les Pokémon Glace et\nque mon Arène est couverte de glace\fbien sûr. Mais aussi parce que j’ai l’air\ftrès dur.\rPourtant, mon cœur brûle de passion\npour mon métier de Champion et pour\fles Pokémon!\rJe suis le feu sous la glace. Mais les\ngens ne s’en rendent pas compte.</language>
 	</row>
 	<row id="msg_0659_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That reminds me, you kept Team\nRocket’s treachery in check, right?\rHumph...\nThat’s a praiseworthy deed and an\fappropriate responsibility for a Trainer\fwho could defeat me.\rI think there’s still several things I\ncould stand to learn from you.\rI’m looking forward to it.</language>
+		<language name="English">Tu as réussi à mettre un terme aux\nambitions de la Team Rocket.\rHum. Après que tu m’as vaincu, je n’en\nattendais pas moins de toi.\rJ’ai encore de nombreuses choses à\napprendre de toi.\rJe compte sur toi!</language>
 	</row>
 </body>

@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0472_T04R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that some shady character is\nskulking about.\rI won’t stand for it if he turns out\nto be a thief.</language>
+		<language name="English">On raconte qu’un drôle de type\nrôde dans le coin.\rSi c’est un voleur, il va\nentendre parler de moi!</language>
 	</row>
 	<row id="msg_0472_T04R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We were held up by robbers before.</language>
+		<language name="English">Il y a longtemps, on a été cambriolés...</language>
 	</row>
 	<row id="msg_0472_T04R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DIGLETT: Dug dug.</language>
+		<language name="English">TAUPIQUEUR: Taupi!</language>
 	</row>
 </body>

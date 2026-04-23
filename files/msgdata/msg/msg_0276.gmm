@@ -6,19 +6,19 @@
 	</row>
 	<row id="msg_0276_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">㊚</language>
+		<language name="English">♂</language>
 	</row>
 	<row id="msg_0276_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">㊛</language>
+		<language name="English">♀</language>
 	</row>
 	<row id="msg_0276_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lv.{STRVAR_1 52, 0, 0}</language>
+		<language name="English">N. {STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0276_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Item</language>
+		<language name="English">Objet</language>
 	</row>
 	<row id="msg_0276_00005" index="5">
 		<attribute name="window_context_name">used</attribute>

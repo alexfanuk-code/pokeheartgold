@@ -2,62 +2,62 @@
 <body language="English">
 	<row id="msg_0650_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Misty</language>
+		<language name="English">Ondine</language>
 	</row>
 	<row id="msg_0650_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Could you repeat that? I can’t hear\nyou at all. A bad connection, I guess.\rPlease move along and call again!</language>
+		<language name="English">Je te reçois très mal!\rTu veux pas rappeler depuis un autre\nendroit?</language>
 	</row>
 	<row id="msg_0650_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi...\nOh, hi there. What’s happening?\fEverything’s good with me.\r</language>
+		<language name="English">Allô?\nOui, c’est pour quoi?\fMoi je vais toujours très bien!\r</language>
 	</row>
 	<row id="msg_0650_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We both know there’s much stronger\nGym Leaders than me around, right?\fYou’d better be ready to work hard.</language>
+		<language name="English">Il te reste encore plein de Champions à\naffronter, hein?\fAllez, j’ai confiance!</language>
 	</row>
 	<row id="msg_0650_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m really sorry, but I’ve got a lot\ngoing on... I’m pretty busy lately...\rWell, Wednesday mornings I’ve got some\nfree time. Want to try calling then?</language>
+		<language name="English">Ben moi, je suis si mignonne que je n’ai\nplus une minute à moi.\rMais le mercredi matin, ça devrait aller.\nRappelle-moi à ce moment-là!</language>
 	</row>
 	<row id="msg_0650_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh hi, I’m free today!\nLet’s battle again, OK?{YESNO 0}</language>
+		<language name="English">C’est bon, je suis libre aujourd’hui!\nOn se retrouve pour\fun combat? {YESNO 0}</language>
 	</row>
 	<row id="msg_0650_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK! So, I’ll see you at the\nFighting Dojo in Saffron City, then!</language>
+		<language name="English">Génial!\nBon, alors on se voit au Dojo qui se\ftrouve à Safrania!</language>
 	</row>
 	<row id="msg_0650_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aw...\nThat makes me sad...</language>
+		<language name="English">Pfff! Tant pis!</language>
 	</row>
 	<row id="msg_0650_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m not sure... Are you making plans\njust with me?\rDidn’t you make some plans with\nsomeone else already?</language>
+		<language name="English">Mais? Je ne suis pas la seule?\nTu avais d’autres rendez-vous avant?!</language>
 	</row>
 	<row id="msg_0650_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waiting at the Fighting Dojo in\nSaffron City.\fIf you stand me up, I’m going to be sad.</language>
+		<language name="English">Bon, alors on se voit au Dojo qui se\ntrouve à Safrania!\fTu me poses pas un lapin, hein?</language>
 	</row>
 	<row id="msg_0650_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes, this is Misty...\nHi, how are you?\r</language>
+		<language name="English">Ouiiii, c’est Ondine!\nTu vas bien?\r</language>
 	</row>
 	<row id="msg_0650_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We made plans to meet at the\nFighting Dojo in Saffron City.\rYou remembered you’re meeting me?\nI’ve been so looking forward to this...</language>
+		<language name="English">Le rendez-vous, c’est au Dojo de\nSafrania!\fSurtout, pas de lapin, hein!</language>
 	</row>
 	<row id="msg_0650_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, have you traveled through all of\nthe Kanto region yet? How is it,\fcompared to Johto? There’s a lot\fof beautiful scenery here, right?\rI especially love the Cape along\nRoute 25!\rI’ve got so many memories of things\nalong that coast...\rWhat kinds of memories? Pfft!\nLike I’d tell you!</language>
+		<language name="English">Tu as déjà parcouru tout Kanto?\nC’est comment par rapport à Johto?\fIl y a de beaux paysages, hein?\rMoi, j’adore le cap de la Route 25!\rQue de souvenirs...\rTu peux courir pour que je te\ndise lesquels!</language>
 	</row>
 	<row id="msg_0650_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That reminds me...\nThat strange person who came to visit\fmy Gym recently...\rThat was you who defeated him and\nsent him off, wasn’t it?\rI forgot to thank you for that!\rEveryone in my Gym is really\nappreciative. Thanks so much!</language>
+		<language name="English">Tiens, au fait...\nIl y a un type louche qui s’était\fintroduit dans mon Arène!\rC’est toi qui lui as mis une raclée?\rEncore merci, hein!\rTout le monde adore mon Arène!</language>
 	</row>
 	<row id="msg_0650_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, did you hear?\nIf you beat all six people on Route 25,\fnot losing even once, you get to make\fa true-love wish!\rYou didn’t hear about that?\nReally?\rWell, that would be because I just made\nit up! Ha ha ha!</language>
+		<language name="English">Hé, tu sais quoi?\nSi tu arrives à vaincre les 6 Dresseurs\fde la Route 25 sans perdre une seule\ffois, on dit que tes rêves d’amour\fse réalisent!\rTu n’en as jamais entendu parler?\nAh...\rEn fait, c’est moi qui ai inventé\nce bobard!</language>
 	</row>
 </body>

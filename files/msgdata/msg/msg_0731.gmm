@@ -2,518 +2,518 @@
 <body language="English">
 	<row id="msg_0731_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Youngster</language>
+		<language name="English">Gamin</language>
 	</row>
 	<row id="msg_0731_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Lass</language>
+		<language name="English">Fillette</language>
 	</row>
 	<row id="msg_0731_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Camper</language>
+		<language name="English">Campeur</language>
 	</row>
 	<row id="msg_0731_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Picnicker</language>
+		<language name="English">Pique-Nique</language>
 	</row>
 	<row id="msg_0731_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Bug Catcher</language>
+		<language name="English">Scout</language>
 	</row>
 	<row id="msg_0731_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Aroma Lady</language>
+		<language name="English">Aroma</language>
 	</row>
 	<row id="msg_0731_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">the Twins</language>
+		<language name="English">Jumelles</language>
 	</row>
 	<row id="msg_0731_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Hiker</language>
+		<language name="English">Montagnard</language>
 	</row>
 	<row id="msg_0731_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Battle Girl</language>
+		<language name="English">Combattante</language>
 	</row>
 	<row id="msg_0731_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Fisherman</language>
+		<language name="English">Pêcheur</language>
 	</row>
 	<row id="msg_0731_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Cyclist</language>
+		<language name="English">Cycliste</language>
 	</row>
 	<row id="msg_0731_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Cyclist</language>
+		<language name="English">Cycliste</language>
 	</row>
 	<row id="msg_0731_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Black Belt</language>
+		<language name="English">Karatéka</language>
 	</row>
 	<row id="msg_0731_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Artist</language>
+		<language name="English">Peintre</language>
 	</row>
 	<row id="msg_0731_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Breeder</language>
+		<language name="English">Eleveur</language>
 	</row>
 	<row id="msg_0731_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Breeder</language>
+		<language name="English">Eleveuse</language>
 	</row>
 	<row id="msg_0731_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Cowgirl</language>
+		<language name="English">Cowgirl</language>
 	</row>
 	<row id="msg_0731_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Jogger</language>
+		<language name="English">Joggeur</language>
 	</row>
 	<row id="msg_0731_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Pokéfan</language>
+		<language name="English">Pokéfan</language>
 	</row>
 	<row id="msg_0731_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Pokéfan</language>
+		<language name="English">Pokéfan</language>
 	</row>
 	<row id="msg_0731_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Poké Kid</language>
+		<language name="English">Poké Enfant</language>
 	</row>
 	<row id="msg_0731_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a rival</language>
+		<language name="English">Rival</language>
 	</row>
 	<row id="msg_0731_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Ace Trainer</language>
+		<language name="English">Topdresseur</language>
 	</row>
 	<row id="msg_0731_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Ace Trainer</language>
+		<language name="English">Topdresseur</language>
 	</row>
 	<row id="msg_0731_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Waitress</language>
+		<language name="English">Serveuse</language>
 	</row>
 	<row id="msg_0731_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Veteran</language>
+		<language name="English">Vénérable</language>
 	</row>
 	<row id="msg_0731_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Ninja Boy</language>
+		<language name="English">Ninja Fan</language>
 	</row>
 	<row id="msg_0731_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Dragon Tamer</language>
+		<language name="English">Dracologue</language>
 	</row>
 	<row id="msg_0731_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Bird Keeper</language>
+		<language name="English">Ornithologue</language>
 	</row>
 	<row id="msg_0731_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Juggler</language>
+		<language name="English">Jongleur</language>
 	</row>
 	<row id="msg_0731_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Rich Boy</language>
+		<language name="English">Richard</language>
 	</row>
 	<row id="msg_0731_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Lady</language>
+		<language name="English">Mademoiselle</language>
 	</row>
 	<row id="msg_0731_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Gentleman</language>
+		<language name="English">Gentleman</language>
 	</row>
 	<row id="msg_0731_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Socialite</language>
+		<language name="English">Mondaine</language>
 	</row>
 	<row id="msg_0731_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Beauty</language>
+		<language name="English">Canon</language>
 	</row>
 	<row id="msg_0731_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Collector</language>
+		<language name="English">Collec</language>
 	</row>
 	<row id="msg_0731_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Policeman</language>
+		<language name="English">Agent</language>
 	</row>
 	<row id="msg_0731_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Ranger</language>
+		<language name="English">₧₦ Ranger</language>
 	</row>
 	<row id="msg_0731_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Ranger</language>
+		<language name="English">₧₦ Ranger</language>
 	</row>
 	<row id="msg_0731_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Scientist</language>
+		<language name="English">Scientifique</language>
 	</row>
 	<row id="msg_0731_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Swimmer♂</language>
+		<language name="English">Nageur</language>
 	</row>
 	<row id="msg_0731_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Swimmer♀</language>
+		<language name="English">Nageuse</language>
 	</row>
 	<row id="msg_0731_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Tuber</language>
+		<language name="English">Flotteur</language>
 	</row>
 	<row id="msg_0731_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Tuber</language>
+		<language name="English">Flotteur</language>
 	</row>
 	<row id="msg_0731_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Sailor</language>
+		<language name="English">Marin</language>
 	</row>
 	<row id="msg_0731_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Kimono Girl</language>
+		<language name="English">Kimono</language>
 	</row>
 	<row id="msg_0731_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Ruin Maniac</language>
+		<language name="English">Ruinemaniac</language>
 	</row>
 	<row id="msg_0731_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Psychic</language>
+		<language name="English">Kinésiste</language>
 	</row>
 	<row id="msg_0731_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Psychic</language>
+		<language name="English">Kinésiste</language>
 	</row>
 	<row id="msg_0731_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a PI</language>
+		<language name="English">Croupier</language>
 	</row>
 	<row id="msg_0731_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Guitarist</language>
+		<language name="English">Guitariste</language>
 	</row>
 	<row id="msg_0731_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Ace Trainer</language>
+		<language name="English">Topdresseur</language>
 	</row>
 	<row id="msg_0731_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Ace Trainer</language>
+		<language name="English">Topdresseur</language>
 	</row>
 	<row id="msg_0731_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Team Rocket</language>
+		<language name="English">Rocket</language>
 	</row>
 	<row id="msg_0731_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Skier</language>
+		<language name="English">Skieuse</language>
 	</row>
 	<row id="msg_0731_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Roughneck</language>
+		<language name="English">Loubard</language>
 	</row>
 	<row id="msg_0731_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Clown</language>
+		<language name="English">Bouffon</language>
 	</row>
 	<row id="msg_0731_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Worker</language>
+		<language name="English">Ouvrier</language>
 	</row>
 	<row id="msg_0731_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a School Kid</language>
+		<language name="English">Elève</language>
 	</row>
 	<row id="msg_0731_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a School Kid</language>
+		<language name="English">Elève</language>
 	</row>
 	<row id="msg_0731_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Team Rocket</language>
+		<language name="English">Rocket</language>
 	</row>
 	<row id="msg_0731_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Burglar</language>
+		<language name="English">Pillard</language>
 	</row>
 	<row id="msg_0731_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Firebreather</language>
+		<language name="English">Crache-Feu</language>
 	</row>
 	<row id="msg_0731_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Biker</language>
+		<language name="English">Motard</language>
 	</row>
 	<row id="msg_0731_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Poké Maniac</language>
+		<language name="English">Pokémaniac</language>
 	</row>
 	<row id="msg_0731_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Bird Keeper</language>
+		<language name="English">Ornithologue</language>
 	</row>
 	<row id="msg_0731_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Rancher</language>
+		<language name="English">Fermier</language>
 	</row>
 	<row id="msg_0731_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Teacher</language>
+		<language name="English">Prof</language>
 	</row>
 	<row id="msg_0731_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Super Nerd</language>
+		<language name="English">Intello</language>
 	</row>
 	<row id="msg_0731_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Sage</language>
+		<language name="English">Sage</language>
 	</row>
 	<row id="msg_0731_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Parasol Lady</language>
+		<language name="English">Sœur Parasol</language>
 	</row>
 	<row id="msg_0731_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Waiter</language>
+		<language name="English">Serveur</language>
 	</row>
 	<row id="msg_0731_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Medium</language>
+		<language name="English">Médium</language>
 	</row>
 	<row id="msg_0731_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Cameraman</language>
+		<language name="English">Caméraman</language>
 	</row>
 	<row id="msg_0731_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Reporter</language>
+		<language name="English">Interviewer</language>
 	</row>
 	<row id="msg_0731_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Idol</language>
+		<language name="English">Star</language>
 	</row>
 	<row id="msg_0731_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Champion</language>
+		<language name="English">Maître</language>
 	</row>
 	<row id="msg_0731_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Elite Four</language>
+		<language name="English">Conseil 4</language>
 	</row>
 	<row id="msg_0731_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Elite Four</language>
+		<language name="English">Conseil 4</language>
 	</row>
 	<row id="msg_0731_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Elite Four</language>
+		<language name="English">Conseil 4</language>
 	</row>
 	<row id="msg_0731_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Tower Tycoon</language>
+		<language name="English">Aigle Tour</language>
 	</row>
 	<row id="msg_0731_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Hall Matron</language>
+		<language name="English">Lady Scène</language>
 	</row>
 	<row id="msg_0731_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Factory Head</language>
+		<language name="English">Chef d’Usine</language>
 	</row>
 	<row id="msg_0731_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Arcade Star</language>
+		<language name="English">Diva Arcade</language>
 	</row>
 	<row id="msg_0731_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Castle Valet</language>
+		<language name="English">Chambellan</language>
 	</row>
 	<row id="msg_0731_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Leader</language>
+		<language name="English">Champion</language>
 	</row>
 	<row id="msg_0731_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Elder</language>
+		<language name="English">Ancien</language>
 	</row>
 	<row id="msg_0731_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Elite Four</language>
+		<language name="English">Conseil 4</language>
 	</row>
 	<row id="msg_0731_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Scientist</language>
+		<language name="English">Scientifique</language>
 	</row>
 	<row id="msg_0731_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Executive</language>
+		<language name="English">Commandant</language>
 	</row>
 	<row id="msg_0731_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Boarder</language>
+		<language name="English">Surfer</language>
 	</row>
 	<row id="msg_0731_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Executive</language>
+		<language name="English">Commandant</language>
 	</row>
 	<row id="msg_0731_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Executive</language>
+		<language name="English">Commandant</language>
 	</row>
 	<row id="msg_0731_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">an Executive</language>
+		<language name="English">Commandant</language>
 	</row>
 	<row id="msg_0731_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Passerby</language>
+		<language name="English">Passant</language>
 	</row>
 	<row id="msg_0731_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Mystery Man</language>
+		<language name="English">Mec Mystère</language>
 	</row>
 	<row id="msg_0731_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Double Team</language>
+		<language name="English">Duo</language>
 	</row>
 	<row id="msg_0731_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Young Couple</language>
+		<language name="English">Jeune Couple</language>
 	</row>
 	<row id="msg_0731_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a Rocket Boss</language>
+		<language name="English">Boss Rocket</language>
 	</row>
 	<row id="msg_0731_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 	<row id="msg_0731_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">a ₧₦ Trainer</language>
+		<language name="English">Dresseur</language>
 	</row>
 </body>

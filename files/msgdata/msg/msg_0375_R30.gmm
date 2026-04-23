@@ -2,59 +2,59 @@
 <body language="English">
 	<row id="msg_0375_R30_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Go, RATTATA!\rTackle!\r</language>
+		<language name="English">Allez, RATTATA!\rCHARGE!\r</language>
 	</row>
 	<row id="msg_0375_R30_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? This is a big battle!\fLeave me alone!\r</language>
+		<language name="English">Tu veux quoi?\nOn est en plein combat!\fVa voir ailleurs!\r</language>
 	</row>
 	<row id="msg_0375_R30_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon can use its moves as long\nas the moves still have PP.\rWhen a move has no PP remaining, that\nPokémon cannot use that move.\rThen you should take your Pokémon to\nthe Pokémon Center.</language>
+		<language name="English">Les Pokémon peuvent utiliser chaque\ncapacité autant de fois qu’ils\font de PP.\rQuand ils n’en ont plus, ils ne peuvent\nplus utiliser cette capacité.\rDans ce cas, il vaut mieux les emmener à\nun Centre Pokémon pour les soigner.</language>
 	</row>
 	<row id="msg_0375_R30_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon can use its moves as long\nas the moves still have PP.\rWhen a move has no PP remaining, that\nPokémon cannot use that move.\rThen you should take your Pokémon to\nthe Pokémon Center.</language>
+		<language name="English">Les Pokémon peuvent utiliser chaque\ncapacités autant de fois qu’ils\font de PP.\rQuand ils n’en ont plus, ils ne peuvent\nplus utiliser cette capacité.\rDans ce cas, il vaut mieux les emmener à\nun Centre Pokémon pour les soigner.\rTu devrais essayer les combats de\nPokémon, c’est vraiment marrant!</language>
 	</row>
 	<row id="msg_0375_R30_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m not a Trainer.\rBut if you look one in the eyes,\nprepare to battle.</language>
+		<language name="English">Je ne suis pas Dresseur.\rMais sache que si tu croises le regard\nd’un autre Dresseur, tu dois\ft’attendre à combattre!</language>
 	</row>
 	<row id="msg_0375_R30_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, kiddo!\rHow in the world can you be so\noblivious to my eye-catching house?\fHold it right there!\r</language>
+		<language name="English">Plus un geste!\rToi, là, qui te prépares à passer devant\nla maison d’un brave vieillard si avenant\fsans t’arrêter! Ne bouge plus!\r</language>
 	</row>
 	<row id="msg_0375_R30_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you follow that path up north,\nyou will see Mr. Pokémon’s house.\rBut before you go, let me finish what\nI have to say.\rDo you...have any Apricorns?\fApricorn trees bear fruit once a day.\fI have one of those trees, too!\rApricorns are really something.\nYou can make Poké Balls and\fother things.\rThey are quite useful.\rI have a feeling this is meant to be,\nbecause I have something for you!\r</language>
+		<language name="English">Continue tout droit vers le nord\net tu arriveras chez M. Pokémon.\rMais avant d’y aller, écoute ce que\nj’ai à te dire!\rDis-moi...\nTu as déjà des Noigrumes?\rLes Noigrumes, ce sont les fruits qui\npoussent sur les Noigrumiers\fune fois par jour.\rJe les cultive!\rC’est bon les Noigrumes!\nOn peut en faire des Poké Balls,\fet plein d’autres trucs!\fBref, c’est très pratique.\fTrès utile, même!\rPour fêter notre rencontre,\nje vais t’offrir ceci!\r</language>
 	</row>
 	<row id="msg_0375_R30_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0375_R30_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With that Apricorn Box, you can carry\nso many Apricorns.\rYou’ll be a decent Apricorn collector!\r</language>
+		<language name="English">Avec cette Boîte Noigrume, tu pourras\ngarder plein de Noigrumes sur toi!\rLa cueillette n’aura bientôt plus\naucun secret pour toi!\r</language>
 	</row>
 	<row id="msg_0375_R30_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 30\nSouth to Cherrygrove City</language>
+		<language name="English">Route 30\nSud: Ville Griotte</language>
 	</row>
 	<row id="msg_0375_R30_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Pokémon’s House\nStraight Ahead!</language>
+		<language name="English">Maison de M. Pokémon\nTout droit!</language>
 	</row>
 	<row id="msg_0375_R30_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Pokémon’s House</language>
+		<language name="English">Maison de M. Pokémon</language>
 	</row>
 	<row id="msg_0375_R30_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rNo stealing other people’s Pokémon!\rPoké Balls are to be thrown only at\nwild Pokémon!</language>
+		<language name="English">Conseils aux Dresseurs!\rOn ne vole pas les Pokémon des autres!\nLes Poké Balls sont faites pour\fattraper les Pokémon sauvages!</language>
 	</row>
 	<row id="msg_0375_R30_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You’re wearing the Running Shoes.\rThey make you feel like you are flying,\ndon’t they?\rBut beware of wild Pokémon and\nTrainers!\rWhen you run, the noise will\nattract them.</language>
+		<language name="English">Ah, tu as des Chaussures de Sport!\nC’est agréable de courir avec!\rMais quand tu cours, tu fais du bruit,\net les Pokémon sauvages et les\fDresseurs te remarquent\fplus facilement!</language>
 	</row>
 </body>

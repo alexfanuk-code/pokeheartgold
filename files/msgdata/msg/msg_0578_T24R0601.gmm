@@ -2,6 +2,6 @@
 <body language="English">
 	<row id="msg_0578_T24R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi. You must be a sightseer!\nWhy not take a picture here?\rYou saw the camera outside?\nI put it there!\rYou may come across my relatives\nhere and there.\rAnyway, go ahead and take a picture!\nCheck the camera, and it’ll take\fa picture for you.\rIt’ll be a good memory of your\njourney with your Pokémon!</language>
+		<language name="English">Tiens? On fait du tourisme?\nAlors viens prendre une photo!\rTu as vu l’appareil photo dehors?\nC’est moi qui l’ai mis là!\rJ’ai aussi un frère qui se balade de\nville en ville avec son appareil...\fMais commence par en prendre une ici!\rExamine l’appareil, et la photo\nse prendra automatiquement!\rConserve un souvenir de ton voyage\navec tes Pokémon!</language>
 	</row>
 </body>

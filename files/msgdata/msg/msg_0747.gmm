@@ -2,105 +2,105 @@
 <body language="English">
 	<row id="msg_0747_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Teach which move to\n{STRVAR_1 1, 0, 0}?</language>
+		<language name="English">Enseigner quoi à\n{STRVAR_1 1, 0, 0}?</language>
 	</row>
 	<row id="msg_0747_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Teach the move\n{STRVAR_1 6, 1, 0}?</language>
+		<language name="English">Enseigner\n{STRVAR_1 6, 1, 0}?</language>
 	</row>
 	<row id="msg_0747_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give up trying to teach a new\nmove to {STRVAR_1 1, 0, 0}?</language>
+		<language name="English">Arrêter d’enseigner la nouvelle\ncapacité à {STRVAR_1 1, 0, 0}?</language>
 	</row>
 	<row id="msg_0747_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} learned\n{STRVAR_1 6, 1, 0}.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} apprend\n{STRVAR_1 6, 1, 0}.\r</language>
 	</row>
 	<row id="msg_0747_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is trying to learn\n{STRVAR_1 6, 1, 0}.\rBut {STRVAR_1 1, 0, 0} can’t learn more\nthan four moves.\rDelete an older move to make\nroom for {STRVAR_1 6, 1, 0}?</language>
+		<language name="English">{STRVAR_1 1, 0, 0} tente d’apprendre\n{STRVAR_1 6, 1, 0}.\rMais {STRVAR_1 1, 0, 0} ne peut pas\napprendre plus de quatre capacités.\rEffacer une capacité\npour {STRVAR_1 6, 1, 0}?</language>
 	</row>
 	<row id="msg_0747_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1{PAUSE 20}, 2{PAUSE 20}, and{PAUSE 20}... {PAUSE 20}... Poof!{WAIT 3}{WAIT 5}\r{STRVAR_1 1, 0, 0} forgot\n{STRVAR_1 6, 1, 0}.\rAnd...\r</language>
+		<language name="English">1{PAUSE 20}, 2{PAUSE 20}, {PAUSE 20}... {PAUSE 20}... Tadaa!{WAIT 3}{WAIT 5}\r{STRVAR_1 1, 0, 0} oublie\n{STRVAR_1 6, 1, 0}.\rEt...\r</language>
 	</row>
 	<row id="msg_0747_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} learned\n{STRVAR_1 6, 1, 0}.{WAIT 4}{WAIT 2}\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0}\napprend {STRVAR_1 6, 1, 0}.{WAIT 4}{WAIT 2}\r</language>
 	</row>
 	<row id="msg_0747_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stop trying to teach\n{STRVAR_1 6, 1, 0}?</language>
+		<language name="English">Arrêter d’apprendre\n{STRVAR_1 6, 1, 0}?</language>
 	</row>
 	<row id="msg_0747_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} did not learn the\nmove {STRVAR_1 6, 1, 0}.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} n’a pas appris la\ncapacité {STRVAR_1 6, 1, 0}.\r</language>
 	</row>
 	<row id="msg_0747_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0747_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 6, 0, 0} is the move that\nyou want forgotten?</language>
+		<language name="English">{STRVAR_1 6, 0, 0} est la capacité qui doit\nêtre oubliée?</language>
 	</row>
 	<row id="msg_0747_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which move should {STRVAR_1 1, 0, 0}\nremember?</language>
+		<language name="English">De quelle capacité {STRVAR_1 1, 0, 0} doit se\nsouvenir?</language>
 	</row>
 	<row id="msg_0747_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Should the move {STRVAR_1 6, 1, 0}\nbe remembered?</language>
+		<language name="English">Le Pokémon doit se souvenir de\n{STRVAR_1 6, 1, 0}?</language>
 	</row>
 	<row id="msg_0747_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give up trying to make\n{STRVAR_1 1, 0, 0} remember a move?</language>
+		<language name="English">{STRVAR_1 1, 0, 0} ne doit plus se souvenir\nde la capacité?</language>
 	</row>
 	<row id="msg_0747_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} remembered the move\n{STRVAR_1 6, 1, 0} it had forgotten!\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} se souvient de la\ncapacité {STRVAR_1 6, 1, 0} oubliée!\r</language>
 	</row>
 	<row id="msg_0747_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} wants to remember\nthe move {STRVAR_1 6, 1, 0}.\rBut {STRVAR_1 1, 0, 0} can’t learn more\nthan four moves.\rDelete an existing move to make\nroom for {STRVAR_1 6, 1, 0}?</language>
+		<language name="English">{STRVAR_1 1, 0, 0} veut se souvenir de la\ncapacité {STRVAR_1 6, 1, 0}.\rMais {STRVAR_1 1, 0, 0} ne peut pas\napprendre plus de quatre capacités.\rEffacer une capacité\npour {STRVAR_1 6, 1, 0}?</language>
 	</row>
 	<row id="msg_0747_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">1{PAUSE 20}, 2{PAUSE 20}, and{PAUSE 20}... {PAUSE 20}... Poof!{WAIT 3}{WAIT 5}\r{STRVAR_1 1, 0, 0} forgot\n{STRVAR_1 6, 1, 0}.\rAnd...\r</language>
+		<language name="English">1, {PAUSE 20}2, et{PAUSE 20}... {PAUSE 20}... {PAUSE 20}... Tadaa!{WAIT 3}{WAIT 5}\r{STRVAR_1 1, 0, 0} oublie\n{STRVAR_1 6, 1, 0}.\rEt...\r</language>
 	</row>
 	<row id="msg_0747_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} remembered the move\n{STRVAR_1 6, 1, 0}.{WAIT 4}{WAIT 2}\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} se souvient de la capacité\n{STRVAR_1 6, 1, 0}.{WAIT 4}{WAIT 2}\r</language>
 	</row>
 	<row id="msg_0747_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give up making the Pokémon\nremember {STRVAR_1 6, 1, 0}?</language>
+		<language name="English">Le Pokémon ne doit plus se souvenir de\n{STRVAR_1 6, 1, 0}?</language>
 	</row>
 	<row id="msg_0747_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} did not remember the\nmove {STRVAR_1 6, 1, 0}.\r</language>
+		<language name="English">{STRVAR_1 1, 0, 0} ne se souvient pas de la\ncapacité {STRVAR_1 6, 1, 0}.\r</language>
 	</row>
 	<row id="msg_0747_00020" index="20">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0747_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is it OK to make this Pokémon\nforget the move {STRVAR_1 6, 0, 0}?</language>
+		<language name="English">Ce Pokémon va oublier la\ncapacité {STRVAR_1 6, 0, 0}. Continuer?</language>
 	</row>
 	<row id="msg_0747_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CATEGORY</language>
+		<language name="English">CATEGOR.</language>
 	</row>
 	<row id="msg_0747_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POWER</language>
+		<language name="English">POUVOIR</language>
 	</row>
 	<row id="msg_0747_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ACCURACY</language>
+		<language name="English">PRECISION</language>
 	</row>
 	<row id="msg_0747_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
@@ -109,17 +109,17 @@
 	<row id="msg_0747_00026" index="26">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0747_00027" index="27">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0747_00028" index="28">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0747_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
@@ -131,12 +131,12 @@
 	</row>
 	<row id="msg_0747_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 51, 0, 0}/{STRVAR_1 51, 1, 0}</language>
+		<language name="English">{STRVAR_1 51, 0, 0}／{STRVAR_1 51, 1, 0}</language>
 	</row>
 	<row id="msg_0747_00032" index="32">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0747_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
@@ -144,15 +144,15 @@
 	</row>
 	<row id="msg_0747_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RETURN</language>
+		<language name="English">Retour</language>
 	</row>
 	<row id="msg_0747_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TEACH</language>
+		<language name="English">Appr.</language>
 	</row>
 	<row id="msg_0747_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TEACH WHICH MOVE?</language>
+		<language name="English">Quelle capacité lui enseigner?</language>
 	</row>
 	<row id="msg_0747_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
@@ -160,10 +160,10 @@
 	</row>
 	<row id="msg_0747_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lv. {STRVAR_1 52, 0, 0}</language>
+		<language name="English">N. {STRVAR_1 52, 0, 0}</language>
 	</row>
 	<row id="msg_0747_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEARNED MOVES</language>
+		<language name="English">Cap. apprise(s)</language>
 	</row>
 </body>

@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0580_T24R0801_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t remember the last time\nsomeone came to visit me.\rWhen I was young, I was a\nPokémon Trainer, too. I tried to reach\fthe tower and dive into the ocean.\rI put a lot of effort into many things.\nWell, I take things easy now, listening\fto the waves and winds on this beach.</language>
+		<language name="English">Tiens donc... Peu de monde vient\nme rendre visite ici...\rDans ma jeunesse, j’étais Dresseur\nde Pokémon. Je mettais toutes mes\fforces à escalader telle ou telle tour,\fou à explorer le fond de la mer...\rEt maintenant, je vis ici, sur cette\nplage, écoutant le chant du vent\fet des vagues...</language>
 	</row>
 	<row id="msg_0580_T24R0801_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you heard of the Bell Tower\nin Ecruteak?\rThere are what they call Clear Bells\non top of the tower.\rThey don’t make a single noise\nin strong winds.\rThere is only one way to make them ring.\rIt is to obtain another Clear Bell just\nlike the ones at the top of the tower.\fI went after it when I was young.\fBut I never got one...</language>
+		<language name="English">Connais-tu la Tour Carillon de Rosalia?\rOn trouve au sommet de cette Tour une\ncloche appelée le Glas Transparent.\fIl ne sonne jamais, même quand\fle vent se déchaîne.\rMais il existe un moyen, et un seul,\nde le faire tinter...\rEt c’est...\rD’avoir un Glas Transparent identique\nà celui qui est au sommet de la Tour.\rJ’ai passé de longues années à\nchercher ce Glas... mais j’ai échoué...</language>
 	</row>
 	<row id="msg_0580_T24R0801_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you heard of Whirl Islands?\rThere are what they call Tidal Bells\nat its waterfall basin.\rThey don’t make a single noise\nin crashing waves.\rThere is only one way to make them ring.\rIt is to obtain another Tidal Bell just\nlike the ones at the waterfall basin.\fI went after it when I was young.\fBut I never got one...</language>
+		<language name="English">As-tu entendu parler de la cascade qui\ncoule au fond des Tourb’Iles?\rOn trouve au pied de cette cascade une\ncloche appelée le Glas Tempête.\fIl ne sonne jamais, même quand\fles vagues se déchaînent.\rMais il existe un moyen, et un seul,\nde le faire tinter...\rEt c’est...\rD’avoir un Glas Tempête identique\nà celui qui est au pied de la cascade.\rJ’ai passé de longues années à\nchercher ce Glas... mais j’ai échoué...</language>
 	</row>
 	<row id="msg_0580_T24R0801_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You’ve managed to get a Clear Bell?\rThe old-time dream of mine...\nI see...\fYou’ve done it...\r...\n...I can hear it!\rThe chime of the bells on the wind\ncoming from the direction of\fthe Bell Tower...</language>
+		<language name="English">Comment?!\nTu as trouvé le Glas Transparent?!\rTu as réussi là où j’ai échoué...\nJe vois... Tu es...\r...\n... Je l’entends...\rLe Glas Transparent en haut de la Tour\nrésonne jusqu’ici, porté par le vent...</language>
 	</row>
 	<row id="msg_0580_T24R0801_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! You’ve managed to get a Tidal Bell?\rThe old-time dream of mine...\nI see...\fYou’ve done it...\r...\n...I can hear it!\rThe chime of the bells on the sea\nbreeze coming from the direction of\fthe Whirl Islands...</language>
+		<language name="English">Comment?!\nTu as trouvé le Glas Tempête?!\rTu as réussi là où j’ai échoué...\nJe vois... Tu es...\r...\n... Je l’entends...\rLe Glas Tempête au cœur des Tourb’Iles\nrésonne jusqu’ici, porté par le vent...</language>
 	</row>
 </body>

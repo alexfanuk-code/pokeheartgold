@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0405_R45_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you heard of a place called\nthe Battle Frontier?\rIt’s a huge place with many battle\nfacilities, and it’s located west of\fOlivine City!\rLet’s see...\rIf you manage to win all the way up\nthrough the Pokémon League,\fyou might want to try it.</language>
+		<language name="English">Tu as déjà entendu parler de la\nZone de Combat?\rC’est une installation géante à l’ouest\nd’Oliville dédiée au combat!\rHum...\rVas-y quand tu auras vaincu la\nLigue Pokémon, si tu y arrives!</language>
 	</row>
 	<row id="msg_0405_R45_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 45\nMountain Road ahead</language>
+		<language name="English">Route 45\nDevant: Chemin de Montagne</language>
 	</row>
 	<row id="msg_0405_R45_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dark Cave</language>
+		<language name="English">Antre Noir</language>
 	</row>
 </body>

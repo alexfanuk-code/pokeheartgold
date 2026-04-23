@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="msg_0323_R02R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So you are {STRVAR_1 3, 0, 0}?\nProfessor Oak is waiting for you in his\flab in Pallet Town.\rAlso, I received this from him.\nHe wants you to have this.\r</language>
+		<language name="English">Tu t’appelles {STRVAR_1 3, 0, 0}?\nLe Professeur Chen t’attend dans son\fLaboratoire de Bourg Palette!\rAh, et aussi!\rIl m’a dit de te donner cela si je\nte rencontrais!\r</language>
 	</row>
 	<row id="msg_0323_R02R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So you are {STRVAR_1 3, 0, 0}?\nProfessor Oak is waiting for you in his\flab in Pallet Town.\rAlso, I received this from him.\nHe wants you to have this.\r</language>
+		<language name="English">Tu t’appelles {STRVAR_1 3, 0, 0}?\nLe Professeur Chen t’attend dans son\fLaboratoire de Bourg Palette!\rAh, et aussi!\rIl m’a dit de te donner cela si je\nte rencontrais!\r</language>
 	</row>
 	<row id="msg_0323_R02R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sacred Ash is an amazing item that can\nrevive all fainted Pokémon!</language>
+		<language name="English">La Cendresacrée ranime et soigne tous\nles Pokémon mis K.O. de ton équipe?!\fC’est incroyablement utile!</language>
 	</row>
 	<row id="msg_0323_R02R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">To the north is Pewter City.\nTo the south is Viridian City.\rI know, I know. I sound like a sign.</language>
+		<language name="English">Au nord, c’est Argenta.\nAu sud, c’est Jadielle.\rJe suis un vrai panneau indicateur!</language>
 	</row>
 </body>

@@ -6,50 +6,50 @@
 	</row>
 	<row id="msg_0672_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It really made me angry to lose.\nI’ll have to train much harder...\rHere’s my number. I’m Erin--don’t\nforget! Want to battle me again? {YESNO 0}</language>
+		<language name="English">Ce n’est pas grave si j’ai perdu.\nIl faut que je m’améliore encore plus!\rTu peux me donner ton numéro pour\nqu’on se rencontre à nouveau? {YESNO 0}</language>
 	</row>
 	<row id="msg_0672_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll remember to call when I want to\nbattle again!</language>
+		<language name="English">Si tu veux te battre encore contre moi,\ntéléphone-moi!</language>
 	</row>
 	<row id="msg_0672_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... I’m sad... If you do want to\nbattle, come see Erin--that’s me!</language>
+		<language name="English">Oh non!\nSi tu changeais d’avis,\freviens me voir!</language>
 	</row>
 	<row id="msg_0672_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I want to battle with you again.\nDo you want to exchange numbers? {YESNO 0}</language>
+		<language name="English">J’ai vraiment encore envie de me\nbattre! On échange nos numéros? {YESNO 0}</language>
 	</row>
 	<row id="msg_0672_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww... I lost again!\nI wonder how many times that is...\rThanks for coming!\nHere’s a present!\r</language>
+		<language name="English">Ouin! J’ai encore perdu!\nÇa fait combien de fois déjà?\rMais merci pour ta venue.\nPour la peine, tiens, un cadeau!\r</language>
 	</row>
 	<row id="msg_0672_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s up? Wait, are you seriously\ncalling me from that close by?\fAre you scared of me or something?\fWhy not talk face-to-face?</language>
+		<language name="English">Qu’est-ce qu’il y a?\nPourquoi tu téléphones d’aussi près?\fJe te fais peur? Tu ne veux pas\fvenir me voir directement?</language>
 	</row>
 	<row id="msg_0672_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Erin’s {STRVAR_1 0, 10, 0} is much stronger\nthan before! I should know--I’m Erin!\rSee you. Bye-bye!</language>
+		<language name="English">Tu sais, mon {STRVAR_1 0, 10, 0}...\nIl est devenu encore plus fort!\rA bientôt!</language>
 	</row>
 	<row id="msg_0672_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">And, and...\rI just battled and we defeated a\n{STRVAR_1 0, 11, 0}!\rI’ve raised my Pokémon properly!\rSee you. Bye-bye!</language>
+		<language name="English">Tu sais quoi?\rLà je viens de me battre avec un\n{STRVAR_1 0, 11, 0} et j’ai gagné!\rJe l’ai bien entraîné, super!\rA bientôt!</language>
 	</row>
 	<row id="msg_0672_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">But, but...\rA wild {STRVAR_1 0, 11, 0} got away from me\nagain. It’s just not fair!\rSee you. Bye-bye!</language>
+		<language name="English">Tu sais quoi?\rUn {STRVAR_1 0, 11, 0} sauvage m’a encore\néchappé! C’est pas juste!\rA bientôt!</language>
 	</row>
 	<row id="msg_0672_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m Erin. Want to battle me again?\nI’ll be waiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Hé, tu ne veux pas te battre à\nnouveau contre moi?\fJe t’attends sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0672_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, {STRVAR_1 3, 0, 0}! Come battle Erin!\nI’ll be waiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Hé, {STRVAR_1 3, 0, 0}!\nViens te battre contre moi!\rJe t’attends sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0672_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m working hard to raise my Pokémon!\nCome back for another battle!</language>
+		<language name="English">J’entraîne bien mes Pokémon!\rReviens pour m’affronter!</language>
 	</row>
 </body>

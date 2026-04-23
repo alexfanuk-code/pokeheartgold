@@ -2,127 +2,127 @@
 <body language="English">
 	<row id="msg_0680_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Liz</language>
+		<language name="English">Elisabeth</language>
 	</row>
 	<row id="msg_0680_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh? You’re on a big journey to see the\nsights? Neat!\rLet’s be friends!\nCan I have your phone number?\rI want to hear about everything\nyou’ve seen! {YESNO 0}</language>
+		<language name="English">Ah! Tu voyages!\nTu dois voir plein de choses!\rDis, tu voudrais pas me donner ton\nnuméro?\fOn pourrait devenir une paire d’amis!\rJe veux tout savoir de ce que tu\ndécouvres! {YESNO 0}</language>
 	</row>
 	<row id="msg_0680_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll telephone you if I hear anything\ninteresting.</language>
+		<language name="English">Moi aussi, si j’entends des trucs\nintéressants, je te téléphone!</language>
 	</row>
 	<row id="msg_0680_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aww... You won’t be my friend?</language>
+		<language name="English">Oh non! Zut! Pourtant, je suis sûre\nqu’on s’entendrait très bien!</language>
 	</row>
 	<row id="msg_0680_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s be friends!\nCan I have your phone number?\rI want to hear about everything\nyou’ve seen! {YESNO 0}</language>
+		<language name="English">Dis, tu voudrais pas me donner ton\nnuméro?\fOn pourrait devenir une paire d’amis!\rJe veux tout savoir de ce que tu\ndécouvres! {YESNO 0}</language>
 	</row>
 	<row id="msg_0680_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’re nearby, just come talk\nin person!</language>
+		<language name="English">T’es pas loin! Viens t’amuser!</language>
 	</row>
 	<row id="msg_0680_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you have to hear this.\rMy {STRVAR_1 0, 10, 0} is so adorable!\nIt always wants to nuzzle me!\rAnd, and! Um...\rWe beat a wild {STRVAR_1 0, 11, 0} with just\none hit a little while ago.\fWe felt sorry for it, though.\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rMon {STRVAR_1 0, 10, 0}, ben tu sais quoi?\nIl vient se frotter contre mes joues,\fil est trop chou!\rEt tu sais quoi encore?\rBen j’ai gagné contre un {STRVAR_1 0, 11, 0}!\nD’un seul coup!\fLe pauvre, je suis triste pour lui.\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you have to hear this.\rMy {STRVAR_1 0, 10, 0} is so adorable!\nIt’s always giving me cute looks!\rAnd, and! Uh...\rWe just saw a really gorgeous\n{STRVAR_1 0, 11, 0}.\rBut I was on the phone, so it got away.\nIt made us really angry!\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rMon {STRVAR_1 0, 10, 0}, ben tu sais quoi?\nIl me regarde avec ses grands yeux,\fil est trop chou!\rEt tu sais quoi encore?\rBen j’ai rencontré un {STRVAR_1 0, 11, 0}\ntrop beau...\rMais comme j’étais au téléphone, il\ns’est enfui! C’est trop injuste!\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rI was listening to the radio in the Ruins\nof Alph when an odd broadcast suddenly\fcut in on the regular show.\fI wonder what it was. So strange!\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rL’autre jour, j’écoutais la radio dans\nles Ruines d’Alpha, et...\rEt ça s’est mis à diffuser un truc, un\ntruc trop bizarre!\fQu’est-ce que c’était?\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rDon’t you think Falkner of Violet Gym is\ncool and handsome?\rBut they say his dad, who’s out training\non the road, is even more cool and\fhandsome than Falkner.\rI wish I could meet him!\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rTu trouves pas qu’Albert, de Mauville,\nil est super canon?\rMais il paraît que son père, ben y\nvoyage tout le temps, et il est encore\fplus canon!\fJe veux trop le voir!\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rDo you know Earl, the teacher who runs\nthe Pokémon School in Violet?\rI saw him doing pirouettes while he was\nrunning. It was wildly funny!\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rTu connais Monsieur Théophile, de\nl’Académie Pokémon à Mauville?\rIl courait dans la ville en tournant\ndans tous les sens, c’était trop fort!\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rThe Kimono Girls in Ecruteak City don’t\njust study dancing!\rThey’re also working to bring back\nlegendary Pokémon that haven’t\fappeared in front of humans since long,\flong ago.\rThat’s amazing isn’t it?\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rBen tu sais quoi, les danseuses en\nkimono de Rosalia, elles font pas que\frépéter de la danse.\rElles se préparent pour faire revenir\nun super Pokémon légendaire plus vieux\fque les humains!\rElles sont trop fortes!\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rDo you know about Moomoo Milk?\rYou can buy it at Moomoo Farm.\nIt’s supposed to be good for health\fand beauty.\rI really want to try some. I bet it’s\ndelicious!\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rTu connais le Lait Meumeu, qu’ils\nvendent au Ranch Meumeu?\rIl est super bien pour la santé et pour\nla peau il paraît!\rJ’aimerais bien en boire!\nJe suis sûre qu’il est trop bon!\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rThere’s a Pokémon Salon in Goldenrod\nthat’s run by two brothers.\rThe older brother is good, but the\nyounger one really isn’t.\rBut the younger one charges less, and\nsometimes does a better job than\fhis brother.\rEvery time I go, I have a hard time\ntrying to decide whom I should use...\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rTu connais les frères du Salon Pokémon\nà Doublonville?\rLe plus âgé est super doué, mais son\nfrère par contre...\fC’est une catastrophe.\rMais il est moins cher, et parfois, il\narrive à faire des trucs bien.\rJe sais jamais lequel aller voir!\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rGoldenrod Gym’s Whitney began battling\nonly a little while ago!\rBut the Pokémon League chose her as a\nGym Leader!\fI bet she must be totally talented.\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rTu connais Blanche, le Champion de\nDoublonville?\rElle vient juste de commencer les\ncombats Pokémon.\rPourtant, elle a été choisie par la Ligue\npour diriger l’Arène!\fElle est douée, hein?\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rHave you ever taken part in a\nBug-Catching Contest at the\fNational Park?\rI did once, but all I could catch was a\nCATERPIE.\rBut guess what! I won with that\nCATERPIE. Isn’t that great?\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rTu as déjà essayé le Concours de\nCapture au Parc Naturel?\rJ’ai essayé juste une fois...\rJ’ai attrapé qu’un CHENIPAN...\nMais j’ai gagné avec lui!\fC’était trop fort!\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rI saw a beautiful {STRVAR_1 14, 4, 0}!\rI wish I could become a beautiful\n{STRVAR_1 14, 4, 0}, too.\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rL’autre jour, j’ai découvert un super\ntype de Dresseur!\f{STRVAR_1 14, 4, 0}!\rMoi aussi, je veux devenir pareille\nquand je serai grande...</language>
 	</row>
 	<row id="msg_0680_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rUh... Um... Whoops! I forgot what I was\ngoing to say!\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rHé bien, euh... C’est-à-dire...\nJ’ai oublié!\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rI entered the drawing on the sixth\nfloor of the Goldenrod Department\fStore.\rFor $300, you have a chance to\nreceive a TM. It’s a great deal!\rBut I tried ten times and all I got was\nBerries! I don’t think I’m lucky\fenough to win a top prize.\rOK, I’ll call you later!</language>
+		<language name="English">J’ai un truc super à te raconter!\rJe suis allée au coin de la chance, au\n5⁴ étage du Centre Commercial de\fDoublonville.\rTu te rends compte? Si tu gagnes le\npremier prix, c’est comme si une CT ne\fte coûtait que 300 $!\fÇa vaut vachement le coup!\rAlors j’ai tenté ma chance 10 fois,\nmais... que des troisièmes prix!\fDes Baies et encore des Baies!\rJe dois avoir la poisse...\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0680_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi! Do you have some free time?\rI’ve got all sorts of time. If you’re\nfree, would you like to battle?\rI’ll be waiting on {STRVAR_1 4, 3, 0}.\nLet me know when you get here!</language>
+		<language name="English">T’as un peu de temps?\rMoi je suis libre, et j’aimerais bien\nfaire un match contre toi.\rJe suis sur la {STRVAR_1 4, 3, 0}.\nViens me voir quand tu passes!</language>
 	</row>
 	<row id="msg_0680_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve got too much time on my hands!\nLet’s battle right away!\rI’ll be waiting on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Je m’ennuie!\nTu veux pas faire un match?\rJe suis sur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0680_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, Tania. How are you? This is Liz.\nI’m fine, but I’m bored silly!\rHuh... Wrong number?\nOops! Sorry!</language>
+		<language name="English">Agathe, ça va?\nMoi, ça va, je m’ennuie juste un peu.\rAh? C’est pas Agathe?\nDésolée, je me suis trompée!</language>
 	</row>
 	<row id="msg_0680_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, listen!\rMy {STRVAR_1 0, 10, 0}...it’s...so pretty...\nand...giggle...so awesome...yes...\fbut...very much...eeek!\fAnd...lovely...just ravishing...\fOh, too much! Hug it... Sleeping...\fThat’s right...pretty... Sigh...\fSo nice...cute...\r...Oops! Look at the time! I chatted\ntoo long!\rI’m sorry I took so much of your time!\nI love chatting!</language>
+		<language name="English">J’ai un truc super à te raconter!\rMon {STRVAR_1 0, 10, 0}...\nIl est... Si beau...\fEt... Il... Est...\fGentil... Oui... Et...\fEn fait... Ah!\fEt... Sympa...\fMignon...\fOh, trop!\r... Bisou... Câlin...\nEt oui...\fJoli... Aaaah...\fTout ça...\f... C’est l’heure!\fJ’ai trop parlé!\rDésolée, j’ai été un peu bavarde.\nJ’adore téléphoner!</language>
 	</row>
 	<row id="msg_0680_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ace Trainer</language>
+		<language name="English">Topdresseur</language>
 	</row>
 	<row id="msg_0680_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Beauty</language>
+		<language name="English">Canon</language>
 	</row>
 	<row id="msg_0680_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket</language>
+		<language name="English">Rocket</language>
 	</row>
 	<row id="msg_0680_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Teacher</language>
+		<language name="English">Prof</language>
 	</row>
 	<row id="msg_0680_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Swimmer♀</language>
+		<language name="English">Nageuse</language>
 	</row>
 	<row id="msg_0680_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kimono Girl</language>
+		<language name="English">Kimono</language>
 	</row>
 	<row id="msg_0680_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Skier</language>
+		<language name="English">Skieuse</language>
 	</row>
 	<row id="msg_0680_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Medium</language>
+		<language name="English">Médium</language>
 	</row>
 	<row id="msg_0680_00031" index="31">
 		<attribute name="window_context_name">used</attribute>

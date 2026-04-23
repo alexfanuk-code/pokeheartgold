@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0057_D17R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So many people have gone up\nthe tower with a Rainbow Wing\fto try and bring back HO-OH.\rBut none succeeded in making\nHO-OH appear...\rThe Rainbow Wing is merely to permit you\nto go up this tower.\rWhat HO-OH has longed for is the\ninvisible trust between people and\fPokémon...\rOr the person who can restore such\na relationship...\r</language>
+		<language name="English">Nombreux sont ceux qui ont tenté de\nfaire revenir HO-OH en montant cette\ftour avec l’Arcenci’Aile.\rMais tous ont échoué...\rL’Arcenci’Aile est une sorte de\nlaissez-passer pour accéder au sommet.\rMais ce que HO-OH attend plus que tout,\nc’est un Dresseur qui ait une confiance\fabsolue dans ses Pokémon. Ou plutôt...\rUn Dresseur qui pourrait lui redonner\nconfiance dans l’humanité...\r</language>
 	</row>
 	<row id="msg_0057_D17R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A long time ago, there used to be a\nPokémon at the top of this tower,\fnamely HO-OH.\rBut it flew away, and no one has seen it\nsince...\rIf anyone who could restore deep trust\nbetween people and Pokémon were to\fcome here with something linked to\fHO-OH... It may come down for such\fa person...\r</language>
+		<language name="English">Le Pokémon qui vivait sur cette tour,\nHO-OH, s’est envolé vers le firmament\fet n’est plus jamais reparu...\rSi un humain, qui aurait tissé de forts\nliens de confiance avec ses Pokémon,\fapportait un objet qui était relié\fà HO-OH...\rAlors il accepterait peut-être de se\nmontrer...\r</language>
 	</row>
 	<row id="msg_0057_D17R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That thing you have...!\r</language>
+		<language name="English">Ce... Ce... C’est...!\r</language>
 	</row>
 	<row id="msg_0057_D17R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have done it...\nPlease come through.</language>
+		<language name="English">Tu l’as enfin trouvée...\nJe t’en prie, passe.</language>
 	</row>
 	<row id="msg_0057_D17R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That Rainbow Wing will merely permit you\nto go up the tower.\rIf you are not the kind of person who\nwould restore the trust between people\fand Pokémon, HO-OH will never show\fitself to you...</language>
+		<language name="English">L’Arcenci’Aile n’était qu’un simple\nlaissez-passer pour accéder au sommet.\rSi HO-OH ne te juge pas capable de\nlui redonner confiance dans le lien\fentre humains et Pokémon, alors il\fn’apparaîtra jamais à tes yeux...</language>
 	</row>
 	<row id="msg_0057_D17R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmmm.\rSo it was you and the Bell!</language>
+		<language name="English">Je comprends! Je comprends!\rL’écho de ce Glas...!</language>
 	</row>
 	<row id="msg_0057_D17R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite a remarkable Trainer\nfor your age...</language>
+		<language name="English">Malgré ta jeunesse, tu es quelqu’un\nd’exceptionnel...</language>
 	</row>
 	<row id="msg_0057_D17R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Bell Tower is where\npeople and Pokémon test their trust.\rYou may be born with some talent...\fCan we exchange numbers?\rI would love to examine the trust\nyou have with your Pokémon. {YESNO 0}</language>
+		<language name="English">Mortimer: La Tour Carillon met à\nl’épreuve le lien entre le Dresseur\fet ses Pokémon.\rPeut-être possédais-tu ce potentiel\ndès ta naissance...\rEt si nous échangions nos numéros\nde téléphone?\rJ’aimerais continuer à\nadmirer le lien qui t’unit\fà tes Pokémon. {YESNO 0}</language>
 	</row>
 	<row id="msg_0057_D17R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Morty\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré Mortimer\ndans son Pokématos!</language>
 	</row>
 	<row id="msg_0057_D17R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Give me a call on Tuesday nights.\nI should be free and ready.</language>
+		<language name="English">Mortimer: Pourrais-tu m’appeler\nle mardi soir?\rC’est le moment auquel je pourrai\nte répondre.</language>
 	</row>
 	<row id="msg_0057_D17R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: I really wanted to see the\ntrust you have with your Pokémon...</language>
+		<language name="English">Mortimer: J’aurais aimé pouvoir admirer\nle lien qui t’unit à tes Pokémon...</language>
 	</row>
 	<row id="msg_0057_D17R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty: Do you want to exchange\nnumbers? {YESNO 0}</language>
+		<language name="English">Mortimer: Je peux te donner mon\nnuméro de téléphone? {YESNO 0}</language>
 	</row>
 </body>

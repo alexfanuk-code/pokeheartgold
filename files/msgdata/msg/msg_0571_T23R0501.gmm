@@ -2,103 +2,103 @@
 <body language="English">
 	<row id="msg_0571_T23R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? Who are you?\r{STRVAR_1 3, 0, 0}, eh? You want me to make\nsome Balls?\rSorry, but that’ll have to wait.\rDo you know Team Rocket?\nAh, don’t worry. I’ll tell you anyhow.\rTeam Rocket’s an evil gang that\nuses Pokémon for their dirty work.\rThey’re supposed to have disbanded\nthree years ago.\rAnyway, they’re at the well, cutting\noff SlowpokeTails for sale!\rSo I’m going to go give them a\nlesson in pain!\rHang on, SLOWPOKE!\nOld Kurt is on his way!</language>
+		<language name="English">Hum? Qui es-tu, toi?\n{STRVAR_1 3, 0, 0}? Et tu voudrais que je te\ffabrique des Poké Balls?\rDésolé mais ça devra attendre.\nTu connais la Team Rocket?\rBah, que tu la connaisses ou non,\nça change rien.\rCe sont des gens qui utilisent des\nPokémon à des fins crapuleuses.\rLeur organisation avait pourtant été\ndémantelée il y a 3 ans...\rMais là, ils sont au fond du Puits\nRAMOLOSS. Je suis sûr qu’ils coupent\fla queue de ces pauvres Pokémon pour\fles revendre!\rJe m’en vais leur montrer de quel bois\nje me chauffe, moi!\rTenez bon les petits RAMOLOSS!\nLe bon vieux Fargas, à la rescousse!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Hi, {STRVAR_1 3, 0, 0}!\nYou handled yourself like a real hero.\rAs I mentioned before, Team Rocket was\ndisbanded by a boy called Red three\fyears ago.\rNow that they have come back...\nI have a bad feeling about it...\rIn any case, it would please me greatly\nto make Poké Balls for a Trainer\flike you, {STRVAR_1 3, 0, 0}.\fThis is all I have now, but take it.\r</language>
+		<language name="English">Fargas: Salut, {STRVAR_1 3, 0, 0}!\nTu as été formidable!\rComme je t’ai dit, la Team Rocket a été\nvaincue il y a 3 ans...\fPar un garçon qui s’appelait Red.\rMais les voilà de retour, et j’ai\nun mauvais pressentiment...\rQuoi qu’il en soit!\nTu m’as beaucoup impressionné!\rJe serais fier de fabriquer des Poké\nBalls pour toi!\rPour le moment, j’ai que ça sous la main,\nmais prends-le quand même!\r</language>
 	</row>
 	<row id="msg_0571_T23R0501_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0571_T23R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: I make Poké Balls from Apricorns.\rCollect them from trees and bring\n’em to me.\rI’ll make Poké Balls out of them.</language>
+		<language name="English">Fargas: J’utilise des Noigrumes pour\nfabriquer des Poké Balls spéciales.\rCueilles-en sur les Noigrumiers et\napporte-les-moi.\rEt après, laisse-moi faire!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: You have Apricorns for me?\fFine! I’ll turn them into Poké Balls.\r</language>
+		<language name="English">Fargas: Oh, mais tu as des Noigrumes!\nAllez, laisse-moi faire!\r</language>
 	</row>
 	<row id="msg_0571_T23R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: It’ll take a day to make you a\nPoké Ball. Come back for it later.</language>
+		<language name="English">Fargas: Il me faudra une journée pour\ntout finir.\rReviens plus tard.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Oh...\nThat’s a letdown.</language>
+		<language name="English">Fargas: Ah bon?\nJe suis un peu déçu...</language>
 	</row>
 	<row id="msg_0571_T23R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: I’m working!\nDon’t bother me!</language>
+		<language name="English">Fargas: Je travaille!\nNe me dérange pas!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Ah, {STRVAR_1 3, 0, 0}!\fI just finished your Poké Ball. Here!\r</language>
+		<language name="English">Fargas: Ah, {STRVAR_1 3, 0, 0}!\nJe viens de finir ta commande!\fTiens, c’est à toi!\r</language>
 	</row>
 	<row id="msg_0571_T23R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Your Bag is full!\nCome back when it’s lighter.</language>
+		<language name="English">Fargas: Comment ça, ton Sac est plein?\nReviens après avoir fait de la place!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: That turned out great.\rTry catching Pokémon with it.</language>
+		<language name="English">Fargas: Je suis content du résultat!\rMaintenant, tout dépend de toi!\nVa attraper des Pokémon avec!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The SLOWPOKE are gone...\nWere they taken away by bad people?</language>
+		<language name="English">Les RAMOLOSS ont disparu...\nQue faire...\fEt si des méchants les avaient enlevés?</language>
 	</row>
 	<row id="msg_0571_T23R0501_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grandpa’s gone...\nI’m so lonely...</language>
+		<language name="English">Papy, où tu es?\nJ’ai peur toute seule!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The SLOWPOKE my dad gave me came\nback! Its tail has grown back, too!</language>
+		<language name="English">Le RAMOLOSS que mon papa m’a donné\nest de retour!\fEt sa queue repousse!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dad works at Silph where he studies\nPoké Balls.\rI have to stay home with Grandpa\nand SLOWPOKE.</language>
+		<language name="English">Mon papa travaille à la Sylphe SARL où\nil étudie les Poké Balls.\rMoi, je garde la maison avec papy\net mon RAMOLOSS.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s right!\nI’ll give you my grandpa’s number. {YESNO 0}</language>
+		<language name="English">J’ai une idée!\nTu veux le numéro de téléphone\fde mon papy? {YESNO 0}</language>
 	</row>
 	<row id="msg_0571_T23R0501_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Kurt\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré Fargas\ndans son Pokématos!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My grandpa can tell you more\nabout Apricorns.</language>
+		<language name="English">Appelle-le pour apprendre plein de\nchoses sur les Noigrumes!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No? Why?\nYou don’t want to talk to my grandpa?</language>
+		<language name="English">Quoi? Mais pourquoi?\nTu ne veux pas appeler mon papy?</language>
 	</row>
 	<row id="msg_0571_T23R0501_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You want to talk to my grandpa,\ndon’t you? {YESNO 0}</language>
+		<language name="English">Tu veux le téléphone de mon papy,\nhein? {YESNO 0}</language>
 	</row>
 	<row id="msg_0571_T23R0501_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOWPOKE: ...\nYawn?</language>
+		<language name="English">RAMOLOSS: ... Looooss?</language>
 	</row>
 	<row id="msg_0571_T23R0501_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You see three people, with landscape\nin the background.\rIt’s Kurt, Professor Oak, and...\nin the middle,\fa lady with determined eyes.</language>
+		<language name="English">Il y a trois personnes sur cette photo.\rOn y voit Fargas, le Professeur Chen,\net au milieu... une femme aux yeux vifs.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a statue of the forest’s\nprotector.</language>
+		<language name="English">C’est une statue de la divinité\nde la forêt.</language>
 	</row>
 	<row id="msg_0571_T23R0501_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The radio is on.\rIt’s Professor Oak’s Pokémon Talk!</language>
+		<language name="English">La radio est allumée. On entend la\nChronique Pokémon du Professeur Chen!</language>
 	</row>
 	<row id="msg_0571_T23R0501_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The radio is declaring the revival\nof Team Rocket!</language>
+		<language name="English">La radio diffuse la proclamation de\nrenaissance de la Team Rocket...!</language>
 	</row>
 </body>

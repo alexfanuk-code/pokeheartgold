@@ -2,38 +2,38 @@
 <body language="English">
 	<row id="msg_0607_T26PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon get more friendly if you\nspend time with them.</language>
+		<language name="English">Quand on passe du temps avec un\nPokémon, on devient plus proche de lui!</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They can shine like a bright light--\nlike a beacon at night to guide us...\rThey can take us across the water on\ntheir backs when we are without\fa boat...\rPokémon are helping us everywhere.\fI can’t imagine a life without them!</language>
+		<language name="English">Ils peuvent éclairer les nuits les plus\nnoires et guider les navires...\rOn peut monter sur leur dos pour\ntraverser les mers même quand\fon n’a pas de bateau...\rLes Pokémon peuvent nous aider dans\nla vie de tous les jours à bien des\fniveaux!\rJe ne pourrais pas imaginer la vie sans\nles Pokémon!</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a person in Cianwood City\nacross the sea.\rI heard him bragging about his\nrare Pokémon.</language>
+		<language name="English">Il y a une personne, à Irisia, qui fait\nbeaucoup parler d’elle avec son\fPokémon fort rare.</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...There!\nAll done!\fIt’s sure to surprise anyone!\r</language>
+		<language name="English">Bien!\nC’eeeeest prêt!\fTout le monde va être bien surpris!\r</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, are you a Trainer?\rYou came at just the right time!\nI just finished putting my Ball Capsule\fon my Poké Ball.\rDo you want to battle and be\namazed by my decoration? {YESNO 0}</language>
+		<language name="English">Un Dresseur? Tu tombes à pic!\rJe viens de finir de décorer mes\nCapsules Ball!\rJ’aimerais connaître ton opinion.\nOn peut se battre? {YESNO 0}</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right!\nHere I come!\r</language>
+		<language name="English">Entendu!\nOn est parti!\r</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can turn your Poké Balls into your\nown special creations by adding Seals.\rHow cool is it to have a Poké Ball that\nonly you have in the entire world?\fGive it a whirl!\rOh, remember to put the Ball Capsule\non a Poké Ball once it’s ready!</language>
+		<language name="English">Si tu possèdes des Sceaux, tu peux\ncréer tes propres Capsules Ball\fen utilisant ton PC.\rDes Poké Balls uniques au monde,\nc’est super, non?\fEssaye toi aussi et tu verras!\rMais attention! \nSi tu n’appliques pas les Capsules\fBall, tu ne peux pas les utiliser.</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, really?\rTalk to me if you want to see my\nBall Capsule sometime!</language>
+		<language name="English">Vraiment?\rSi tu veux voir mes Capsules Ball,\nreviens me voir!</language>
 	</row>
 	<row id="msg_0607_T26PC0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now you want to see my Ball Capsule?\rBattle me so I can show it to you! {YESNO 0}</language>
+		<language name="English">Tu as envie de voir mes Capsules Ball?\rJ’aimerais avoir ton opinion, alors\nbattons-nous! {YESNO 0}</language>
 	</row>
 </body>

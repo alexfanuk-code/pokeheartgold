@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="msg_0505_T07R0205_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let me recount a terrifying tale...\r</language>
+		<language name="English">Je vais te raconter une histoire\nterrifiante...\r</language>
 	</row>
 	<row id="msg_0505_T07R0205_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Then again, it’s not as scary while\nit’s still light outside.\rCome back after sunset, OK?</language>
+		<language name="English">... Oh là!\nÇa n’a aucun intérêt pendant la\fjournée! Reviens cette nuit!</language>
 	</row>
 	<row id="msg_0505_T07R0205_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once upon a time, there was a little\nboy who was given a new Bicycle...\fHe wanted to try it right away...\rHe was having so much fun that he\ndidn’t notice that it was\falready dark...\rWhile riding home in the pitch-black\nnight, the Bike suddenly slowed!\rThe pedals became heavy!\rThe Bike began slipping\nbackward as if it was dragged\fby someone!\rIt was as if the Bike were cursed and\ntrying to drag him into oblivion!\r...\r...\rShrieeeek!\rThe boy had been riding uphill on\nCycling Road!\r...\nBa-dum, ba-dum!\rFor listening so patiently, you may\ntake this item--Spell Tag!\r</language>
+		<language name="English">Il était une fois, un petit garçon qui\navait reçu une Bicyclette neuve...\rIl était si content qu’il voulut\nl’essayer tout de suite...\rSans remarquer que la nuit commençait\ndéjà à tomber...\rQuand soudain!\rLa Bicyclette se mit à glisser en arrière\ncomme si quelque chose l’attirait!\rComme si cette Bicyclette maudite avait\ndécidé d’attirer le jeune garçon\fjusqu’aux tréfonds de l’enfer...\r...\nGYAAAAAAAH!!!\r...\n...\rEt il se rendit compte qu’il était\njuste sur la pente montante\fde la Piste Cyclable.\r...\nEt c’est la fin de l’histoire!\rMerci. Merci.\nTu as écouté l’histoire jusqu’à la fin.\fVoilà pour toi: une Rune Sort!\r</language>
 	</row>
 	<row id="msg_0505_T07R0205_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spell Tag boosts the power of\nGhost-type moves.\rIt won’t slow your Bicycle, so\ndon’t worry!</language>
+		<language name="English">Elle augmente la puissance des\ncapacités de type Spectre!\rNe crains rien, ça ne jettera pas\nune malédiction sur ta Bicyclette!</language>
 	</row>
 </body>

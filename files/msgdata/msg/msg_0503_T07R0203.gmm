@@ -2,91 +2,91 @@
 <body language="English">
 	<row id="msg_0503_T07R0203_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the Game Director!\rFilling up your Pokédex is tough,\nbut don’t give up!\rYou can do it! Seriously!</language>
+		<language name="English">Je suis le réalisateur du jeu!\rJe sais que ce n’est pas facile, mais\ncontinue à remplir ton Pokédex!\rJe suis sûr que tu en es capable!\nCourage!</language>
 	</row>
 	<row id="msg_0503_T07R0203_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you did it!\nYou have filled up the\fJohto Pokédex!\rImpressive! I’m amazed!\nI will reward you for that!\fSeriously!\r</language>
+		<language name="English">Wah! Formidable!\nTu as rempli tout le Pokédex\fde Johto!\rQuelle débrouillardise! Bravo!\nTu mérites toutes nos félicitations!\fC’est vrai! Sans mentir, juré!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow! Excellent!\nYou completed your Pokédex!\fCongratulations!\rYou must be the genius of the century!\nSeriously!\rGame Freak will give you an award\nand prove that it’s the truth!\r</language>
+		<language name="English">Wah! Formidable!\nTu as réussi à compléter tout le\fPokédex National!\rFélicitations! Des Dresseurs comme toi,\nil n’y en a pas un par siècle!\fC’est vrai! Sans mentir, juré!\fTu mérites toutes les félicitations\fde Game Freak!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I bet it was a long way to complete\nthe Pokédex.\rRemember, the most precious thing of\nall was the time you’ve worked hard\fgoing everywhere to complete\fthe Pokédex.\rI just said something deep! Seriously!</language>
+		<language name="English">Ça a dû être vraiment dur de remplir\ntoutes ces pages!\rMais ce qui a le plus de valeur, c’est\nle temps que tu as passé à parcourir le\fpays pour récolter chaque page...\rTiens? J’ai dit un truc super profond,\nlà, je crois!\rSans mentir, juré!</language>
 	</row>
 	<row id="msg_0503_T07R0203_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the Graphic Designer!\nI am a skilled dot artist!</language>
+		<language name="English">Je suis le graphiste!\nJe dessine tout à toute allure!</language>
 	</row>
 	<row id="msg_0503_T07R0203_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the Programmer!\rI control the world of games\nwith my fingertip!</language>
+		<language name="English">Je suis le programmeur!\rJe contrôle tout l’univers du jeu\ndu bout de mon index!</language>
 	</row>
 	<row id="msg_0503_T07R0203_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the Planner!\nI come up with great ideas!\rThis place you’re standing\nhere is no exception! Hahaha!</language>
+		<language name="English">Je suis le planificateur!\nJe trouve toujours des tas d’idées!\rEt j’ai même créé l’endroit où tu\nte tiens en ce moment! Hahaha!</language>
 	</row>
 	<row id="msg_0503_T07R0203_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the Sound Designer!\nI compose music.\rI’ll give you something cool if you\nmanage to collect all eight\fKanto Badges and show them to me.</language>
+		<language name="English">Je suis le compositeur!\rMon boulot, c’est d’écrire\nla musique du jeu.\rSi tu récupères les 8 Badges de Kanto,\nje te donnerai un truc sympa.</language>
 	</row>
 	<row id="msg_0503_T07R0203_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am the Sound Designer!\nI compose music.\rWow, you have collected\nall the Kanto Badges already!\fThat’s great!\rI’ll give you something cool\nfor that.\r</language>
+		<language name="English">Je suis le compositeur!\rMon boulot, c’est d’écrire\nla musique du jeu.\rÇa alors!\nTu as déjà tous les Badges de Kanto?!\rT’es incroyable!\nPour te féliciter, je te donne ça!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0503_T07R0203_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">GB is a rectangular thing with a\nblack-and-white screen that you used\fto play the original Pokémon...\fOh, wait! That was a Game Boy!\rTurn it on and GB Sounds will let you\nhear some nostalgic sounds.\rIt’s a gadget full of wonder!\nTry it at various places!\rThere are some places you won’t\nhear classic music...\rBut that’s life!</language>
+		<language name="English">Un GB, c’était vertical, avec un écran\nmonochrome, et c’est là-dessus qu’on\fjouait au premier Pokémon...\fEnfin, un Game Boy, quoi!\rSi tu allumes ton Lecteur GB, la musique\nva changer, et ça te rappellera\fpeut-être des souvenirs!\fC’est un outil étrange et merveilleux!\rÇa change presque à chaque endroit,\nalors essaye-le un peu partout!\rParfois, ça ne change pas, mais ne nous\nen veux pas trop, hein?</language>
 	</row>
 	<row id="msg_0503_T07R0203_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I find GB Sounds to be incredible!\nEven places that were built recently\fhave nice, classic music.\rBehold the full extent of my passion!\r...Did I say “behold”? What am\nI saying?\rAnyway, try it at various places!\rThere are some places you won’t\nhear classic music...\rBut that’s life!</language>
+		<language name="English">Le Lecteur GB est vraiment génial!\nTu vas dans un endroit tout nouveau, et\fsoudain ça te rappelle des souvenirs!\rJe m’y suis vachement investi, alors\nprofites-en! Tu vas voir!\r... Enfin...\nNon, la musique, ça ne se voit pas...\fTu me fais dire n’importe quoi!\rÇa change presque à chaque endroit,\nalors essaye-le un peu partout!\rParfois, ça ne change pas, mais ne nous\nen veux pas trop, hein?</language>
 	</row>
 	<row id="msg_0503_T07R0203_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Célesta: Ah! {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Hey, {STRVAR_1 3, 0, 0}!\r</language>
+		<language name="English">Luth: Ah! {STRVAR_1 3, 0, 0}!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Guess what?\rThat Sound Designer over there\nshowed me something cool.\rIt’s a hi-tech, retro machine to\nlisten to music from the Game Boy!\rHe said he’ll give it to anyone\nwho has collected all of the\fKanto Badges.\rWhy don’t you go for it, {STRVAR_1 3, 0, 0}?\nSee ya!\r</language>
+		<language name="English">Célesta: Tu devineras jamais!\rLe monsieur qui est compositeur,\nlà-bas, m’a montré un truc incroyable!\rC’est un objet high-tech et rétro à la\nfois, qui permet d’écouter le Game Boy!\rIl a dit qu’il m’en donnerait un si je\nrassemblais tous les Badges de Kanto!\rEt si tu essayais toi aussi?\nAllez, à bientôt!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Guess what?\rThat Sound Designer over there\nshowed me something cool.\rIt’s a hi-tech, retro machine to\nlisten to music from the Game Boy!\rHe said he’ll give it to anyone\nwho has collected all of the\fKanto Badges.\rWhy don’t you go for it, {STRVAR_1 3, 0, 0}?\nSee ya!\r</language>
+		<language name="English">Luth: Tu devineras jamais!\rLe type qui est compositeur,\nlà-bas, m’a montré un truc incroyable!\rC’est un objet high-tech et rétro à la\nfois, qui permet d’écouter le Game Boy!\rIl a dit qu’il m’en donnerait un si je\nrassemblais tous les Badges de Kanto!\rEt si tu essayais toi aussi?\nAllez, à bientôt!\r</language>
 	</row>
 	<row id="msg_0503_T07R0203_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Game Freak\nDevelopment Room</language>
+		<language name="English">GAME FREAK\nSalle de Développement</language>
 	</row>
 	<row id="msg_0503_T07R0203_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This elevator goes straight between\nthe second floor and the roof.</language>
+		<language name="English">Cet ascenseur va directement du\n1¹ étage au sommet.</language>
 	</row>
 	<row id="msg_0503_T07R0203_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s the game program.\rMessing with it could ruin it.\nYou cannot touch it!</language>
+		<language name="English">C’est le programme du jeu. Mieux vaut\nne pas toucher, on ne sait jamais!</language>
 	</row>
 	<row id="msg_0503_T07R0203_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon stickers are everywhere\non the desk!</language>
+		<language name="English">Le bureau est recouvert de\nSceaux Pokémon!</language>
 	</row>
 	<row id="msg_0503_T07R0203_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are many photo collections\nand books about myths!</language>
+		<language name="English">C’est plein de recueils de photos et\nde livres de légendes.</language>
 	</row>
 	<row id="msg_0503_T07R0203_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you think?\rI am the President here.\rWe are remaking an old game,\nbut this is quite a challenge.\rOld fans would not want us to mess\nwith their good memories...\fbut there is no point in just\fredoing the same thing, right?\rWe are working toward something\nthat brings back memories,\fyet is also completely new!\rI’ve been in this business for 20 years\nnow, but creating a game is always a\frewarding challenge!</language>
+		<language name="English">Qu’est-ce que tu en dis?\rJe suis le président de cet endroit!\rPour le moment, on est en train de\nrefaire de zéro un jeu assez vieux, mais\fc’est plus difficile que ça en a l’air!\rCertains fans de la première heure ont\nun lien très fort avec le jeu, alors ils\fne veulent pas qu’on le change trop.\rMais on ne peut pas refaire exactement\nla même chose indéfiniment!\rCe qu’on essaie de créer, c’est un truc\nà la fois nouveau et plein de souvenirs!\rÇa fait 20 ans qu’on crée des jeux\nvidéo, mais on n’est toujours pas\fau bout de nos surprises...!</language>
 	</row>
 </body>

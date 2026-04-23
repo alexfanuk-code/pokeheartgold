@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0234_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mic Test</language>
+		<language name="English">TEST MICRO</language>
 	</row>
 	<row id="msg_0234_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please say something\ndirectly into the Mic.</language>
+		<language name="English">Penchez-vous vers le microphone\net veuillez parler.</language>
 	</row>
 	<row id="msg_0234_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{ALN_CENTER}Return</language>
+		<language name="English">{ALN_CENTER}ANNUL.</language>
 	</row>
 </body>

@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0461_T03FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Look! I have a GYARADOS!\rI raised it from a MAGIKARP slowly.\nIt finally evolved!</language>
+		<language name="English">Hé! Hé! Ecoute!\nMoi, j’ai un LEVIATOR!\rJ’ai entraîné mon MAGICARPE\npatiemment, avec amour, et il a\fenfin évolué!</language>
 	</row>
 	<row id="msg_0461_T03FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There once was a weird old man who\nsold MAGIKARP.\rThat boy got one and kept it for\na long time!</language>
+		<language name="English">Il y avait un type tout vieux et bizarre\nqui vendait des Pokémon.\rEt celui-là, c’était un MAGICARPE qu’on\nlui a acheté et qu’on a élevé avec tout\fnotre cœur!</language>
 	</row>
 </body>

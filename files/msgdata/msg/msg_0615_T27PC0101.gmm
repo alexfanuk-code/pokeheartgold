@@ -2,22 +2,22 @@
 <body language="English">
 	<row id="msg_0615_T27PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bill: Hi, I’m Bill. And who are you?\rHmm, {STRVAR_1 3, 0, 0}, huh?\r</language>
+		<language name="English">Léo: Bonjour, je suis Léo.\nEt toi, tu es?\rC’est {STRVAR_1 3, 0, 0}, tu dis?\r</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know what?\nI’m the one who developed\fthe system to transfer Pokémon.\rBut it couldn’t have been done by\nme alone.\rFor example, do you know the Hoenn\nregion? This girl Lanette from Hoenn\fmade the Pokémon Storage System\feasier to use.\rMy friends all over the world are\nworking together to improve\fthe Pokémon trade and\fstorage systems.\rI have to hurry on back to Goldenrod\nand see my folks.\fBuh-bye!\r</language>
+		<language name="English">C’est moi qui ai créé le système de\ntransfert des Pokémon.\rMais je n’ai pas réussi ça tout seul.\rPar exemple, tu connais la région\nde Hoenn?\rIl y a une fille là-bas qui s’appelle\nAnnette et qui a rendu le système de\fGestion de Stocks super simple\fd’utilisation!\rEt c’est grâce aux efforts combinés de\ncollègues comme elle, dans tout le\fpays, qu’on peut améliorer ce\fsystème, et rendre des actions\fcomme déposer ou échanger des\fPokémon toujours plus faciles!\rOh! Il va falloir que je retourne à\nDoublonville!\rMes parents vont s’inquiéter sinon.\nBon, ben, à une prochaine fois!\r</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kimono Girls are so pretty.\rThe way the Kimono Girls dance and\nthe way they use their Pokémon are\fboth marvels.</language>
+		<language name="English">Les 5 danseuses en kimono sont super\nbelles!\rQuand elles utilisent leur Pokémon, ou\nalors quand elles dansent...\fVraiment super belles...</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Morty, the Gym Leader, is soooo cool.\rHis Pokémon are really tough, too.</language>
+		<language name="English">Mortimer, le Champion d’Arène, a\nvraiment la classe...\fIl transpire le chic.\rEt ses Pokémon, ils sont tellement\nforts!</language>
 	</row>
 	<row id="msg_0615_T27PC0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake of Rage...\nThe appearance of a red GYARADOS...\fI smell a conspiracy. I know it!</language>
+		<language name="English">Le Lac Colère...\nLe LEVIATOR rouge...\fÇa sent le mystère à plein nez...</language>
 	</row>
 </body>

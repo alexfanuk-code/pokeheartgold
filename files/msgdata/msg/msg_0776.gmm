@@ -2,155 +2,155 @@
 <body language="English">
 	<row id="msg_0776_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to play\n{STRVAR_3 0, 0, 0}?</language>
+		<language name="English">Voulez-vous jouer\nà {STRVAR_3 0, 0, 0}?</language>
 	</row>
 	<row id="msg_0776_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">JOIN</language>
+		<language name="English">PARTICIPER</language>
 	</row>
 	<row id="msg_0776_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RULES</language>
+		<language name="English">REGLES</language>
 	</row>
 	<row id="msg_0776_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0776_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You could not join the group playing\n{STRVAR_3 0, 0, 0}.\r</language>
+		<language name="English">Vous n’avez pas rejoint le groupe\njouant à {STRVAR_3 0, 0, 0}.\r</language>
 	</row>
 	<row id="msg_0776_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A game is in session.\nYou can’t join until it’s over.\r</language>
+		<language name="English">Une partie est en cours. Veuillez\nattendre qu’elle se termine.\r</language>
 	</row>
 	<row id="msg_0776_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Registration for {STRVAR_3 0, 0, 0} \nis now closed.\r</language>
+		<language name="English">Impossible de jouer à\n{STRVAR_3 0, 0, 0} maintenant.\r</language>
 	</row>
 	<row id="msg_0776_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Readying the registration system.\nPlease wait.\r</language>
+		<language name="English">Certains préparatifs sont nécessaires.\nVeuillez patienter un moment.\r</language>
 	</row>
 	<row id="msg_0776_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A member had to drop out.\rYour game of {STRVAR_3 0, 0, 0} has\nbeen canceled.\r</language>
+		<language name="English">L’un des participants s’est désisté.\rLa partie est annulée.\r</language>
 	</row>
 	<row id="msg_0776_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0776_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Awaiting other members...\nB Button: Cancel</language>
+		<language name="English">En attente de participants...\nBouton B: Annuler</language>
 	</row>
 	<row id="msg_0776_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The game will start soon!\nPlease wait.</language>
+		<language name="English">La partie va bientôt commencer!\nVeuillez patienter...</language>
 	</row>
 	<row id="msg_0776_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0776_00013" index="13">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0776_00014" index="14">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0776_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 51, 0, 0} seconds to go</language>
+		<language name="English">Début dans {STRVAR_1 51, 0, 0} s.</language>
 	</row>
 	<row id="msg_0776_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enough players have gathered.\nLet the game begin!</language>
+		<language name="English">Quatre joueurs sont réunis.\nLa partie commence!</language>
 	</row>
 	<row id="msg_0776_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A member had to drop out.\nPlease register from the start again.\r</language>
+		<language name="English">Un des participants s’est désisté.\nVeuillez recommencer la procédure.\r</language>
 	</row>
 	<row id="msg_0776_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The waiting time is up.\nLet the game begin!</language>
+		<language name="English">Le temps d’attente est écoulé.\nLa partie commence!</language>
 	</row>
 	<row id="msg_0776_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No members joined during the\nregistration period.\rPlease register from the start again.\r</language>
+		<language name="English">Personne d’autre ne semble vouloir\nparticiper pour le moment.\rVeuillez recommencer la procédure.\r</language>
 	</row>
 	<row id="msg_0776_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry, this service is too busy.\nYou may not participate now.\r</language>
+		<language name="English">Le service n’est pas disponible. Vous ne\npouvez pas participer pour le moment.\r</language>
 	</row>
 	<row id="msg_0776_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The time limit is up.\nThe {STRVAR_3 0, 0, 0} will be closed.\r</language>
+		<language name="English">Le temps imparti est écoulé.\rVous ne pouvez plus accéder à\n{STRVAR_3 0, 0, 0}.\r</language>
 	</row>
 	<row id="msg_0776_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_3 0, 0, 0} is now closed.\r</language>
+		<language name="English">Vous ne pouvez plus accéder à\n{STRVAR_3 0, 0, 0}.\r</language>
 	</row>
 	<row id="msg_0776_00023" index="23">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0776_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">OUI</language>
 	</row>
 	<row id="msg_0776_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">NON</language>
 	</row>
 	<row id="msg_0776_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You were the first player to join.\rIf you drop out, the group will be\ndisbanded. Is that OK?</language>
+		<language name="English">Vous êtes le premier joueur inscrit.\rSi vous vous désistez, le groupe sera\ndissous. Continuer?</language>
 	</row>
 	<row id="msg_0776_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">YES</language>
+		<language name="English">OUI</language>
 	</row>
 	<row id="msg_0776_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO</language>
+		<language name="English">NON</language>
 	</row>
 	<row id="msg_0776_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You chose to drop out.\r</language>
+		<language name="English">Vous avez choisi de vous désister.\r</language>
 	</row>
 	<row id="msg_0776_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Parade will be on later.\nPlease wait for it!\r</language>
+		<language name="English">La Parade Pokémon n’a pas encore\ncommencé! Faites preuve de patience!\r</language>
 	</row>
 	<row id="msg_0776_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Waiting for the Parade to come by...\nB Button: Cancel</language>
+		<language name="English">En attente d’un Char de la Parade...\nBouton B: Annuler</language>
 	</row>
 	<row id="msg_0776_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s no more room on the Floats...\r</language>
+		<language name="English">Vous ne pouvez plus monter\nsur les Chars...\r</language>
 	</row>
 	<row id="msg_0776_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Parade is over.\r</language>
+		<language name="English">La Parade Pokémon est terminée.\r</language>
 	</row>
 	<row id="msg_0776_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_3 0, 0, 0}\rFlick Berries into the mouth of a\nrotating SWALOT.\rScore bonus points for getting Berries\nin consecutively.\rScore even more during Fever Time.\rTake deliberate aim or fire randomly--\nthe choice is yours!\r</language>
+		<language name="English">{STRVAR_3 0, 0, 0}\rJetez des Baies au bon moment\ndans la bouche d’AVALTOUT.\rVous obtiendrez des points bonus si\nvous lui faites gober plusieurs\fBaies à la suite.\rVous obtiendrez encore plus de points\ndurant le Cycle Bonus.\rTrouvez le bon équilibre entre\nvitesse et précision!\r</language>
 	</row>
 	<row id="msg_0776_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_3 0, 0, 0}\rRoll a ball while keeping a MIME JR.\nbalanced on top.\rIf the MIME JR. manages to stay on,\nlights flash and the applause begins.\rIf everyone manages to keep going,\nthe curtains will rise.\rTry to keep your MIME JR. balanced\nand on the ball!\r</language>
+		<language name="English">{STRVAR_3 0, 0, 0}\rFaites tourner le ballon de MIME JR.\npour l’aider à garder l’équilibre.\rSi MIME JR. parvient à ne pas tomber,\nles lumières clignotent et des\fapplaudissements se font entendre.\rSi tout le monde parvient à garder\nl’équilibre, le rideau se lève.\rNe laissez pas tomber votre MIME JR.!\r</language>
 	</row>
 	<row id="msg_0776_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_3 0, 0, 0}\rPress down on the pump from\ndirectly above to pump maximum\fair into a balloon until it pops.\rPop balloons until time runs out.\rPressing the pump hard will make it\nturn red, increasing its capacity.\rThe circling WYNAUT can also help.\rLine a WYNAUT up with the pump to\nboost the air volume, but beware:\rlining up the pump with a skinny\nWYNAUT reduces the air volume.\r</language>
+		<language name="English">{STRVAR_3 0, 0, 0}\rPompez bien droit pour insuffler autant\nd’air que possible dans le ballon pour\fqu’il éclate.\rFaites éclater des ballons\njusqu’à la fin de la partie.\rSi vous pompez correctement, la pompe\ndevient rouge et est plus efficace.\rLes OKEOKE peuvent aussi vous aider si\nvous pompez quand l’un d’eux est sur\fl’arrivée d’air.\rMéfiez-vous des OKEOKE trop maigres...\r</language>
 	</row>
 </body>

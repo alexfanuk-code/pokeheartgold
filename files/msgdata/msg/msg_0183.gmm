@@ -3,7 +3,7 @@
 	<row id="msg_0183_00000" index="0">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0183_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -63,104 +63,104 @@
 	</row>
 	<row id="msg_0183_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Choose a Pokémon.</language>
+		<language name="English">Choisir un Pokémon.</language>
 	</row>
 	<row id="msg_0183_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} is selected.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} est sélectionné.</language>
 	</row>
 	<row id="msg_0183_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SUMMARY</language>
+		<language name="English">RESUME</language>
 	</row>
 	<row id="msg_0183_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TRADE</language>
+		<language name="English">ECHANGE</language>
 	</row>
 	<row id="msg_0183_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">SORTIR</language>
 	</row>
 	<row id="msg_0183_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Communicating. Please stand by...</language>
+		<language name="English">Communication en cours...</language>
 	</row>
 	<row id="msg_0183_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trade {STRVAR_1 1, 0, 0} in return for\n{STRVAR_1 1, 1, 0}?</language>
+		<language name="English">Echanger {STRVAR_1 1, 0, 0} contre\n{STRVAR_1 1, 1, 0}?</language>
 	</row>
 	<row id="msg_0183_00022" index="22">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0183_00023" index="23">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0183_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The trade has\nbeen canceled.</language>
+		<language name="English">L’échange a été\nannulé.</language>
 	</row>
 	<row id="msg_0183_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cancel trading?</language>
+		<language name="English">Terminer l’échange?</language>
 	</row>
 	<row id="msg_0183_00026" index="26">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0183_00027" index="27">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0183_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Waiting for your friend to finish...</language>
+		<language name="English">Votre ami(e) n’a pas\nencore fini.</language>
 	</row>
 	<row id="msg_0183_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your friend apparently wants to\ntrade a Pokémon with you.</language>
+		<language name="English">Votre ami(e) veut échanger un\nPokémon avec vous.</language>
 	</row>
 	<row id="msg_0183_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0} will be sent to\n{STRVAR_1 3, 1, 0}.</language>
+		<language name="English">{STRVAR_1 1, 0, 0} sera envoyé à\n{STRVAR_1 3, 1, 0}.</language>
 	</row>
 	<row id="msg_0183_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take care, {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">Ciao, {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0183_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 1, 0} sent over\n{STRVAR_1 1, 0, 0}!</language>
+		<language name="English">{STRVAR_1 3, 1, 0} a envoyé {STRVAR_1 1, 0, 0}.</language>
 	</row>
 	<row id="msg_0183_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take good care of {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">Prends bien soin de {STRVAR_1 1, 0, 0}!</language>
 	</row>
 	<row id="msg_0183_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you trade that Pokémon, you’ll\nget stuck in your adventure!</language>
+		<language name="English">Si vous échangez ce Pokémon, vous\nserez bloqué(e) dans votre aventure!</language>
 	</row>
 	<row id="msg_0183_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0183_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Ball Capsule will become detached.\nIs that OK?</language>
+		<language name="English">La Capsule Ball sera détachée.\nContinuer?</language>
 	</row>
 	<row id="msg_0183_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a Pokémon that cannot be\ntraded in your party.</language>
+		<language name="English">Votre équipe contient un Pokémon qui\nne peut être échangé.</language>
 	</row>
 	<row id="msg_0183_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a Pokémon that cannot be\ntraded in the other Trainer’s party.</language>
+		<language name="English">L’équipe de l’autre Dresseur contient\nun Pokémon qui ne peut être échangé.</language>
 	</row>
 	<row id="msg_0183_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -172,11 +172,11 @@
 	</row>
 	<row id="msg_0183_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lv.</language>
+		<language name="English">N. </language>
 	</row>
 	<row id="msg_0183_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ITEM</language>
+		<language name="English">OBJET</language>
 	</row>
 	<row id="msg_0183_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
@@ -204,10 +204,10 @@
 	</row>
 	<row id="msg_0183_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Aucun</language>
 	</row>
 	<row id="msg_0183_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit</language>
+		<language name="English">Quit.</language>
 	</row>
 </body>

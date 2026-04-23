@@ -2,62 +2,62 @@
 <body language="English">
 	<row id="msg_0645_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine</language>
+		<language name="English">Jeannine</language>
 	</row>
 	<row id="msg_0645_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sorry? I’m afraid I can’t hear you very\nwell. Must be a bad connection.\rCan you call again from somewhere else?</language>
+		<language name="English">Oh! La réception est pas terrible...\nLe réseau peut-être?\rEssaye de me rappeler d’un autre\nendroit.</language>
 	</row>
 	<row id="msg_0645_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, hello, hello...\nOh, hello, what are you up to?\fI’m just fine, thanks!\r</language>
+		<language name="English">Allô?\nOui?\fMoi ça va!\r</language>
 	</row>
 	<row id="msg_0645_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Many of the Gym Leaders are much\nstronger than I am. We’ve just got to\fwork harder!</language>
+		<language name="English">Il y a plein d’autres Champions\ntrès forts tu sais!\fFais attention à toi!</language>
 	</row>
 	<row id="msg_0645_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My schedule’s fairly open on Monday\nafternoons. Would you mind calling\fme back then?</language>
+		<language name="English">Moi ça me va bien le lundi en journée.\nJ’attends ton coup de fil!</language>
 	</row>
 	<row id="msg_0645_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can hear you clearly now.\nSay, my schedule just opened up.\fWould you like to meet for\fa battle or something? {YESNO 0}</language>
+		<language name="English">Quel timing parfait pour ce coup de fil!\nJe suis libre justement.\fUn combat, ça te dirait? {YESNO 0}</language>
 	</row>
 	<row id="msg_0645_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Super!\nI’m burning up, ready to fight!\rI’ll be waiting for you at the\nFighting Dojo in Saffron City!</language>
+		<language name="English">Parfait!\nJe brûle d’impatience!\rOn se retrouve au Dojo de Safrania,\nd’accord?</language>
 	</row>
 	<row id="msg_0645_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I getcha...\nYou’re afraid to face me...\fNah, that’s not true, right?</language>
+		<language name="English">Vraiment?\nTu n’aurais pas... peur, des fois?</language>
 	</row>
 	<row id="msg_0645_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re sure you want to meet me for\na battle?\rDon’t you have kind of a full schedule,\nwith other appointments?</language>
+		<language name="English">Tu veux te battre contre moi?\rMais tu n’as pas déjà plein d’autres\nmatchs de prévus?</language>
 	</row>
 	<row id="msg_0645_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m waiting for you at the Fighting Dojo\nin Saffron City!\fCome on! Move like the wind!</language>
+		<language name="English">On se retrouve au Dojo de Safrania,\nd’accord?\fDépêche-toi de venir!</language>
 	</row>
 	<row id="msg_0645_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is Janine.\nHow are you doing?\r</language>
+		<language name="English">C’est Jeannine!\nTu vas bien?\r</language>
 	</row>
 	<row id="msg_0645_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Remember, you promised to meet me at\nthe Fighting Dojo in Saffron City.\fI’m ready whenever you are...like, now!</language>
+		<language name="English">Bon, on se voit au Dojo de Safrania,\nOK?\fN’oublie pas! Je t’y attendrai.</language>
 	</row>
 	<row id="msg_0645_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, can I talk to you about my dad?\nOnly if you want to hear, though.\rSeriously? I might talk your ear off\nif I’m not careful!</language>
+		<language name="English">Tu veux écouter les histoires de mon\npapa? Tu veux?\rJe suis toujours libre pour ça!</language>
 	</row>
 	<row id="msg_0645_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">See, I’ve been training with my dad\nsince I was little--to be a Gym Leader.\rI haven’t even considered taking any\nother path, really.\rIt’s my dream to someday become a\nbetter Gym Leader than Dad!</language>
+		<language name="English">Alors, depuis que je suis toute petite,\nc’est mon papa qui m’a entraînée pour\fdevenir Champion d’Arène.\rJe n’ai jamais songé à changer de voie.\rAh, je rêve de pouvoir dépasser mon\fpapa un jour...</language>
 	</row>
 	<row id="msg_0645_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner in Violet City...\nHe’s talking about his dad all the time!\rSeriously, he’s such a daddy’s boy,\nhe needs to become his own person\fsometime, you know?\rWhat do you mean, I should talk?\fHa ha--mind your own business!</language>
+		<language name="English">Le Albert de Mauville, là...\nTOUJOURS avec mon père par-ci,\fmon père par-là...\rIl faudrait peut-être qu’il pense à\ncouper les ponts un jour!\fA son âge, quand même!\rComment ça, “Parle pour toi?!”\nMais je ne te permets pas!</language>
 	</row>
 </body>

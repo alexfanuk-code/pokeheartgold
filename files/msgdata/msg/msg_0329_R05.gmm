@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0329_R05_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The road is closed until the problem at\nthe Power Plant is solved.</language>
+		<language name="English">Ils disent que le souterrain restera\nfermé tant que le problème à\fla Centrale ne sera pas résolu!</language>
 	</row>
 	<row id="msg_0329_R05_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Underground Path\rYou can travel from Cerulean City to\nVermilion City on this path under\fSaffron City.</language>
+		<language name="English">Entrée du Souterrain\rLe souterrain de Safrania permet\nd’aller de Carmin sur Mer à Azuria</language>
 	</row>
 </body>

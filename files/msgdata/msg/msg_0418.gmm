@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0418_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket Announcement</language>
+		<language name="English">Proclamation de la Team Rocket</language>
 	</row>
 	<row id="msg_0418_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,6 +10,6 @@
 	</row>
 	<row id="msg_0418_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Uh... um. Testing! Testing 1, 2, 3...\nWe’re the amazing Team Rocket! It’s been\nthree years but we’ve rebuilt the team\nand restructured! We’re proud to\nannounce that we’re back!\nGiovanni! Can you hear this?!\n...We finally did it!\nWhere could the boss be, I wonder?\nI wonder if he heard this announcement...\n</language>
+		<language name="English">... Allô? On nous entend? Bon.\nLa Team Rocket sort de son silence.\nAprès 3 ans à patiemment nous\nreconstruire, nos efforts portent enfin\nleurs fruits et nous proclamons la\nrésurrection de la Team Rocket!\nVous nous entendez, Maître Giovanni?\nOn a réussi! ON A REUSSI!\n... Où il peut bien être?\nJ’espère qu’il nous écoute...\n...</language>
 	</row>
 </body>

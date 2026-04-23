@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="msg_0763_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Non</language>
 	</row>
 	<row id="msg_0763_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Non</language>
 	</row>
 	<row id="msg_0763_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its coolness</language>
+		<language name="English">Son sang-froid</language>
 	</row>
 	<row id="msg_0763_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Non</language>
 	</row>
 	<row id="msg_0763_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Two or three</language>
+		<language name="English">A deux ou trois</language>
 	</row>
 	<row id="msg_0763_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">As an adult</language>
+		<language name="English">Adulte</language>
 	</row>
 	<row id="msg_0763_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fire type</language>
+		<language name="English">Feu</language>
 	</row>
 	<row id="msg_0763_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Defense first</language>
+		<language name="English">Défensive</language>
 	</row>
 	<row id="msg_0763_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Friends</language>
+		<language name="English">Amis</language>
 	</row>
 	<row id="msg_0763_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Non</language>
 	</row>
 </body>

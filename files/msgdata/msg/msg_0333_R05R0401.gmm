@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0333_R05R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eeyaaaah!\rI sense a sinister shadow hovering\nover you.\fTake this to ward it off!\r</language>
+		<language name="English">Griiiiiiiiih!!!\rJe sens une présence maléfique\nplaner sur toi!\rTu auras besoin de ce talisman!\r</language>
 	</row>
 	<row id="msg_0333_R05R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You were in mortal danger, but you’re\nprotected now.</language>
+		<language name="English">Tu l’as échappé belle... Mais tu n’as\nplus rien à craindre maintenant!</language>
 	</row>
 	<row id="msg_0333_R05R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My grandma is into warding off what she\nbelieves to be evil spirits.\fI’m sorry that she startled you.</language>
+		<language name="English">Ma grand-mère est passionnée par\nses exorcismes...\rExcuse-la si elle t’a fait peur.</language>
 	</row>
 </body>

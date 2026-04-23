@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0551_T21FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They’re fresh out of Poké Balls!\nWhen will they get more of them?</language>
+		<language name="English">Ils n’ont plus de Poké Balls!\nJe me demande quand ils en recevront...</language>
 	</row>
 	<row id="msg_0551_T21FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poké Balls are in stock!\nNow I can catch Pokémon!</language>
+		<language name="English">Les Poké Balls sont arrivées! Je vais\nattraper tous les Pokémon en vue!</language>
 	</row>
 	<row id="msg_0551_T21FS0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When I was walking in the tall grass,\na Bug-type Pokémon poisoned\fmy Pokémon!\rI just kept going, but my Pokémon\nnearly fainted.\rYou should keep an Antidote with you.</language>
+		<language name="English">Je marchais dans l’herbe et un Pokémon\nInsecte a empoisonné le mien...\rAprès, j’ai continué mon chemin, et mon\nPokémon se sentait de plus en plus mal!\rIl faut toujours avoir de l’Antidote\navec soi.</language>
 	</row>
 </body>

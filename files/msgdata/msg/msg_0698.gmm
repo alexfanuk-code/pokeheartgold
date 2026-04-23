@@ -2,23 +2,23 @@
 <body language="English">
 	<row id="msg_0698_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reena</language>
+		<language name="English">Audrey</language>
 	</row>
 	<row id="msg_0698_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not too shabby... You’re doing\nsomething right if you can beat me,\feven by an unlikely fluke...\rI like you!\nGive me your number!\rYou can be my practice partner! {YESNO 0}</language>
+		<language name="English">Pas mal... Tu as du mérite d’avoir\ngagné...\fCe n’est pas donné à tout le monde...\rTu me plais bien!\nDonne-moi ton numéro!\rNous pouvons devenir partenaires! {YESNO 0}</language>
 	</row>
 	<row id="msg_0698_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t get too high and mighty\nabout beating me! It was a fluke!</language>
+		<language name="English">Ne te vante pas trop de cette victoire!\nCe n’était QUE de la chance...</language>
 	</row>
 	<row id="msg_0698_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t believe it! You’re going to\nregret this!</language>
+		<language name="English">Je n’arrive pas à y croire!\nTu vas le regretter, je te le promets!</language>
 	</row>
 	<row id="msg_0698_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give me your phone number!\rYou are going to be my practice\npartner!{YESNO 0}</language>
+		<language name="English">Donne-moi ton numéro!\rNous pouvons devenir partenaires! {YESNO 0}</language>
 	</row>
 	<row id="msg_0698_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
@@ -27,30 +27,30 @@
 	</row>
 	<row id="msg_0698_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What are you saying? \nYou really like Route 27?\rI do too, of course!\rI mean, I’m always on Route 27!</language>
+		<language name="English">Toi aussi, tu aimes la Route 27, non?\rMoi aussi!\rC’est pour ça que j’y passe le plus\nclair de mon temps!</language>
 	</row>
 	<row id="msg_0698_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Listen, pal of mine...\nDo you remember my {STRVAR_1 0, 10, 0}?\rYes, exactly. That lovely {STRVAR_1 0, 10, 0}.\nWouldn’t you agree it’s a perfect match\ffor me?\rFine, you may go.</language>
+		<language name="English">Ecoute...\nTu te souviens de mon {STRVAR_1 0, 10, 0}?\rMon joli petit {STRVAR_1 0, 10, 0}...\nIl me ressemble, tu ne trouves pas?\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0698_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have I ever faced a wild {STRVAR_1 0, 11, 0}?\nYou need to ask?\rI’ve beaten {STRVAR_1 0, 11, 0} on numerous\noccasions!\rFine, you may go.</language>
+		<language name="English">Quoi? Si j’ai déjà vu un {STRVAR_1 0, 11, 0}?\nTu me prends pour qui?\rJ’en ai battu des tas!\rBon, je te laisse!</language>
 	</row>
 	<row id="msg_0698_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have I ever failed to catch a wild\nPokémon?\rYou need to ask?\rI would never fail to catch a wild\n{STRVAR_1 0, 11, 0}... Oh! Never mind!</language>
+		<language name="English">Si j’ai déjà laissé filer un Pokémon?\rTu me prends pour qui?\rMoi, je ne manque jamais d’attraper un\n{STRVAR_1 0, 11, 0} sauvage!</language>
 	</row>
 	<row id="msg_0698_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We are going to battle!\rThe place shall be {STRVAR_1 4, 3, 0}!\nDon’t keep me waiting! Got it?</language>
+		<language name="English">On va se faire un combat!\rVers... la {STRVAR_1 4, 3, 0}!\nNe me fais pas attendre, OK?</language>
 	</row>
 	<row id="msg_0698_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What are you doing?\rI told you that the place was\f{STRVAR_1 4, 3, 0}! Don’t try to run!</language>
+		<language name="English">Qu’est-ce que tu fabriques?\nViens sur la {STRVAR_1 4, 3, 0}!\fTu as peur ou quoi?</language>
 	</row>
 	<row id="msg_0698_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t be too proud just because you\nhappened to beat me...\fIt was a fluke!</language>
+		<language name="English">Ne te vante pas trop de cette victoire!\nCe n’était QUE de la chance...</language>
 	</row>
 </body>

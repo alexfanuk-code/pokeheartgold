@@ -2,84 +2,84 @@
 <body language="English">
 	<row id="msg_0620_T28_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hiya, kid!\rI see you’re new in Mahogany Town.\nSince you’re new, you should try a\fyummy RageCandyBar!\rRight now, it can be yours for just\n$300! Want one? {YESNO 0}</language>
+		<language name="English">Hep hep hep!\rSi tu viens à Acajou, il FAUT essayer\nles Bonbons Rage! C’est la tradition!\rC’est seulement 300 $!\nJe t’en mets un? {YESNO 0}</language>
 	</row>
 	<row id="msg_0620_T28_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t want to upset you after\nbuying one from me, but...\rBuying a RageCandyBar has nothing to\ndo with whether I’d allow you to\fpass through here.\r...Johto has many places to visit,\nsuch as the Lighthouse at Olivine and\fthe Pharmacy at Cianwood.\rWhy don’t you slow down and\nenjoy sightseeing?</language>
+		<language name="English">Bon, je ne devrais pas te dire ça après\nt’avoir fait acheter un truc, mais...\rIl n’y a pas vraiment d’obligation\nd’acheter un Bonbon Rage si on passe\fpar Acajou.\rBah, à Johto, il y a le Phare d’Oliville,\nla pharmacie d’Irisia, et plein d’autres\fchoses à voir!\rProfite bien de ton voyage!</language>
 	</row>
 	<row id="msg_0620_T28_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I don’t want to upset you after\nbuying one from me, but...\rBuying a RageCandyBar has nothing to\ndo with whether I’d allow you to\fpass through here.\r...Johto has many places to visit,\nsuch as the Lighthouse at Olivine and\fthe Pharmacy at Cianwood.\rWhy don’t you slow down and\nenjoy sightseeing?\r</language>
+		<language name="English">Bon, je ne devrais pas te dire ça après\nt’avoir fait acheter un truc, mais...\rIl n’y a pas vraiment d’obligation\nd’acheter un Bonbon Rage si on passe\fpar Acajou.\rBah, à Johto, il y a le Phare d’Oliville,\nla pharmacie d’Irisia, et plein d’autres\fchoses à voir!\rProfite bien de ton voyage!\r</language>
 	</row>
 	<row id="msg_0620_T28_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? RageCandyBar?\nYou want to buy one?\rRight on!\rSame as before, it can be yours for\njust $300! Want one? {YESNO 0}</language>
+		<language name="English">Vraiment? Tu m’achètes un Bonbon Rage?\rFormidable!\rComme toujours, c’est\nseulement 300 $!\fJe t’en mets un? {YESNO 0}</language>
 	</row>
 	<row id="msg_0620_T28_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? RageCandyBar?\nYou want to buy another?\rI think one is enough for you.</language>
+		<language name="English">Vraiment?\nTu veux encore un Bonbon Rage?!\rJe crois qu’un seul, ça suffit, hein!</language>
 	</row>
 	<row id="msg_0620_T28_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I remember a person from as far as\nKanto came to buy one a long time ago.\rI happened to have none in stock then.\nThat person left rather upset.\rI felt kind of sorry for that.</language>
+		<language name="English">Je me souviens d’un client qui était\nvenu de Kanto il y a longtemps\fpour m’acheter un Bonbon Rage.\rPas de chance, on était en rupture de\nstock, et il est rentré chez lui\fen râlant.\rJ’étais bien désolé pour lui...</language>
 	</row>
 	<row id="msg_0620_T28_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I remember a person from as far as\nKanto came to buy one a long time ago.\rI happened to have none in stock then.\nThat person left rather upset.\rI felt kind of sorry for that.\r</language>
+		<language name="English">Je me souviens d’un client qui était\nvenu de Kanto il y a longtemps\fpour m’acheter un Bonbon Rage.\rPas de chance, on était en rupture de\nstock, et il est rentré chez lui\fen râlant.\rJ’étais bien désolé pour lui...\r</language>
 	</row>
 	<row id="msg_0620_T28_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have enough money.</language>
+		<language name="English">Tu n’as pas assez d’argent.</language>
 	</row>
 	<row id="msg_0620_T28_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t have enough money.\r</language>
+		<language name="English">Tu n’as pas assez d’argent.\r</language>
 	</row>
 	<row id="msg_0620_T28_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, fine then...</language>
+		<language name="English">Oh, très bien...</language>
 	</row>
 	<row id="msg_0620_T28_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, fine then...\r</language>
+		<language name="English">Oh, très bien...\r</language>
 	</row>
 	<row id="msg_0620_T28_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0620_T28_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0620_T28_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you seen this guy with a\nblack cape?\rHe has been going back and forth\nbetween here and the Lake of Rage\fsaying strange radio waves are\fbeing transmitted.\rWho is he, I wonder.\n</language>
+		<language name="English">Toi aussi, tu as vu les hommes en noir?\rOn dit qu’il y a des ondes bizarres\ndans le coin...\fEt ces hommes font des allers-retours\fentre Acajou et le Lac Colère.\rQui peuvent-ils bien être?</language>
 	</row>
 	<row id="msg_0620_T28_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you off to see the GYARADOS\nrampage at the lake?</language>
+		<language name="English">Viens-tu toi aussi au lac pour voir\nle LEVIATOR déchaîné?</language>
 	</row>
 	<row id="msg_0620_T28_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">MAGIKARP have returned to\nLake of Rage.\rThat should be splendid news for the\nanglers there.</language>
+		<language name="English">Des MAGICARPE sont revenus au Lac\nColère.\rÇa devrait faire plaisir aux pêcheurs\ndu coin!</language>
 	</row>
 	<row id="msg_0620_T28_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Visit Grandma’s shop. She sells\nstuff that nobody else has...\rYou want to buy stuff, right?\nSo buy stuff at my grandma’s!</language>
+		<language name="English">Va voir la boutique de mémé.\rElle vend des trucs... qu’on trouve\npartout ailleurs, mais...\rautant les acheter ici, non?</language>
 	</row>
 	<row id="msg_0620_T28_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mahogany Town\nHome of the Ninja</language>
+		<language name="English">Acajou\nBienvenue au village ninja</language>
 	</row>
 	<row id="msg_0620_T28_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Just a Souvenir Shop\rNothing Suspicious about It\nNo Need to Be Alarmed</language>
+		<language name="English">Boutique de Souvenirs\rPas de passages secrets ou de choses\ndans le genre!\fVous n’avez rien à craindre ici!</language>
 	</row>
 	<row id="msg_0620_T28_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mahogany Town Pokémon Gym\nLeader: Pryce\fThe Teacher of Winter’s Harshness</language>
+		<language name="English">Arène d’Acajou\nChampion: Frédo\fIl vous apprend la rudesse du\ffroid hivernal.</language>
 	</row>
 </body>

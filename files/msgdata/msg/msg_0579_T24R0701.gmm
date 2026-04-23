@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0579_T24R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You came from Olivine?\rDo you remember the four islands\nalong the way?\rI heard that a mythical sea creature is\nhiding in them.</language>
+		<language name="English">Tu viens d’Oliville?\nTu as dû apercevoir quatre îles\fsur la route, normalement. On dit\fqu’une sorte de dieu de la mer y vit.</language>
 	</row>
 	<row id="msg_0579_T24R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that you can only see it if\nyou have a Silver Wing.\rIt must have the same scent as\nthe creature.</language>
+		<language name="English">On raconte qu’on peut le rencontrer\nsi l’on possède une Argent’Aile.\rPeut-être qu’il reconnaît\nsa propre odeur?</language>
 	</row>
 	<row id="msg_0579_T24R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ve heard that the whirlpools around\nthe islands are caused by the\fsea creature.\rYou might need a special move to\nget past them.</language>
+		<language name="English">Les tourbillons autour des îles sont\ncréés par le dieu de la mer.\fIl y a une légende à ce sujet.\rJe ne crois pas qu’on puisse les\ntraverser sans une capacité spécifique.</language>
 	</row>
 </body>

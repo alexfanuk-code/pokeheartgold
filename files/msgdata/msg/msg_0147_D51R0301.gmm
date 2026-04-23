@@ -2,59 +2,59 @@
 <body language="English">
 	<row id="msg_0147_D51R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: My name is Cynthia.\nI am a Pokémon Trainer.\rThe {COLOR 1}Sinjoh Ruins{COLOR 0} remind me of Sinnoh,\nwhere I come from.\rInitially, I thought it was because\nit snows a lot here as well.\rBut that was not it.\rA long time ago...people came from\nSinnoh to live here.\rThey must have built a temple here\nwhile longing for home.\rThat’s why we call these the\n{COLOR 1}Sinjoh Ruins{COLOR 0}...\r</language>
+		<language name="English">Cynthia: Je suis Cynthia.\nJe suis Dresseur de Pokémon.\rDès que je suis arrivée dans ces {COLOR 1}Ruines\nSinjoh{COLOR 0}, quelque chose m’a rappelé\fma terre natale de Sinnoh...\rJ’ai d’abord cru que c’était à cause de\nla neige, aussi dense qu’à Sinnoh...\rMais je me trompais.\rIl y a très longtemps...\nDes habitants de Sinnoh sont venus\fjusqu’ici pour y vivre.\rIls ont dû bâtir ce temple en pensant à\nla terre qu’ils avaient laissée\fderrière eux...\rVoilà l’origine des {COLOR 1}Ruines Sinjoh{COLOR 0}...\r</language>
 	</row>
 	<row id="msg_0147_D51R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: You are...\fa Pokémon Trainer?\rI can sense strong power coming\nfrom your Poké Ball...\r</language>
+		<language name="English">Cynthia: Oh... Mais...\rTu es aussi un Dresseur de Pokémon...\rJe sens une grande puissance émaner\nd’une de tes Poké Balls...\r</language>
 	</row>
 	<row id="msg_0147_D51R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: I wouldn’t assume you managed\nto get here by yourself.\rThis is a heavy-snowfall area where\nthe snowbound land freezes you\fto the core...\rTalk to the old man if you wish to go\nback. ABRA should be able to take you\fwhere you come from.</language>
+		<language name="English">Cynthia: J’ai du mal à croire que tu aies\npu parvenir ici par tes propres moyens.\rCe lieu est pris dans des neiges\néternelles en permanence.\rL’air glacial ici peut te\ncongeler jusqu’au cœur...\rSi tu désires rentrer, tu peux\nt’adresser au vieil homme.\rSon ABRA peut te faire\nrentrer chez toi.</language>
 	</row>
 	<row id="msg_0147_D51R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: I feel a familiar presence...\nThe power of DIALGA...\fPALKIA...\for could it be GIRATINA?\rIt’s similar, but not quite the same...\r</language>
+		<language name="English">Cynthia: Cette puissance ressemble à\nquelque chose que je connais...\fDIALGA...\fPALKIA...\fA moins que ce ne soit... GIRATINA...?\r</language>
 	</row>
 	<row id="msg_0147_D51R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: Have you got time?\rCan you come to the {COLOR 1}Sinjoh Ruins{COLOR 0}\nwith me?\rCall it a Trainer’s intuition.\rWhen you and your Pokémon step onto\nthat stage, something will happen.\r</language>
+		<language name="English">Cynthia: ... Aurais-tu un moment?\rJ’aimerais entrer dans les {COLOR 1}Ruines Sinjoh{COLOR 0}\navec toi.\rSi mon intuition ne me trompe pas,\nquelque chose devrait se passer\florsque toi et ton Pokémon monterez\fces escaliers.\r</language>
 	</row>
 	<row id="msg_0147_D51R0301_00005" index="5">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0147_D51R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cynthia: The snowbound ruins make\nme wonder...\rTime and space change, and we with\nthem. We leave some things behind\fand give each other company...\rSinnoh, Johto...\nWhen you feel you’re close to\funderstanding the whole world,\fyou are merely drowning in your\fown miniscule perception.\r</language>
+		<language name="English">Cynthia: Te rencontrer dans cet\nendroit pris dans les glaces me\frend songeuse...\rQuand le temps et l’espace pâlissent,\nle quotidien des hommes se brouille...\rOn laisse quelque chose derrière soi...\nOn se mêle à quelque chose d’autre...\fSinnoh... Johto...\fParfois, on a l’impression que l’on\fcomprend le monde tout entier, mais...\rOn ne fait que plaquer ses illusions\nsur le monde qui nous entoure.\r</language>
 	</row>
 	<row id="msg_0147_D51R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A long time ago, people used to draw\nlife from Pokémon and also give their\flives to those Pokémon...\rThat shows that people and Pokémon\nused to be more closely bonded with\feach other.\rWhen people moved from place to place,\nthe myths and legends of Pokémon\fand their power would also be carried\fwith those people.\rThat’s how myths and legends from each\nregion are blended with each other.\rThe ancient ruins here have inherited\nthe legends from both the {COLOR 1}Ruins of Alph{COLOR 0}\fin Johto and the {COLOR 1}Spear Pillar{COLOR 0} in Sinnoh.\rThat is proof that people from Johto\nand Sinnoh blended together\fas a group.</language>
+		<language name="English">Les gens des temps anciens recevaient\nla vie des Pokémon, puis la\fleur rendaient...\rTu vois combien le lien entre humains et\nPokémon était plus fort qu’aujourd’hui.\fÇa fait réfléchir, hein?\rVoilà pourquoi, lorsque les populations\nmigrent, les légendes relatives aux\fpouvoirs des Pokémon se mêlent à celles\fdes autres régions...\rLes ruines de cet endroit mêlent les\nlégendes des {COLOR 1}Ruines d’Alpha{COLOR 0} de Johto\fet celles des {COLOR 1}Colonnes Lances{COLOR 0} de Sinnoh\fen une seule...\rC’est donc la preuve que des habitants\nde ces deux régions se sont mélangés\fà cet endroit...</language>
 	</row>
 	<row id="msg_0147_D51R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ARCEUS is said to have come out of\nan Egg.\rJohto people believe that Pokémon Eggs\nare the vessels of life, and thus\fsomething astounding.\rPlaces far from each other can share\nsimilar myths and legends...\rThat’s quite interesting, isn’t it?</language>
+		<language name="English">On raconte qu’ARCEUS s’est d’abord\nmontré en sortant d’un Oeuf...\rLes gens de Johto pensent que les\nOeufs de Pokémon sont des artéfacts\fdivins qui donnent la vie, tu sais?\rÇa fait bizarre de penser que des gens\nqui vivent dans des endroits aussi\féloignés ont des légendes aussi\fproches des nôtres...</language>
 	</row>
 	<row id="msg_0147_D51R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, hello!\nWe meet again!\rCynthia has gone back to Sinnoh.\fShe is the Sinnoh League Champion.\rShe studies various ruins despite her\ntight schedule.\rHow wonderful she is!</language>
+		<language name="English">Ah, bienvenue,\nça va bien depuis la dernière fois?\rM’zelle Cynthia est retournée à Sinnoh.\nElle est Maître de la Ligue de là-bas,\fet pourtant elle explore les ruines dès\fqu’elle a un moment de libre...\rQuelle femme exceptionnelle!</language>
 	</row>
 	<row id="msg_0147_D51R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You seem so out of place, not even\nknowing why you are here.\rDo you want my ABRA to use a\nspecial power to take you home? {YESNO 0}</language>
+		<language name="English">Jeune âme égarée sans raison\nen ce lieu...\rSi tu souhaites rentrer chez toi,\nmon ABRA a un pouvoir unique qui\ft’y renverra en un rien de temps.\fTu veux rentrer? {YESNO 0}</language>
 	</row>
 	<row id="msg_0147_D51R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK. OK.\nPicture your house in your mind...\r</language>
+		<language name="English">Bien, bien!\nAlors représente-toi ta maison\fdans ton esprit...\r</language>
 	</row>
 	<row id="msg_0147_D51R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK... OK...\nThe best of luck to you!</language>
+		<language name="English">Bien, bien...\nBon courage, alors!</language>
 	</row>
 	<row id="msg_0147_D51R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ABRA: Aabra...</language>
+		<language name="English">ABRA: Braaaa...</language>
 	</row>
 </body>

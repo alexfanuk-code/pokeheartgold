@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0565_T23FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The number of Gym Badges you have\nshows how strong a Trainer you are.\rThe more Badges you have, the\nbetter the items you’ll see in shops!</language>
+		<language name="English">Le nombre de Badges qu’un Dresseur\npossède reflète son habileté!\rEt, en récompense, plus il a de\nBadges, plus il a de choix à la Boutique!</language>
 	</row>
 	<row id="msg_0565_T23FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Great Ball is better for catching\nPokémon than a Poké Ball.\rBut Kurt’s might be better sometimes.</language>
+		<language name="English">Une Super Ball est plus efficace qu’une\nPoké Ball pour capturer un Pokémon.\rMais selon les situations, les Balls de\nFargas sont sans égales.</language>
 	</row>
 </body>

@@ -6,146 +6,146 @@
 	</row>
 	<row id="msg_0641_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, is this {STRVAR_1 3, 0, 0}?\nIf you ever end up in my area, don’t be\fshy, OK? Come on down and talk to me.</language>
+		<language name="English">Allô {STRVAR_1 3, 0, 0}?\nSi tu es dans le coin, passe me voir!\fJe ne mords pas tu sais!</language>
 	</row>
 	<row id="msg_0641_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, is this {STRVAR_1 3, 0, 0}?\nIf you ever end up in my area, don’t be\fshy, OK? Come on down and talk to me.</language>
+		<language name="English">Allô {STRVAR_1 3, 0, 0}?\nSi tu es dans le coin, passe me voir!\fJe ne mords pas tu sais!</language>
 	</row>
 	<row id="msg_0641_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\rOh! Good morning, {STRVAR_1 3, 0, 0}!\nI’m kind of foggy in the morning...\r</language>
+		<language name="English">Salut c’est Buena!\rOh! Bonjour, {STRVAR_1 3, 0, 0}!\nJe suis pas du matin...\r</language>
 	</row>
 	<row id="msg_0641_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\rOh! Good morning, {STRVAR_1 3, 0, 0}!\nI’m kind of foggy in the morning...\r</language>
+		<language name="English">Salut c’est Buena!\rOh! Bonjour, {STRVAR_1 3, 0, 0}!\nJe suis pas du matin...\r</language>
 	</row>
 	<row id="msg_0641_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\rOh! Hi, {STRVAR_1 3, 0, 0}!\nDo you tune into Buena’s show?\r</language>
+		<language name="English">Salut c’est Buena!\rBonjour, {STRVAR_1 3, 0, 0}!\nTu as écouté mon émission?\r</language>
 	</row>
 	<row id="msg_0641_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\rOh! Hi, {STRVAR_1 3, 0, 0}!\nDo you tune into Buena’s show?\r</language>
+		<language name="English">Salut c’est Buena!\rBonjour, {STRVAR_1 3, 0, 0}!\nTu as écouté mon émission?\r</language>
 	</row>
 	<row id="msg_0641_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\nOh! Hi, {STRVAR_1 3, 0, 0}!\rI just got off work. \nLet me tell you, I’m exhausted!\r</language>
+		<language name="English">Salut c’est Buena!\nSalut, {STRVAR_1 3, 0, 0}!\rJe viens de finir de travailler!\nJe suis épuisée!\r</language>
 	</row>
 	<row id="msg_0641_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, this is Buena...\nOh! Hi, {STRVAR_1 3, 0, 0}!\rI just got off work. \nLet me tell you, I’m exhausted!\r</language>
+		<language name="English">Salut c’est Buena!\nSalut, {STRVAR_1 3, 0, 0}!\rJe viens de finir de travailler!\nJe suis épuisée!\r</language>
 	</row>
 	<row id="msg_0641_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi...\nThis is Buena.\rI can’t come to the phone right now.\rIf you want to chat, tune into Buena’s\nPassword on the radio and give me a\fcall after midnight!</language>
+		<language name="English">Ici Buena. Je ne suis pas disponible\npour l’instant.\rSi vous voulez entendre ma voix, allumez\nla radio!\rRendez-vous sur le Mot de Passe de\nBuena!</language>
 	</row>
 	<row id="msg_0641_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m thinking of going to the Game Corner\ntomorrow. It’s been a while.\rYou know, I have this great strategy\nfor playing...\fI always do great!\rHuh? Nuh-uh, it’s my secret!\nYou’ll have to figure it out yourself!\rCatch you later!</language>
+		<language name="English">Je pense aller au Casino demain.\nÇa fait longtemps que je n’y ai\fpas mis les pieds.\rA vrai dire, pour gagner, j’ai une\ntechnique secrète...\rLaquelle? J’ai justement dit qu’elle\nétait secrète, voyons!\fTrouve-la par toi-même!\rA plus tard!</language>
 	</row>
 	<row id="msg_0641_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey there! You use your Pokégear\nto listen to the radio, right?\rI heard that you can even display town\nmaps with the Pokégear.\rI have a bad sense of direction, so\nthe Pokégear would be handy...\rAnyway, thanks for calling! Later!</language>
+		<language name="English">Hé! Tu utilises ton Pokématos pour\nécouter la radio?\rOn m’a dit qu’on pouvait même afficher\ndes cartes avec!\rJe me perds tout le temps...\nJe devrais en avoir un...\rMerci d’avoir appelé! Tchao!</language>
 	</row>
 	<row id="msg_0641_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is it sunny outside today?\rWhen you’re cooped up in the Radio\nTower as much as I am, you lose touch\fwith the outside.\rIt can be boring. Please call again!</language>
+		<language name="English">Il fait beau aujourd’hui?\rMoi je suis enfermée toute la\njournée... C’est triste.\rA bientôt!</language>
 	</row>
 	<row id="msg_0641_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh. Hi, {STRVAR_1 3, 0, 0}!\nYou are how?\rAiyee! This isn’t the time for me to be\ncracking silly gag greetings!\rThe Radio Tower is in deep trouble!\n{STRVAR_1 3, 0, 0}, you’d better be careful!</language>
+		<language name="English">Salut, {STRVAR_1 3, 0, 0}!\nÇa va bien?\rC’est pas vraiment le moment pour\ndes salutations...\rLa Tour Radio est en danger!\r{STRVAR_1 3, 0, 0}, fais attention toi aussi!</language>
 	</row>
 	<row id="msg_0641_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh. Hi, {STRVAR_1 3, 0, 0}!\nYou are how?\rAiyee! This isn’t the time for me to be\ncracking silly gag greetings!\rThe Radio Tower is in deep trouble!\n{STRVAR_1 3, 0, 0}, you’d better be careful!</language>
+		<language name="English">Salut, {STRVAR_1 3, 0, 0}!\nÇa va bien?\rC’est pas vraiment le moment pour\ndes salutations...\rLa Tour Radio est en danger!\r{STRVAR_1 3, 0, 0}, fais attention toi aussi!</language>
 	</row>
 	<row id="msg_0641_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI got up early, so I decided to call!\r</language>
+		<language name="English">Salut c’est Buena!\nBonjour, {STRVAR_1 3, 0, 0}!\rJe me suis levée tôt alors je t’appelle!\r</language>
 	</row>
 	<row id="msg_0641_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI got up early, so I decided to call!\r</language>
+		<language name="English">Salut c’est Buena!\nBonjour, {STRVAR_1 3, 0, 0}!\rJe me suis levée tôt alors je t’appelle!\r</language>
 	</row>
 	<row id="msg_0641_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI needed someone to chat with!\r</language>
+		<language name="English">Salut c’est Buena!\nBonjour, {STRVAR_1 3, 0, 0}!\rJ’avais envie de discuter!\r</language>
 	</row>
 	<row id="msg_0641_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI needed someone to chat with!\r</language>
+		<language name="English">Salut c’est Buena!\nBonjour, {STRVAR_1 3, 0, 0}!\rJ’avais envie de discuter!\r</language>
 	</row>
 	<row id="msg_0641_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI couldn’t sleep, so I called you.\r</language>
+		<language name="English">Salut c’est Buena!\nBonjour, {STRVAR_1 3, 0, 0}!\rJe n’arrive pas à dormir, alors\nje t’appelle!\r</language>
 	</row>
 	<row id="msg_0641_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}! Hi, it’s Buena!\nI couldn’t sleep, so I called you.\r</language>
+		<language name="English">Salut c’est Buena!\nBonjour, {STRVAR_1 3, 0, 0}!\rJe n’arrive pas à dormir, alors\nje t’appelle!\r</language>
 	</row>
 	<row id="msg_0641_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The other day, I went out to eat with\nDJ Ben! Isn’t that great?\rNot only that, he said the music on my\nshow is cool!\rOh, wow! Like, what should I do?\r...Oops, I have to get ready for my\nshow! I’ll catch you later!</language>
+		<language name="English">L’autre jour, j’ai mangé avec DJ Ben!\nCool, non?\rIl a dit que la musique que je passe\nest... HYPE!\fWhoa! J’suis trop à la mode!\r... Il faut que j’aille travailler\nmaintenant!\fA plus tard!</language>
 	</row>
 	<row id="msg_0641_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know the receptionist at the Radio\nTower?\r“Welcome” is all she ever says.\rBut she’s really the chattiest person\nat the Radio Tower.\rSo she must be holding back.\nIsn’t that fun to know?\rCatch you later!</language>
+		<language name="English">Tu connais la réceptionniste de\nla Tour Radio?\rElle dit juste “Bienvenue”.\rMais en fait elle est super bavarde!\nSi tu la laisses commencer, elle parle\fpendant des heures et des heures.\rAlors, elle doit se retenir à chaque\nfois.\rC’est drôle, non?\rA plus tard!</language>
 	</row>
 	<row id="msg_0641_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you won the Pokémon Lottery\nheld on the first floor at the Radio\fTower?\rYou get more chances as you trade\nPokémon with different friends.</language>
+		<language name="English">Tu as déjà essayé la Loterie Pokémon\nau rez-de-chaussée de la Tour Radio?\rSi tu veux gagner, échange un maximum\nde Pokémon avec le plus de personnes\fpossible pour avoir un max de numéros\fID différents!</language>
 	</row>
 	<row id="msg_0641_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, last night...\rI was so stressed out from work, I ate\na ton of junk food!\rMary and I have this deal about losing\nweight... This won’t do...\rHuh? What’s her weight?\nThis has to be a total secret!\rMary weighs...\rAiyee! M-Mary!\rUh... Um... I... Sorry, wrong number!</language>
+		<language name="English">La nuit dernière...\rJ’étais tellement stressée par le\nboulot que je me suis empiffrée!\rLula et moi, on a décidé de faire un\nrégime...\rMais bon... C’est pas comme ça que je\nvais réussir à être plus mince qu’elle.\rHein? Combien je pèse?\nÇa se demande pas, ça!\rLula par contre, elle pèse...\rZut! La voilà!\nHeu... Faux numéro!</language>
 	</row>
 	<row id="msg_0641_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yesterday, Professor Oak was in the\nstudio to tape his show.\rSo I went over and introduced myself.\nGet this--he tunes in to my show!\rI hope he’s in again tomorrow!</language>
+		<language name="English">Hier, le Professeur Chen était dans le\nstudio pour enregistrer son show.\rJ’ai voulu le rencontrer.\nTu sais quoi? Il écoute mon émission!\rJe suis toute contente!\nC’est un grand honneur pour moi.\rA plus tard!</language>
 	</row>
 	<row id="msg_0641_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Cough, cough!\nUhm sorry uh got uh code dite now.\rBuh uma pro so uh hav to cover id ub\nso no un notice while uhm on air.\rUh fidz muh voice now.\rI’ll catch you on the fly. This has\nbeen Buena!</language>
+		<language name="English">... (tousse)...\rDe suis un beu enrubée.\rJe dois gand mêbe trabailler.\rL’ébizion ba cobencer.\rÇa va ma boix?\rA blus dard!\nZ’édait Buena!</language>
 	</row>
 	<row id="msg_0641_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, there.\nYou won that Radio Card by beating the\fquiz at the reception desk, didn’t you?\rGuess what? I made up the questions!\n...Were they too easy for you?\rWell, let’s chat again!</language>
+		<language name="English">Ouais! Tu as gagné le Coupon Radio en\nrépondant aux questions à la réception?\rTu sais quoi? J’ai écrit les questions!\rElles étaient trop faciles?\rBon. A plus tard!</language>
 	</row>
 	<row id="msg_0641_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m elated that more people are taking\npart in my password show.\rBut when PIKACHU was the password,\nit was uh...whew...overwhelming.\rFan Club people came out in droves,\nshouting “PIKACHU!” over and over.\rI mean, they were loud.\rAnyone tuning in around then must\nhave been shocked by the racket!\rAnyway, back to work for me!\nLet’s chat again!</language>
+		<language name="English">Je suis ravie que les gens participent\nà l’émission du Mot de Passe.\rQuand PIKACHU était le Mot de Passe...\nIl y avait trop de monde en ligne.\rLes gens du Fan Club Pokémon sont\nvenus à tour de rôle pour brailler\f“PIKACHU!” comme des veaux.\rLes auditeurs ont dû se poser\ndes questions!\rBon! Je retourne travailler!\nA plus tard!</language>
 	</row>
 	<row id="msg_0641_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guess what? The Radio Tower’s Director\nis a big fan of TV!\rA while ago, a fashion show on TV said\nthat brown suits were in.\rNow all he wears are brown suits.\rBut it’s a secret that our Director is a\nTV fan, so if you see him, don’t you\fdare mention it!\rOh! The Director will be here soon!\nLater! Tune into my show!</language>
+		<language name="English">Tu sais quoi?\nLe directeur de la Tour Radio est un\ffan de télé!\rIl a vu un présentateur dire que les\ncostumes marron étaient trop\fà la mode.\rDepuis, il ne porte que du marron!\rMais tout ça est un secret!\nNe va pas lui répéter!\rOh! Le directeur arrive!\rA plus tard!\nEcoute mon show!</language>
 	</row>
 	<row id="msg_0641_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now, tell me.\rWhen do you relax the most? For me, it\nhas to be in the studio right after my\fshow, enjoying a nice cup of tea.\rIt’s so pleasant that it gradually\nmakes me drowsy...\r...... ...... ......\r...... ...... ......Zzz\rOops, I drifted off just thinking about\nit! How, uh...embarrassing!\rPlease forget this happened! Later!</language>
+		<language name="English">Hé!\nTu te reposes de temps en temps?\rMoi, j’adore prendre une tasse de thé\ndans le studio après mon émission.\fÇa me relaxe complètement...\r... ... ...\n... ... ... Zzz\rOh! J’ai commencé à m’endormir!\rNe le répète à personne!</language>
 	</row>
 	<row id="msg_0641_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tell me, what was the first\nPokémon you ever caught?\r...Oh, really?\rI’ve seen lots of Pokémon around, but\nI’ve never caught one.\rI should give it a try sometime.\rDid you know that the first Pokémon\nMary caught was a DROWZEE?\fIsn’t that so out of character?\rBut Mary’s DROWZEE kept making her fall\nasleep on the job, so she traded with a\ffan for a MEOWTH.\rLet’s chat about Pokémon again!\nBye-bye!</language>
+		<language name="English">Hé!\nQuel Pokémon as-tu attrapé en premier?\r... Ah bon?\rJ’ai vu beaucoup de Pokémon, mais je\nn’en ai jamais attrapé.\fJe devrais essayer un jour.\rSavais-tu que le premier Pokémon que\nLula a attrapé était un SOPORIFIK?\rSurprenant, hein?\rComme son Pokémon l’endormait pendant\nles heures de bureau, elle l’a échangé\fcontre un MIAOUSS.\rOn reparlera de tout ça!\rTchao!</language>
 	</row>
 	<row id="msg_0641_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know...? Ben talked with the\nradio staff on the phone for hours\fabout what Pokémon music they should\fplay on different days of the week.\rToward the end, Ben’s musical\ntastes were kind of impressed\fupon them.\rThey ended up enduring Ben’s\noverenthusiasm for a while.\rThey said they even kind of\nenjoyed it!\fLet’s chat again!</language>
+		<language name="English">Ecoute ça...\rBen a eu un meeting avec le staff de la\nradio sur le choix de la programmation\fde Musique Pokémon.\fÇa a duré des heures et des heures!\rA la fin, tout le monde en a eu marre et\non a fini par dire: “Pour une journée en\fpleine forme, ce sera celle-là!”\fQuel éclat de rire ç’a été!\rA plus tard!</language>
 	</row>
 	<row id="msg_0641_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m going shopping with Mary soon.\nIt’ll be great if the Goldenrod\fDept. Store has a sale when we go...\rSay, maybe we can go together, too!\nCatch you later!</language>
+		<language name="English">Je vais faire des courses avec Lula.\rJ’espère que le Centre Commercial de\nDoublonville fait des soldes.\rOn se verra peut-être!\rA plus tard!</language>
 	</row>
 	<row id="msg_0641_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guess what? All of us from the Radio\nTower are going on a company vacation\fto the Radio Tower in Lavender.\rWe’re wasting our vacation on a trip to\nanother Radio Tower?\rI’d much rather go to the beach!\r{STRVAR_1 3, 0, 0}, I hope you have enough\nfun for both of us on your journey!\rBye-bye!</language>
+		<language name="English">Tu sais quoi?\nTous ceux de la Tour Radio partent\fen vacances à la Tour Radio de\fLavanville.\rPourquoi gaspiller nos vacances pour\nvisiter une autre Tour Radio?\fJe préfère la plage!\r{STRVAR_1 3, 0, 0}, amuse-toi bien!\nC’est important!\rTchao!</language>
 	</row>
 	<row id="msg_0641_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guess what? All of us from the Radio\nTower are going on a company vacation\fto the Radio Tower in Lavender.\rWe’re wasting our vacation on a trip to\nanother Radio Tower?\rI’d much rather go to the beach!\r{STRVAR_1 3, 0, 0}, I hope you have enough\nfun for both of us on your journey!\rBye-bye!</language>
+		<language name="English">Tu sais quoi?\nTous ceux de la Tour Radio partent\fen vacances à la Tour Radio de\fLavanville.\rPourquoi gaspiller nos vacances pour\nvisiter une autre Tour Radio?\fJe préfère la plage!\r{STRVAR_1 3, 0, 0}, amuse-toi bien!\nC’est important!\rTchao!</language>
 	</row>
 	<row id="msg_0641_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, aren’t you visiting all kinds of\nplaces, helping out Professor Elm?\rThat’s so cool. Seriously, I’m jealous.\rIf I ever got a vacation, I know I’d\njust go traveling all over the place as\fI pleased.\rOh no! Gotta get back to work!\nTalk to you later!</language>
+		<language name="English">Hé! Tu donnes un coup de main au\nProfesseur Orme, non?\rTu dois beaucoup voyager!\nJe suis trop jalouse!\rAh, si je pouvais moi aussi partir, pour\nune croisière tranquille par exemple...\rMais je ne peux pas, c’est l’heure de\nretourner au travail!\rA la prochaine!</language>
 	</row>
 </body>

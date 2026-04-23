@@ -2,30 +2,30 @@
 <body language="English">
 	<row id="msg_0787_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">None</language>
+		<language name="English">Aucun</language>
 	</row>
 	<row id="msg_0787_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aland Islands</language>
+		<language name="English">Iles Åland</language>
 	</row>
 	<row id="msg_0787_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lapland</language>
+		<language name="English">Laponie</language>
 	</row>
 	<row id="msg_0787_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">East Finland</language>
+		<language name="English">Finlande orientale</language>
 	</row>
 	<row id="msg_0787_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">South Finland</language>
+		<language name="English">Finlande méridionale</language>
 	</row>
 	<row id="msg_0787_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oulun</language>
+		<language name="English">Oulu</language>
 	</row>
 	<row id="msg_0787_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">West Finland</language>
+		<language name="English">Finlande occidentale</language>
 	</row>
 </body>

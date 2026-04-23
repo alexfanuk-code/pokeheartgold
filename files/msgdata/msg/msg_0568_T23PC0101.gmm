@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0568_T23PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do any of your Pokémon know...\nwhat they call the hidden moves?\rWhen a Pokémon faints, it just means\nit doesn’t have the power to battle.\rBut it can still use hidden moves\noutside of battle!</language>
+		<language name="English">Est-ce que l’un de tes Pokémon connaît\nune des capacités qu’on dit secrètes?\rMême s’il est mis K.O. et qu’il est\nincapable de se battre, il pourra\ftoujours utiliser sa capacité.</language>
 	</row>
 	<row id="msg_0568_T23PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bill’s PC can store up to 30\nPokémon per Box.</language>
+		<language name="English">Le PC de Léo peut garder jusqu’à\n30 Pokémon par Boîte!</language>
 	</row>
 	<row id="msg_0568_T23PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know what an Apricorn is?\rYou crack it open to discard the core\nand put it in this special machine...\fThen you can catch Pokémon!\rBefore Poké Balls became available,\neverybody used Apricorns to\fcatch Pokémon.\n</language>
+		<language name="English">Tu connais les Noigrumes?\rCe sont des graines, et quand on les\nouvre, qu’on les vide et qu’on les\fremplit de trucs compliqués, eh bien...\rÇa permet d’attraper des Pokémon!\rTout le monde les utilisait avant\nl’invention des Poké Balls!</language>
 	</row>
 </body>

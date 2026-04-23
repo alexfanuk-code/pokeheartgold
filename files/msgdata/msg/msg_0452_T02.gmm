@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0452_T02_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, kid! I just had a double shot\nof espresso, and I am wired!\rI need to talk to someone, so you’ll\nhave to do!\rI might not look like much now, but\nI was an expert at catching Pokémon.\rDo you believe me? {YESNO 0}</language>
+		<language name="English">Uééééé! Hips... Reste là!\nReste là et écoute moi!\rOn dirait pas, mais dans ma jeunesse,\nj’étais un super Dresseur de Pokémon!\rTu me crois, hein? {YESNO 0}</language>
 	</row>
 	<row id="msg_0452_T02_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good, good. Yes, I was something out\nof the ordinary, let me tell you!</language>
+		<language name="English">Ouais, hein! Ouais!\nTant mieux!</language>
 	</row>
 	<row id="msg_0452_T02_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What? You little whelp!\rIf I were just a bit younger, I’d\nshow you a thing or two. Humph!</language>
+		<language name="English">Quoi? Espèce de sale...\rSi j’étais plus jeune, hein!\nJ’t’apprendrais! Tu verrais!</language>
 	</row>
 	<row id="msg_0452_T02_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Gym didn’t have a Leader...\rA young man from Pallet Town became the\nLeader, but he’s often away.</language>
+		<language name="English">Il n’y avait plus de Champion dans cette\nArène depuis un moment...\rEt puis un jeune homme est venu de\nPalette pour reprendre le flambeau.\r... Ah bon?\nIl est absent pour le moment?</language>
 	</row>
 	<row id="msg_0452_T02_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How was it?\nWere you able to battle the Leader?</language>
+		<language name="English">Eh bien?\nTu as combattu le Champion?</language>
 	</row>
 	<row id="msg_0452_T02_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yawn!\nI must have dozed off in the sun.\r...I had this dream about a DROWZEE\neating my dream.\rWeird, huh?\fHuh?\fWhat’s this?\rWhere did this TM come from?\nThis is spooky!\fHere, you can have this TM.\r</language>
+		<language name="English">Waaah...\nJ’ai dormi sous le soleil.\r... J’ai fait un rêve bizarre. Y’avait un\nSOPORIFIK qui mangeait mes rêves.\r... Tiens? C’est quoi?\nD’où vient cette CT?\rHmmm...\nC’est ta faute!\fTiens, prends-la!\r</language>
 	</row>
 	<row id="msg_0452_T02_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TM85 contains Dream Eater...\n...Zzzzz...</language>
+		<language name="English">La CT85... Elle contient...\nDévorêve...\f... Zzzzz...</language>
 	</row>
 	<row id="msg_0452_T02_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that there are many items on\nthe ground in Viridian Forest.</language>
+		<language name="English">On dit qu’il y a plein d’objets invisibles\nqui jonchent le sol de la Forêt de Jade!</language>
 	</row>
 	<row id="msg_0452_T02_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian City\nThe City of Evergreen</language>
+		<language name="English">Jadielle\nLa ville éternellement verte</language>
 	</row>
 	<row id="msg_0452_T02_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian City Pokémon Gym\nLeader: ...\fThe rest of the text is illegible...</language>
+		<language name="English">Arène de Jadielle\nChampion: ...\fLe reste est illisible...</language>
 	</row>
 	<row id="msg_0452_T02_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to Viridian City,\nthe Gateway to Indigo Plateau!</language>
+		<language name="English">Bienvenue à Jadielle,\nPorte du Plateau Indigo!</language>
 	</row>
 	<row id="msg_0452_T02_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer House\nThe Club for Top Trainer Battles</language>
+		<language name="English">Club des Dresseurs\nRéservé aux meilleurs</language>
 	</row>
 </body>

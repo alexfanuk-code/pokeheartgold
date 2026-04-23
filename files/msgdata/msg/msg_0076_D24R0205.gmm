@@ -2,46 +2,46 @@
 <body language="English">
 	<row id="msg_0076_D24R0205_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you just come down from above...?\rSo! You must have solved the\nstone-panel puzzle!\rThat is wonderful!\rYou seem to have some talent with\narchaeology.\fI will give you this UNOWN Report.\rIt records UNOWN as you capture them.\nI am sure it’ll come in handy!\r</language>
+		<language name="English">Tu viens de tomber du plafond...\nÇa veut dire que...\rComment?! Tu as résolu le puzzle\nde pierre!!\rC’est formidable!\rTu as l’air d’avoir la bosse de\nl’archéologie, alors tiens,\fje te donne ce carnet!\rC’est un objet très pratique, qui\nenregistre automatiquement les ZARBI\fau fur et à mesure que tu les attrapes!\r</language>
 	</row>
 	<row id="msg_0076_D24R0205_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a strange presence here...</language>
+		<language name="English">Il y a une étrange présence ici...</language>
 	</row>
 	<row id="msg_0076_D24R0205_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a big room, but there’s\nnothing here.</language>
+		<language name="English">C’est une grande salle,\nmais elle est vide.</language>
 	</row>
 	<row id="msg_0076_D24R0205_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This place has a mystical quality to it.\r...Or a historic quality...\f...Or an eerie quality...\f...Or an ancient quality...\f...Or a solemn quality...\f...Or a frosty quality...\fIn essence, it feels sort of ethereal.</language>
+		<language name="English">On sent quelque chose de...\nComment dire...\fMystique?\fAncien?\fEnigmatique?\fMalfaisant?\fImposant?\fMoisi?\fEnfin...\rUn truc divin, quoi.</language>
 	</row>
 	<row id="msg_0076_D24R0205_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ruins have not been robbed, nor\ntampered with. No graffiti, either.\rThings are well preserved.\nSomething here must make people\ffeel they should preserve it.</language>
+		<language name="English">Ces ruines n’ont pas été mises à sac\npar des pillards, ni couvertes de\fgraffiti idiots.\rElles sont parvenues jusqu’à nous\npratiquement intactes.\rIl y a vraiment quelque chose de spécial\ndans cet endroit...</language>
 	</row>
 	<row id="msg_0076_D24R0205_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a replica of an ancient Pokémon.</language>
+		<language name="English">C’est la réplique d’un ancien Pokémon.</language>
 	</row>
 	<row id="msg_0076_D24R0205_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm.\rI have been studying the ruins for many\nyears, but something feels...\fdifferent.\r</language>
+		<language name="English">Hmmm...!\rJ’étudie ces ruines depuis de\nnombreuses années, mais aujourd’hui,\fje sens quelque chose de... bizarre...\r</language>
 	</row>
 	<row id="msg_0076_D24R0205_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\rThe UNOWN pictures on the wall...\rIt feels like they’re staring at me!\r</language>
+		<language name="English">Mwooooh!!!\rLes... Les ZARBI peints sur les murs...\rLeurs... Leurs yeux...! Ils me fixent!\r</language>
 	</row>
 	<row id="msg_0076_D24R0205_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What is this?\nThere is something eerie that is making\fmy legs shiver.\fI can’t stop them!\r</language>
+		<language name="English">Qu-qu-qu’est-ce qui se passe?!\nJe sens comme une présence mauvaise,\fet... mes jambes...\felles...\fElles ne m’obéissent plus!!\r</language>
 	</row>
 	<row id="msg_0076_D24R0205_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, are you all right?\nYou disappeared right in front of me.\fI was so surprised!\r</language>
+		<language name="English">Muhahaha! Tu n’as rien?!\nTu as disparu tout d’un coup,\fça m’a fait un sacré choc!\r</language>
 	</row>
 	<row id="msg_0076_D24R0205_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see.\rThe power of ARCEUS and UNOWN affected\neach other to create a huge energy,\fwhich sent you to the Sinjoh Ruins...?\rUNOWN, the Ruins of Alph, and ARCEUS...\fThe mystery deepens...\rIt has made me even more inquisitive!\rI will one day solve all the mysteries!\r</language>
+		<language name="English">Je comprends, je comprends...\rLa puissance d’ARCEUS et des ZARBI\ns’est combinée pour créer une énorme\fénergie qui a ouvert un passage vers\fles Ruines Sinjoh...?\rLes ZARBI, les Ruines d’Alpha,\nARCEUS...\fLe mystère ne fait que s’épaissir!\rJe bous de curiosité!\nJe percerai leur secret, je le jure!\r</language>
 	</row>
 </body>

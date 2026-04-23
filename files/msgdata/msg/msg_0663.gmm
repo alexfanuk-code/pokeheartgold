@@ -2,638 +2,638 @@
 <body language="English">
 	<row id="msg_0663_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra</language>
+		<language name="English">Célesta</language>
 	</row>
 	<row id="msg_0663_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: I completely forgot!\nWe should trade phone numbers!</language>
+		<language name="English">Célesta: Mince, j’avais complètement\noublié! Tiens, on échange nos numéros\fde téléphone!</language>
 	</row>
 	<row id="msg_0663_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Call me anytime! We can trade\nPokémon information!</language>
+		<language name="English">Célesta: Téléphone quand tu veux!\nComme ça, on pourra s’échanger des\finfos sur les Pokémon!</language>
 	</row>
 	<row id="msg_0663_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What’s up, {STRVAR_1 3, 0, 0}?\rEven though you’re nearby, the phone\nmakes you seem far away. Maybe if you\fshout, then you’ll seem closer!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, ça va?\rC’est bizarre quand même, au\ntéléphone, on a tendance à parler\fplus fort comme si la personne était\floin. Mais on n’est pas sourd pourtant!</language>
 	</row>
 	<row id="msg_0663_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, {STRVAR_1 3, 0, 0}?\nGood morning!\r</language>
+		<language name="English">Oh, {STRVAR_1 3, 0, 0}?\nBonjour!\r</language>
 	</row>
 	<row id="msg_0663_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, {STRVAR_1 3, 0, 0}!\nHow are you?\r</language>
+		<language name="English">Oh! {STRVAR_1 3, 0, 0}!\nTu vas bien?\r</language>
 	</row>
 	<row id="msg_0663_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}?\nGood evening!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}?\nBonsoir!\r</language>
 	</row>
 	<row id="msg_0663_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is Lyra...\nGood morning!\r</language>
+		<language name="English">Allô? C’est Célesta!\nBonjour!\r</language>
 	</row>
 	<row id="msg_0663_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is Lyra...\nHow are you?\r</language>
+		<language name="English">Allô? C’est Célesta!\nTu vas bien?\r</language>
 	</row>
 	<row id="msg_0663_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello? This is Lyra...\nGood evening!\r</language>
+		<language name="English">Allô? C’est Célesta!\nBonsoir!\r</language>
 	</row>
 	<row id="msg_0663_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, my dad thinks you’ll become\nan incredible Trainer someday,\f{STRVAR_1 3, 0, 0}!\fWhat am I saying?\rI’m starting to sound like the\nprofessor!\rWell, do your best! I’ll call you again\nsometime!</language>
+		<language name="English">Mon père... Il dit que tu vas devenir\nun super Dresseur!\rIl se donne des airs de chercheur,\ncomme s’il s’y connaissait!\rFais attention à toi!\nA bientôt!</language>
 	</row>
 	<row id="msg_0663_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I once caught a whiff of MARILL’s\nscent. It smelled like a dust mop!\fI was so surprised!\rThat’s why I’ve decided to give it baths\nmore often!\rWell, talk to you later!\nBye-bye!</language>
+		<language name="English">MARILL a la même odeur qu’une vieille\nserpillière!\fQuel choc!\rJe vais bien le laver pour qu’il sente\nbon!\rBye-bye!</language>
 	</row>
 	<row id="msg_0663_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I was walking along with MARILL by my\nside when I turned to look at it and saw\fit evolving into an AZUMARILL!\rI was so surprised! I didn’t think\nsomething like that would happen!\rWell, talk to you later, {STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Je me promenais avec MARILL l’autre\njour, et je me suis dit: “Et s’il\fsuffisait que je me retourne pour qu’il\fcommence à évoluer?!”\rMais évidemment, ce n’est pas comme ça\nque ça marche!\rBon ben...\nFais attention {STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0663_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I took a BULBASAUR for a walk on\nRoute 1 the other day!\rIt really seemed like it was enjoying it!</language>
+		<language name="English">Essaye d’amener un BULBIZARRE sur\nla Route 1!\rJe suis sûre qu’il sera content!</language>
 	</row>
 	<row id="msg_0663_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I wonder what it’d be like\ntaking a CHARMANDER for a stroll along\fRoute 2...\rI heard that CHARMANDER really like\nthat area.</language>
+		<language name="English">Tu ne voudrais pas essayer d’amener un\nSALAMECHE sur la Route 2?\rJ’ai entendu que les SALAMECHE aimaient\nbien cet endroit...</language>
 	</row>
 	<row id="msg_0663_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I’ve heard that people who\ntake a SQUIRTLE for a walk on Route 3\ftend to fall down!</language>
+		<language name="English">Il paraît que si tu amènes un CARAPUCE\nsur la Route 3, il trébuche!</language>
 	</row>
 	<row id="msg_0663_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speaking of... Mt. Moon is on Route 4,\nisn’t it?\rIf I recall correctly, CLEFAIRY really\nlike Mt. Moon!</language>
+		<language name="English">Au fait, tu connais le Mont Sélénite,\nsur la Route 4?\rC’est certain que les MELOFEE\nl’adorent!</language>
 	</row>
 	<row id="msg_0663_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there’s a Fighting Dojo in\nSaffron City? The Pokémon I had with me\fwere all so surprised!</language>
+		<language name="English">Tu sais, le Dojo de Safrania...\nTous les Pokémon qui y sont allés ont\fété vachement surpris!</language>
 	</row>
 	<row id="msg_0663_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I went to the port in\nVermilion City.\fAll of my Pokémon had so much fun riding\fthe S.S. Aqua!</language>
+		<language name="English">J’étais super contente quand je suis\nallée à Carmin!\fMes Pokémon ont pu embarquer sur\fl’Aquaria!</language>
 	</row>
 	<row id="msg_0663_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I took a PORYGON for a walk in\nCeladon City...and I heard this weird,\f“Jijiji...” sound.\fIt was like it was trying to speak!</language>
+		<language name="English">Il paraît que si tu promènes un\nPORYGON dans Céladopole, il fait un\fdrôle de bruit, genre bip bip bip!</language>
 	</row>
 	<row id="msg_0663_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know how there’s a guy named\nMr. Psychic in Saffron City?\rI wonder what would happen if you took\nPsychic-type Pokémon there?</language>
+		<language name="English">Tu connais M. Psy,\nqui habite à Safrania?\rJe me demande ce qui se passerait s’il\nrencontrait des Pokémon Psy...</language>
 	</row>
 	<row id="msg_0663_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, have you been to the Rock Tunnel\nyet?\rIf you take an ONIX with you there,\nit becomes so happy!</language>
+		<language name="English">Hé, tu es déjà allé à la grotte?\rSi tu y amènes un ONIX, je suis sûre\nqu’il sera content!</language>
 	</row>
 	<row id="msg_0663_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you know, if you ever get the\nchance to go to the Power Plant, you\fshould take a PIKACHU with you.\rIt’s really fun!</language>
+		<language name="English">Essaye d’emmener un PIKACHU si tu\npasses par la Centrale!\rIl devrait se passer un truc marrant.</language>
 	</row>
 	<row id="msg_0663_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you know that DIGLETT’s Cave near\nRoute 11?\rSpeaking about the Pokémon that you\nshould take with you there...\fWell, I probably don’t need to tell you!</language>
+		<language name="English">Tu connais la Cave TAUPIQUEUR, sur\nla Route 11?\rS’il ne fallait emmener qu’un seul\nPokémon là-bas...\fTu sais auquel je pense, je suis sûre!</language>
 	</row>
 	<row id="msg_0663_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you right now?\nRoute 12?\rI see... Oh!\nYou should visit the Pokémon House in\fLavender Town!</language>
+		<language name="English">Tu es où là?\nPrès de la Route 12?\rAh!\nTu devrais essayer de passer au\fBénévolat de Lavanville alors!\fJe suis sûre que ça te plairait!</language>
 	</row>
 	<row id="msg_0663_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now?\nRoute 13?\rIsn’t that where the road becomes a\nbit of a maze?\rThat might be why the Pokémon in that\narea always seem a bit perplexed.</language>
+		<language name="English">Tu es où là?\nPrès de la Route 13?\rLe chemin ressemble à un labyrinthe...\rC’est peut-être aussi pour ça que les\nPokémon ont l’air perdu...</language>
 	</row>
 	<row id="msg_0663_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you’re around Route 14 right now,\naren’t you?\rThere’s a huge windmill over in that\narea, so it’s very beautiful, isn’t it?</language>
+		<language name="English">Tu es où là?\nPrès de la Route 14?\rLe paysage est beau, hein?\nAvec toutes ces éoliennes!</language>
 	</row>
 	<row id="msg_0663_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now? Route 15?\rHow about stopping by the Warden of\nthe Pal Park’s house in Fuchsia?\rThere’re so many AIPOM there.\nIt’s fun!</language>
+		<language name="English">Tu es où là?\nPrès de la Route 15?\rDans ce cas, essaye de passer à\nla maison du directeur du Parc des\fAmis.\rIl paraît qu’il a plein de CAPUMAIN!</language>
 	</row>
 	<row id="msg_0663_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re at Route 16 right now?\nSo, you’re pretty close to Cycling Road\fthen, aren’t you?\rIt’s so much fun running with your\nPokémon...but of course that’d be\fa little dangerous there!</language>
+		<language name="English">Tu es sur la Route 16, là?\nTu es juste à côté de la Piste Cyclable\falors!\rÇa serait vraiment génial de rouler avec\nson Pokémon...\fMais tellement dangereux!</language>
 	</row>
 	<row id="msg_0663_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re at Route 17 right now?\nSo that means...\fyou’re on the Cycling Road!\rIt’s so much fun running with your\nPokémon...but of course that’d be\fa little dangerous there!</language>
+		<language name="English">Tu es sur la Route 17, là?\nTu es juste sur la Piste Cyclable\falors!\rÇa serait vraiment génial de pouvoir\nrouler avec son Pokémon...\fMais tellement dangereux!</language>
 	</row>
 	<row id="msg_0663_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re at Route 18 right now?\nSo, you’re pretty close to Cycling Road\fthen, aren’t you?\rIt’s so much fun running with your\nPokémon...but of course that’d be\fa little dangerous there!</language>
+		<language name="English">Tu es sur la Route 18, là?\nTu es juste à côté de la Piste Cyclable\falors!\rÇa serait vraiment génial de pouvoir\nrouler avec son Pokémon...\fMais tellement dangereux!</language>
 	</row>
 	<row id="msg_0663_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, whenever I get over by\nRoute 19, I always want to go play in\fthe water with my Pokémon, don’t you?\fI think it’d be so much fun...</language>
+		<language name="English">Si je pouvais aller au Chenal 19,\nj’aimerais en profiter pour barboter\favec mes Pokémon!\fC’est si relaxant!</language>
 	</row>
 	<row id="msg_0663_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come to think of it... When you’re near\nwater with Fire-type Pokémon, they\fseem to really not enjoy it...\fI understand how they feel!</language>
+		<language name="English">Au fait, les Pokémon Feu n’ont pas l’air\nà leur aise au bord de l’eau.\fJe peux les comprendre!</language>
 	</row>
 	<row id="msg_0663_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sitting on Route 21 with your Pokémon,\nwatching the sunset over the beach...\fWhat do you think about that?\fIt seems weird to me, ’cause that’s\fmore of a romantic couple thing to do!</language>
+		<language name="English">Quand on regarde le coucher de soleil\navec ses Pokémon sur le Chenal 21...\fC’est... comment dire...\fTellement romantique!</language>
 	</row>
 	<row id="msg_0663_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 22 is the road to the\nPokémon League, so I bet it makes your\fPokémon feel pretty nervous, huh?</language>
+		<language name="English">La Route 22 mène à la Ligue Pokémon.\nLes Pokémon doivent stresser quand\fils la parcourent...</language>
 	</row>
 	<row id="msg_0663_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, the bridge on Route 24 is\ncalled the “Nugget Bridge.”\rIt’s not an official name, but it seems\nlike a lot of people call it that.\rThe sun’s light reflects off the water\nthere, so it’s kind of dazzling...</language>
+		<language name="English">L’énorme pont de la Route 24 s’appelle\nle Pont Doré.\rC’est pas un nom officiel, mais il y a\nquand même beaucoup de gens qui\fl’appellent comme ça.\rLe soleil se reflète à la surface\nde l’eau, c’est un peu éblouissant...</language>
 	</row>
 	<row id="msg_0663_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I think most Pokémon have\nnever seen their own face.\rSo if you take them to a puddle on\nRoute 25 and let them see their\freflection, I wonder what\fthey’ll think...</language>
+		<language name="English">Les Pokémon ne savent pas à quoi ils\nressemblent, je pense.\rJe me demande bien ce qu’ils pensent\nquand ils voient leur image dans les\fflaques sur la Route 25...</language>
 	</row>
 	<row id="msg_0663_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 26 is so full of natural\nbeauty, I bet it’s a really wonderful\fplace for Pokémon.\rBut it’s also a road leading to the\nPokémon League, so it probably makes\fthem anxious, too.</language>
+		<language name="English">La Route 26 est encore presque à\nl’état sauvage, les Pokémon doivent\fadorer...\rMais comme elle mène à la Ligue,\nils ne doivent pas être très rassurés\fen fait.</language>
 	</row>
 	<row id="msg_0663_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I’ve heard that sometimes\nPokémon will find things along Route 27.\rIt’s probably a good idea to take along\nthe Pokémon you have the closest\ffriendship with.</language>
+		<language name="English">Il paraît que les Pokémon peuvent\nramasser des choses sur la Route 27.\rEt si tu y emmenais un Pokémon dont tu\nes proche?</language>
 	</row>
 	<row id="msg_0663_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 28, that’s the one going to\nMt. Silver, isn’t it?\rI’m sure that must make your Pokémon\nworry a little bit, too.</language>
+		<language name="English">La Route 28 mène au Mont Argenté,\nn’est-ce pas?\rLes Pokémon doivent être inquiets de\ns’en approcher...</language>
 	</row>
 	<row id="msg_0663_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, that’s right. How is it to take\nCHIKORITA with you to Route 29?\rI bet it will look like it’s having\ngreat fun!</language>
+		<language name="English">Essaye d’amener un GERMIGNON sur\nla Route 29!\rJe suis sûre qu’il sera content!</language>
 	</row>
 	<row id="msg_0663_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, that’s right. How is it to take\nTOTODILE with you to Route 30?\rI bet it will look like it’s having\ngreat fun!</language>
+		<language name="English">Tu ne voudrais pas essayer d’amener un\nKAIMINUS sur la Route 30?\rJ’ai entendu dire que les KAIMINUS\naimaient bien cet endroit...</language>
 	</row>
 	<row id="msg_0663_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I bet it would be really\ninteresting to take CYNDAQUIL with you\fto Route 31!\rI heard that CYNDAQUIL really like\nthat area!</language>
+		<language name="English">Tu ne voudrais pas essayer d’amener un\nHERICENDRE sur la Route 31?\rJ’ai entendu dire que les HERICENDRE\naimaient beaucoup cet endroit...</language>
 	</row>
 	<row id="msg_0663_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you can find UNOWN in the\nRuins of Alph, right? I wonder what\fwould happen if you already had one and\ftook it for a walk through the ruins?</language>
+		<language name="English">Hé, on doit trouver des ZARBI aux\nRuines d’Alpha, hein?\fSi tu en as déjà, essaye de les\fy amener pour voir!</language>
 	</row>
 	<row id="msg_0663_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, it’s always raining on\nRoute 33. It never stops!\rI get kind of down on rainy days, but I\nknow there’s Pokémon out there that\flove the rain!\r...Like TOTODILE!</language>
+		<language name="English">Il pleut tout le temps sur la Route 33!\rMoi la pluie, ça me déprime, mais il y a\ndes Pokémon qui aiment...\rKAIMINUS par exemple...</language>
 	</row>
 	<row id="msg_0663_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, FARFETCH’D are known to have\na strange fascination with Ilex Forest.\fWhen they’re there, it’s like they\fdon’t even hear you.\rI think I might take a FARFETCH’D there\nto see for myself sometime.</language>
+		<language name="English">Il paraît que le Bois aux Chênes met\nles CANARTICHO en transe!\rIl va falloir que j’essaye d’y amener\nle mien...</language>
 	</row>
 	<row id="msg_0663_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, did you know?\nWhen Pokémon go to the Pokéathlon,\fthey get really excited and fired up!\rI think I’ll take my Pokémon over there\nsoon, too!</language>
+		<language name="English">T’es au courant?\nSi tu vas au Pokéathlon, ça met\fles Pokémon en forme!\rIl va falloir que j’aille y faire un tour\nmoi aussi!</language>
 	</row>
 	<row id="msg_0663_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know that something really\ninteresting happens if you take a\fSUDOWOODO to Route 36?\rWhat kind of interesting?\nWell, you’ll just have to try it\fand see!</language>
+		<language name="English">Il se passe un truc très intéressant si\ntu emmènes un SIMULARBRE\fsur la Route 36.\rQuel truc?\nEssaye par toi-même, tu verras!</language>
 	</row>
 	<row id="msg_0663_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, did you meet the twins over on\nRoute 37?\rThey’re so cute, and their Pokémon are\nvery popular.</language>
+		<language name="English">Tu as rencontré les Jumelles\nsur la Route 37?\rElles sont si mignonnes! Même les\nPokémon les adorent!</language>
 	</row>
 	<row id="msg_0663_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I took a TAUROS over to Moomoo Farm\nrecently. There was such an uproar, I\fdidn’t know what to do!</language>
+		<language name="English">L’autre jour, j’ai amené un TAUROS\nau Ranch Meumeu...\fQuelle panique ç’a été!</language>
 	</row>
 	<row id="msg_0663_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, you should take a MILTANK\nwith you over to Route 39.\rIt will find so many friends over there,\nit’ll be great fun!</language>
+		<language name="English">Essaye d’amener un ECREMEUH sur\nla Route 39...\rIl pourra croiser plein de camarades,\nje suis sûre que ça lui plaira!</language>
 	</row>
 	<row id="msg_0663_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You should take a POLIWAG over to\nRoute 40 sometime and see what\fhappens!\rYou’ll see something interesting.\nThat’s for sure!</language>
+		<language name="English">Tu ne voudrais pas amener un PTITARD\nsur le Chenal 40 au moins une fois?\rIl paraît qu’il fera un truc rigolo!</language>
 	</row>
 	<row id="msg_0663_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Water-type Pokémon really\nlove the sea...\rWatching your Pokémon having fun and\nbeing really happy is enough to make\fyou happy, too!</language>
+		<language name="English">Les Pokémon Eau ont l’air de vraiment\naimer la mer.\rMoi aussi, ça me rend heureuse de les\nvoir tout contents!</language>
 	</row>
 	<row id="msg_0663_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 42 is a mountain road.\nIf you take a Rock-type Pokémon\fthrough there, I bet they’d enjoy it.</language>
+		<language name="English">Ça va?\nLa Route 42 est plutôt montagneuse,\falors les Pokémon Roche y sont\fen pleine forme!</language>
 	</row>
 	<row id="msg_0663_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you’d like to see MAGIKARP\nget really excited, you should take it\fover to the Lake of Rage and see\fwhat happens!</language>
+		<language name="English">Si tu veux voir un MAGICARPE en\npleine forme, essaye d’en emmener un\fau Lac Colère!</language>
 	</row>
 	<row id="msg_0663_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right now you’re...on Route 44!\rWas I right? All right!\rIt’s pretty cold around there, right?\nI feel bad for the Pokémon that are\fsensitive to cold...\rBut I bet Ice-type Pokémon feel\nright at home!</language>
+		<language name="English">Tu es sur la... Route 44!\rC’est ça, j’ai bon?\rIl y fait froid, alors les Pokémon\nfrileux ne sont pas à la fête...\rPar contre, le type Glace se sent\nvraiment chez lui!</language>
 	</row>
 	<row id="msg_0663_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there’s that river that\nmeanders around near Route 45.\fIt’s a fun route to take.\rI went there recently, and my Pokémon\nwere really interested in the river.\fThey kept looking out at it.</language>
+		<language name="English">Le cours de la rivière sur la Route 45\nfait des tours et des détours...\fC’est vraiment sympa!\rQuand j’y suis allée, mes Pokémon\nétaient vraiment intrigués!</language>
 	</row>
 	<row id="msg_0663_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you know how there’s so much tall\ngrass on Route 46?\fWell, the Pokémon you have with you\falso become worried about when a wild\fPokémon will come leaping out!</language>
+		<language name="English">Il y a beaucoup de hautes herbes sur\nla Route 46.\fMes Pokémon et moi, on est toujours\finquiets... On ne sait jamais quand\fsurgira un Pokémon sauvage!</language>
 	</row>
 	<row id="msg_0663_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 47 has such a\nbeautiful, natural view!\r...That said, have you heard of DITTO?\rDITTO get really energetic around\nRoute 47. It’s kind of strange...</language>
+		<language name="English">Il est superbe, le paysage de\nla Route 47, hein?\rAu fait, tu connais les METAMORPH?\rIl paraît qu’ils aiment bien cette\nRoute...\fEtrange...</language>
 	</row>
 	<row id="msg_0663_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey...\nYou know how there’s that really tall\fcliff near Route 48?\rWhen you’re walking around there, the\nPokémon with you all get pretty\fscared, too...\rMe?\nI’m perfectly fine with heights!</language>
+		<language name="English">Il y a une grande falaise sur\nla Route 48, tu sais?\rC’est dommage, la vue est superbe,\nmais les Pokémon ont la trouille...\rMoi?\nMoi? Je n’ai pas du tout le vertige!</language>
 	</row>
 	<row id="msg_0663_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now?\nPallet Town... That means you’re over\fby Professor Oak’s place!\rThe professor really likes Pokémon.\rYou should take a Pokémon over to\nProfessor Oak’s Laboratory sometime!</language>
+		<language name="English">Tu es où?\nA Bourg Palette?\fC’est là où habite le Professeur Chen!\rTous les Pokémon l’adorent!\rEssaye d’amener les tiens au Labo\npour voir!</language>
 	</row>
 	<row id="msg_0663_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now? Viridian City? That’s\nwhere the Trainer House is, right?\rWhen Pokémon go over there, they get\nreally fired up, you know?</language>
+		<language name="English">Tu es où? A Jadielle?\nLà où il y a le Club des Dresseurs?\rLes Pokémon ont la forme dès qu’ils\ny entrent!</language>
 	</row>
 	<row id="msg_0663_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where are you now? Viridian City?\nOh, you’re in Pewter City!\rIn Pewter there’s a museum, right?\rYou can take Pokémon over to the\nmuseum with you for a fun school trip!</language>
+		<language name="English">Tu es où? Près de Jadielle?\nNon, à Argenta?\rIls ont bien un musée là-bas?\rC’est vraiment super d’aller le visiter\navec ses Pokémon!</language>
 	</row>
 	<row id="msg_0663_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where are you now?\nCerulean City, you say?\rSo...did you meet the Cerulean Gym\nLeader, Misty...?\rOh, it’s nothing! I’m just wondering!</language>
+		<language name="English">Et là, tu es à...\nAzuria?\rDis, tu as rencontré Ondine,\nle Champion?\rNon non, ne t’inquiète pas!\nJe demandais ça comme ça!</language>
 	</row>
 	<row id="msg_0663_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now?\nLavender Town?\fYou’ve gone pretty far, huh?\rIn that town, there’s a place called\nthe House of Memories where they have\fPokémon graves, you know.\rAs a Trainer, you should visit at least\nonce out of respect.</language>
+		<language name="English">Et là, tu es à...\nLavanville?\fOh, t’es allé très loin!\rIls ont la Maison des Souvenirs, c’est\nun cimetière Pokémon.\rTous les Dresseurs devraient y aller\nau moins une fois.</language>
 	</row>
 	<row id="msg_0663_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now? Vermilion City?\rThat’s where the Pokémon Fan Club is if\nI recall correctly!\rIf you’ve got a BAYLEEF, you should\ntake it over there to them and say hi!</language>
+		<language name="English">Tu es à... Carmin?\rMais c’est là que se trouve le\nFan Club Pokémon!\rVa donc passer le bonjour à leur\nMACRONIUM!</language>
 	</row>
 	<row id="msg_0663_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where are you now?\nCeladon City? I see...\rThat reminds me. I once took a TANGELA\nwith me to Celadon. It was so happy...\fand something happened!\rYou should try it, too, and see what\nhappens!</language>
+		<language name="English">Tu dis que tu es sur Céladopole, là?\rJ’ai emmené un SAQUEDENEU à l’Arène\nde la ville, il a adoré!\rTu ne veux pas essayer toi aussi?</language>
 	</row>
 	<row id="msg_0663_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So where are you now? Fuchsia City?\nYou just pop up in the strangest\fplaces, don’t you?\rThat reminds me. I heard that if you\ntake a TAUROS to Fuchsia, they get\freally agitated!\rI wonder why... I don’t really get it.\nBut I bet it would be interesting to try\fit and see what happened!</language>
+		<language name="English">Tu es où? Parmanie?!\nQuel globe-trotter!\rEn passant, tant que tu es là-bas, j’ai\nentendu dire que les TAUROS étaient\ftrès excités dans cette ville.\rJe ne sais pas trop pourquoi, mais tu\ndevrais tenter l’expérience toi aussi!\fÇa pourrait être amusant!</language>
 	</row>
 	<row id="msg_0663_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where’re you now? Cinnabar?\nYou’ve gone pretty far, haven’t you?\rStanding with your Pokémon, looking\nout to sea while standing in a town\fthat was buried in lava...\rThat seems almost like the final scene\nfrom a movie or something!</language>
+		<language name="English">Quoi? Tu es allé à Cramois’Ile?\rAdmirer la ville engloutie dans la lave\navec ses Pokémon...\rOn dirait une scène finale pour un film!\nJe veux y aller!</language>
 	</row>
 	<row id="msg_0663_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, when a friend of mine went to\nthe Indigo Plateau, the Pokémon with\fmy friend got so excited that they\fwere making loud snorting noises!</language>
+		<language name="English">Quand je suis allée au Plateau Indigo\navec une de mes amies...\rNos Pokémon étaient pleins d’énergie!\nIls avaient l’air vraiment fiers!</language>
 	</row>
 	<row id="msg_0663_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where are you now?\nOh, you’re in Saffron City?\rThat’s where the Copycat’s house\nis, right?\rYou should take a MIME JR. over there\nand see what happens.\rI bet it’s something interesting!</language>
+		<language name="English">Tu es à Safrania?\rTu connais la Copieuse?\fMontre-lui un MIME JR. pour voir!\rIl pourrait se passer un truc\nintéressant...</language>
 	</row>
 	<row id="msg_0663_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you now?\nWhat are you doing in New Bark Town?\rDid you go back home?\nYou should show off your Pokémon to\fyour mom. I bet she’d be happy!</language>
+		<language name="English">Ah, tu es revenu à Bourg Geon?\rTu passes par chez toi?\nPense à présenter tes Pokémon\fà ta Maman!</language>
 	</row>
 	<row id="msg_0663_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you? Cherrygrove City?\nDoesn’t Cherrygrove have that\fwonderful winding path?\rIt’s so much fun to run with your\nPokémon along the beach and listen to\fthe sound of the waves!</language>
+		<language name="English">Quoi? Ville Griotte? Tu es là-bas?\nMoi, ça me fait penser à la plage!\rC’est vraiment agréable de courir sur\nles dunes au son des vagues avec\fses Pokémon!</language>
 	</row>
 	<row id="msg_0663_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where are you? Violet City?\nIf you’re in Violet, that means...\fYou’re near Sprout Tower!\rYou should take a BELLSPROUT with you\nwhen you go there! I heard they dance!\rI wonder if it’s true...\nWill you try it, and find out for me?</language>
+		<language name="English">Quoi? Tu es à Mauville?\nMoi, ça me fait penser direct\fà la Tour CHETIFLOR!\rOn dit que les CHETIFLOR dansent quand\nils y vont!\rJ’sais pas si c’est vrai.\nTu devrais essayer...</language>
 	</row>
 	<row id="msg_0663_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, whereabouts are you now?\rYou’re in...Cianwood!\rNo? You’re in Azalea Town?\rAzalea’s Gym is really awesome,\nisn’t it?\fDid you try riding on the SPINARAK yet?\rI wonder what would happen if you took\na real SPINARAK to that Gym?\rI think that would be interesting!</language>
+		<language name="English">Tu es où?\rEuh... Irisia!\rPerdu? Ecorcia?!\rTu es déjà monté sur les MIMIGAL\nmécaniques de l’Arène?\rQue se passerait-il si tu\namenais un vrai MIMIGAL?\rJ’aimerais bien savoir!</language>
 	</row>
 	<row id="msg_0663_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where are you now?\rLet me guess...Cianwood!\rYes! I’m right!\nIf you’re in Cianwood, you should try\ftaking a KRABBY around with you.\rWhat’s it like? Well, you should try it\nand see for yourself!</language>
+		<language name="English">Tu es où?\rEuh... Irisia?\rYes! J’ai gagné!\rTu devrais y aller avec un KRABBY.\rJe suis sûre qu’il se passerait\nquelque chose!</language>
 	</row>
 	<row id="msg_0663_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where are you now?\nGoldenrod City?\rYou know, if you look carefully at that\nGym, it’s in the shape of a CLEFAIRY.\rIt’s true!\nYou should take a CLEFAIRY there!\rI bet that whatever happens, it will be\nincredibly cute!</language>
+		<language name="English">Tu es à Doublonville?\rL’Arène ressemble à un MELOFEE, tu\nne trouves pas?\rOui! Essaye d’y amener un MELOFEE!\rPeut-être qu’il fera un truc mignon, qui\nsait?</language>
 	</row>
 	<row id="msg_0663_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, when you mention Olivine City,\nall I think of is the Port Lighthouse!\rYou should take an AMPHAROS there\nand see what happens!\fI bet it will be bright...</language>
+		<language name="English">Ah! Qui dit Oliville dit le phare!\rSi tu y amènes un PHARAMP,\npeut-être qu’il brillera...</language>
 	</row>
 	<row id="msg_0663_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where are you now?\nYou’re in Ecruteak City?\rYou should take a PICHU with you over\nto the Ecruteak Dance Theater!\rIt’s such a wonderful place. Whenever\nI’m there, I feel like dancing!</language>
+		<language name="English">Tu es vers Rosalia?\rPasse donc à la Salle de Danse si tu as\nun PICHU avec toi!\rIl aura sûrement envie de danser!</language>
 	</row>
 	<row id="msg_0663_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That reminds me...have you caught any\nIce-type Pokémon yet?\rIce-type Pokémon really love playing on\nthe ice. They look like they’re having\fso much fun!</language>
+		<language name="English">Au fait, tu as des Pokémon de type\nGlace?\rIls adorent être sur la glace, alors\nfais-leur plaisir!</language>
 	</row>
 	<row id="msg_0663_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you go to the Lake of Rage,\nyou can see just how energetic\fMAGIKARP can be!\rIf you’ve got a MAGIKARP, you should\ntake it there and see for yourself!</language>
+		<language name="English">Si tu veux voir un MAGICARPE en\npleine forme, essaye alors\fd’en emmener un au Lac Colère!</language>
 	</row>
 	<row id="msg_0663_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there’s someone in\nBlackthorn City who can make Pokémon\fforget moves they’ve learned. If you\fdo that, they don’t just forget their\fmoves, they almost forget they’re\fholding an item, too.\rWell, they don’t actually forget\nthey’re holding an item, so you\fshouldn’t worry about it!</language>
+		<language name="English">A Ebènelle, il y a un type qui peut\nfaire oublier des capacités aux\fPokémon!\rPas seulement ça, il peut\naussi leur faire oublier leurs objets!\rBon, en fait, c’était une blague, alors\nne t’inquiète pas!</language>
 	</row>
 	<row id="msg_0663_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I haven’t been to Mt. Silver.\rI bet it’s a place that makes even\nPokémon pretty nervous.</language>
+		<language name="English">Je ne suis encore jamais allée au\nMont Argenté...\rJe suis sûr que mes Pokémon auraient\npeur eux aussi...</language>
 	</row>
 	<row id="msg_0663_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where are you now?\nOh, you’re at the National Park!\fI really like that Park, too.\rIt might just be my imagination, but I\nthink the Bug-type Pokémon do, too!</language>
+		<language name="English">Tu es où là?\nAu Parc Naturel?\fMoi aussi j’adore cet endroit!\rJe me fais peut-être des idées, mais\nje crois que les Pokémon Insecte\faussi apprécient le parc!</language>
 	</row>
 	<row id="msg_0663_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, you’re at the Ruins of Alph now?\rThat’s where you can find UNOWN, right?\nDid you catch any yet?\rYou know, if you have an UNOWN, you\nshould take it there.</language>
+		<language name="English">Tu es aux Ruines d’Alpha?\nHé, on doit trouver des ZARBI là-bas,\fhein?\rTu en as déjà attrapé?\rSi tu en as déjà, essaye de les\ny amener pour voir!</language>
 	</row>
 	<row id="msg_0663_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, where are you now?\nThe Safari Zone?\rIt’s a bit far to walk to get there, but\nit’s definitely worth it. There’re so\fmany different Pokémon there!</language>
+		<language name="English">Où tu es encore?\nAu Parc Safari?\rC’est un peu long d’y aller à pied,\nmais ça vaut vraiment le coup!\fOn y trouve des tas de Pokémon!</language>
 	</row>
 	<row id="msg_0663_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you ever get the chance to\ngo to Route 1, take a BULBASAUR\falong with you!\rIt will have such a fun time!</language>
+		<language name="English">Si tu passes par la Route 1, essaye\nd’y amener un BULBIZARRE!\rJe suis sûre qu’il sera content!</language>
 	</row>
 	<row id="msg_0663_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you’re headed to Route 2,\nyou should take a CHARMANDER along\fwith you...\rI heard that CHARMANDER really like\nthat area.</language>
+		<language name="English">Si tu passais par la Route 2, tu ne\nvoudrais pas essayer d’y amener un\fSALAMECHE?\rJ’ai entendu dire que les SALAMECHE\naimaient bien cet endroit...</language>
 	</row>
 	<row id="msg_0663_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, have you been to Route 3 yet?\rI heard that people who take a\nSQUIRTLE there tend to fall!</language>
+		<language name="English">Hé!\nTu es déjà allé sur la Route 3?\rIl paraît que si tu y amènes\nun CARAPUCE, il trébuche!</language>
 	</row>
 	<row id="msg_0663_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Mt. Moon is on Route 4.\rI heard that CLEFAIRY really like\nMt. Moon!</language>
+		<language name="English">Au fait, tu connais le Mont Sélénite,\nsur la Route 4?\rC’est certain que les MELOFEE\nl’adorent!</language>
 	</row>
 	<row id="msg_0663_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there’s a Fighting Dojo in\nSaffron City?\rIt’s a place just for battles. All the\nPokémon I had with me were surprised!</language>
+		<language name="English">Tu sais, le Dojo de Safrania...\nTous les Pokémon qui y vont sont\fvachement surpris qu’on puisse y faire\fdes combats comme ça!</language>
 	</row>
 	<row id="msg_0663_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I went to the port in\nVermilion City.\fAll of my Pokémon had so much fun riding\fon the S.S. Aqua!</language>
+		<language name="English">J’étais super contente quand je suis\nallée à Carmin!\fMes Pokémon ont pu embarquer sur\fl’Aquaria, c’était super!</language>
 	</row>
 	<row id="msg_0663_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you been to Celadon City?\rYou know, I took a PORYGON for a walk in\nCeladon City...and I heard this weird,\f“Jijiji...” sound.\fIt was like it was trying to speak!</language>
+		<language name="English">Tu es déjà allé à Céladopole?\nIl paraît que si tu y promènes un\fPORYGON, il fait un drôle de bruit,\fgenre bip bip bip!</language>
 	</row>
 	<row id="msg_0663_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know how there’s a guy named\nMr. Psychic in Saffron City?\rI wonder what would happen if you took\nPsychic-type Pokémon there?</language>
+		<language name="English">Tu connais M. Psy,\nqui habite à Safrania?\rJe me demande bien ce qui se passerait\ns’il rencontrait des Pokémon Psy...</language>
 	</row>
 	<row id="msg_0663_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, if you ever get the chance to go\nto Rock Tunnel, you should take an\fONIX with you.\rIf you take an ONIX with you there,\nit becomes so happy!</language>
+		<language name="English">Hé, si tu vas à la grotte, amène\nun ONIX! Je suis sûre qu’il\fsera content!\rLe mien était vraiment ravi en tous cas!</language>
 	</row>
 	<row id="msg_0663_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, did you go to the Power Plant yet?\rYou should take a PIKACHU with you to\nthe Power Plant. It’s so much fun!</language>
+		<language name="English">Tu es déjà passé à la Centrale?\nEssaye donc d’y emmener un PIKACHU!\rIl devrait se passer un truc marrant.</language>
 	</row>
 	<row id="msg_0663_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you been to DIGLETT’s Cave yet?\rSpeaking about the Pokémon that you\nshould take with you there...\fWell, I probably don’t need to\ftell you!</language>
+		<language name="English">Tu es passé par la Cave TAUPIQUEUR,\nsur la Route 11?\rS’il ne fallait emmener qu’un seul\nPokémon là-bas...\fTu sais auquel je pense, je suis sûre!</language>
 	</row>
 	<row id="msg_0663_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a Pokémon House in\nLavender Town. You should take your\fPokémon there. I think it would\fenjoy it.</language>
+		<language name="English">Tu connais le Bénévolat de Lavanville?\nVa donc y faire un tour avec\fun Pokémon! Il devrait se passer\fun truc sympa!</language>
 	</row>
 	<row id="msg_0663_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, Route 13 is the one that’s a bit\nof a maze, isn’t it?\rThat may be why the Pokémon in that\narea always seem a bit perplexed.</language>
+		<language name="English">La chemin de la Route 13 ressemble à\nun labyrinthe, hein!\rC’est peut-être aussi pour ça que les\nPokémon ont l’air perdu...</language>
 	</row>
 	<row id="msg_0663_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, if you haven’t been to Route 14\nyet, you absolutely have to go over\fthere and see it!\rThere’s a huge windmill over in that\narea. It’s just so astonishing...</language>
+		<language name="English">Si tu connais pas encore, tu dois\nABSOLUMENT passer sur la Route 14!\rLe paysage est beau avec toutes\nces éoliennes!</language>
 	</row>
 	<row id="msg_0663_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you been to the Pal Park Warden’s\nhouse in Fuchsia yet?\rThere’re so many AIPOM there.\nIt’s amazing!</language>
+		<language name="English">Va donc faire un tour à la maison\ndu directeur du Parc des Amis.\rIl paraît qu’il a plein de CAPUMAIN!</language>
 	</row>
 	<row id="msg_0663_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you had the chance to take\nthe Cycling Road yet?\rIt’s so much fun running with your\nPokémon...but of course that’d be a\flittle dangerous there!</language>
+		<language name="English">Tu as déjà essayé la Piste Cyclable?\rÇa serait vraiment génial de pouvoir\nrouler avec son Pokémon...\fMais tellement dangereux!</language>
 	</row>
 	<row id="msg_0663_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you had the chance to take\nthe Cycling Road yet?\rIt’s so much fun running with your\nPokémon...but of course that’d be a\flittle dangerous there!</language>
+		<language name="English">Tu as déjà essayé la Piste Cyclable?\rÇa serait vraiment génial de pouvoir\nrouler avec son Pokémon...\fMais tellement dangereux!</language>
 	</row>
 	<row id="msg_0663_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you had the chance to take\nthe Cycling Road yet?\rIt’s so much fun running with your\nPokémon...but of course that’d be a\flittle dangerous there!</language>
+		<language name="English">Tu as déjà essayé la Piste Cyclable?\rÇa serait vraiment génial de pouvoir\nrouler avec son Pokémon...\fMais tellement dangereux!</language>
 	</row>
 	<row id="msg_0663_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s so much fun to play with Pokémon\nalong the water’s edge!\rIf I recall correctly, you can see the\nsea from Route 19...</language>
+		<language name="English">J’adore barboter dans la mer avec mes\nPokémon!\fOn peut le faire au Chenal 19...</language>
 	</row>
 	<row id="msg_0663_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come to think of it...when you’re near\nwater with Fire-type Pokémon, they\fseem to really not enjoy it...\fI understand how they feel!</language>
+		<language name="English">Au fait, les Pokémon Feu n’ont pas l’air\nà leur aise au bord de l’eau.\fJe peux les comprendre!</language>
 	</row>
 	<row id="msg_0663_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you’re headed to Route 21,\nI’ve got a suggestion for you.\rYou could sit with your Pokémon,\nwatching the sunset over the beach...\rWhat do you think...? It’s more of a\nromantic couple’s thing isn’t it!</language>
+		<language name="English">Si tu passes par le Chenal 21, je te\nconseille de regarder le coucher de\fsoleil avec un Pokémon!\rC’est... hé hé hé...\nTellement romantique!</language>
 	</row>
 	<row id="msg_0663_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 22 is the road to the Pokémon\nLeague, isn’t it?\rI bet it makes your Pokémon feel pretty\nnervous, huh?</language>
+		<language name="English">La Route 22 mène à la Ligue Pokémon.\nLes Pokémon doivent stresser quand\fils la parcourent, c’est évident!</language>
 	</row>
 	<row id="msg_0663_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there’s a really big bridge\non Route 24 called the\f“Nugget Bridge.”\rIt’s not an official name, but it seems\nlike a lot of people call it that.\rThe sun’s light reflects off the water\nthere, so it’s kind of dazzling...</language>
+		<language name="English">Tu vois l’énorme pont de la Route 24?\nIl s’appelle le Pont Doré.\rC’est pas un nom officiel, mais il y a\nbeaucoup de gens qui l’appellent\fcomme ça.\rLe soleil se reflète à la surface\nde l’eau, c’est un peu éblouissant...</language>
 	</row>
 	<row id="msg_0663_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you know how there’s that big\npuddle on Route 25? I think most\fPokémon have never seen their\fown face.\rI wonder what they would think if they\nsaw their reflection in that puddle...</language>
+		<language name="English">Tu sais que la Route 25 est couverte\nde flaques?\rJe crois que les Pokémon ne savent pas\nà quoi ils ressemblent.\fAlors ça doit leur faire une drôle\fd’impression quand ils voient leur image\fdans l’eau...</language>
 	</row>
 	<row id="msg_0663_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 26 is so full of natural\nbeauty. I bet that it’s a really\fwonderful place for Pokémon.\rBut it’s also a road leading to the\nPokémon League, so it probably makes\fthem nervous, too.</language>
+		<language name="English">La Route 26 est encore presque à\nl’état sauvage, les Pokémon doivent\fadorer...\rMais comme elle mène à la Ligue,\nils ne doivent pas être très rassurés\fen fait.</language>
 	</row>
 	<row id="msg_0663_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I’ve heard that sometimes\nPokémon will find things along Route 27.\rIt’s probably a good idea to take along\nthe Pokémon you have the closest\ffriendship with.</language>
+		<language name="English">Il paraît que les Pokémon peuvent\nramasser des choses sur la Route 27.\rEt si tu y emmenais un Pokémon dont tu\nes proche, pour voir?</language>
 	</row>
 	<row id="msg_0663_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 28, that’s the one going to\nMt. Silver, right?\rYour Pokémon probably put on a good\nshow of being brave, but I bet they\fworry a little bit, too...</language>
+		<language name="English">La Route 28 mène au Mont Argenté,\nn’est-ce pas?\rQuand on y va, les Pokémon sont super\nsilencieux. Ils doivent être inquiets de\fs’en approcher...</language>
 	</row>
 	<row id="msg_0663_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you think about taking\nCHIKORITA with you to Route 29?\rI bet it will look like it’s having\ngreat fun!</language>
+		<language name="English">Essaye d’amener un GERMIGNON sur\nla Route 29!\rJe suis sûre qu’il te fera la fête!</language>
 	</row>
 	<row id="msg_0663_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you think about taking\nTOTODILE with you to Route 30?\rI bet it will look like it’s having\ngreat fun!</language>
+		<language name="English">Tu ne voudrais pas essayer d’amener un\nKAIMINUS sur la Route 30?\rJe suis sûre qu’il te fera la fête!</language>
 	</row>
 	<row id="msg_0663_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you think about taking\nCYNDAQUIL with you to Route 31?\rI bet it will look like it’s having\ngreat fun!</language>
+		<language name="English">Tu ne voudrais pas essayer d’amener un\nHERICENDRE sur la Route 31?\rJe suis sûre qu’il te fera la fête!</language>
 	</row>
 	<row id="msg_0663_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard from someone that you can find\na Pokémon called UNOWN in the\fRuins of Alph.\rSo, if that’s true...I wonder if that\nwould change if you already had an\fUNOWN and you took them with you to\fthe Ruins of Alph...</language>
+		<language name="English">Bon, ce n’est qu’une rumeur, mais\nj’ai entendu dire qu’on pouvait trouver\fdes ZARBI aux Ruines d’Alpha.\rAu fait, si tu en as déjà, essaye de les\ny amener pour voir! C’est possible qu’il\fse passe un truc spécial!</language>
 	</row>
 	<row id="msg_0663_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, it’s always raining on\nRoute 33. It never stops!\rI get kind of down on rainy days, but I\nknow there’s Pokémon out there that\flove the rain!\r...Like TOTODILE!</language>
+		<language name="English">Il pleut tout le temps sur la Route 33!\rMoi, ça me déprime, mais il y a\ndes Pokémon qui aiment bien ça...\rKAIMINUS par exemple...</language>
 	</row>
 	<row id="msg_0663_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, FARFETCH’D are known to have\na strange fascination with Ilex Forest.\fWhen they’re there, it’s like they\fdon’t even hear you.\rI think I might take a FARFETCH’D there\nto see for myself sometime.</language>
+		<language name="English">Il paraît que le Bois aux Chênes\npossède un pouvoir mystérieux qui\fmet les CANARTICHO en transe!\rIl va falloir que j’essaye d’y amener\nle mien...</language>
 	</row>
 	<row id="msg_0663_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, have you heard of the Pokéathlon?\nWhen Pokémon go to the Pokéathlon,\fthey get so excited!\rI think I’ll take my Pokémon there\nsometime, too!</language>
+		<language name="English">Tu connais le Pokéathlon?\nSi tu y vas, ça met tes Pokémon\fen forme!\rIl va falloir que j’aille y faire un tour\nmoi aussi!</language>
 	</row>
 	<row id="msg_0663_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know that something really\ninteresting happens if you take a\fSUDOWOODO to Route 36?\rWhat kind of interesting?\nWell, you’ll just have to try it\fand see!</language>
+		<language name="English">Il se passe un truc très intéressant si\ntu emmènes un SIMULARBRE\fsur la Route 36.\rQuel truc?\nEssaye par toi-même, c’est rigolo!</language>
 	</row>
 	<row id="msg_0663_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, did you meet the twins over on\nRoute 37?\rThey’re so cute, and their Pokémon are\nvery popular.</language>
+		<language name="English">Tu as rencontré les Jumelles\nsur la Route 37?\rElles sont tellement mignonnes que\nmême les Pokémon les adorent!</language>
 	</row>
 	<row id="msg_0663_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I took a TAUROS over to Moomoo Farm\non Route 39 recently. There was such\fan uproar, I didn’t know what to do!</language>
+		<language name="English">L’autre jour, j’ai amené un TAUROS\nau Ranch Meumeu...\fQuelle panique j’ai déclenchée!</language>
 	</row>
 	<row id="msg_0663_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you’re going over to\nRoute 39, you should take a MILTANK\falong with you.\rIt will find so many friends over there,\nit’ll be great fun!</language>
+		<language name="English">Si tu passes par la Route 39, amène\ndonc un ECREMEUH...\rIl pourra croiser plein de camarades,\nje suis sûre que ça lui plaira!</language>
 	</row>
 	<row id="msg_0663_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you’re headed over to\nRoute 40, you should take a POLIWAG\fwith you and see what happens!\rYou’ll see something interesting.\nThat’s for sure!</language>
+		<language name="English">Si tu passes par le Chenal 40, je te\nconseille de prendre un PTITARD\favec toi!\rIl fera un truc rigolo!</language>
 	</row>
 	<row id="msg_0663_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I recently went over to Route 41 to\nhave fun. You know, Water-type Pokémon\freally love the sea...\rWatching your Pokémon have fun and\nbe happy is enough to make\fyou happy, too!</language>
+		<language name="English">Je suis allée au Chenal 41 l’autre jour,\net mes Pokémon Eau avaient l’air de\fvraiment aimer la mer.\rMoi aussi, ça me rend heureuse de les\nvoir tout contents!</language>
 	</row>
 	<row id="msg_0663_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, Route 42 is a mountain road.\nIf you take a Rock-type Pokémon\fthrough there, I bet they’d enjoy it.</language>
+		<language name="English">La Route 42 est plutôt montagneuse,\nalors les Pokémon Roche y sont\fen pleine forme! Tu devrais en emmener\fun pour voir!</language>
 	</row>
 	<row id="msg_0663_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you’d like to see MAGIKARP\nget really excited, you should take it\fover to the Lake of Rage and see\fwhat happens!</language>
+		<language name="English">Si tu veux voir un MAGICARPE en\npleine forme, essaye d’en emmener un\fau Lac Colère! Tu verras!</language>
 	</row>
 	<row id="msg_0663_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Speaking of Route 44, it’s such a cold\nplace. I feel bad for the Pokémon that\fare sensitive to cold...\rBut I bet that Ice-type Pokémon feel\nright at home!</language>
+		<language name="English">Ah! La Route 44...\nIl y fait frisquet, alors les Pokémon\ffrileux ne sont pas à la fête...\rPar contre, le type Glace se sent\nvraiment chez lui!</language>
 	</row>
 	<row id="msg_0663_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, there’s that river that\nmeanders around near Route 45.\fIt’s a fun route to take.\rI went there recently, and my Pokémon\nwere really interested in the river.\fThey kept looking out at it.</language>
+		<language name="English">Le cours de la rivière sur la Route 45\nfait des tours et des détours...\fC’est vraiment sympa!\rQuand j’y suis allée, mes Pokémon\navaient vraiment l’air intrigués!\fC’était très drôle!</language>
 	</row>
 	<row id="msg_0663_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, you know how there’s so much tall\ngrass on Route 46?\fWell, the Pokémon you have with you\falso become worried about when a wild\fPokémon will come leaping out!</language>
+		<language name="English">Il y a beaucoup de hautes herbes sur\nla Route 46, hein!\fMes Pokémon et moi, on est toujours\finquiets... On ne sait jamais quand\fsurgira un Pokémon sauvage!</language>
 	</row>
 	<row id="msg_0663_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you been to Route 47?\nIt has such a beautiful, natural view!\r...That said, have you heard of DITTO?\rDITTO get really energetic around\nRoute 47. It’s kind of strange...</language>
+		<language name="English">Tu connais la Route 47?\rLe paysage y est superbe!\nAu fait, tu connais les METAMORPH?\rIl paraît qu’ils aiment bien cette\nRoute...\fEtrange...</language>
 	</row>
 	<row id="msg_0663_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know how there’s that really tall\ncliff near Route 47?\rWhen you’re walking around there, the\nPokémon with you all get pretty\fscared, too...\rMe?\nI’m perfectly fine with heights!</language>
+		<language name="English">Il y a une grande falaise après la\nRoute 47, tu sais?\rC’est dommage, la vue est superbe,\nmais les Pokémon ont la trouille...\rMoi?\nJe n’ai pas le vertige du tout.</language>
 	</row>
 	<row id="msg_0663_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pallet Town’s Professor Oak really\nlikes Pokémon.\rYou should take a Pokémon over to\nProfessor Oak’s Laboratory sometime!</language>
+		<language name="English">Le Professeur Chen habite\nà Bourg Palette!\rTous les Pokémon l’adorent!\rEssaye d’amener les tiens au Labo\npour voir!</language>
 	</row>
 	<row id="msg_0663_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s a Trainer House in Viridian City.\nDid you know?\rWhen Pokémon go over there, they get\nreally fired up, you know!</language>
+		<language name="English">A Jadielle, il y a le Club des Dresseurs.\rLes Pokémon ont la forme dès qu’ils\ny entrent!</language>
 	</row>
 	<row id="msg_0663_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In Pewter City there’s a museum, right?\rYou can take Pokémon over to the\nmuseum with you for a fun field trip!</language>
+		<language name="English">A Argenta, ils ont un musée.\rC’est vraiment sympa d’aller le visiter\navec ses Pokémon!</language>
 	</row>
 	<row id="msg_0663_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So...did you meet the Cerulean City Gym\nLeader, Misty...?\rOh, it’s nothing! I was just wondering!</language>
+		<language name="English">Dis, tu as rencontré Ondine,\nle Champion d’Azuria?\rNon non, ne t’inquiète pas!\nJe demandais ça comme ça!</language>
 	</row>
 	<row id="msg_0663_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">In Lavender Town, there’s a place\ncalled the House of Memories where\fthey have Pokémon graves, you know.\rAs a Trainer, you should visit at least\nonce out of respect.</language>
+		<language name="English">A Lavanville, ils ont la Maison des\nSouvenirs. C’est un cimetière Pokémon.\rTous les Dresseurs devraient y aller\nau moins une fois.</language>
 	</row>
 	<row id="msg_0663_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion City’s where the Pokémon Fan\nClub is if I recall correctly!\rIf you’ve got a BAYLEEF, you should\ntake it over there to them and say hi!</language>
+		<language name="English">A Carmin se trouve le Fan Club Pokémon!\rVa donc passer le bonjour à leur\nMACRONIUM!</language>
 	</row>
 	<row id="msg_0663_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I once took a TANGELA with me\nto Celadon City Gym. It was so happy,\fand something happened!\rYou should try it, too, and see what\nhappens!\n</language>
+		<language name="English">J’ai emmené un SAQUEDENEU à l’Arène\nde Céladopole, il a adoré!\rTu ne veux pas essayer toi aussi?</language>
 	</row>
 	<row id="msg_0663_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, I heard that if you take a\nTAUROS to Fuchsia, they get\freally agitated!\rI wonder why... I don’t really get it.\nBut I bet it would be interesting to try\fit and see what happens!</language>
+		<language name="English">Tant que tu es à Parmanie... J’ai\nentendu dire que les TAUROS étaient\ftrès excités dans cette ville.\rJe ne sais pas trop pourquoi, mais tu\ndevrais tenter l’expérience toi aussi!\fÇa pourrait être amusant!</language>
 	</row>
 	<row id="msg_0663_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’re in Cinnabar with your\nPokémon, looking out to sea while\fstanding in a town that was buried\fin lava...\rThat seems almost like the final scene\nfrom a movie or something!</language>
+		<language name="English">J’aimerais bien aller à Cramois’Ile pour\nadmirer la ville engloutie dans la lave\favec mes Pokémon...\rÇa ressemble à une scène finale\npour un film, tiens!</language>
 	</row>
 	<row id="msg_0663_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, the Indigo Plateau is pretty\nclose to the Pokémon League. Your\fPokémon will likely yell out to psych\fthemselves up!</language>
+		<language name="English">La Ligue Pokémon n’est pas loin\ndu Plateau Indigo...\rQuand j’y suis allée avec mes Pokémon,\nils étaient pleins d’énergie!</language>
 	</row>
 	<row id="msg_0663_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saffron City is where the Copycat’s\nhouse is, right?\rYou should take a MIME JR. over there\nand see what happens.\rI bet it’s something interesting!</language>
+		<language name="English">A Safrania, il y a une drôle de fille\nqu’on surnomme la Copieuse.\fMontre-lui un MIME JR. pour voir!\rIl pourrait se passer un truc\nintéressant...</language>
 	</row>
 	<row id="msg_0663_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you go back home to New Bark Town,\nyou should show off your Pokémon to\fyour mom. I bet she’d be happy!</language>
+		<language name="English">Si tu repasses par Bourg Geon, fais\nun tour chez toi pour présenter\ftes Pokémon à ta Maman!</language>
 	</row>
 	<row id="msg_0663_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I really like that wonderful winding\npath in Cherrygrove City.\rIt’s so much fun to run with your\nPokémon along the beach and listen to\fthe sound of the waves!</language>
+		<language name="English">J’adore la plage de Ville Griotte!\rC’est vraiment agréable de courir\ndans le sable au son des vagues avec\fses Pokémon!</language>
 	</row>
 	<row id="msg_0663_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’re in Violet City, that means\nyou’re near Sprout Tower!\rYou should take a BELLSPROUT with you\nwhen you go there! I heard they dance!\rI wonder if it’s true...\nWill you try it and find out for me?</language>
+		<language name="English">Mauville, ça me fait penser direct\nà la Tour CHETIFLOR!\rOn dit que les CHETIFLOR dansent quand\nils y vont!\rJe ne sais pas si c’est vrai.\nTu devrais essayer...</language>
 	</row>
 	<row id="msg_0663_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azalea Town’s Gym is really awesome,\ndon’t you think?\rDid you try riding the SPINARAK yet?\rI wonder what would happen if you took\na real SPINARAK to that Gym?\rI think it’d be interesting!</language>
+		<language name="English">Tu es déjà monté sur les MIMIGAL\nmécaniques de l’Arène d’Ecorcia?\rQue se passe-t-il quand on amène\nun vrai MIMIGAL?\rJ’aimerais bien savoir!</language>
 	</row>
 	<row id="msg_0663_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you’re going to Cianwood, you should\ntry taking a KRABBY with you.\rWhat’s it like? Well, you should try it\nand see for yourself!</language>
+		<language name="English">Tu devrais aller à Irisia avec\nun KRABBY.\rJe suis sûre qu’il se passerait\nquelque chose!</language>
 	</row>
 	<row id="msg_0663_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you look carefully at the\nGoldenrod City Gym, it’s in the shape of\fa CLEFAIRY?\rIt’s true!\nYou should take a CLEFAIRY there!\rI bet that whatever happens, it will be\nincredibly cute!</language>
+		<language name="English">L’Arène de Doublonville ressemble\nà un MELOFEE, tu ne trouves pas?\rC’est ça! Essaye d’y amener\nun MELOFEE!\rPeut-être qu’il fera un truc mignon, qui\nsait?</language>
 	</row>
 	<row id="msg_0663_00150" index="150">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you mention Olivine City, all I\nthink of is the Port Lighthouse!\rYou should take an AMPHAROS there\nand see what happens!\fI bet it will be bright...</language>
+		<language name="English">Ah! Qui dit Oliville dit le phare!\rSi tu y amènes un PHARAMP,\npeut-être qu’il brillera...\fOn sait jamais, hein!</language>
 	</row>
 	<row id="msg_0663_00151" index="151">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you have a PICHU, you should take\nit with you over to the Ecruteak Dance\fTheater!\rIt’s such a wonderful place. Whenever\nI’m there, I feel like dancing!</language>
+		<language name="English">Passe donc à la Salle de Danse de\nRosalia si tu as un PICHU avec toi!\rIl aura sûrement envie de danser!</language>
 	</row>
 	<row id="msg_0663_00152" index="152">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That reminds me...have you caught any\nIce-type Pokémon yet?\rIce-type Pokémon really love playing on\nthe ice. They look like they’re having\fso much fun!</language>
+		<language name="English">Au fait, tu as des Pokémon de type\nGlace?\rIls adorent patiner sur la glace, alors\nfais-leur plaisir!</language>
 	</row>
 	<row id="msg_0663_00153" index="153">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know, if you go to the Lake of Rage,\nyou can see just how energetic\fMAGIKARP can be!</language>
+		<language name="English">Pour voir un MAGICARPE en pleine forme,\nil faut l’amener au Lac Colère!</language>
 	</row>
 	<row id="msg_0663_00154" index="154">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s someone in Blackthorn City who\ncan make Pokémon forget moves they’ve\flearned. But if you do that, they don’t\fjust forget their moves, they forget\fthey were holding an item, too.\rWell, that sounds pretty unlikely, so\nyou shouldn’t worry about it!</language>
+		<language name="English">A Ebènelle, il y a un type qui peut\nfaire oublier des capacités aux\fPokémon!\rPas seulement ça, il peut \naussi leur faire oublier leurs objets!\r...\rC’était une blague, alors ne t’inquiète\npas pour tes objets!</language>
 	</row>
 	<row id="msg_0663_00155" index="155">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you heard of a place called\nMt. Silver?\rI haven’t been there yet.\rI bet it’s a place that makes even\nPokémon pretty nervous.</language>
+		<language name="English">Tu es déjà allé au Mont Argenté?\rMoi, pas encore...\rJe suis sûre que mes Pokémon auraient\npeur eux aussi...</language>
 	</row>
 	<row id="msg_0663_00156" index="156">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you know that there’s a huge\nBug-Catching Contest in the\fNational Park?\rThat’s why there’re so many Bug-type\nPokémon there. If you took your\fBug-type Pokémon there too, I bet\fthey’d really enjoy it!</language>
+		<language name="English">Il y a tellement de Pokémon Insecte\nau Parc Naturel qu’ils peuvent\forganiser le Concours de Capture\fd’insecte!\rLes Pokémon Insecte aussi apprécient\nle parc, tu devrais essayer d’amener\fles tiens!</language>
 	</row>
 	<row id="msg_0663_00157" index="157">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard from someone that you can find\na Pokémon called UNOWN in the\fRuins of Alph.\rSo, if that’s true...I wonder if that\nwould change if you already had an\fUNOWN and you took it with you to\fthe Ruins of Alph...</language>
+		<language name="English">Bon, ce n’est qu’une rumeur, mais\nj’ai entendu dire qu’on pouvait trouver\fdes ZARBI aux Ruines d’Alpha.\rAu fait, si tu en as déjà, essaye de les\ny amener pour voir! C’est possible qu’il\fse passe un truc spécial!</language>
 	</row>
 	<row id="msg_0663_00158" index="158">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a bit far to walk to get to the\nSafari Zone, but it’s definitely worth\fit. There’re so many different\fPokémon there!</language>
+		<language name="English">C’est un peu long d’aller à pied au Parc\nSafari, mais ça vaut vraiment le coup!\fOn y trouve des tas de Pokémon!</language>
 	</row>
 </body>

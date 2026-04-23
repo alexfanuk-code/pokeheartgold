@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0753_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lighting Event</language>
+		<language name="English">Show Projecteurs</language>
 	</row>
 	<row id="msg_0753_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fireworks Event</language>
+		<language name="English">Feu d’artifice</language>
 	</row>
 	<row id="msg_0753_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Parade</language>
+		<language name="English">Parade Pokémon</language>
 	</row>
 </body>

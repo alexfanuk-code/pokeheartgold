@@ -2,152 +2,152 @@
 <body language="English">
 	<row id="msg_0560_T22R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Earl, I am!\nWonderful are Pokémon, yes!\rTeach you I will to be a better Trainer!\rWhat you want to know?\nWant to be a winner is you? {YESNO 0}</language>
+		<language name="English">Je m’appelle Théophile!\nLes Pokémon! c’est tellement bien!\rJe peux t’apprendre des choses! Pour\ndevenir fort.\rQue veux-tu savoir?\nComment s’améliorer? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good! Teach you, I will!\nIn battle, Pokémon top on list,\fthe walking one, jump out first!\rChange order in list, make battle\neasy, maybe!\rMore from me you want to hear? {YESNO 0}</language>
+		<language name="English">Alors! Je vais tout t’apprendre!\nDans un combat, c’est le Pokémon qui\fest! en haut à gauche de la liste qui\fest envoyé en premier. C’est-à-dire\fcelui qui t’accompagne!\rDes fois, ça peut être utile de changer\nl’ordre! de ta liste.\rTu veux savoir autre! chose? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, want to know how to raise\nPokémon well? {YESNO 0}</language>
+		<language name="English">Alors! Tu veux savoir\ncomment élever des\fPokémon! qui sont forts? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fine! Teach you, I will!\nIf Pokémon come out in battle even\fbriefly, some Exp. Points it gets.\rKeep out weak Pokémon,\nswitch in battle quick!\rThis way, weak Pokémon very\nstrong become!\fMore from me you want to hear? {YESNO 0}</language>
+		<language name="English">Alors! Je vais tout t’apprendre!\nDans un combat, il suffit qu’un\fPokémon apparaisse une fois!\rdans un combat! pour gagner\nde l’expérience.\rTu peux te promener avec un Pokémon\nfaible! et changer dès le début du\fcombat!\rDu coup, le Pokémon faible deviendra\nbeaucoup! plus fort.\rTu veux savoir autre! chose? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, want to know how to\nbattle well? {YESNO 0}</language>
+		<language name="English">Alors! Tu veux savoir\ncomment! faire se battre\ftes Pokémon! efficacement? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fine! Teach you, I will!\nPokémon have goods and bads\fbecause many types.\rHigh-level Pokémon not win always\nif bad types.\rPokémon with good types\nfor the foe, you choose.\fSmart battle, it is!</language>
+		<language name="English">Alors! Je vais tout t’apprendre!\nLes Pokémon sont meilleurs contre\fcertains! types que d’autres.\rSi le type n’est pas favorable, tu peux\nperdre même si! ton niveau est élevé.\rC’est plus intelligent de choisir un\nPokémon qui est! fort contre le type\fde Pokémon de l’adversaire.</language>
 	</row>
 	<row id="msg_0560_T22R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh! Smart student you are!\nNothing more do I teach!\rGood to Pokémon you must be!</language>
+		<language name="English">Oh! Tu es un génie!\nJe n’ai rien à! t’apprendre.\rPrends bien soin des Pokémon! que tu\nas attrapés.</language>
 	</row>
 	<row id="msg_0560_T22R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m taking notes of the teacher’s\nlecture.\rI’d better copy the stuff on the\nblackboard, too.</language>
+		<language name="English">J’écris tout ce que le professeur dit\nsur mon cahier pour l’apprendre!\rMais il faut aussi recopier ce qu’il y a\nau tableau...</language>
 	</row>
 	<row id="msg_0560_T22R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I traded my best Pokémon to the\nguy beside me.</language>
+		<language name="English">J’ai envoyé mon Pokémon favori\nà ma voisine!</language>
 	</row>
 	<row id="msg_0560_T22R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? The Pokémon I just got is\nholding something!</language>
+		<language name="English">Oh! Le Pokémon que je viens de recevoir\ntient quelque chose?!</language>
 	</row>
 	<row id="msg_0560_T22R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Some Berries can restore a\nPokémon’s health.\rMany other items can be held\nby Pokémon...\rIt sure is tough taking notes...</language>
+		<language name="English">... Faire tenir des Baies à un\nPokémon peut lui permettre de se\fsoigner, mais il y a beaucoup\fd’autres objets à lui faire tenir...\rC’est difficile de prendre des notes\ncomme il faut...!</language>
 	</row>
 	<row id="msg_0560_T22R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon have what are called\nabilities!\rIt seems that each kind of Pokémon has\ndistinct abilities.\rThey say these abilities come in handy\nin battle!</language>
+		<language name="English">Les Pokémon ont un truc qui s’appelle\ncapacité spéciale!\rApparemment, ça dépend de leur\nespèce...\rIl y en a plein qui sont très utiles\nen combat!</language>
 	</row>
 	<row id="msg_0560_T22R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The blackboard explains Pokémon\nstatus changes in battle.\r</language>
+		<language name="English">On a écrit sur le tableau les\nchangements de statut dont peuvent\fsouffrir les Pokémon en combat.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Read which topic? {YESNO 0}</language>
+		<language name="English">Quel sujet voulez-vous lire? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If poisoned, a Pokémon steadily\nloses HP.\rThe poison lingers after the battle,\nand HP is lost as you walk.\fTo cure it, use an Antidote.\r</language>
+		<language name="English">Empoisonné, votre Pokémon perd\nrégulièrement des PV.\rLe poison agira même après le combat et\nvous perdrez des PV en marchant.\rUn des rares remèdes connus à ce jour:\nun Antidote.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Paralysis reduces speed and may\nprevent movement.\rIt remains after battle, so use\na Parlyz Heal.\r</language>
+		<language name="English">La paralysie réduit la vitesse et peut\nempêcher de lancer une attaque.\rElle dure même après le combat.\nL’Anti-Para sert à la guérir.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If asleep, your Pokémon can use only\ncertain moves, such as Sleep Talk and\fSnore.\rA sleeping Pokémon doesn’t wake up\nafter battle.\fWake it up with an Awakening.\r</language>
+		<language name="English">Endormi, votre Pokémon ne peut pas\nagir, sauf s’il connaît Blabla Dodo\fou Ronflement.\rUn Pokémon endormi ne se réveille pas\naprès le combat.\rUtilisez un Réveil pour le réveiller.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A burn consumes HP, little by little,\nand also reduces the Attack stat.\rA burn lingers after battle.\nUse a Burn Heal as the cure.\r</language>
+		<language name="English">Une brûlure consomme des PV. Elle\nréduit aussi la force d’attaque.\rLa brûlure continue même\naprès le combat.\rUtilisez de l’Anti-Brûle pour\nla soigner.\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If your Pokémon is frozen,\nit can’t do a thing.\rIt remains frozen after battle.\nThaw it out with an Ice Heal.\r</language>
+		<language name="English">Si votre Pokémon est gelé, il ne\npourra plus rien faire.\rLe gel continue après le combat.\nL’Antigel réchauffera votre Pokémon!\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s this kid’s notebook...\r“Catch Pokémon using Poké Balls.\nUp to six can be in your party.”\rKeep reading? {YESNO 0}</language>
+		<language name="English">C’est le cahier de cet enfant...\rAttrapez les Pokémon en\nlançant des Poké Balls.\rVous pouvez transporter\njusqu’à 6 Pokémon avec vous.\rVoulez-vous lire la suite? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“Before throwing a Poké Ball, weaken\nthe target first.”\r“A poisoned or burned Pokémon is\neasier to catch.”\rKeep reading? {YESNO 0}</language>
+		<language name="English">Avant de lancer une Poké Ball,\nlaissez votre Pokémon empoisonner\fou brûler l’adversaire.\rIl sera plus facile à attraper.\rVoulez-vous lire la suite? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“Some moves may cause confusion.\nConfusion may make a Pokémon attack\fitself.”\r“Leaving battle clears up any\nconfusion.”\rKeep reading? {YESNO 0}</language>
+		<language name="English">Certaines capacités peuvent embrouiller\nl’esprit d’un Pokémon.\rUne fois confus, le Pokémon peut\ns’attaquer lui-même.\rFuir le combat annule tout effet\nde confusion.\rVoulez-vous lire la suite? {YESNO 0}</language>
 	</row>
 	<row id="msg_0560_T22R0301_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">“People who catch and use Pokémon\nin battle are called Pokémon Trainers.”\r“They are expected to visit Pokémon\nGyms and defeat other Trainers.”\rThe next page is... Blank!\r</language>
+		<language name="English">Les personnes qui attrapent et\nutilisent les Pokémon pour les combats\fsont des Dresseurs de Pokémon.\rLeur but est de défier et vaincre tous\nles Dresseurs puissants qui sont dans\fles Arènes de chaque ville, et...\rLa page suivante est blanche!\r</language>
 	</row>
 	<row id="msg_0560_T22R0301_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boy: E-he-he...\nI haven’t written any more...</language>
+		<language name="English">Garçon: Héhéhé...\nJ’ai rien écrit d’autre...</language>
 	</row>
 	<row id="msg_0560_T22R0301_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">POISON</language>
+		<language name="English">Poison</language>
 	</row>
 	<row id="msg_0560_T22R0301_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PARALYSIS</language>
+		<language name="English">Paralysie</language>
 	</row>
 	<row id="msg_0560_T22R0301_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLEEP</language>
+		<language name="English">Sommeil</language>
 	</row>
 	<row id="msg_0560_T22R0301_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BURN</language>
+		<language name="English">Brûlure</language>
 	</row>
 	<row id="msg_0560_T22R0301_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">FROZEN</language>
+		<language name="English">Gel</language>
 	</row>
 	<row id="msg_0560_T22R0301_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">EXIT</language>
+		<language name="English">QUITTER</language>
 	</row>
 	<row id="msg_0560_T22R0301_00030" index="30">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0560_T22R0301_00031" index="31">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0560_T22R0301_00032" index="32">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0560_T22R0301_00033" index="33">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0560_T22R0301_00034" index="34">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0560_T22R0301_00035" index="35">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 </body>

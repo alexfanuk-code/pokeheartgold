@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="msg_0455_T02PC0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where in the world is Viridian’s\nGym Leader?\fI wanted to challenge him...</language>
+		<language name="English">Où est donc le Champion de l’Arène\nde Jadielle? J’ai fait tout ce chemin\fpour l’affronter...</language>
 	</row>
 	<row id="msg_0455_T02PC0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian’s Gym Leader does not\nrely on others!\rThe Gym Leader claims that his policy\nis to lose to no one without having\fany underlings.\rThat makes him even more popular,\nand many Trainers have come to work\ffor him.</language>
+		<language name="English">Le Champion de l’Arène de Jadielle\nne se fie à personne!\rIl se considère capable de vaincre\nn’importe qui, sans l’aide\fd’autres Dresseurs!\rMais c’est justement parce qu’il pense\ncomme ça que parfois, des Dresseurs\fviennent spécialement dans l’espoir\fde travailler avec lui...</language>
 	</row>
 	<row id="msg_0455_T02PC0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I heard that the Gym in Cinnabar\nis gone.\rI wonder what became of Blaine,\nthe Gym Leader.</language>
+		<language name="English">On dit que l’Arène de Cramois’Ile\na disparu...\rMais qu’est-il arrivé à Auguste,\nle Champion?</language>
 	</row>
 	<row id="msg_0455_T02PC0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My dream is to become a Gym Leader.</language>
+		<language name="English">Je rêve de devenir Champion d’Arène!</language>
 	</row>
 </body>

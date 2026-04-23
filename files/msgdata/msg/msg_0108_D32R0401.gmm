@@ -2,402 +2,402 @@
 <body language="English">
 	<row id="msg_0108_D32R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Hall!\rI am your guide to the Single and\nDouble Battle challenges.\rPlease be aware that these challenges\nare designed for a single Trainer.\r</language>
+		<language name="English">Bienvenue à la Scène de Combat!\rJe suis votre guide pour les\nCombats Solo et Duo.\rIls sont conçus pour un seul\nDresseur.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which challenge would you\nlike to take?{YESNO 0}</language>
+		<language name="English">Quel défi souhaitez-vous relever? {YESNO 0}</language>
 	</row>
 	<row id="msg_0108_D32R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Battle Hall, you may take Single\nor Double Battle challenges alone.\rFor the Single Battle challenge, you\nenter one Pokémon of at least Lv. 30.\rThe Double Battle Challenge requires\nyou to enter two of the same kind of\fPokémon that are at least Lv. 30 each.\rWinning-streak records are kept for\nindividual kinds of Pokémon.\rThat makes it possible for any kind of\nPokémon to aim for no. 1.\rWhen you enter the Hall, you will be\nasked to choose the type and rank of\fthe Pokémon you want to battle.\rIf you manage to win ten matches in\na row, you will earn Battle Points (BP).\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\rPlease be aware of that!\r</language>
+		<language name="English">La Scène de Combat propose des\nCombats Solo et des Combats Duo.\rPour les Combats Solo, vous avez droit\nà un Pokémon de niveau 30 minimum.\rPour les Combats Duo, il vous faut\ndeux Pokémon de la même espèce\fet de niveau 30 minimum.\rLa meilleure série de victoires de\nchaque espèce de Pokémon est\fenregistrée.\rAinsi, n’importe quel Pokémon peut\nviser la première place.\rUne fois à l’intérieur, on vous\ndemandera de choisir le type et le\frang des Pokémon à combattre.\rRemportez dix combats à la suite et\nvous gagnerez des Points de Combat.\rSi vous voulez interrompre votre\nprogression, vous devrez sauvegarder.\rSi vous ne le faites pas, nous\ndevrons vous disqualifier.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Hall!\rI am your guide to the Multi Battle\nchallenge.\rPlease be aware that this challenge\nrequires two Trainers.\r</language>
+		<language name="English">Bienvenue à la Scène de Combat!\rJe serai votre guide pour\nles Combats Multi!\rIls sont conçus pour des équipes\nde deux Dresseurs.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to take the Battle\nHall Multi Battle challenge? {YESNO 0}</language>
+		<language name="English">Voulez-vous relever le défi d’un\nCombat Multi? {YESNO 0}</language>
 	</row>
 	<row id="msg_0108_D32R0401_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may team up with a friend for a\nMulti Battle challenge using the\fsame kind of Pokémon that are at\fleast Lv. 30 each.\rWhen you enter the Hall, you will be\nasked to choose the type and rank of\fthe Pokémon you want to battle.\rIf you manage to win ten matches in\na row, you will earn Battle Points (BP).\rPlease note: a Battle Hall Multi Battle\nchallenge can’t be interrupted.\r</language>
+		<language name="English">Pour les Combats Multi, vous pouvez\nfaire équipe avec un ami utilisant un\fPokémon de niveau 30 minimum et\fde la même espèce que le vôtre.\rUne fois à l’intérieur, on vous\ndemandera de choisir le type et le\frang des Pokémon à combattre.\rRemportez dix combats à la suite et\nvous gagnerez des Points de Combat.\rNotez bien qu’à la Scène de Combat,\nles Combats Multi ne peuvent être\finterrompus.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again!</language>
+		<language name="English">A une prochaine fois peut-être!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which challenge level would you like to\nplay? Level 50 or Open Level?</language>
+		<language name="English">Quel défi souhaitez-vous relever?\nNiveau 50 ou niveau libre?</language>
 	</row>
 	<row id="msg_0108_D32R0401_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must save the game before\nI show you in. Is that OK?{YESNO 0}</language>
+		<language name="English">Vous devez sauvegarder la partie\navant d’entrer.\fC’est d’accord? {YESNO 0}</language>
 	</row>
 	<row id="msg_0108_D32R0401_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right this way, please!</language>
+		<language name="English">Par ici, s’il vous plaît!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We look forward to your next visit.\r</language>
+		<language name="English">N’hésitez pas à revenir nous voir.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ve missed you!\rYou must save the game before you\nresume your challenge. Please wait.</language>
+		<language name="English">Contents de vous revoir!\rVous devez sauvegarder la partie avant\nde reprendre le défi.\rVeuillez patienter.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou didn’t save before you quit your\nchallenge last time.\rBecause of that, you have been\ndisqualified from your challenge!\r</language>
+		<language name="English">Je regrette.\rVous n’avez pas sauvegardé avant\nl’interruption de votre dernier défi.\rPar conséquent, nous sommes\nobligés de vous disqualifier!\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\rIn honor of your victory, we present\nyou with this commemorative print!\r</language>
+		<language name="English">Félicitations!\rPour célébrer votre victoire, nous vous\noffrons cette photo en souvenir!\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gold Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a la Photo d’Or dans son\nMagnéto VS!\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Silver Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a la Photo d’Argent dans\nson Magnéto VS!\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SINGLE BATTLE</language>
+		<language name="English">COMBAT SOLO</language>
 	</row>
 	<row id="msg_0108_D32R0401_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOUBLE BATTLE</language>
+		<language name="English">COMBAT DUO</language>
 	</row>
 	<row id="msg_0108_D32R0401_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TAKE CHALLENGE</language>
+		<language name="English">RELEVER LE DEFI</language>
 	</row>
 	<row id="msg_0108_D32R0401_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">INFO</language>
+		<language name="English">INFOS</language>
 	</row>
 	<row id="msg_0108_D32R0401_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0108_D32R0401_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEVEL 50</language>
+		<language name="English">NIVEAU 50</language>
 	</row>
 	<row id="msg_0108_D32R0401_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OPEN LEVEL</language>
+		<language name="English">NIVEAU LIBRE</language>
 	</row>
 	<row id="msg_0108_D32R0401_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0108_D32R0401_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Want to raise strong Pokémon\nbut have no clue which one to pick...?\rFor those Trainers who feel this way,\nthe Battle Factory is truly a place\fworth visiting!</language>
+		<language name="English">J’aimerais bien élever un Pokémon fort,\nmais je n’ai aucune idée duquel!\rEt pour les Dresseurs qui ont ce genre\nde dilemme, l’Usine de Combat est\fl’endroit idéal!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are quite right.\rThey say life is an endless series of\nlearning opportunities.\rThis place is the best for learning\nabout Pokémon battles and about\fother Trainers...</language>
+		<language name="English">Oui, c’est bien vrai...\rOn dit que la vie est une suite\nd’enseignements; mais pour ce qui est\fdes Dresseurs qui consacrent leur vie\fau combat, rien n’enseigne mieux que\fcet endroit...</language>
 	</row>
 	<row id="msg_0108_D32R0401_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Aaaaand--bam!\nAaaaaaaaaand--bam!\rI don’t have Pokémon yet, so I’m\npracticing throwing Poké Balls!</language>
+		<language name="English">Et d’un!\nEt de deux!\rMoi, je n’ai pas de Pokémon, alors\nje m’entraîne d’abord au lancer de\fPoké Ball!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grandma, yoo-hoo! Grandma!\nI’ve come to trade Accessories!\fI’ve got somethin’ just for my grandma!</language>
+		<language name="English">Mamie! Mamie!\nOn s’échange des Accessoires?\fTiens, c’est pour toi!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, thank you, my dear...\rYou’re so cute and strong and nice...\nI’m lucky to have a grandchild like you.</language>
+		<language name="English">Oh, c’est gentil, dis donc...\rQuelle chance j’ai d’avoir une petite-\nfille aussi jolie, forte et gentille...</language>
 	</row>
 	<row id="msg_0108_D32R0401_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That little girl over there with\nher grandma...\rI happen to know that little girl is\nincredibly strong...\rLooks can sometimes be deceiving.\n</language>
+		<language name="English">Tu vois, la vieille dame et la petite fille\nlà-bas?\fEh bien la petite est super balèze.\fIl ne faut pas se fier aux apparences...</language>
 	</row>
 	<row id="msg_0108_D32R0401_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One Trainer should select\n“BECOME LEADER.”\rThe other Trainer must select\n“JOIN GROUP.”{YESNO 0}</language>
+		<language name="English">L’un de vous deux devra sélectionner\n“MENEUR”.\rL’autre Dresseur devra choisir\n“JOINDRE”. {YESNO 0}</language>
 	</row>
 	<row id="msg_0108_D32R0401_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We need to launch DS Wireless\nCommunications.{YESNO 0}</language>
+		<language name="English">La communication sans fil DS va\ndémarrer. {YESNO 0}</language>
 	</row>
 	<row id="msg_0108_D32R0401_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must save the game before I\nshow you in. Please wait.</language>
+		<language name="English">Vos données vont être sauvegardées.\nVeuillez patienter.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please choose the Pokémon you wish\nto enter.\r</language>
+		<language name="English">Veuillez choisir qui vous inscrivez.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is an ongoing winning streak\nsaved for {STRVAR_1 0, 0, 0}.\rDelete this record and start a new\nchallenge with {STRVAR_1 0, 1, 0}?{YESNO 0}</language>
+		<language name="English">{STRVAR_1 0, 0, 0} a déjà une série de\nvictoires consécutives en cours.\rEffacer la série et repartir de zéro\navec {STRVAR_1 0, 1, 0}? {YESNO 0}</language>
 	</row>
 	<row id="msg_0108_D32R0401_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have a single eligible Pokémon\nof at least Lv. 30!\r</language>
+		<language name="English">Je regrette!\rVous n’avez aucun Pokémon de niveau 30\nminimum pouvant participer!\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rFor Double Battles, you must have two\nof the same kind of Pokémon that are\fat least Lv. 30 each.\r</language>
+		<language name="English">Je regrette!\rPour les Combats Duo, il vous faut deux\nPokémon de la même espèce et de niveau\f30 minimum.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Also, Eggs are ineligible to enter.\r</language>
+		<language name="English">Les Oeufs ne peuvent pas participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs and {STRVAR_1 0, 1, 0} are not allowed\nto enter.\r</language>
+		<language name="English">Les Oeufs et {STRVAR_1 0, 1, 0} ne sont pas\nautorisés à participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, and {STRVAR_1 0, 2, 0}\nare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0} et\n{STRVAR_1 0, 2, 0} ne sont pas autorisés à\fparticiper.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\nand {STRVAR_1 0, 3, 0} are not allowed\fto enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0}\net {STRVAR_1 0, 3, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, and {STRVAR_1 0, 4, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0} et {STRVAR_1 0, 4, 0} ne sont\fpas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0}, and\f{STRVAR_1 0, 5, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0} et\f{STRVAR_1 0, 5, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, and {STRVAR_1 0, 6, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0} et {STRVAR_1 0, 6, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0}, and\f{STRVAR_1 0, 7, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0} et\f{STRVAR_1 0, 7, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, and {STRVAR_1 0, 8, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0} et {STRVAR_1 0, 8, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0}, and\f{STRVAR_1 0, 9, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0} et\f{STRVAR_1 0, 9, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, and {STRVAR_1 0, 10, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0} et {STRVAR_1 0, 10, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0}, and\f{STRVAR_1 0, 11, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0} et\f{STRVAR_1 0, 11, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, and {STRVAR_1 0, 12, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0} et {STRVAR_1 0, 12, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0}, and\f{STRVAR_1 0, 13, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0} et\f{STRVAR_1 0, 13, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, and {STRVAR_1 0, 14, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0} et {STRVAR_1 0, 14, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0}, and\f{STRVAR_1 0, 15, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0} et\f{STRVAR_1 0, 15, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, and {STRVAR_1 0, 16, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0} et {STRVAR_1 0, 16, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0}, and\f{STRVAR_1 0, 17, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0} et\f{STRVAR_1 0, 17, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f{STRVAR_1 0, 17, 0}, and {STRVAR_1 0, 18, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f{STRVAR_1 0, 17, 0} et {STRVAR_1 0, 18, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please come see me when you are ready.\r</language>
+		<language name="English">Revenez nous voir quand votre équipe\nsera prête.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Hall Multi Battle challenge\nrequires both partners to enter the\fsame kind of Pokémon.\rPlease confer with your friend and\nchoose the same kind of Pokémon.\r</language>
+		<language name="English">Pour la Scène de Combat, la règle veut\nque les deux partenaires inscrivent des\rPokémon de la même espèce en\nCombat Multi.\rVeuillez choisir des Pokémon de la\nmême espèce.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHALLENGE</language>
+		<language name="English">RELEVER LE DEFI</language>
 	</row>
 	<row id="msg_0108_D32R0401_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you eat your favorite dish first or\nleave it for later?\rAt the Battle Hall, it’s better to start\nwith the types that your Pokémon\fdo not like. Why?\rBecause the opposition goes up in\nlevel as you progress!</language>
+		<language name="English">Est-ce que tu commences par manger ce\nque tu préfères? Ou est-ce que tu\fgardes le meilleur pour la fin?\rIci, il vaut mieux commencer par les\ntypes de Pokémon que tu redoutes!\rPourquoi? Parce que les adversaires\ndeviennent de plus en plus coriaces au\ffur et à mesure qu’on progresse!\n</language>
 	</row>
 	<row id="msg_0108_D32R0401_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That opulent stage!\rYour streaks of winnings are kept per\neach kind of Pokémon.\fEvery Pokémon can get up there.\rDon’t you think it’s wonderful\nyou can aim for the top with\fany Pokémon?</language>
+		<language name="English">La scène brille de mille feux!\rChaque Pokémon peut viser la première\nplace, puisque chacun concourt dans\fsa propre poule.\rEssaye donc de te surpasser avec ton\nPokémon préféré.\rC’est super, non?\n</language>
 	</row>
 	<row id="msg_0108_D32R0401_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Slow...\rMy SLOWBRO is a cutie, but he’s even\nbattled the Brain here.\rThe Brain will take your Pokémon on at\nthe same level, to be fair.</language>
+		<language name="English">Gadooooos...\rMon FLAGADOSS a l’air inoffensif, mais\nil s’est quand même battu contre le\fMeneur.\rIci, par souci d’équité, le Meneur\nt’affronte avec un Pokémon du même\fniveau que le tien.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOWBRO: ...Slow?</language>
+		<language name="English">FLAGADOSS: ... Gadoooooss...?</language>
 	</row>
 	<row id="msg_0108_D32R0401_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here is a tip!\rYou should try the Battle Hall with\nnot just your favorite Pokémon,\rbut different kinds of Pokémon\nif you want to build your\foverall record as well.</language>
+		<language name="English">Euh... Je vais tout t’expliquer!\rSi tu veux augmenter ton score total,\ntu dois tenter ta chance avec\fdifférentes espèces de Pokémon.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Battle Hall, if it’s the same kind\nof Pokémon, you can enter different\fones and still keep your record.\rYou may want to have different ones\nknowing different types of moves.</language>
+		<language name="English">Sur la Scène de Combat, tant qu’ils\nsont de la même espèce, tu peux\fchanger de Pokémon\fautant que tu veux!\rEt donc, il vaut mieux apprendre plein\nde capacités différentes à tes Pokémon\fpour gagner!\n</language>
 	</row>
 	<row id="msg_0108_D32R0401_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know how HOPPIP has two types--\nGrass and Flying?\rThat means it can appear as a\nGrass type and as a Flying type.\rMe?\rYou could think of me as...\na “Lighthearted” type and\fa “Beautiful” type, I guess.</language>
+		<language name="English">Tu sais que GRANIVOL a deux types,\nPlante et Vol?\rPar conséquent, tu peux l’inscrire dans\nces deux catégories!\rEt moi?\nOh là là, moi, tu sais...\fJe me concentre sur les catégories\f“Joie de Vivre” et “Canon de Beauté”!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A piece of advice...\rAt the Battle Hall, the opposing\nPokémon are matched in level to yours.\rThat way, you can choose any of your\nPokémon without worrying about\ftheir levels.</language>
+		<language name="English">J’ai une info à te donner.\rA la Scène de Combat, les Pokémon\nadverses ont un niveau proche de\fcelui des tiens.\rComme ça, tu peux te lancer sans te\nsoucier des questions de niveau.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Battle Hall lets you keep the\nwinning-streak records.\fThat’s neat, huh?\r...Wait a sec!\rMy friend and I can start challenges\nwith identical conditions and see who\fcan stretch their win streak\fthe longest.\fThat’s even more fun!</language>
+		<language name="English">Ce qu’il y a de bien dans la Scène de\nCombat, c’est que tes records de\fvictoires sont sauvegardés.\r... Hé, mais...\rSi on se met à comparer nos records\navec ses amis, ça devient encore plus\famusant, non?</language>
 	</row>
 	<row id="msg_0108_D32R0401_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I keep track of the total number of\nwins from your longest Single Battle\fwin streaks at the Battle Hall.\rTo explain, I add only the longest win\nstreaks of each kind of Pokémon.</language>
+		<language name="English">Je prends note de votre plus longue\nsérie de victoires consécutives en\fCombat Solo à la Scène de Combat.\rC’est-à-dire que je ne prends en\ncompte que vos records pour\fchaque espèce de Pokémon.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When your total win-streak record hits\ncertain figures, you will earn BP as\fa reward.\r{STRVAR_1 3, 0, 0}, your total win-streak\nrecord is presently {STRVAR_1 55, 1, 0}.\r</language>
+		<language name="English">Quand votre série de victoires record\natteindra un certain nombre, vous\fgagnerez des PCo.\r{STRVAR_1 3, 0, 0}, votre série de victoires\nrecord est de {STRVAR_1 55, 1, 0}.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your total win-streak record has\nreached {STRVAR_1 55, 2, 0}.\fHere is your BP reward.\r</language>
+		<language name="English">Votre série de victoires record a\natteint {STRVAR_1 55, 2, 0}.\fVoici votre récompense.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When your total win-streak record\nreaches {STRVAR_1 55, 3, 0}, you will earn BP.</language>
+		<language name="English">Quand votre série de victoires record\natteindra {STRVAR_1 55, 3, 0}, vous gagnerez\fdes PCo.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received {STRVAR_1 53, 4, 0} BP!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} obtient {STRVAR_1 53, 4, 0} PCo!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, your total win-streak\nrecord stands at {STRVAR_1 55, 1, 0}.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, votre série de victoires\nrecord est de {STRVAR_1 55, 1, 0}.\r</language>
 	</row>
 	<row id="msg_0108_D32R0401_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, your total win-streak\nrecord stands at {STRVAR_1 55, 1, 0}.\r...My goodness!\nThat’s a fantastic record!</language>
+		<language name="English">{STRVAR_1 3, 0, 0}, votre série de victoires\nrecord est de {STRVAR_1 55, 1, 0}.\rIncroyable!\nVous avez pulvérisé le record!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: The Battle Hall’s been kind of\nboring lately.\rThere haven’t been any dazzling\nchallengers who can electrify crowds.\rThe kind of challenger who can beat the\nBrain... Aren’t there any around?</language>
+		<language name="English">Victor: On s’ennuie ferme à la Scène de\nCombat, ces temps-ci.\rAucun des candidats n’a su électriser\nla foule grâce à ses talents.\rY a-t-il un challenger pour battre\nle Meneur de Zone?</language>
 	</row>
 	<row id="msg_0108_D32R0401_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: Let me take a wild guess.\nAre you getting into the Battle Hall?\fIt’s addictively fun, huh?\rThe more you win, the more kinds of\nPokémon you get to see, too.</language>
+		<language name="English">Victor: Laisse-moi deviner. Tu vas\nà la Scène de Combat, pas vrai?\fC’est addictif, hein?\rPlus tu gagnes, plus tu croises de\nPokémon différents.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: ...\n...Oh, sorry for staring!\rI saw you on stage the last time.\nYou’ve got some star quality.\rI think I’m going to keep an eye on you.\nThere’s real charisma there.</language>
+		<language name="English">Victor: ...\nOh, désolé de te dévisager comme ça!\rJ’ai assisté à tes combats la dernière\nfois. Tu as tout d’une star!\rJe vais te garder à l’œil.\nTu as un grand potentiel!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: I check you out every time\nyou get up on stage.\rYou’re fun to watch, let me tell you.\rNow I’m always looking forward to\nseeing the combo of you and your\fPokémon on stage.</language>
+		<language name="English">Victor: Je ne rate pas un seul de tes\ncombats.\rNiveau spectacle, tu assures.\rJe guette toujours ton passage sur\nla scène!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: Hey, there!\nWhat are you going to do this time?\rWhich Pokémon are you going for a\nrecord with next?\rWhen I get to thinking about that,\nI get too wound up to sleep at night.\rThat’s why I’ve been sleeping in lately!</language>
+		<language name="English">Victor: Youhou, c’est moi! Qu’est-ce\nque tu comptes faire cette fois?\rQuel Pokémon vas-tu inscrire?\rQuand j’y pense, ça m’empêche de dormir\nla nuit.\rDu coup, je fais souvent la grasse\nmatinée ces temps-ci!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: Awesome!\nSeriously awesome!\fYou’re beyond awesome, even!\rThe love you show so many Pokémon...\nIt’s no easy feat, I can tell ya!</language>
+		<language name="English">Victor: Trop cool!\nFranchement trop cool!\fT’es même plus que trop cool!\rTu débordes littéralement d’amour\npour les Pokémon...\rEt ça, c’est pas donné à tout le monde!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: I’ve never seen Pokémon\nbattle as enjoyably as yours do.\rYou’re the first of a kind for me as\nTrainers go.\rYou know, I brag about you to everyone\nwho’s willing to listen.\rI was saying that you’re going to be a\nstar before you even got a record!</language>
+		<language name="English">Victor: J’ai jamais vu des Pokémon aussi\npressés d’aller au combat que les\ftiens. Quel Dresseur hors pair!\rTu sais, je parle de toi à tous les gens\nque je croise.\rJe disais déjà que tu allais devenir une\nstar avant même que tu réussisses!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: Go, {STRVAR_1 3, 0, 0}, go!\nGo, {STRVAR_1 3, 0, 0}, go!\rI’m thinking up some dance steps and\ncheers I can do to support you.\rIf you want to see them, you’ll need to\nkeep working on your records!</language>
+		<language name="English">Victor: Go, {STRVAR_1 3, 0, 0}, go!\nGo, {STRVAR_1 3, 0, 0}, go!\rJe suis en train de mettre au point une\nchorégraphie pour t’encourager.\rSi tu veux la voir, continue d’améliorer\nton score!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: You’re phenomenal.\nAll the battles you waged on stage...\fAll those moments of glory...\rYour star burns so bright and huge!\nI can barely open my eyes around you!</language>
+		<language name="English">Victor: Quel phénomène!\nTous ces combats que tu as menés...\fsont autant de moments de gloire.\rTu es une star qui brille de mille feux!\nQuand je te regarde, je suis ébloui!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Winston: The love for Pokémon you\nexhibited at the Battle Hall is as\finfinitely deep as it is wide...\rYou can count on me, Winston, to be\nyour lifelong fan.\rJust as you love Pokémon, I love you\nas the Pokémon superstar!</language>
+		<language name="English">Victor: A la Scène de Combat, tu as fait\npreuve d’un attachement sans faille\fenvers les Pokémon...\rTu peux me compter parmi tes fans\nà vie.\rMon admiration pour toi n’a d’égal que\nton amour des Pokémon!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: It’s about the Battle Hall...\nIt hasn’t excited me lately.\rThere’s been no gorgeous sort of\nchallenger who can dazzle me.\rThe kind of challenger who can make me\na fan... Aren’t there any around?</language>
+		<language name="English">Séréna: C’est au sujet de la Scène de\nCombat... On s’y ennuie, ces temps-ci.\rAucun candidat n’a su m’éblouir avec\nses aptitudes.\rN’y a-t-il aucun challenger dont je\npuisse devenir fan?</language>
 	</row>
 	<row id="msg_0108_D32R0401_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Um... Excuse me?\rIf you don’t mind me asking, are you\ngetting into the Battle Hall?\rIt’s fun in an engrossing way, isn’t it?\nDid you know?\rThe more you win, the more kinds of\nPokémon appear.</language>
+		<language name="English">Séréna: Euh, excuse-moi...\rTu vas à la Scène de Combat, n’est-ce\npas?\rOn s’y amuse beaucoup, pas vrai?\rPlus on gagne, plus on voit de Pokémon\ndifférents.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Um... Excuse me?\rI watched you when you were on stage.\nIt made me feel all tingly seeing you.\rUm... You won’t mind if I cheer for you\nfrom now on, will you? Please, may I?</language>
+		<language name="English">Séréna: Euh, excuse-moi...\rJ’ai assisté à ton dernier combat.\nJ’en ai encore des frissons!\rHum... ça te dérange si je t’encourage\nà partir de maintenant? S’il te plaît!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Um... Excuse me?\rI cheer for you the best I can.\rI can’t get up on stage with you, but\nI want to lend my support to your\fPokémon and you for trying so hard.</language>
+		<language name="English">Séréna: Euh, excuse-moi...\rJe t’encourage du mieux que je peux.\rJe ne peux pas t’accompagner sur\nscène, alors je me rattrape en te\fsoutenant moralement.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Um... Excuse me?\rCan you tell me what kind of Pokémon\nyou’re going for a record with next?\rWhen I start thinking about that, I get\nsort of all choked up.\rI have trouble sleeping at night when\nI get that way.</language>
+		<language name="English">Séréna: Euh, excuse-moi...\rQuelle espèce de Pokémon vas-tu\ninscrire la prochaine fois?\rQuand j’y pense, ça me rend folle.\nJe n’en dors même plus la nuit.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Um... Excuse me?\rFantastic! It’s fantastic!\nYou’re fabulously fantastic!\rThe love you show so many Pokémon...\nIt must take extraordinary effort.</language>
+		<language name="English">Séréna: Euh, excuse-moi...\rFantastique!\nTu es tout bonnement fantastique!\rTu aimes tellement les Pokémon...\nC’est rare un tel dévouement.</language>
 	</row>
 	<row id="msg_0108_D32R0401_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: I’ve never seen Pokémon\nbattle as enjoyably as yours do.\rYou’re the first Trainer ever who’s\ndone that.\rI... I brag about you to all my friends.\nI hope you don’t mind.\rI tell them I wish I could be as\nwonderful a Trainer as you!</language>
+		<language name="English">Séréna: Je n’ai jamais vu des Pokémon\naussi pressés d’aller au combat que les\ftiens. Quel Dresseur hors pair!\rJe parle de toi à tous mes amis. Ça ne\nte dérange pas, j’espère?\rJe leur raconte à quel point je\nt’admire!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Hurray, hurray, {STRVAR_1 3, 0, 0}!\nGo, Pokémon, go!\r...Oh! Um... Excuse me.\rI was working on cheers and a dance\nroutine for you.\rB-but, I’m sorry for being so silly and\ngiddy and...</language>
+		<language name="English">Séréna: Hourra, {STRVAR_1 3, 0, 0}!\nGo, les Pokémon, go!\rOh! Euh, excuse-moi...\rJe travaillais sur un projet de\nchorégraphie en ton honneur.\rD-désolée, quelle cruche je fais...</language>
 	</row>
 	<row id="msg_0108_D32R0401_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: You’re so inspiring to me.\rAll the glory you earned while battling\nso often on that shining stage...\rJust seeing you makes me feel all\nhappy inside. ♫</language>
+		<language name="English">Séréna: Tu es une vraie source\nd’inspiration pour moi.\rToute cette gloire, tu l’as bien méritée\nà force de briller en combat...\rRien qu’à te voir, je me sens toute\nguillerette. ♫</language>
 	</row>
 	<row id="msg_0108_D32R0401_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Serena: Your Pokémon love that you’ve\nshown at the Battle Hall is as infinitely\fdeep as it is wide...\rIt’s amazing, but you love every kind of\nPokémon there is.\rI love you for being so amazing and\ndedicated!</language>
+		<language name="English">Séréna: Tu as fait preuve d’un amour\nsans borne pour les Pokémon...\rC’est incroyable, mais tu aimes toutes\nles sortes de Pokémon.\rJ’admire ton dévouement!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Hi, {STRVAR_1 3, 0, 0}.\nI love watching you battle here.\rCause...\nyou have fun whether you win\for lose!</language>
+		<language name="English">Célesta: Tu sais, {STRVAR_1 3, 0, 0}, j’aime\nvraiment te regarder combattre...\rParce que...\nQue tu gagnes ou que tu perdes, c’est\ftoujours avec panache!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: The Battle Hall is great for\nPokémon fans like me!\rI get to see so many new kinds of\nPokémon I’ve never seen.\rIt’s so cool!</language>
+		<language name="English">Luth: Y’a rien de mieux que la Scène de\nCombat pour un amateur de Pokémon.\rÇa permet de voir plein de Pokémon\njamais vus! Et rien que ça, ça fait\fbattre mon cœur plus fort...</language>
 	</row>
 	<row id="msg_0108_D32R0401_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mom: {STRVAR_1 3, 0, 0}!\rI couldn’t help checking up on you!\rEveryone is working hard, but I have\nto say you look more delighted than\fanyone else!\rOh, {STRVAR_1 3, 0, 0}, that’s right!\rI should go to the Department Store\nin Goldenrod and buy some useful\fitems for you on the way home!</language>
+		<language name="English">Maman: {STRVAR_1 3, 0, 0}!\rHihihi, je suis venue pour t’encourager!\nLes autres ont fait de leur mieux, mais\ftu étais quand même loin devant eux!\rMême le soleil est moins\néblouissant que toi!\fAh, je sais!\rEn rentrant, je passerai par le Centre\nCommercial de Doublonville, des fois que\fj’y trouve quelque chose qui puisse\ft’être utile!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Professor Oak: You keep amazing me\nover and over again.\rWhat a Trainer you turned out to be!\rIt’s not enough that you caught\nPokémon in numbers beyond belief.\rThat alone is fantastic enough.\nBut you’ve bonded and battled with\fthem as well.\rI am so proud to know you!</language>
+		<language name="English">Chen: Tu n’en finis pas de m’étonner.\nQuel fabuleux Dresseur tu fais!\rTu ne te contentes pas de capturer\ndes hordes de Pokémon.\rTu les comprends, tous autant\nqu’ils sont! Tu as l’intelligence\fdu cœur.\rQuelle chance j’ai eue de faire\nta connaissance!</language>
 	</row>
 	<row id="msg_0108_D32R0401_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whitney: I love showy events like\nthe Battle Hall.\rI’m not saying that I want to stand out\nin the crowd...\rI just love seeing cute Pokémon\ngetting lots of attention!</language>
+		<language name="English">Blanche: Tu sais quoi, moi, je kiffe\nles trucs tape-à-l’œil comme\fla Scène de Combat.\rEt c’est même pas parce que je veux\nqu’on m’regarde, hein!\rJ’suis juste trop contente quand\ndes Pokémon mignons sont sous\fles projos.</language>
 	</row>
 </body>

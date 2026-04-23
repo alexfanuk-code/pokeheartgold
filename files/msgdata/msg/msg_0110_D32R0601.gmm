@@ -2,226 +2,226 @@
 <body language="English">
 	<row id="msg_0110_D32R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Arcade!\rI am your guide to the Single and\nDouble Battle challenges.\rPlease be aware that these challenges\nare designed for a single Trainer.\r</language>
+		<language name="English">Bienvenue à l’Arcade de Combat!\rJe suis votre guide pour les\nCombats Solo et Duo.\rIls sont conçus pour un seul\nDresseur.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which challenge would you like\nto take?{YESNO 0}</language>
+		<language name="English">Quel défi souhaitez-vous relever? {YESNO 0}</language>
 	</row>
 	<row id="msg_0110_D32R0601_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Battle Arcade, you may take a\nSingle or Double Battle challenge.\rHere, a game board is activated\nbefore every match.\rDepending on what comes up on the\ngame board, an event takes place.\rSome events will be good for the\nchallenger, while others won’t be.\rThe objective is to keep a winning\nstreak alive as long as possible.\rDuring your challenge, any items held by\nyour Pokémon will be kept in storage.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\rPlease be aware of that!\r</language>
+		<language name="English">L’Arcade de Combat propose des\nCombats Solo et des Combats Duo.\rAvant chaque match, un tableau de jeu\ndécide aléatoirement des conditions\fdu combat à venir.\rCelles-ci peuvent s’avérer favorables\nau candidat, ou l’inverse.\rLe but est d’enchaîner le plus de\nvictoires possible.\rLes objets tenus par vos Pokémon\nseront consignés le temps du défi.\rRemportez sept combats à la suite et\nvous gagnerez des Points de Combat.\rSi vous voulez interrompre votre \nprogression, vous devrez sauvegarder.\rSi vous ne le faites pas, nous\ndevrons vous disqualifier.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Arcade!\rI am your guide to the Multi Battle\nchallenge.\rPlease be aware that this challenge\nrequires two Trainers.\r</language>
+		<language name="English">Bienvenue à l’Arcade de Combat!\rJe serai votre guide pour les\nCombats Multi!\rIls sont conçus pour des équipes\nde deux Dresseurs.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to take the Battle\nArcade Multi Battle challenge?{YESNO 0}</language>
+		<language name="English">Voulez-vous relever le défi du\nCombat Multi? {YESNO 0}</language>
 	</row>
 	<row id="msg_0110_D32R0601_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may team up with a friend for a\nMulti Battle challenge.\rHere, a game board is activated\nbefore every match.\rDepending on what comes up on the\ngame board, an event takes place.\rThe events may have great impact on\nthe match’s outcome, good or bad.\rThe objective is to keep a winning\nstreak alive as long as possible.\rDuring your challenge, any items held by\nyour Pokémon will be kept in storage.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rPlease note: a Battle Arcade Multi\nBattle challenge can’t be interrupted.\r</language>
+		<language name="English">Pour les Combats Multi, vous pouvez\nfaire équipe avec un ami.\rIci, avant chaque match, un tableau de\njeu décide aléatoirement des conditions\fdu combat à venir.\rCelles-ci peuvent avoir un certain\nimpact sur l’issue du combat.\rLe but est d’enchaîner le plus de\nvictoires possible.\rLes objets tenus par vos Pokémon\nseront consignés le temps du défi.\rRemportez sept combats à la suite et\nvous gagnerez des Points de Combat.\rNotez bien qu’à l’Arcade de Combat, les\nCombats Multi ne peuvent être\finterrompus.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again!</language>
+		<language name="English">A une prochaine fois peut-être!</language>
 	</row>
 	<row id="msg_0110_D32R0601_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please select the Pokémon you wish\nto enter.\r</language>
+		<language name="English">Veuillez choisir les Pokémon à inscrire.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou don’t have {STRVAR_1 50, 0, 0} eligible Pokémon.\rYou must have {STRVAR_1 50, 1, 0} different Pokémon\nto enter.\r</language>
+		<language name="English">Je regrette!\rVous n’avez pas {STRVAR_1 50, 0, 0} Pokémon pouvant\nparticiper.\rIl vous faut {STRVAR_1 50, 1, 0} Pokémon différents\npour participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Also, Eggs are ineligible to enter.\r</language>
+		<language name="English">Les Oeufs ne peuvent pas participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs and {STRVAR_1 0, 1, 0} are not allowed\nto enter.\r</language>
+		<language name="English">Les Oeufs et {STRVAR_1 0, 1, 0} ne sont pas\nautorisés à participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, and {STRVAR_1 0, 2, 0}\nare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0} et\n{STRVAR_1 0, 2, 0} ne sont pas autorisés à\fparticiper.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\nand {STRVAR_1 0, 3, 0} are not allowed\fto enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0}\net {STRVAR_1 0, 3, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, and {STRVAR_1 0, 4, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0} et {STRVAR_1 0, 4, 0} ne sont\fpas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0}, and\f{STRVAR_1 0, 5, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0} et\f{STRVAR_1 0, 5, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, and {STRVAR_1 0, 6, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0} et {STRVAR_1 0, 6, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0}, and\f{STRVAR_1 0, 7, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0} et\f{STRVAR_1 0, 7, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, and {STRVAR_1 0, 8, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0} et {STRVAR_1 0, 8, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0}, and\f{STRVAR_1 0, 9, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0} et\f{STRVAR_1 0, 9, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, and {STRVAR_1 0, 10, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0} et {STRVAR_1 0, 10, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0}, and\f{STRVAR_1 0, 11, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0} et\f{STRVAR_1 0, 11, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, and {STRVAR_1 0, 12, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0} et {STRVAR_1 0, 12, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0}, and\f{STRVAR_1 0, 13, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0} et\f{STRVAR_1 0, 13, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, and {STRVAR_1 0, 14, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0} et {STRVAR_1 0, 14, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0}, and\f{STRVAR_1 0, 15, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0} et\f{STRVAR_1 0, 15, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, and {STRVAR_1 0, 16, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0} et {STRVAR_1 0, 16, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0}, and\f{STRVAR_1 0, 17, 0} are not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0} et\f{STRVAR_1 0, 17, 0} ne sont pas autorisés\fà participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eggs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f{STRVAR_1 0, 17, 0}, and {STRVAR_1 0, 18, 0}\fare not allowed to enter.\r</language>
+		<language name="English">Les Oeufs, {STRVAR_1 0, 1, 0}, {STRVAR_1 0, 2, 0},\n{STRVAR_1 0, 3, 0}, {STRVAR_1 0, 4, 0},\f{STRVAR_1 0, 5, 0}, {STRVAR_1 0, 6, 0},\f{STRVAR_1 0, 7, 0}, {STRVAR_1 0, 8, 0},\f{STRVAR_1 0, 9, 0}, {STRVAR_1 0, 10, 0},\f{STRVAR_1 0, 11, 0}, {STRVAR_1 0, 12, 0},\f{STRVAR_1 0, 13, 0}, {STRVAR_1 0, 14, 0},\f{STRVAR_1 0, 15, 0}, {STRVAR_1 0, 16, 0},\f{STRVAR_1 0, 17, 0} et {STRVAR_1 0, 18, 0}\fne sont pas autorisés à participer.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please come see me when you are ready.\r</language>
+		<language name="English">Revenez nous voir quand votre équipe\nsera prête.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Trainers have chosen the\nPokémon {STRVAR_1 0, 0, 0}.\rPlease confer with the other Trainer\nand choose different Pokémon.\r</language>
+		<language name="English">Les deux Dresseurs ont choisi le\nPokémon {STRVAR_1 0, 0, 0}.\rVeuillez choisir des Pokémon différents.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Both Trainers have chosen the Pokémon\n{STRVAR_1 0, 0, 0} and {STRVAR_1 0, 1, 0}.\rPlease confer with the other Trainer\nand choose different Pokémon.\r</language>
+		<language name="English">Les deux Dresseurs ont choisi les\nPokémon {STRVAR_1 0, 0, 0} et {STRVAR_1 0, 1, 0}.\rVeuillez choisir des Pokémon différents.\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must save the game before\nI show you in. Is that OK?{YESNO 0}</language>
+		<language name="English">Vous devez sauvegarder la partie\navant d’entrer.\fC’est d’accord? {YESNO 0}</language>
 	</row>
 	<row id="msg_0110_D32R0601_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right this way, please!</language>
+		<language name="English">Par ici, s’il vous plaît!</language>
 	</row>
 	<row id="msg_0110_D32R0601_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ve missed you!\rYou must save the game before you\nresume your challenge. Please wait.</language>
+		<language name="English">Contents de vous revoir!\rVous devez sauvegarder la partie avant\nde reprendre le défi.\rVeuillez patienter.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou didn’t save before you quit your\nchallenge last time.\rBecause of that, you have been\ndisqualified from your challenge!\r</language>
+		<language name="English">Je regrette.\rVous n’avez pas sauvegardé avant\nl’interruption de votre dernier défi.\rPar conséquent, nous sommes\nobligés de vous disqualifier!\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\rIn honor of your victory, we present\nyou with this commemorative print!\r</language>
+		<language name="English">Félicitations!\rPour célébrer votre victoire, nous vous\noffrons cette photo en souvenir!\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gold Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a la Photo d’Or dans son\nMagnéto VS!\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Silver Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a la Photo d’Argent dans\nson Magnéto VS!\r</language>
 	</row>
 	<row id="msg_0110_D32R0601_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SINGLE BATTLE</language>
+		<language name="English">COMBAT SOLO</language>
 	</row>
 	<row id="msg_0110_D32R0601_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOUBLE BATTLE</language>
+		<language name="English">COMBAT DUO</language>
 	</row>
 	<row id="msg_0110_D32R0601_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TAKE CHALLENGE</language>
+		<language name="English">RELEVER LE DEFI</language>
 	</row>
 	<row id="msg_0110_D32R0601_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">INFO</language>
+		<language name="English">INFOS</language>
 	</row>
 	<row id="msg_0110_D32R0601_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0110_D32R0601_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One Trainer should select\n“BECOME LEADER.”\rThe other Trainer must select\n“JOIN GROUP.”{YESNO 0}</language>
+		<language name="English">L’un de vous deux devra sélectionner\n“MENEUR”.\rL’autre Dresseur devra choisir\n“JOINDRE”. {YESNO 0}</language>
 	</row>
 	<row id="msg_0110_D32R0601_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We need to launch DS Wireless\nCommunications.{YESNO 0}</language>
+		<language name="English">La communication sans fil DS va\ndémarrer. {YESNO 0}</language>
 	</row>
 	<row id="msg_0110_D32R0601_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must save the game before I\nshow you in. Please wait.</language>
+		<language name="English">Vos données vont être sauvegardées.\nVeuillez patienter.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The game board is like your life.\rIt goes round and round\nas your fortune goes up and down...\fHow did that sound?\rIt almost made some kind of sense,\ndidn’t it?</language>
+		<language name="English">Le tableau de jeu ressemble à la vie...\rÇa tourne, ça tourne, et\nle destin se répète...\rT’en penses quoi? Je suis pas sûr que\nça ait un sens, ce que j’ai dit...</language>
 	</row>
 	<row id="msg_0110_D32R0601_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s an aspect of luck in\nPokémon battles...\rThe Battle Arcade reminds me of that,\ndecisively. Very decisively...</language>
+		<language name="English">Un combat dépend énormément de\nla chance...\rEt à l’Arcade de Combat, c’est plus vrai\nque partout ailleurs.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What quality is most needed here?\nIs it strength?\fWisdom?\fLuck?\fNo. The answer is...flexibility.\fThat’s what my gut tells me.</language>
+		<language name="English">De quoi a-t-on besoin, ici?\nDe force?\fD’intelligence?\fDe chance?\rNon!\nJe crois que ce dont on a le plus\fbesoin, c’est de la faculté de\fs’adapter à toutes les situations...</language>
 	</row>
 	<row id="msg_0110_D32R0601_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know what I mean by\n“stop on the spot”?\rIt’s the skill of stopping the\ngame board at the right time!\rBut, remember...\fIf you don’t stop it in 30 seconds,\nit will stop by itself.</language>
+		<language name="English">Certaines personnes arrivent à viser\nla case qu’ils veulent et à arrêter le\fcurseur pile au bon endroit!\rMais il faut se décider rapidement!\nSi tu ne le stoppes pas dans les 30\fsecondes, il s’arrête tout seul.</language>
 	</row>
 	<row id="msg_0110_D32R0601_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I thought I was fully prepared with my\nprized Pokémon, but I had to swap them\fand use my opponent’s instead!\fI need to rethink all my strategies.</language>
+		<language name="English">Dire que j’avais choisi mon Pokémon\nfavori pour combattre, voilà que je me\fretrouve obligée d’échanger mon\fPokémon avec mon adversaire!\rJe dois repenser toute ma\nstratégie depuis le début...</language>
 	</row>
 	<row id="msg_0110_D32R0601_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I chose Pokémon that are good at\nattacking.\fBut my opponent went for speed!\rNext time, I’ll try Pokémon with\nsuperior speed.</language>
+		<language name="English">J’avais choisi mon équipe en privilégiant\nleur force, mais mon adversaire avait\ftout misé sur la vitesse!\rBon! La prochaine fois, je prendrai\ndes Pokémon super rapides!</language>
 	</row>
 	<row id="msg_0110_D32R0601_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are advantages to be gained from\n“stop on the spot” skills!\rBut there’s a lot of fun in letting the\nunknown hand of luck decide...</language>
+		<language name="English">Si tu arrives à arrêter le curseur sur\nla bonne case, c’est bien plus facile!\rMais ça peut être amusant aussi\nd’appuyer au hasard et de laisser\fla chance choisir pour toi...</language>
 	</row>
 	<row id="msg_0110_D32R0601_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The game board shows better choices\nthe greater the wins you achieve...\rCould this board be alive...?</language>
+		<language name="English">Plus tes victoires seront\nimpressionnantes, plus le tableau te\fsera favorable.\rEst-ce que...\nLe tableau de jeu serait vivant?</language>
 	</row>
 	<row id="msg_0110_D32R0601_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you figure this one out?\rParalyzing events here won’t\naffect Ground-type Pokémon.\rYou should tell everybody!</language>
+		<language name="English">Si les conditions du combat provoquent\nla paralysie, les Pokémon de type Sol\fne sont pas affectés.\fC’est cool, non?</language>
 	</row>
 	<row id="msg_0110_D32R0601_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll tell you something.\rPoisoning or freezing events can be\nmade ineffective.\r...If the Pokémon’s type or ability\nprotects it from such status problems.\rMight be worth knowing!</language>
+		<language name="English">En fait, selon les capacités spéciales\nde tes Pokémon, tu peux te protéger\fdes effets du poison ou du gel.\fGarde ça à l’esprit!</language>
 	</row>
 </body>

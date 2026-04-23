@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0280_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lovely place</language>
+		<language name="English">Endroit superbe</language>
 	</row>
 	<row id="msg_0280_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,59 +10,59 @@
 	</row>
 	<row id="msg_0280_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Faraway place</language>
+		<language name="English">Endroit lointain</language>
 	</row>
 	<row id="msg_0280_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie</language>
+		<language name="English">Film Pokémon</language>
 	</row>
 	<row id="msg_0280_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie 06</language>
+		<language name="English">Film Pokémon 06</language>
 	</row>
 	<row id="msg_0280_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie 07</language>
+		<language name="English">Film Pokémon 07</language>
 	</row>
 	<row id="msg_0280_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie 08</language>
+		<language name="English">Film Pokémon 08</language>
 	</row>
 	<row id="msg_0280_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie 09</language>
+		<language name="English">Film Pokémon 09</language>
 	</row>
 	<row id="msg_0280_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie 10</language>
+		<language name="English">Film Pokémon 10</language>
 	</row>
 	<row id="msg_0280_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie 11</language>
+		<language name="English">Film Pokémon 11</language>
 	</row>
 	<row id="msg_0280_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie 12</language>
+		<language name="English">Film Pokémon 12</language>
 	</row>
 	<row id="msg_0280_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie 13</language>
+		<language name="English">Film Pokémon 13</language>
 	</row>
 	<row id="msg_0280_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie 14</language>
+		<language name="English">Film Pokémon 14</language>
 	</row>
 	<row id="msg_0280_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie 15</language>
+		<language name="English">Film Pokémon 15</language>
 	</row>
 	<row id="msg_0280_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Movie 16</language>
+		<language name="English">Film Pokémon 16</language>
 	</row>
 	<row id="msg_0280_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Cartoon</language>
+		<language name="English">Dessin ani. PKMN</language>
 	</row>
 	<row id="msg_0280_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -210,31 +210,31 @@
 	</row>
 	<row id="msg_0280_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Center</language>
+		<language name="English">Centre Pokémon</language>
 	</row>
 	<row id="msg_0280_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PC Tokyo</language>
+		<language name="English">CP Tokyo</language>
 	</row>
 	<row id="msg_0280_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PC Osaka</language>
+		<language name="English">CP Osaka</language>
 	</row>
 	<row id="msg_0280_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PC Fukuoka</language>
+		<language name="English">CP Fukuoka</language>
 	</row>
 	<row id="msg_0280_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PC Nagoya</language>
+		<language name="English">CP Nagoya</language>
 	</row>
 	<row id="msg_0280_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PC Sapporo</language>
+		<language name="English">CP Sapporo</language>
 	</row>
 	<row id="msg_0280_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PC Yokohama</language>
+		<language name="English">CP Yokohama</language>
 	</row>
 	<row id="msg_0280_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
@@ -242,70 +242,70 @@
 	</row>
 	<row id="msg_0280_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event</language>
+		<language name="English">Evénem. Pokémon</language>
 	</row>
 	<row id="msg_0280_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event 06</language>
+		<language name="English">Evén. Pokémon 06</language>
 	</row>
 	<row id="msg_0280_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event 07</language>
+		<language name="English">Evén. Pokémon 07</language>
 	</row>
 	<row id="msg_0280_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event 08</language>
+		<language name="English">Evén. Pokémon 08</language>
 	</row>
 	<row id="msg_0280_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event 09</language>
+		<language name="English">Evén. Pokémon 09</language>
 	</row>
 	<row id="msg_0280_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event 10</language>
+		<language name="English">Evén. Pokémon 10</language>
 	</row>
 	<row id="msg_0280_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event 11</language>
+		<language name="English">Evén. Pokémon 11</language>
 	</row>
 	<row id="msg_0280_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event 12</language>
+		<language name="English">Evén. Pokémon 12</language>
 	</row>
 	<row id="msg_0280_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event 13</language>
+		<language name="English">Evén. Pokémon 13</language>
 	</row>
 	<row id="msg_0280_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event 14</language>
+		<language name="English">Evén. Pokémon 14</language>
 	</row>
 	<row id="msg_0280_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event 15</language>
+		<language name="English">Evén. Pokémon 15</language>
 	</row>
 	<row id="msg_0280_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Event 16</language>
+		<language name="English">Evén. Pokémon 16</language>
 	</row>
 	<row id="msg_0280_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wi-Fi Event</language>
+		<language name="English">Evénement Wi-Fi</language>
 	</row>
 	<row id="msg_0280_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wi-Fi Gift</language>
+		<language name="English">Cadeau Wi-Fi</language>
 	</row>
 	<row id="msg_0280_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Fan Club</language>
+		<language name="English">Fan Club Pokémon</language>
 	</row>
 	<row id="msg_0280_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Event Site</language>
+		<language name="English">Lieu d’Evénement</language>
 	</row>
 	<row id="msg_0280_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Concert Event</language>
+		<language name="English">Evénem. Concert</language>
 	</row>
 </body>

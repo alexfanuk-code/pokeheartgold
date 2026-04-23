@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0393_R37_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 37\nNorth to Ecruteak City</language>
+		<language name="English">Route 37\nNord: Rosalia</language>
 	</row>
 	<row id="msg_0393_R37_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rThe move Dig can take you back to\nthe entrance when you use it.\rIf you want to explore a cave or\nsomething similar, a Pokémon with\fDig will be quite useful.</language>
+		<language name="English">Conseils aux Dresseurs!\rLa capacité Tunnel permet de\nrevenir à l’entrée d’un endroit\fen un instant!\rMieux vaut avoir dans son équipe un\nPokémon la connaissant avant\fde partir explorer une grotte!</language>
 	</row>
 </body>

@@ -2,134 +2,134 @@
 <body language="English">
 	<row id="msg_0130_D44R0103_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm... Good to see you here.\fNo need to explain why you came.\rClair sent you here, didn’t she?\fThat girl is a handful...\rI am sorry, but I must test you.\rNot to worry, you are to answer only\na few questions.\fReady?\r</language>
+		<language name="English">Hmm... Bienvenue.\rAllons, ne crains rien. Tu n’as pas\nà parler pour que je t’entende.\fC’est Sandra qui t’a dit de venir,\fj’imagine?\rCette petite me cause bien du souci...\rEnfin... Je m’en excuse, mais je dois\nte mettre à l’épreuve.\rNe crains rien, tu n’auras qu’à\nrépondre à quelques questions.\rCommençons.\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What are Pokémon to you? {YESNO 0}</language>
+		<language name="English">Que représente un Pokémon\nà tes yeux? {YESNO 0}</language>
 	</row>
 	<row id="msg_0130_D44R0103_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What helps you to win battles? {YESNO 0}</language>
+		<language name="English">Qu’est-ce qui permet de gagner\nun combat de Pokémon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0130_D44R0103_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of Trainer do you\nwish to battle? {YESNO 0}</language>
+		<language name="English">Quel type de Dresseur désires-tu\naffronter? {YESNO 0}</language>
 	</row>
 	<row id="msg_0130_D44R0103_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What is most important for\nraising Pokémon? {YESNO 0}</language>
+		<language name="English">Quelle est la chose fondamentale\npour bien élever son Pokémon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0130_D44R0103_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Strong Pokémon. Weak Pokémon.\nWhich is more important? {YESNO 0}</language>
+		<language name="English">Entre deux Pokémon, un puissant\net un faible, lequel préfères-tu? {YESNO 0}</language>
 	</row>
 	<row id="msg_0130_D44R0103_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm... I see...\nYou care deeply for Pokémon.\rVery commendable.\fThat conviction is what is important!\r{STRVAR_1 3, 0, 0}, don’t lose that belief.\rIt will see you through at the\nPokémon League.\r</language>
+		<language name="English">Hmm... Je vois...\rTu prends grand soin de tes Pokémon.\nTant mieux, tant mieux...\rC’est absolument essentiel!\r{STRVAR_1 3, 0, 0}, tu ne dois jamais oublier\nce sentiment.\fSi tu le gardes en toi, même la Ligue\fPokémon ne te résistera pas!\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hah? I didn’t quite catch that...\r</language>
+		<language name="English">Pardon? Excuse-moi,\nje n’ai pas compris ta réponse...\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What was it you said?</language>
+		<language name="English">Qu’as-tu dit?</language>
 	</row>
 	<row id="msg_0130_D44R0103_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, I understand...\r</language>
+		<language name="English">Oh, je vois...\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So how did it go?\rI guess there’s no point in asking.\nYou did fail?\f...\f...What? You passed?\r</language>
+		<language name="English">Alors? Le résultat?\rBah, je ne vois pas pourquoi je pose\nla question, tu as raté, pas vrai?\f...\f... Quoi?! Tu as réussi?!\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{SIZE 200}That can’t be!{SIZE 100}\r</language>
+		<language name="English">{SIZE 200}OBJECTION!{SIZE 100}\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re lying!\nEven I haven’t been approved!\r</language>
+		<language name="English">Tu mens!\nCe n’est pas possible... Moi, je...\fJe n’ai toujours pas...\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair!\rThis child is impeccable,\nin skill and spirit!\rAdmit defeat and confer the\nRising Badge!\r...Or must I inform Lance of this?\r</language>
+		<language name="English">Il suffit, Sandra.\rSa technique et son cœur sont\nirréprochables.\rTu dois admettre ta défaite.\nDonne le Badge Lever!\fSinon...\f... Je serai obligé d’en informer Peter.\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I... I understand...\r</language>
+		<language name="English">Très... Très bien.\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here, this is the Rising Badge...\nHurry up! Take it!\r</language>
+		<language name="English">Tiens, voilà le Badge Lever.\nAllez! Prends-le!\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Rising Badge from Clair!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit le Badge Lever\nde Sandra!</language>
 	</row>
 	<row id="msg_0130_D44R0103_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Rising Badge will enable your\nPokémon to use the move for\fclimbing waterfalls.\rAlso, all Pokémon will know you as\na Trainer and obey your every\fcommand without question.\r</language>
+		<language name="English">Ce Badge permet à tes Pokémon de\nremonter le cours de n’importe quelle\fcascade...\rD’autre part, tous les Pokémon\nte reconnaîtront à présent comme leur\fDresseur et obéiront à tes ordres...\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair...\rReflect upon what it is that you\nlack and this child has.\r</language>
+		<language name="English">Sandra...\rTu dois maintenant t’interroger sur\nce que ce Dresseur possède,\fet qui te manque.\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...\r</language>
+		<language name="English">...\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By the way...\nHave you heard of LUGIA?\rIt is a Pokémon said to have lived\naround Whirl Islands once...\f...Never mind.\rJust mad words of the old.\n</language>
+		<language name="English">Au fait...\nAs-tu déjà entendu le nom de LUGIA?\rC’est un Pokémon dont on dit qu’il vivait\nil y a bien longtemps dans la région des\fTourb’Iles...\r... Non, ne fais pas attention. Avec\nl’âge, je me mets à radoter...</language>
 	</row>
 	<row id="msg_0130_D44R0103_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By the way...\nHave you heard of LUGIA?\fEr...\rBetween Olivine and Cianwood are\nislands called Whirl Islands.\rThere is a huge waterfall deep in the\ncave there. It is said that LUGIA\rrests in the deep end of the\nwaterfall basin...\rYou need a Silver Wing to reach the\nwaterfall basin, I’ve heard...</language>
+		<language name="English">Au fait...\nAs-tu déjà entendu le nom de LUGIA?\r... Hmm.\rIl existe entre Oliville et Irisia un lieu\nappelé les Tourb’Iles.\rUne gigantesque cascade s’écoule en\nleur sein.\rEt l’on dit que LUGIA dort au pied\nde cette cascade...\rToutefois, il faut une Argent’Aile pour\natteindre ce lieu.\fC’est du moins ce que l’on raconte...</language>
 	</row>
 	<row id="msg_0130_D44R0103_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a huge waterfall deep in the\ncave there. It is said that LUGIA\rrests in the deep end of the\nwaterfall basin...\rYou need a Silver Wing to reach the\nwaterfall basin, I’ve heard...</language>
+		<language name="English">Une gigantesque cascade s’écoule au\ncœur des Tourb’Iles...\rEt l’on dit que LUGIA dort au pied\nde cette cascade...\rToutefois, il faut une Argent’Aile pour\natteindre ce lieu.\fC’est du moins ce que l’on raconte...</language>
 	</row>
 	<row id="msg_0130_D44R0103_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come again, if you so desire.</language>
+		<language name="English">N’hésite pas à revenir.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s been quite some time since a\nTrainer has gained our Master’s\frare approval.\rIn fact, not since Master Lance.</language>
+		<language name="English">Cela fait longtemps que notre maître\nn’avait pas reconnu la valeur d’un\fDresseur... Pas une fois depuis Peter.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know young Master Lance?\rHe looks so much like our Master\ndid in his youth.\fIt’s in their blood.</language>
+		<language name="English">Tu connais le maître Peter?\rIl ressemble à notre maître dans sa\njeunesse. Ils ont ça dans le sang...</language>
 	</row>
 	<row id="msg_0130_D44R0103_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm... Good to see you here.\rYour arrival is most fortunate.\nI have something for you.\rTake this DRATINI as proof that I\nnow know your worth.\r</language>
+		<language name="English">Oh... Bienvenue.\rTu tombes au bon moment.\nJ’ai quelque chose pour toi.\rReçois ceci pour preuve de ta valeur!\r</language>
 	</row>
 	<row id="msg_0130_D44R0103_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nDRATINI from the Master!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit MINIDRACO\nde la part de l’Ancien!</language>
 	</row>
 	<row id="msg_0130_D44R0103_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hm? Your party is full.</language>
+		<language name="English">Hmm?\nTon équipe est au complet.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dragon Pokémon are symbolic of\nour clan.\rYou have shown that you can be\nentrusted with one.</language>
+		<language name="English">Les Pokémon de type Dragon sont\nl’emblème de notre clan.\rTu es digne d’en posséder un.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair appears to have learned an\ninvaluable lesson from you.\rI thank you as her grandfather.</language>
+		<language name="English">Je crois que Sandra a appris quelque\nchose en te rencontrant.\rEn tant que son grand-père,\nje te remercie.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A boy close to your age is in\ntraining here.\rHe is much like Clair when she was\nyounger. It is a little worrisome...</language>
+		<language name="English">Un garçon de ton âge s’entraîne ici.\rIl ressemble à Sandra avant votre\nrencontre... Je le garde à l’œil.</language>
 	</row>
 	<row id="msg_0130_D44R0103_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Give a nickname to the\nDRATINI you received? {YESNO 0}</language>
+		<language name="English">Voulez-vous donner un surnom au\nMINIDRACO obtenu? {YESNO 0}</language>
 	</row>
 </body>

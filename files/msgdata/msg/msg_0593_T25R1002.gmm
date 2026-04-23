@@ -2,30 +2,30 @@
 <body language="English">
 	<row id="msg_0593_T25R1002_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ladies at this department store\neven greet kids like me with respect.\rThat’s what I call professional!</language>
+		<language name="English">Les dames du Centre Commercial parlent\npoliment même aux enfants comme moi!\rC’est vraiment des pros!</language>
 	</row>
 	<row id="msg_0593_T25R1002_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The ladies at this department store\nnever change their attitude.\rBe it in front of a regular customer\nor a Team Rocket member.\rThat’s what I call professional!</language>
+		<language name="English">Les dames du Centre Commercial parlent\naux membres de la Team Rocket comme à\fdes personnes normales!\rC’est vraiment des pros!</language>
 	</row>
 	<row id="msg_0593_T25R1002_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The existence of this department store\ntells me that Goldenrod is a big city.\rThe selection here is unmatched\nanywhere else.</language>
+		<language name="English">Il suffit de voir ce Centre Commercial\npour comprendre combien Doublonville\fest une cité importante.\rOn ne trouve nulle part ailleurs un tel\napprovisionnement.</language>
 	</row>
 	<row id="msg_0593_T25R1002_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You better listen to me.\rQuit being a Team Rocket member\nalready!</language>
+		<language name="English">Ecoute la voix de la raison!\rQuitte la Team Rocket le plus\nvite possible, c’est pour ton bien!</language>
 	</row>
 	<row id="msg_0593_T25R1002_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I got my ABRA at the Game Corner.\fNow it’s my best partner.</language>
+		<language name="English">J’ai eu mon ABRA au Casino.\nMaintenant, c’est mon meilleur ami.</language>
 	</row>
 	<row id="msg_0593_T25R1002_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, Team Rocket!\nPlease don’t take my ABRA away!</language>
+		<language name="English">Oh non! La Team Rocket! Je vous\nen prie, ne prenez pas mon ABRA!</language>
 	</row>
 	<row id="msg_0593_T25R1002_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Travel Companion\n2F Trainer’s Market</language>
+		<language name="English">Votre compagnon de voyage\n1¹: Boutique du Dresseur</language>
 	</row>
 </body>

@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0007_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Delete all saved data?</language>
+		<language name="English">Effacer toutes les données\nsauvegardées?</language>
 	</row>
 	<row id="msg_0007_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Once data has been deleted,\nthere is no way to recover it.\rFurthermore, Pokéwalker registered\ndata will also be erased.\rDelete the saved data anyway?</language>
+		<language name="English">Une fois les données effacées, il est\nimpossible de les récupérer.\rLes données du Pokéwalker seront\nelles aussi effacées.\rEffacer les données sauvegardées?</language>
 	</row>
 	<row id="msg_0007_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Deleting all data.\nDon’t turn off the power.</language>
+		<language name="English">Effacement des données en cours...\nNe pas éteindre.</language>
 	</row>
 </body>

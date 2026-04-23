@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0528_T10R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: It’s been a long time since I\nlast came here.\rThis is where we commemorate the\nLeague Champions for all eternity.\rTheir courageous Pokémon are\nalso inducted.\rHere today, we witnessed the rise\nof a new League Champion--\ra Trainer who feels compassion for,\nand trust toward, all Pokémon.\rA Trainer who succeeded through\nperseverance and determination.\rThe new League Champion who has\nall the makings of greatness!\r{STRVAR_1 3, 0, 0}, allow me to register you\nand your partners as Champions!\r</language>
+		<language name="English">Peter: Je ne suis pas venu ici\ndepuis si longtemps...\rCe lieu consacre les Maîtres de la\nLigue pour l’éternité.\rLeurs courageux Pokémon sont\naussi accueillis.\rAujourd’hui, un nouveau Maître a\nfait son apparition. Un Maître\fqui aime ses Pokémon plus que tout.\rUn Dresseur persévérant et déterminé.\rTu possèdes tous les atouts pour\nêtre le plus grand des Maîtres!\r{STRVAR_1 3, 0, 0}, toi et tes amis\nêtes désormais Maîtres!\r</language>
 	</row>
 	<row id="msg_0528_T10R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lance: It’s been a long time since I\nlast came here.\rThis is where we commemorate the\nLeague Champions for all eternity.\rTheir courageous Pokémon are\nalso inducted.\rHere today, we witnessed the rise\nof a new League Champion--\ra Trainer who feels compassion for,\nand trust toward, all Pokémon.\rA Trainer who succeeded through\nperseverance and determination.\rThe new League Champion who has\nall the makings of greatness!\r{STRVAR_1 3, 0, 0}, allow me to register you\nand your partners as Champions!\r</language>
+		<language name="English">Peter: Je ne suis pas venu ici\ndepuis si longtemps...\rCe lieu consacre les Maîtres de la\nLigue pour l’éternité.\rLeurs courageux Pokémon sont\naussi accueillis.\rAujourd’hui, un nouveau Maître a\nfait son apparition. Un Maître\fqui aime ses Pokémon plus que tout.\rUn Dresseur persévérant et déterminé.\rTu possèdes tous les atouts pour\nêtre le plus grand des Maîtres!\r{STRVAR_1 3, 0, 0}, toi et tes amis\nêtes désormais Maîtres!\r</language>
 	</row>
 </body>

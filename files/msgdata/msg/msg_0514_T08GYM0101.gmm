@@ -2,78 +2,78 @@
 <body language="English">
 	<row id="msg_0514_T08GYM0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fufufufu...\nI’m sorry to disappoint you...\rI’m only joking! I’m the real deal!\rJanine of Fuchsia Gym, that’s me!\r</language>
+		<language name="English">Hahaha!\nDommage, mais c’est raté...\rEh non! C’était encore un piège!\rC’est moi la vraie!\nJeannine, de l’Arène de Parmanie!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I see... You have defeated\nKoga, my father and a member of the\fElite Four, to come here.\rNo wonder you are strong!\rYou’ve definitely won...\nHere’s the Soul Badge. Take it.\r</language>
+		<language name="English">Jeannine: Tu as du talent, toi.\nJe comprends que tu aies réussi à\fvaincre Koga, du Conseil 4...\fC’est-à-dire mon papa!\rHahaha! Que tu es balèze! J’ai perdu\nsur toute la ligne!\rTiens! Prends ce Badge Ame!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe Soul Badge from Janine!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit le Badge Ame de\nJeannine!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: You’re so tough!\nI have a special gift!\rIt’s Poison Jab, a powerful Poison-type\nmove that may poison its victim.\r</language>
+		<language name="English">Jeannine: Et tu as tant de talent que\ntu mérites un cadeau en plus!\rC’est Direct Toxik, une attaque\nqui peut aussi empoisonner sa cible!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: I’m going to really apply\nmyself and improve my skills.\rI want to become much better than\nboth my father and you!</language>
+		<language name="English">Jeannine: Je dois encore m’entraîner\net m’améliorer.\rJe continuerai jusqu’à ce que je sois\nplus forte que toi et que papa!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo, legend in the making!\nWhoops! Take a good look around you.\rThe Trainers all look like the\nGym Leader, Janine.\rWhich of them is the real Janine?</language>
+		<language name="English">Salut! Future légende!\rRegarde bien autour de toi:\ntous ces sosies de\fJeannine, Champion de l’Arène...\rSauras-tu découvrir qui est la vraie?</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That was a great battle,\nTrainer from Johto!</language>
+		<language name="English">C’était un beau combat,\nDresseur de Johto!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fooled you!\nHahaha!\r</language>
+		<language name="English">Tu m’as crue!\nHahaha! Débile!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well? Wasn’t my disguise perfect?</language>
+		<language name="English">Tu penses quoi de mon déguisement?\nTout le monde m’en dit du bien!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wahahaha!\rYou betcha! I’m Janine!\r</language>
+		<language name="English">Hahaha!\rJ’te jure, je suis la vraie!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s right, I’m a boy!\nWhat’s wrong with a boy\fdressing up as Janine?</language>
+		<language name="English">Et oui, je suis un garçon!\nJ’ai bien le droit de me déguiser en\fJeannine si je veux!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fufufu!\rI’m Janine, the Gym Leader!\fWait, no I’m not! Gotcha!\r</language>
+		<language name="English">Hahaha!\nJe suis Jeannine, Champion de l’Arène!\r...\nMême pas vrai!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fooled you!\nHahaha!\r</language>
+		<language name="English">Hahaha!\nJe me suis jamais autant amusée!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s so fun to dress up as Janine,\nour idol!</language>
+		<language name="English">C’est trop génial de se déguiser en\nquelqu’un qu’on admire comme ça!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m Janine!\nHow did you know I was real?\fLet’s battle!\r</language>
+		<language name="English">Je suis Jeannine!\nBravo, tu m’as trouvée!\fEn garde!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Or not!\r</language>
+		<language name="English">Mon piège a fonctionné!\r</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I feel stronger dressing up as Janine.</language>
+		<language name="English">Quand je suis déguisée en elle,\nje me sens plus forte!</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fuchsia City Pokémon Gym</language>
+		<language name="English">Arène de Parmanie</language>
 	</row>
 	<row id="msg_0514_T08GYM0101_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fuchsia City Pokémon Gym\rLeader: Janine\nCertified Trainer!\f{STRVAR_1 3, 0, 0}</language>
+		<language name="English">Arène de Parmanie\rChampion: Jeannine\nDresseur estimé:\f{STRVAR_1 3, 0, 0}</language>
 	</row>
 </body>

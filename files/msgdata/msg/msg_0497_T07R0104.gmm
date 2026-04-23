@@ -2,78 +2,78 @@
 <body language="English">
 	<row id="msg_0497_T07R0104_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Out of all the Trainers\nout there, the best Trainer would\fhave to be my dad.\r</language>
+		<language name="English">Albert: Le meilleur Dresseur du monde,\nc’est mon père! Y’a personne de\fmeilleur que lui!\r</language>
 	</row>
 	<row id="msg_0497_T07R0104_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Ha!\nYou don’t know a thing!\rThe best Trainer in the world is Koga,\none of the Elite Four!\fNamely--my dad!\r</language>
+		<language name="English">Jeannine: Hahaha! T’y connais rien\nà la vie, toi!\rLe meilleur Dresseur de Pokémon du\nmonde entier, c’est Koga, du\fConseil 4!\rC’est-à-dire mon papa!\nC’est l’évidence même!\r</language>
 	</row>
 	<row id="msg_0497_T07R0104_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: You are mistaken.\nMy dad treats Poké...\r</language>
+		<language name="English">Albert: Tu ne sais pas de quoi tu\nparles, les Pokémon de mon p...\r</language>
 	</row>
 	<row id="msg_0497_T07R0104_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Please stop this!\nWhy don’t you just admit that my dad\fis the true Trainer!\r</language>
+		<language name="English">Jeannine: Tais-toi avec tes bêtises, et\nadmets que mon papa est le meilleur!\r</language>
 	</row>
 	<row id="msg_0497_T07R0104_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: You were listening, right?\nYou agree my dad is\fgreater, right? {YESNO 0}</language>
+		<language name="English">Albert: Hé! Toi! T’as entendu ça?\nT’es bien d’accord que mon père\fest le meilleur, hein? {YESNO 0}</language>
 	</row>
 	<row id="msg_0497_T07R0104_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: You do?\nJust as I thought!\rYou know something?\nI’m sure we’ll enjoy talking about\fmy dad!\fHere is my number!\r</language>
+		<language name="English">Albert: Ah, j’en étais sûr!\nTu avais l’air futé, toi!\rTu vas voir, on va bien s’amuser\nà parler de mon père tous les deux!\rTiens, je vais te donner mon numéro\nde téléphone!\r</language>
 	</row>
 	<row id="msg_0497_T07R0104_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Falkner\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré Albert\ndans son Pokématos!</language>
 	</row>
 	<row id="msg_0497_T07R0104_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Give me a call on Saturday\nmorning if you want to hear about\fmy dad!</language>
+		<language name="English">Albert: Si tu veux que je te parle\nencore de mon père, tu peux m’appeler\fle samedi matin!</language>
 	</row>
 	<row id="msg_0497_T07R0104_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: You don’t?\nI thought you were smarter than that.\rOh, well.\fYou’ll change your mind eventually.</language>
+		<language name="English">Albert: Comment ça?!\nTu avais l’air relativement futé,\fpourtant! Je me suis trompé sur toi!\rBah, ce n’est pas grave.\nTu peux toujours changer d’avis.</language>
 	</row>
 	<row id="msg_0497_T07R0104_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: So, you did change your mind.\nYou now think my dad\fis greater? {YESNO 0}</language>
+		<language name="English">Albert: Alors? Tu as changé d’avis?\nC’est mon père le meilleur, hein? {YESNO 0}</language>
 	</row>
 	<row id="msg_0497_T07R0104_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Hey, why don’t we take\na picture together? {YESNO 0}</language>
+		<language name="English">Albert: Hé! Hé!\nOn prend une photo, toi et moi? {YESNO 0}</language>
 	</row>
 	<row id="msg_0497_T07R0104_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: All right!\nAre you ready?\r</language>
+		<language name="English">Albert: Merci!\nBon, on ne bouge plus...\r</language>
 	</row>
 	<row id="msg_0497_T07R0104_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: Yes!\nWe look good.</language>
+		<language name="English">Albert: Cool!\nElle est chouette cette photo!</language>
 	</row>
 	<row id="msg_0497_T07R0104_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Falkner: That’s all right.\nI’ll just take one with my dad...</language>
+		<language name="English">Albert: Ah... Je comprends...\nBon, ben, j’irai prendre une photo\favec mon père, alors...</language>
 	</row>
 	<row id="msg_0497_T07R0104_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC and delete\nsome pictures.</language>
+		<language name="English">Votre Album Photo est plein!\rRevenez après y avoir fait le ménage\ndans votre PC.</language>
 	</row>
 	<row id="msg_0497_T07R0104_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Janine: Bah!</language>
+		<language name="English">Jeannine: J’le savais!</language>
 	</row>
 	<row id="msg_0497_T07R0104_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m here to buy Bloom Mail to send\nto my girlfriend.</language>
+		<language name="English">Je suis venu acheter une Lettre Pétale\npour écrire à ma copine!</language>
 	</row>
 	<row id="msg_0497_T07R0104_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You know what?\rTunnel Mail is finally available\nat this department store!\rPreviously, it was only sold\nin Violet City.</language>
+		<language name="English">Hé! Toi!\rTu connais les Lettres Mine, qu’on ne\npouvait acheter qu’à Mauville?\rEh bien maintenant, on peut aussi en\nacheter ici!</language>
 	</row>
 	<row id="msg_0497_T07R0104_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gifts to Express Yourself!\n4F: Wiseman Gifts</language>
+		<language name="English">Le plaisir d’offrir!\n3⁴: Cadeaux du Sage</language>
 	</row>
 </body>

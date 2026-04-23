@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0061_D18R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eusine: Did you see it?\rSUICUNE raced by like a blur, right in\nfront of my eyes!\rI have been chasing SUICUNE for almost\nten years, but I have never been this\fclose! I’m all choked up!\r</language>
+		<language name="English">Eusine: Tu as vu ça?!\rSUICUNE a jailli juste devant mes yeux!\rÇa fait plus de 10 ans que je cours\naprès lui, et c’est la première fois\fque je le vois d’aussi près! Quelle joie!\r</language>
 	</row>
 	<row id="msg_0061_D18R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">By the way...\nIt was clear to me that SUICUNE took\fnotice of your presence.\rEcruteak’s legendary Pokémon are said\nto come to people only when they\frecognize their talents.\rPerhaps I should be more aggressive\ntoward SUICUNE...\rAnyway, {STRVAR_1 3, 0, 0}, we will\nmeet again!\r</language>
+		<language name="English">En tous cas, il faut reconnaître que\nSUICUNE semblait visiblement intrigué\fpar toi...\rLes Pokémon légendaires de Rosalia\nne s’approchent que des humains\fdont ils ont décelé la force...\rLa prochaine fois, moi aussi je\nm’approcherai de SUICUNE directement!\rAllez, {STRVAR_1 3, 0, 0}!\nA la prochaine!\r</language>
 	</row>
 </body>

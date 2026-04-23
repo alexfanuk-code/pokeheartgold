@@ -2,58 +2,58 @@
 <body language="English">
 	<row id="msg_0611_T26R0701_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You!\nHow is your Pokémon training\fcoming along?\rHave you ever noticed that in the\nmountains, sometimes there are round\fboulders right in your way...?\rYou can move them with the\nhidden move Strength!\rHikers at Mt. Mortar sometimes have\nextra, or so I’ve heard...</language>
+		<language name="English">Toi là!\nTu entraînes tes Pokémon?\rQuand on se promène en montagne, on\ntombe parfois sur des rochers ronds...\rAvec la capacité Force, il est possible\nde les déplacer!\rTous les Montagnards qui s’attaquent\nau Mont Creuset l’ont!</language>
 	</row>
 	<row id="msg_0611_T26R0701_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gobble...gobble...\r...Choke!\nAck... I’m choking!\rWhew! That was close.\nI should chew before I swallow my food.</language>
+		<language name="English">... Glup... Glup...\r... Rah!\nÇa va mieux!\rC’était coincé!\nIl faut bien mâcher quand on mange!</language>
 	</row>
 	<row id="msg_0611_T26R0701_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whenever I roll into Olivine, I always\nvisit the Olivine Café.\rEverything on the menu makes me feel\nstronger. I can’t stop eating!</language>
+		<language name="English">Je passe toujours par ce café quand\nje viens à Oliville.\rLa nourriture ici est tellement\nrevigorante, on ne s’en lasse pas!</language>
 	</row>
 	<row id="msg_0611_T26R0701_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine Café’s menu is chock-full\nof hearty fare for beefy Sailors!</language>
+		<language name="English">La carte ici est étudiée spécialement\npour proposer des menus\freconstituants!\fLes Marins en ont bien besoin!</language>
 	</row>
 	<row id="msg_0611_T26R0701_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Hi!\n...!\rThese empty dishes in front of me\nare not all mine...\rEr...\rActually, the person who sat here\nahead of me ate a lot...\rAnyway, do you want to exchange\nphone numbers? {YESNO 0}</language>
+		<language name="English">Jasmine: Bonjour!\n...\rNon, non! Ce n’est pas moi qui ai\nmangé tout le contenu de\fcette assiette!\rOui, c’est ça!\nCe sont les couverts de la personne\favant moi!\r...\rTu veux mon numéro de téléphone?\nTu es là pour ça, j’imagine? {YESNO 0}</language>
 	</row>
 	<row id="msg_0611_T26R0701_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Jasmine\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré Jasmine\ndans son Pokématos!</language>
 	</row>
 	<row id="msg_0611_T26R0701_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Now we can contact each\nother anytime.\rI should be able to battle you around\nnoon on Wednesdays.\fI’ll be waiting for your call!</language>
+		<language name="English">Jasmine: Et comme ça, nous pourrons\ngarder le contact.\rJe ne suis pas trop occupée le mercredi\nen journée et nous pourrions\frefaire un match.\fJ’attends ton coup de fil...</language>
 	</row>
 	<row id="msg_0611_T26R0701_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Oh... I understand...</language>
+		<language name="English">Jasmine: Ah oui? ... Vraiment?</language>
 	</row>
 	<row id="msg_0611_T26R0701_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Did you change your mind?\nWill you exchange numbers? {YESNO 0}</language>
+		<language name="English">Jasmine: Je savais que tu voudrais\nmon numéro en fin de compte... {YESNO 0}</language>
 	</row>
 	<row id="msg_0611_T26R0701_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: We seem to...bump into each\nother often.\rWhy don’t we take a picture\nto make this a memory? {YESNO 0}</language>
+		<language name="English">Jasmine: Nous avons plein\nde points communs!\rTu ne voudrais pas faire une photo\navec moi pour célébrer ça? {YESNO 0}</language>
 	</row>
 	<row id="msg_0611_T26R0701_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: Are you ready?\r</language>
+		<language name="English">Jasmine: Alors, allons-y!\r</language>
 	</row>
 	<row id="msg_0611_T26R0701_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: You did a fine job.\nWe look good.</language>
+		<language name="English">Jasmine: C’est fini!\nOh, c’est une jolie photo!</language>
 	</row>
 	<row id="msg_0611_T26R0701_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: I see...</language>
+		<language name="English">Jasmine: Vraiment?</language>
 	</row>
 	<row id="msg_0611_T26R0701_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Photo Album is full.\rAccess your PC to delete\nsome pictures.</language>
+		<language name="English">Votre Album Photo est plein!\rRevenez après y avoir fait le ménage\ndans votre PC.</language>
 	</row>
 </body>

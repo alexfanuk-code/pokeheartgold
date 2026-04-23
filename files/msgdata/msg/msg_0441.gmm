@@ -2,164 +2,164 @@
 <body language="English">
 	<row id="msg_0441_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please wait a moment.</language>
+		<language name="English">Veuillez patienter.</language>
 	</row>
 	<row id="msg_0441_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0441_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} will be fully\nrestored.</language>
+		<language name="English">Laissez-moi remettre {STRVAR_1 0, 0, 0}\nen pleine forme!</language>
 	</row>
 	<row id="msg_0441_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle no. {STRVAR_1 53, 0, 0} is next!\nAre you ready?</language>
+		<language name="English">Prochaine étape, le combat nº {STRVAR_1 53, 0, 0}!\nOn y va?</language>
 	</row>
 	<row id="msg_0441_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to save the last battle\nas your Battle Video?</language>
+		<language name="English">Voulez-vous enregistrer la vidéo du\ndernier combat sur le Magnéto VS?</language>
 	</row>
 	<row id="msg_0441_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s battle has been saved\nas a Battle Video.\r</language>
+		<language name="English">La Vidéo de combat de {STRVAR_1 3, 0, 0}\na été sauvegardée.\r</language>
 	</row>
 	<row id="msg_0441_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There was an error.\nThe Battle Video couldn’t be saved.</language>
+		<language name="English">Une erreur est survenue.\nLa sauvegarde a échoué.</language>
 	</row>
 	<row id="msg_0441_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Delete your existing Battle Video and\nsave the last battle?</language>
+		<language name="English">Effacer la Vidéo de combat précédente\npour enregistrer ce combat?</language>
 	</row>
 	<row id="msg_0441_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Sauvegarde en cours...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0441_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to save and take a break\nfrom playing?</language>
+		<language name="English">Voulez-vous sauvegarder et faire une\npause?</language>
 	</row>
 	<row id="msg_0441_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to retire from this\nBattle Hall challenge?</language>
+		<language name="English">Voulez-vous abandonner le défi\nde la Scène de Combat?</language>
 	</row>
 	<row id="msg_0441_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} is choosing.\nPlease wait.</language>
+		<language name="English">Attente d’une réponse de {STRVAR_1 3, 0, 0}.\nVeuillez patienter.</language>
 	</row>
 	<row id="msg_0441_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0441_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} chose to retire.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a décidé d’abandonner.</language>
 	</row>
 	<row id="msg_0441_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have cleared your tenth Battle Hall\nmatch! Congratulations!\rFor your stupendous win streak, you\nand {STRVAR_1 0, 0, 0} are awarded BP!\r</language>
+		<language name="English">Vous avez remporté votre dixième\nvictoire d’affilée! Félicitations!\rPour vous récompenser, vous et\n{STRVAR_1 0, 0, 0}, acceptez donc ces PCo!\r</language>
 	</row>
 	<row id="msg_0441_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 1, 0} BP!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} obtient {STRVAR_1 51, 1, 0} PCo!\r</language>
 	</row>
 	<row id="msg_0441_00016" index="16">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0441_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Sauvegarde en cours...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0441_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0441_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONTINUE</language>
+		<language name="English">CONTINUER</language>
 	</row>
 	<row id="msg_0441_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RECORD</language>
+		<language name="English">ENREGISTRER</language>
 	</row>
 	<row id="msg_0441_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REST</language>
+		<language name="English">FAIRE UNE PAUSE</language>
 	</row>
 	<row id="msg_0441_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RETIRE</language>
+		<language name="English">ABANDONNER</language>
 	</row>
 	<row id="msg_0441_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please choose the type of Pokémon\nyou will battle.\r</language>
+		<language name="English">Veuillez choisir le type de Pokémon\nque vous voulez affronter.\r</language>
 	</row>
 	<row id="msg_0441_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will you battle the {STRVAR_1 15, 0, 0}-type,\nRank {STRVAR_1 51, 1, 0} Pokémon?</language>
+		<language name="English">Voulez-vous affronter le type\n{STRVAR_1 15, 0, 0}, rang {STRVAR_1 51, 1, 0}?</language>
 	</row>
 	<row id="msg_0441_00025" index="25">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0441_00026" index="26">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0441_00027" index="27">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0441_00028" index="28">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0441_00029" index="29">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">X</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0441_00030" index="30">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">X</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0441_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Will you battle against the Hall Matron?</language>
+		<language name="English">Voulez-vous affronter la Lady Scène?</language>
 	</row>
 	<row id="msg_0441_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\nPlease hold on a moment.\rIn recognition of your remarkable\nwinning streak, our Frontier Brain is\fdemanding a match with you.\rActually, you have no choice.\nYou must battle our Hall Matron!\r</language>
+		<language name="English">Excusez-moi! Puis-je avoir votre\nattention un moment?\rVous avez impressionné notre Meneur\nde Zone, et il a décidé de vous\faffronter en personne.\rAlors préparez-vous, vous allez\naffronter la Lady Scène!\r</language>
 	</row>
 	<row id="msg_0441_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argenta: My Battle Hall allows Trainers\nto mount challenges with their one\fpreferred Pokémon.\rI imagine there were tense moments\ngetting here with your chosen one.\rBut understand that one shines the\nbrightest when a challenge is overcome.\rI am Argenta, and I am your final and\nmost daunting challenge.\rI dare you to overcome my challenge.\r</language>
+		<language name="English">Célosia: Sur ma Scène de Combat, les\nDresseurs affrontent toutes les\fépreuves avec leur Pokémon favori.\rUn Dresseur, un Pokémon. J’imagine que\nça n’a pas été facile d’arriver à ce\fniveau.\rMais sache que c’est à travers de\ntelles épreuves que l’on grandit.\rJe m’appelle Célosia, et je suis\nton ultime adversaire. Prépare-toi!\rJ’espère que tu seras à la hauteur.\r</language>
 	</row>
 	<row id="msg_0441_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argenta: Well!\nMy goodness, your Pokémon...\fIt’s got star power beyond belief.\rEven from inside its Poké Ball, I can\nfeel its charismatic brilliance.\rBut I’m the Hall Matron.\nI’ll be the judge of that.\rI must battle it for myself and see if\nthat brilliance is genuine.\rThat is why we must battle now.\r</language>
+		<language name="English">Célosia: Bien!\nWaouh... Ton Pokémon!\fSon charisme rayonne intensément.\rDe l’intérieur même de sa Poké Ball, il\nparvient à faire sentir sa présence.\rEn tant que Meneur de Zone, je me dois\nde déterminer sa valeur au combat.\rTon Pokémon et toi devrez me vaincre\npour prouver que vous êtes réellement\fdignes de la Scène de Combat.\r</language>
 	</row>
 	<row id="msg_0441_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argenta: A good Trainer doesn’t force\ntheir preferred Pokémon on anyone.\rA good one keeps with their favorite\nwithout drama or fanfare.\rThat is how I see it, at least.\rAnd, by the way I see it, you’re an\nexcellent Trainer!\rBe sure to visit the Battle Hall again\nwith a favorite Pokémon.\rUntil then, bye-bye!\r</language>
+		<language name="English">Célosia: Un bon Dresseur n’exhibe pas\nson Pokémon favori comme un trophée.\rAu contraire, un bon Dresseur doit\nsavoir faire preuve d’humilité.\rEt d’après ce que je vois, tu es\ntoi-même un excellent Dresseur!\rReviens à la Scène de Combat avec\nun de tes Pokémon favoris.\rJe suis certaine que nous nous\nreverrons.\r</language>
 	</row>
 	<row id="msg_0441_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Argenta: You must never forget there\nis a place where everyone can shine.\rThat goes for any and every kind of\nPokémon, too.\rSpread that message in your own words.\nIt’s one everyone should hear.\rAnd now, having lost, this lady has\nnothing left to say at all, but...\rBye-bye!\r</language>
+		<language name="English">Célosia: N’oublie jamais que tout le\nmonde a une place dans ce monde.\rNon seulement tous les humains, mais\naussi tous les Pokémon.\rC’est un message que tu peux\ntransmettre à tout le monde.\rMédite sur ces mots. Quant à moi,\nil ne me reste qu’une chose à dire:\fau revoir!\r</language>
 	</row>
 	<row id="msg_0441_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please select what type of Pokémon\nyou’d like to battle.</language>
+		<language name="English">Veuillez choisir le type du Pokémon à\ncombattre.</language>
 	</row>
 </body>

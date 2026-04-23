@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0366_R26R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Did you think you were lucky to find\na place to rest right where you\fneeded it?\rDon’t be reserved!\nI look forward to people’s smiles.\fLet your Pokémon rest here!\r</language>
+		<language name="English">Ah, je suis sûre que tu te dis: “Quelle\nveine d’avoir trouvé un endroit où me\freposer”, non?\rNe dis rien, je sais tout!\rC’est mon plaisir de voir le sourire des\nDresseurs qui se préparent à affronter\fla Ligue Pokémon.\rAllez! Laisse ton équipe se reposer!\r</language>
 	</row>
 	<row id="msg_0366_R26R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There!\nYour Pokémon are looking good!\fKeep at it!</language>
+		<language name="English">Voilà!\nTon équipe est en pleine forme!\fAllez, bonne chance!</language>
 	</row>
 	<row id="msg_0366_R26R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CHANSEY: Ch-Chansey!</language>
+		<language name="English">LEVEINARD: Veina!</language>
 	</row>
 </body>

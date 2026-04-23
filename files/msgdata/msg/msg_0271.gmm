@@ -2,116 +2,116 @@
 <body language="English">
 	<row id="msg_0271_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Call</language>
+		<language name="English">TELEPHONER</language>
 	</row>
 	<row id="msg_0271_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sort</language>
+		<language name="English">ORDRE</language>
 	</row>
 	<row id="msg_0271_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0271_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Title</language>
+		<language name="English">ACTIVITE</language>
 	</row>
 	<row id="msg_0271_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Alphabet</language>
+		<language name="English">ORDRE ALPHABETIQUE</language>
 	</row>
 	<row id="msg_0271_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Location</language>
+		<language name="English">ADRESSE</language>
 	</row>
 	<row id="msg_0271_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Move</language>
+		<language name="English">DEPLACER</language>
 	</row>
 	<row id="msg_0271_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0271_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Save some money</language>
+		<language name="English">ECONOMISER</language>
 	</row>
 	<row id="msg_0271_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t save money</language>
+		<language name="English">NE PAS ECONOMISER</language>
 	</row>
 	<row id="msg_0271_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Evaluate Pokédex</language>
+		<language name="English">MONTRER POKéDEX</language>
 	</row>
 	<row id="msg_0271_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0271_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Evaluate Johto Pokédex</language>
+		<language name="English">MONTRER POKéDEX JOHTO</language>
 	</row>
 	<row id="msg_0271_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Evaluate National Pokédex</language>
+		<language name="English">MONTRER POKéDEX NATIONAL</language>
 	</row>
 	<row id="msg_0271_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0271_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Evaluate National Pokédex</language>
+		<language name="English">MONTRER POKéDEX NATIONAL</language>
 	</row>
 	<row id="msg_0271_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0271_00017" index="17">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0271_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yes</language>
+		<language name="English">Oui</language>
 	</row>
 	<row id="msg_0271_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No</language>
+		<language name="English">Non</language>
 	</row>
 	<row id="msg_0271_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please select the next search.</language>
+		<language name="English">Que voulez-vous faire?</language>
 	</row>
 	<row id="msg_0271_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Select where you wish to move.</language>
+		<language name="English">Veuillez choisir le prochain lieu.</language>
 	</row>
 	<row id="msg_0271_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What will you do?</language>
+		<language name="English">Que décidez-vous?</language>
 	</row>
 	<row id="msg_0271_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sort by Trainer type</language>
+		<language name="English">Classe par type de Dresseur.</language>
 	</row>
 	<row id="msg_0271_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sort by alphabet</language>
+		<language name="English">Classe par ordre alphabétique.</language>
 	</row>
 	<row id="msg_0271_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sort by location</language>
+		<language name="English">Classe par adresse.</language>
 	</row>
 	<row id="msg_0271_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manual sort</language>
+		<language name="English">Permet de classer librement.</language>
 	</row>
 	<row id="msg_0271_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Finish sorting</language>
+		<language name="English">Finir le classement.</language>
 	</row>
 	<row id="msg_0271_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
@@ -123,62 +123,62 @@
 	</row>
 	<row id="msg_0271_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">......</language>
+		<language name="English">...</language>
 	</row>
 	<row id="msg_0271_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...... ......</language>
+		<language name="English">... ...</language>
 	</row>
 	<row id="msg_0271_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...... ...... ......</language>
+		<language name="English">... ... ...</language>
 	</row>
 	<row id="msg_0271_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Click!</language>
+		<language name="English">Tuut!</language>
 	</row>
 	<row id="msg_0271_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Click!\n......</language>
+		<language name="English">Tuut!\n...</language>
 	</row>
 	<row id="msg_0271_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Click!\n...... ......</language>
+		<language name="English">Tuut!\n... ...</language>
 	</row>
 	<row id="msg_0271_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Click!\n...... ...... ......</language>
+		<language name="English">Tuut!\n... ... ...</language>
 	</row>
 	<row id="msg_0271_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That number is out\nof the area.</language>
+		<language name="English">Ça ne décroche pas...\nVotre correspondant doit être absent.</language>
 	</row>
 	<row id="msg_0271_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Professor</language>
+		<language name="English">Professeur Pokémon</language>
 	</row>
 	<row id="msg_0271_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Childhood Friend</language>
+		<language name="English">Camarade d’enfance</language>
 	</row>
 	<row id="msg_0271_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poké Ball Creator</language>
+		<language name="English">Fabricant de Balls</language>
 	</row>
 	<row id="msg_0271_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Day Care</language>
+		<language name="English">Pension</language>
 	</row>
 	<row id="msg_0271_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Radio Personality</language>
+		<language name="English">Personnalité</language>
 	</row>
 	<row id="msg_0271_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poké Maniac</language>
+		<language name="English">Pokémaniac</language>
 	</row>
 	<row id="msg_0271_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Safari Warden</language>
+		<language name="English">Directeur Safari</language>
 	</row>
 </body>

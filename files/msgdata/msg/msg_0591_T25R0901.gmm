@@ -2,38 +2,38 @@
 <body language="English">
 	<row id="msg_0591_T25R0901_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, hello!\nI am the official Name Rater!\rWant me to rate the nicknames of\nyour Pokémon? {YESNO 0}</language>
+		<language name="English">Bon... Bon...\nJe suis le Spécialiste des Noms.\rVeux-tu que j’examine les surnoms\nque tu as donnés à tes Pokémon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0591_T25R0901_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Pokémon’s nickname should\nI critique?</language>
+		<language name="English">Bon... Bon...\nQuel surnom de Pokémon veux-tu\fque j’examine?</language>
 	</row>
 	<row id="msg_0591_T25R0901_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}, is it? Hmm...\nThat is a decent nickname!\rBut, I can give it a nicer name?\nHow about it? {YESNO 0}</language>
+		<language name="English">Ho... Ho... {STRVAR_1 1, 0, 0}...\nCe n’est pas un mauvais surnom...\rMais on peut lui trouver un surnom\nlégèrement meilleur...\rQu’en dis-tu? {YESNO 0}</language>
 	</row>
 	<row id="msg_0591_T25R0901_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, then. What shall the new\nnickname be?\r</language>
+		<language name="English">Bon... Bon...\nQuel va être son nouveau surnom?\r</language>
 	</row>
 	<row id="msg_0591_T25R0901_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Done!\nHow about that?\rFrom now on, this Pokémon\nshall be known as {STRVAR_1 1, 0, 0}!\rIt is a better name than before,\nisn’t it?\fGood for you!</language>
+		<language name="English">Bon!\nDorénavant, le surnom de ce Pokémon\fsera {STRVAR_1 1, 0, 0}!\rC’est un nom légèrement mieux...\nTu ne trouves pas?</language>
 	</row>
 	<row id="msg_0591_T25R0901_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, good. I see.\nDo come visit again if you change\fyour mind.</language>
+		<language name="English">Bon... Bon... Tu ne veux pas...\nFais comme tu veux.\fReviens me voir si l’envie t’en prend.</language>
 	</row>
 	<row id="msg_0591_T25R0901_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Done! From now on, this Pokémon\nshall be known as {STRVAR_1 1, 0, 0}!\rIt looks no different from before?\nThat’s just you!\fThis is vastly superior!\fHow fortunate for you!</language>
+		<language name="English">Bon!\nDorénavant, le surnom de ce Pokémon\fsera {STRVAR_1 1, 0, 0}!\rComment? Ça ne change pas vraiment?\nCe n’est qu’une impression.\rSon nouveau nom est mieux\nque l’ancien.</language>
 	</row>
 	<row id="msg_0591_T25R0901_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 0, 0}, is it?\nThat is a truly impeccable nickname!\rTake good care of {STRVAR_1 1, 0, 0}!</language>
+		<language name="English">Hmmm...\n{STRVAR_1 1, 0, 0}...\rC’est un surnom parfait, fais-moi\nconfiance, je m’y connais.\rPrends soin de {STRVAR_1 1, 0, 0}.</language>
 	</row>
 	<row id="msg_0591_T25R0901_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Now, now.\nThat is merely an Egg!</language>
+		<language name="English">Mais... Mais...\nMais ce n’est qu’un Oeuf.</language>
 	</row>
 </body>

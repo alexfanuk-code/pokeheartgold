@@ -2,38 +2,38 @@
 <body language="English">
 	<row id="msg_0260_P01R0302_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Captain, play with me, please?\rI’m bored! I want to play more!\r</language>
+		<language name="English">Monsieur! Je veux jouer!\nMonsieur!!!\rJe m’ennuie!\nJe veux jouer!\r</language>
 	</row>
 	<row id="msg_0260_P01R0302_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you are going to play with me?\rLet’s play hide-and-seek!\nI’ll hide, so close your eyes!\r</language>
+		<language name="English">Ah bon? Tu veux bien t’amuser avec\nmoi à sa place?\rAlors on va jouer à cache-cache!\nJe commence, ferme les yeux!\r</language>
 	</row>
 	<row id="msg_0260_P01R0302_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you are going to play with me?\rLet’s play hide-and-seek!\nI’ll hide, so close your eyes!\r</language>
+		<language name="English">Ah bon? Tu veux bien t’amuser avec\nmoi à sa place?\rAlors on va jouer à cache-cache!\nJe commence, ferme les yeux!\r</language>
 	</row>
 	<row id="msg_0260_P01R0302_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you are going to play with me?\rLet’s play hide-and-seek!\nI’ll hide, so close your eyes!\r</language>
+		<language name="English">Ah bon? Tu veux bien t’amuser avec\nmoi à sa place?\rAlors on va jouer à cache-cache!\nJe commence, ferme les yeux!\r</language>
 	</row>
 	<row id="msg_0260_P01R0302_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This little girl keeps asking me to play\nwith her.\rOuch! Please don’t stretch my ear!</language>
+		<language name="English">Ah, elle insiste tellement pour jouer\nque je ne peux pas lui dire non...\rAïe! Laisse mes oreilles tranquilles!</language>
 	</row>
 	<row id="msg_0260_P01R0302_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for playing with her.\rYou may think being a Captain\nis a somewhat easy job, but\fit’s actually quite demanding.\rThat little passenger has gone out\nof the room.\rShe can’t get off the ship, so she\nmust be hiding somewhere\faround here.</language>
+		<language name="English">Pardon de te laisser prendre\nma place...\rJe sais que j’ai l’air de ne rien faire,\nmais un capitaine de navire, ça n’a pas\fune seconde à soi!\rLa jolie petite fille est sortie\nde la cabine.\rMais elle ne peut pas quitter le bateau,\nelle doit s’être cachée quelque part...</language>
 	</row>
 	<row id="msg_0260_P01R0302_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How do you like S.S. Aqua’s ride?\rShe practically skates across\nthe waves.</language>
+		<language name="English">Eh bien? L’Aquaria est un beau\nbateau, pas vrai?\rOn dirait qu’il glisse sur l’eau\nsans la toucher, pas vrai?!</language>
 	</row>
 	<row id="msg_0260_P01R0302_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Long time no see.\nHow are you doing?\rThe S.S. Aqua is as smooth as she\ncan be!\rBy the way, I found this mysterious\nthing when I went to Sinnoh\fthe other day.\rNow that we’ve met again,\nI would like you to have it.\r</language>
+		<language name="English">Ah, c’est encore toi! Tu vas bien?\nAucun problème à signaler à bord!\rAh, au fait, je reviens de Sinnoh, et j’y\nai trouvé un truc vraiment bizarre!\rJe ne sais pas quoi en faire, alors\ntiens, c’est à toi!\r</language>
 	</row>
 	<row id="msg_0260_P01R0302_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Bag is full.\rYou must like the {STRVAR_1 8, 1, 0} a lot.</language>
+		<language name="English">Ah, mais ton Sac est plein!\r{STRVAR_1 8, 1, 0}... Je suis sûr que tu\ndois vraiment beaucoup aimer ça...</language>
 	</row>
 </body>

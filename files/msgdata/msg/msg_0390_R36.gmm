@@ -2,78 +2,78 @@
 <body language="English">
 	<row id="msg_0390_R36_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s an odd tree!\nUse the SquirtBottle? {YESNO 0}</language>
+		<language name="English">Quel arbre étrange! Voulez-vous\nutiliser le CARAPUCE à O? {YESNO 0}</language>
 	</row>
 	<row id="msg_0390_R36_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} used\nthe SquirtBottle!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} utilise le\nCARAPUCE à O!\r</language>
 	</row>
 	<row id="msg_0390_R36_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The odd tree doesn’t like the\nSquirtBottle!\rThe odd tree attacked!\r</language>
+		<language name="English">L’arbre étrange n’aime pas\nle CARAPUCE à O!\rIl vous attaque!\r</language>
 	</row>
 	<row id="msg_0390_R36_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yo!\rHaven’t you had trouble with a boulder\nblocking your way? Of course you have!\rFor people like you, there’s an HM\nthat will come to your rescue!\r</language>
+		<language name="English">Salut!\rÇa t’est sans doute déjà arrivé\nd’avoir des rochers en travers du\fchemin qui te bloquent le passage?\rBien sûr que ça t’est déjà arrivé!\rÇa tombe bien, parce que je vais te\ndonner une CS qui va tout résoudre!\r</language>
 	</row>
 	<row id="msg_0390_R36_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you the one who took care of the\nodd tree in the way?\rYou’re quite the Trainer!\nTake this!\r</language>
+		<language name="English">Alors? Il ne reste plus rien de l’arbre\nbizarre qui te gênait, pas vrai?\rJe suis fier de toi!\nTiens, prends ça!\r</language>
 	</row>
 	<row id="msg_0390_R36_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It contains make-’em-faint Rock Smash.\rYou can even use it to smash boulders\nonce you’ve earned the Violet City\fGym Badge!\rBut beware!\nHidden moves like this are hard for\fyour Pokémon to forget once they’ve\flearned them.\rYou should think carefully which\nPokémon should learn it.</language>
+		<language name="English">Tu trouveras Eclate-Roc dedans!\rSi tu as le Badge de l’Arène de Mauville,\nça te permettra de réduire en miettes\fles rochers fissurés que tu trouveras\fsur ton chemin!\rToutefoiiiis!\rCe genre de capacité secrète, une fois\napprise, ne s’oublie pas facilement!\rRéfléchis bien comme il faut avant de\nl’apprendre à un Pokémon!</language>
 	</row>
 	<row id="msg_0390_R36_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Bag is full!</language>
+		<language name="English">Ton Sac est plein!</language>
 	</row>
 	<row id="msg_0390_R36_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An odd tree is blocking the way\nto Ecruteak City.\rIt’s preventing me from shopping.\fSomething should be done about it.</language>
+		<language name="English">Un arbre étrange bloque le passage\nvers Rosalia...\rJe suis bloquée ici! Si seulement\nquelqu’un pouvait faire quelque chose!</language>
 	</row>
 	<row id="msg_0390_R36_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The odd tree is gone, as if it just\nwalked away...!\fWhat? It was a Pokémon?\rWell, finally I can go to Ecruteak\nto do some shopping.\rIf you follow the path from where the\nodd tree was, you’ll reach\fEcruteak City!</language>
+		<language name="English">Cet arbre étrange a disparu sans\nlaisser de trace...\fQuoi?! C’était un Pokémon?\rGrâce à toi, on peut\nenfin aller à Rosalia.\rC’est tout droit vers le nord\ndepuis là où était l’arbre!</language>
 	</row>
 	<row id="msg_0390_R36_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 36\nNorth to Ecruteak City</language>
+		<language name="English">Route 36\nNord: Rosalia</language>
 	</row>
 	<row id="msg_0390_R36_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruins of Alph\nNorth Entrance</language>
+		<language name="English">Ruines d’Alpha\nEntrée Nord</language>
 	</row>
 	<row id="msg_0390_R36_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rThe same kind of Pokémon may look the\nsame, but they can grow differently.\rTheir strengths may look the same\nin the beginning, but those strengths\fcan change as they grow.</language>
+		<language name="English">Conseils aux Dresseurs!\rDeux Pokémon de la même espèce n’ont\npas forcément la même puissance!\rIls se ressembleront peut-être au\ndébut, mais plus ils grandiront,\fplus ils seront différents!</language>
 	</row>
 	<row id="msg_0390_R36_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Tips\rThe move Dig can take you back to\nthe entrance when you use it.\rIf you want to explore a cave or\nsomething similar, a Pokémon with\fDig will be quite useful.</language>
+		<language name="English">Conseils aux Dresseurs!\rLa capacité Tunnel permet de\nrevenir à l’entrée d’une caverne\fen un instant!\rMieux vaut avoir un Pokémon la\nconnaissant dans son équipe avant\fde partir explorer une grotte!</language>
 	</row>
 	<row id="msg_0390_R36_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the Flower Shop’s Floria!\rListen, listen! When I sprinkled water\non that wiggly tree, it jumped right up!\rIt just has to be a Pokémon.\rI bet it would be shocked out of\ndisguising itself if you soaked it!</language>
+		<language name="English">Je suis Flora, et je suis fleuriste!\rHé! Hé! Tu sais quoi?\nJ’ai jeté de l’eau sur l’arbre qui bouge\fpour voir, et ça lui a fait peur, et\fil a sauté!\fJe suis sûre que c’est un Pokémon!\rSi on lui donne encore plus d’eau, il\nmontrera peut-être son vrai visage!</language>
 	</row>
 	<row id="msg_0390_R36_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the Flower Shop’s Floria!\rListen, listen! When I sprinkled water\non that wiggly tree, it jumped right up!\fIt just has to be a Pokémon.\fIf you soaked it...\rOh, that’s the SquirtBottle!\rSoak the tree for me!\nI want to see what happens!</language>
+		<language name="English">Je suis Flora, et je suis fleuriste!\rHé! Hé! Tu sais quoi?\nJ’ai jeté de l’eau sur l’arbre qui bouge\fpour voir, et ça lui a fait peur, et\fil a sauté!\fJe suis sûre que c’est un Pokémon!\rSi on lui donne encore plus d’eau...\nAh! Un CARAPUCE à O!\rAllez! Je veux voir comment l’arbre va\nréagir si tu l’utilises sur lui!</language>
 	</row>
 	<row id="msg_0390_R36_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That was fun!\rI want to give you this\nfor entertaining me!\r</language>
+		<language name="English">Wah! C’était rigolo!\rPour te remercier de m’avoir montré ça,\nje vais te donner un joli cadeau!\r</language>
 	</row>
 	<row id="msg_0390_R36_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">With the Berry Pots, you can grow\nany Berry from any region\fwith no worries!\r</language>
+		<language name="English">Avec un Plante-Baies, tu peux faire\npousser des Baies de n’importe quelle\frégion sans t’inquiéter!\r</language>
 	</row>
 	<row id="msg_0390_R36_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That’s right!\nI’ll give you some Berries, too.\rBerry Pots won’t do any good\nwithout Berries.\r</language>
+		<language name="English">Ah, et aussi!\nTiens! Des Baies!\rUn Plante-Baies sans Baies, ça ne\nsert pas à grand-chose!\r</language>
 	</row>
 	<row id="msg_0390_R36_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have to plant Berries in the soil.\nYou should water them from time\fto time. Then they’ll grow strong!\rI have to go back to Goldenrod.\fAre you heading for Ecruteak?\rThen you should go north here.\nSee you around!\r</language>
+		<language name="English">Plante les Baies dans la terre,\narrose-les de temps à autre,\fet ça poussera tout seul!\rBon!\nJe rentre à Doublonville!\fToi, tu vas à Rosalia?\rAlors tu n’as qu’à continuer\nvers le nord!\rBye-bye! A bientôt peut-être!\r</language>
 	</row>
 </body>

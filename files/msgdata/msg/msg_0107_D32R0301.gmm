@@ -2,138 +2,138 @@
 <body language="English">
 	<row id="msg_0107_D32R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Factory!\rI am your guide to the Single and\nDouble Battle challenges.\rPlease be aware that these challenges\nare designed for a single Trainer.\r</language>
+		<language name="English">Bienvenue dans l’Usine de Combat!\rJe suis votre guide pour les\nCombats Solo et Duo.\rIls sont conçus pour un seul\nDresseur.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which challenge would\nyou like to take? {YESNO 0}</language>
+		<language name="English">Quel défi souhaitez-vous relever? {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">At the Battle Factory, you may take\nSingle or Double Battle challenges\fusing rental Pokémon.\rOnce entered, your challenge lasts\nuntil you lose.\rAfter each win, you may trade a rented\nPokémon for one of the opponent’s.\rThe Level 50 option starts you off with\nPokémon that only know weak moves.\rThe Open Level option gives you access\nto Lv. 100 Pokémon with powerful moves\ffrom the start.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rIf you want to interrupt your\nchallenge, please save the game.\rIf you don’t save, you will be\ndisqualified from your challenge.\rPlease be aware of that!\r</language>
+		<language name="English">L’Usine de Combat propose des Combats\nSolo et des Combats Duo, où seuls sont\fautorisés les Pokémon de location.\rUne fois à l’intérieur, le défi se\npoursuit jusqu’à la défaite.\rAprès chaque victoire, vous pourrez\ntroquer un de vos Pokémon de location\fcontre un autre de l’équipe adverse.\rAvec l’option niveau 50, vos Pokémon ne\nconnaissent que des capacités faibles.\rEn revanche, avec l’option niveau libre,\nvous débutez avec des Pokémon de\fniveau 100 aux capacités puissantes.\rEnchaînez sept victoires à la suite et\nvous gagnerez des Points de Combat.\rSi vous voulez interrompre votre\nprogression, vous devrez sauvegarder.\rSi vous ne le faites pas, nous\ndevrons vous disqualifier.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Factory!\rI am your guide to the Multi Battle\nchallenge.\rPlease be aware that this challenge\nrequires two Trainers.\r</language>
+		<language name="English">Bienvenue dans l’Usine de Combat!\rJe suis votre guide pour les\nCombats Multi.\rIls sont conçus pour des équipes de\ndeux Dresseurs.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to take the Battle\nFactory Multi Battle challenge? {YESNO 0}</language>
+		<language name="English">Voulez-vous relever le défi\nd’un Combat Multi? {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may team up with a friend for a\nMulti Battle challenge using rental\fPokémon.\rBoth partners will be provided with two\nrental Pokémon each.\rOnce entered, you and your partner\nconduct Multi Battles until you lose.\rAfter each win, you or your partner\nmay trade a single rented Pokémon.\rIf you manage to win seven matches in\na row, you will earn Battle Points (BP).\rThe Level 50 option starts with rental\nPokémon that only know weak moves.\rThe Open Level option lets you rent\nLv. 100 Pokémon with powerful moves\ffrom the start.\rPlease note: a Battle Factory Multi\nBattle challenge can’t be interrupted.\r</language>
+		<language name="English">Pour les Combats Multi, vous pouvez\nfaire équipe avec un ami et combattre\favec des Pokémon de location.\rVous aurez droit à deux Pokémon de\nlocation chacun.\rUne fois à l’intérieur, vous enchaînerez\nles combats jusqu’à la défaite.\rAprès chaque victoire, vous ou votre\npartenaire pourrez troquer un de vos\fPokémon contre un de l’équipe adverse.\rRemportez sept combats à la suite et\nvous gagnerez des Points de Combat.\rAvec l’option niveau 50, vos Pokémon ne\nconnaissent que des capacités faibles.\rAvec l’option niveau libre, par contre,\nvous débutez avec des Pokémon de\fniveau 100 aux capacités puissantes.\rNotez bien qu’à l’Usine de Combat, les\nCombats Multi ne peuvent être\finterrompus.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We hope to see you again!</language>
+		<language name="English">A une prochaine fois peut-être!</language>
 	</row>
 	<row id="msg_0107_D32R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which challenge level would you like\nto play? Level 50 or Open Level? {YESNO 0}</language>
+		<language name="English">Quel défi souhaitez-vous relever?\nNiveau 50 ou niveau libre? {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must save the game before I\nshow you in. Is that OK? {YESNO 0}</language>
+		<language name="English">Vous devez sauvegarder la partie\navant d’entrer.\fC’est d’accord? {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Right this way, please!</language>
+		<language name="English">Par ici, s’il vous plaît!</language>
 	</row>
 	<row id="msg_0107_D32R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We look forward to your next visit.\r</language>
+		<language name="English">N’hésitez pas à revenir nous voir.\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ve missed you!\rYou must save the game before you\nresume your challenge. Please wait.</language>
+		<language name="English">Contents de vous revoir!\rVous devez sauvegarder la partie avant\nde reprendre le défi.\rVeuillez patienter.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me!\rYou didn’t save before you quit your\nchallenge last time.\rBecause of that, you have been\ndisqualified from your challenge!\r</language>
+		<language name="English">Je regrette.\rVous n’avez pas sauvegardé avant\nl’interruption de votre dernier défi.\rPar conséquent, nous sommes\nobligés de vous disqualifier!\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Congratulations!\rIn recognition of your victory, we\npresent you this commemorative print!\r</language>
+		<language name="English">Félicitations!\rPour célébrer votre victoire, nous vous\noffrons cette photo en souvenir!\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Gold Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a la Photo d’Or dans son\nMagnéto VS!\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Silver Print was added to\n{STRVAR_1 3, 0, 0}’s Vs. Recorder!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a la Photo d’Argent dans\nson Magnéto VS!\r</language>
 	</row>
 	<row id="msg_0107_D32R0301_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SINGLE BATTLE</language>
+		<language name="English">COMBAT SOLO</language>
 	</row>
 	<row id="msg_0107_D32R0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DOUBLE BATTLE</language>
+		<language name="English">COMBAT DUO</language>
 	</row>
 	<row id="msg_0107_D32R0301_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">TAKE CHALLENGE</language>
+		<language name="English">RELEVER LE DEFI</language>
 	</row>
 	<row id="msg_0107_D32R0301_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">INFO</language>
+		<language name="English">INFOS</language>
 	</row>
 	<row id="msg_0107_D32R0301_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0107_D32R0301_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">LEVEL 50</language>
+		<language name="English">NIVEAU 50</language>
 	</row>
 	<row id="msg_0107_D32R0301_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OPEN LEVEL</language>
+		<language name="English">NIVEAU LIBRE</language>
 	</row>
 	<row id="msg_0107_D32R0301_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CANCEL</language>
+		<language name="English">ANNULER</language>
 	</row>
 	<row id="msg_0107_D32R0301_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">One Trainer should select\n“BECOME LEADER.”\rThe other Trainer must select\n“JOIN GROUP.” {YESNO 0}</language>
+		<language name="English">L’un de vous deux devra sélectionner\n“MENEUR”.\rL’autre Dresseur devra choisir\n“JOINDRE”. {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We need to launch DS Wireless\nCommunications. {YESNO 0}\n</language>
+		<language name="English">La communication sans fil DS va\ndémarrer. {YESNO 0}</language>
 	</row>
 	<row id="msg_0107_D32R0301_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You must save the game before I\nshow you in. Please wait.</language>
+		<language name="English">Vos données vont être sauvegardées.\nVeuillez patienter.</language>
 	</row>
 	<row id="msg_0107_D32R0301_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The staff tell you about the next\nTrainer you’ll face.\rThey’re very helpful here.\nDon’t you think?\n</language>
+		<language name="English">Le personnel est très serviable, ici.\rIl te donne des informations sur le\nprochain Dresseur à affronter.\rC’est sympa, hein?</language>
 	</row>
 	<row id="msg_0107_D32R0301_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">They tell you about the next Trainer\nyou’ll face? That’s really nice.\rYou know, you can prepare for it\nonce you know what kind of Trainer\fthe next one is!</language>
+		<language name="English">Ils peuvent nous dire qui sera le\nprochain Dresseur?\fC’est génial, ça!\rÇa permet de bien préparer\nsa stratégie!</language>
 	</row>
 	<row id="msg_0107_D32R0301_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’ll help you choose a Pokémon when\nyou remember what kind of Pokémon\fthe other Trainer had and what moves\fthey used.</language>
+		<language name="English">Mémorise les capacités et les Pokémon\nutilisés par ton adversaire.\rComme ça, pas de mauvaise surprise au\nmoment d’en choisir un à troquer!</language>
 	</row>
 	<row id="msg_0107_D32R0301_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a place to battle with rental\nPokémon, right?\rIt is a good chance to try Pokémon\nyou’ve never trained.\rYou’ll learn about new Pokémon\nwhile having exciting battles!\rWhat more could you want?</language>
+		<language name="English">Ici, on se bat avec des Pokémon\nde location, hein?\rÇa veut dire qu’on peut découvrir\ndes Pokémon qu’on n’a jamais eu\fl’occasion de tester!\rEt donc on peut devenir plus pointu\nen Pokémon tout en s’amusant à\fcombattre!\rC’est vraiment un endroit super, ici!</language>
 	</row>
 	<row id="msg_0107_D32R0301_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you have a lot of Pokémon?\rI’m not too proud to say this, but...\nI have only a few!\rBut there is nothing to worry about.\nDo you know why?\rThis facility, the Battle Factory, has\nyou use rental Pokémon for battles!</language>
+		<language name="English">Dis-moi, posséderais-tu beaucoup\nde Pokémon?\rSans vouloir me vanter, je n’en\npossède presque aucun!\rMais je n’en ai cure! Car à\nl’Usine de Combat, on ne peut\futiliser que des Pokémon de location!</language>
 	</row>
 	<row id="msg_0107_D32R0301_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So you have to battle with Pokémon\nyou just met instead of with your\fcherished Pokémon you’ve always\fbattled with?\rOh, I don’t know if I could...\nWill they be nice to me...?\fI’m a little worried.</language>
+		<language name="English">On doit utiliser des Pokémon que l’on\nvient de rencontrer, au lieu de ceux\favec lesquels on a tissé des liens\firremplaçables...\rEst-ce que ça ira...\nEst-ce qu’on va bien s’entendre...?\fJe suis un peu inquiète...</language>
 	</row>
 	<row id="msg_0107_D32R0301_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All the Trainers gathered at the\nBattle Frontier are nice,\fpleasant people!\rI’m patrolling here on duty, but\notherwise I would love to change\fmy uniform to participate!</language>
+		<language name="English">Les Dresseurs qui se regroupent dans\nla Zone de Combat sont tous sérieux!\rJe continue ma ronde, parce que c’est\nmon métier, mais franchement, j’aimerais\fbien enlever mon uniforme et M’AMUSER\favec tout le monde!</language>
 	</row>
 </body>

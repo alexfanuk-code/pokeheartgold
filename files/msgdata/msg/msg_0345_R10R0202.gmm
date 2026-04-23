@@ -2,82 +2,82 @@
 <body language="English">
 	<row id="msg_0345_R10R0202_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A thief broke into the Power Plant...\nWhat is the world coming to?</language>
+		<language name="English">Un voleur s’est introduit dans la\nCentrale...\fC’est du jamais vu...</language>
 	</row>
 	<row id="msg_0345_R10R0202_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I just got word from Cerulean.\nIt appears that a shady character has\fbeen loitering around.\r</language>
+		<language name="English">On a reçu un message d’Azuria!\nUn type bizarre rôderait\fdans les rues...\r</language>
 	</row>
 	<row id="msg_0345_R10R0202_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Could I ask for your cooperation?\rThe shady character was hanging around\nthe Cerulean Gym...\r</language>
+		<language name="English">On aurait bien besoin de ton aide!\nIl paraît que ce type traînait près de\fl’Arène d’Azuria...\r</language>
 	</row>
 	<row id="msg_0345_R10R0202_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Could I ask for your cooperation?\rThe shady character was hanging around\nthe Cerulean Gym...</language>
+		<language name="English">On aurait bien besoin de ton aide!\nIl paraît que ce type traînait près de\fl’Arène d’Azuria...</language>
 	</row>
 	<row id="msg_0345_R10R0202_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Someone made off with a part that’s\nessential for the generator.\rWithout it, the new generator’s\nuseless!</language>
+		<language name="English">Quelqu’un a volé une partie essentielle\ndu générateur.\rSans elle, rien ne marche!</language>
 	</row>
 	<row id="msg_0345_R10R0202_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Power Plant had been abandoned in\nthe past.\rWe got it back up and running to provide\npower to the Magnet Train.</language>
+		<language name="English">Cette Centrale a été abandonnée\nil y a longtemps.\rOn l’a rénovée pour fournir de\nl’énergie au Train Magnétique.</language>
 	</row>
 	<row id="msg_0345_R10R0202_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Power Plant’s Manager is up ahead.\rBut since someone wrecked the\ngenerator, he’s been both sad and,\fat times, furious...\rSometimes he would burst out laughing\nout of desperation.\fWe’ve had to go through so much...</language>
+		<language name="English">Le Patron de la Centrale est juste là.\rMais attention, il est très instable\ndepuis que quelqu’un a volé la pièce\fcentrale du générateur... Il passe de\fla fureur au désespoir en un instant.</language>
 	</row>
 	<row id="msg_0345_R10R0202_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Magnet Train consumes a lot\nof electricity.\rIt can’t move if the new generator\nisn’t operating.</language>
+		<language name="English">Le Train Magnétique consomme beaucoup\nd’électricité.\rIl ne peut plus fonctionner si\nle nouveau générateur est en panne...</language>
 	</row>
 	<row id="msg_0345_R10R0202_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I collect Pokémon.\nDo you have a DUGTRIO?\rWant to trade it for my MAGNETON? {YESNO 0}</language>
+		<language name="English">Je collectionne les Pokémon.\nAs-tu un TRIOPIKEUR?\rÇa te dirait de l’échanger\ncontre mon MAGNETON? {YESNO 0}</language>
 	</row>
 	<row id="msg_0345_R10R0202_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yay! I got myself a DUGTRIO!\nThanks!</language>
+		<language name="English">Hourra! J’ai un TRIOPIKEUR!\nMerci!</language>
 	</row>
 	<row id="msg_0345_R10R0202_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? That’s not DUGTRIO.\nWhat a letdown...</language>
+		<language name="English">Hein...?\nMais c’est pas un TRIOPIKEUR...\fPfff... Tant pis...</language>
 	</row>
 	<row id="msg_0345_R10R0202_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want to trade? Aww...</language>
+		<language name="English">Tu ne veux pas l’échanger?\nPfff, quelle déception...</language>
 	</row>
 	<row id="msg_0345_R10R0202_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, how’s my old MAGNETON doing?</language>
+		<language name="English">Salut!\nComment va le MAGNETON que\fje t’ai échangé?</language>
 	</row>
 	<row id="msg_0345_R10R0202_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manager: I-I-I’m ready to blast\nsomething!\rWho would dare steal a part from the\ngenerator?\rI spent so much time fixing it!\nIf I catch him, he’s going to see\fwhat I can do with my Charge Beam!</language>
+		<language name="English">Patron: Ça va se payer!\rQui a osé voler cette pièce après tout\nle temps que j’ai investi pour remettre\fce générateur en état?!\rSi je tombe sur le coupable, je vais lui\nbalancer un Rayon Chargé à la figure!</language>
 	</row>
 	<row id="msg_0345_R10R0202_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manager: Ah! Yeah!\nThe thing you have...\rIs that the part that was stolen from\nmy beloved generator?\rYou found it?\nThank you so much!\rNow, all I have to do is...\nattach this part here...\r</language>
+		<language name="English">Patron: Ooh? Oooooooh??\rLà! Dans ta main! C’est la partie \nmanquante de mon précieux générateur?\fTu l’as trouvée!\rMerci!\nMerci pour tout!\rAllons vite la remettre à sa place!\r</language>
 	</row>
 	<row id="msg_0345_R10R0202_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manager: Whirrrrrr!\rYes, it’s running!\nWhirrr, whirrr!\r</language>
+		<language name="English">Patron: Oooooh!!\rÇa bouge! Ça bouge!\nWoooh! Wooooh!\r</language>
 	</row>
 	<row id="msg_0345_R10R0202_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manager: Wahah! Thanks!\rHere! Go ahead and take this TM\nas a reward!\r</language>
+		<language name="English">Patron: Wahah! Merci!\nPour te remercier, je vais te donner\fcette CT!\r</language>
 	</row>
 	<row id="msg_0345_R10R0202_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manager: TM57 is my Charge Beam!\rIt will shoot beams, and it can also\nsometimes raise Special Attack!</language>
+		<language name="English">Patron: La CT57 contient Rayon Chargé.\nC’est une technique très puissante!\rElle n’est pas très précise mais\nelle dépote!\rTu peux me faire confiance!</language>
 	</row>
 	<row id="msg_0345_R10R0202_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Staff Mottos:\r1. Electricity is not infinite.\n2. Conserve wherever possible.\f3. Watch out for each other.\f4. Idle hands are not allowed.\f5. Wear shoes with rubber soles.\f6. The Manager is awesome.</language>
+		<language name="English">Règles de base pour les employés\r1 L’électricité n’est pas infinie.\n2 Economisons autant que possible.\f3 Parlons à tout le monde.\f4 Ne relâchons jamais notre attention.\f5 Portons des bottes en caoutchouc.\f6 Le Patron est un génie.</language>
 	</row>
 	<row id="msg_0345_R10R0202_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use electricity wisely\nfor a bright and pleasant life.\f           Kanto Power Plant</language>
+		<language name="English">Utilisons l’électricité avec modération\npour une vie plus belle et plus moderne.\r             Générateur de Kanto</language>
 	</row>
 </body>

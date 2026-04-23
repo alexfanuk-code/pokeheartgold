@@ -6,494 +6,494 @@
 	</row>
 	<row id="msg_0722_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The stench helps keep\nwild Pokémon away.</language>
+		<language name="English">La puanteur peut repous-\nser les Pokémon sauvages.</language>
 	</row>
 	<row id="msg_0722_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon makes it rain\nif it appears in battle.</language>
+		<language name="English">Le Pokémon invoque la pluie\nquand il entre au combat.</language>
 	</row>
 	<row id="msg_0722_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its Speed stat is\ngradually boosted.</language>
+		<language name="English">La Vitesse du Pokémon\naugmente progressivement.</language>
 	</row>
 	<row id="msg_0722_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon is protected\nagainst critical hits.</language>
+		<language name="English">Le Pokémon est protégé\ndes coups critiques.</language>
 	</row>
 	<row id="msg_0722_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It is protected against\n1-hit KO attacks.</language>
+		<language name="English">Protège des capacités\nmettant K.O. en un coup.</language>
 	</row>
 	<row id="msg_0722_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents combatants\nfrom self-destructing.</language>
+		<language name="English">Empêche les combattants\nde s’autodétruire.</language>
 	</row>
 	<row id="msg_0722_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon is protected\nfrom paralysis.</language>
+		<language name="English">Protège le Pokémon de\nla paralysie.</language>
 	</row>
 	<row id="msg_0722_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the Pokémon’s\nevasion in a sandstorm.</language>
+		<language name="English">Augmente l’esquive lors\ndes tempêtes de sable.</language>
 	</row>
 	<row id="msg_0722_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Contact with the Pokémon\nmay cause paralysis.</language>
+		<language name="English">Un contact avec le\nPokémon peut paralyser.</language>
 	</row>
 	<row id="msg_0722_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Restores HP if hit by an\nElectric-type move.</language>
+		<language name="English">Récupère des PV si touché\npar une capacité Electrik.</language>
 	</row>
 	<row id="msg_0722_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Restores HP if hit by a\nWater-type move.</language>
+		<language name="English">Récupère des PV si touché\npar une capacité Eau.</language>
 	</row>
 	<row id="msg_0722_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents it from\nbecoming infatuated.</language>
+		<language name="English">Empêche le Pokémon de\ntomber amoureux.</language>
 	</row>
 	<row id="msg_0722_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eliminates the effects of\nweather.</language>
+		<language name="English">Annule les effets du\nclimat.</language>
 	</row>
 	<row id="msg_0722_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon’s accuracy\nis boosted.</language>
+		<language name="English">Augmente la précision du\nPokémon.</language>
 	</row>
 	<row id="msg_0722_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom falling asleep.</language>
+		<language name="English">Empêche le Pokémon de\ns’endormir.</language>
 	</row>
 	<row id="msg_0722_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Changes the Pokémon’s\ntype to the foe’s move.</language>
+		<language name="English">Le Pokémon adopte le type\nde la capacité ennemie.</language>
 	</row>
 	<row id="msg_0722_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom getting poisoned.</language>
+		<language name="English">Empêche le Pokémon d’être\nempoisonné.</language>
 	</row>
 	<row id="msg_0722_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It powers up Fire-type\nmoves if it’s hit by one.</language>
+		<language name="English">Booste capacités Feu si\ntouché par attaques Feu.</language>
 	</row>
 	<row id="msg_0722_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blocks the added effects\nof attacks taken.</language>
+		<language name="English">Annule les effets cumulés\nd’une attaque ennemie.</language>
 	</row>
 	<row id="msg_0722_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom becoming confused.</language>
+		<language name="English">Empêche la confusion.</language>
 	</row>
 	<row id="msg_0722_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Negates foes’ moves that\nforce switching out.</language>
+		<language name="English">Annule les cap. forçant\nà changer de Pokémon.</language>
 	</row>
 	<row id="msg_0722_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lowers the foe’s\nAttack stat.</language>
+		<language name="English">Baisse l’Attaque ennemie.</language>
 	</row>
 	<row id="msg_0722_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the foe from\nescaping.</language>
+		<language name="English">Empêche le Pokémon ennemi\nde quitter le combat.</language>
 	</row>
 	<row id="msg_0722_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Inflicts damage to the\nfoe on contact.</language>
+		<language name="English">Le Pokémon blesse\nl’ennemi qui le touche.</language>
 	</row>
 	<row id="msg_0722_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Only supereffective\nmoves will hit.</language>
+		<language name="English">Seules capacités “super\nefficaces” l’atteignent.</language>
 	</row>
 	<row id="msg_0722_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gives full immunity to all\nGround-type moves.</language>
+		<language name="English">Immunise contre toutes\nles capacités de type Sol.</language>
 	</row>
 	<row id="msg_0722_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Contact may paralyze,\npoison, or cause sleep.</language>
+		<language name="English">Peut paralyser, empoison-\nner, endormir au contact.</language>
 	</row>
 	<row id="msg_0722_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Passes a burn, poison,\nor paralysis to the foe.</language>
+		<language name="English">Transmet brûlure, poison\nou paralysie à l’ennemi.</language>
 	</row>
 	<row id="msg_0722_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents its stats from\nbeing lowered.</language>
+		<language name="English">Peut empêcher les stats\ndu Pokémon de baisser.</language>
 	</row>
 	<row id="msg_0722_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All status problems heal\nwhen it switches out.</language>
+		<language name="English">Quitter le combat soigne\nles problèmes de statut.</language>
 	</row>
 	<row id="msg_0722_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon draws in all\nElectric-type moves.</language>
+		<language name="English">Le Pokémon attire les\ncapacités Electrik.</language>
 	</row>
 	<row id="msg_0722_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the likelihood of\nadded effects appearing.</language>
+		<language name="English">Augmente la fréquence\ndu cumul d’effets.</language>
 	</row>
 	<row id="msg_0722_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the Pokémon’s\nSpeed in rain.</language>
+		<language name="English">Augmente la Vitesse du\nPokémon s’il pleut.</language>
 	</row>
 	<row id="msg_0722_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the Pokémon’s\nSpeed in sunshine.</language>
+		<language name="English">Augmente la Vitesse du\nPokémon s’il y a du soleil.</language>
 	</row>
 	<row id="msg_0722_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises the likelihood of\nmeeting wild Pokémon.</language>
+		<language name="English">Augmente les rencontres\navec Pokémon sauvages.</language>
 	</row>
 	<row id="msg_0722_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon copies the\nfoe’s ability.</language>
+		<language name="English">Imite la capacité spéciale\nde l’ennemi.</language>
 	</row>
 	<row id="msg_0722_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises the Pokémon’s\nAttack stat.</language>
+		<language name="English">Augmente l’Attaque du\nPokémon.</language>
 	</row>
 	<row id="msg_0722_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Contact with the Pokémon\nmay poison the foe.</language>
+		<language name="English">Peut empoisonner l’ennemi\ns’il y a contact.</language>
 	</row>
 	<row id="msg_0722_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon is protected\nfrom flinching.</language>
+		<language name="English">Empêche le Pokémon\nd’avoir peur.</language>
 	</row>
 	<row id="msg_0722_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom becoming frozen.</language>
+		<language name="English">Protège le Pokémon\ncontre le gel.</language>
 	</row>
 	<row id="msg_0722_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom getting a burn.</language>
+		<language name="English">Protège le Pokémon\ndes brûlures.</language>
 	</row>
 	<row id="msg_0722_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents Steel-type\nPokémon from escaping.</language>
+		<language name="English">Empêche les Pokémon Acier\nde fuir.</language>
 	</row>
 	<row id="msg_0722_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Gives full immunity to all\nsound-based moves.</language>
+		<language name="English">Protège de toutes les\ncapacités sonores.</language>
 	</row>
 	<row id="msg_0722_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon gradually\nrecovers HP in rain.</language>
+		<language name="English">Récupère progressivement\ndes PV par temps de pluie.</language>
 	</row>
 	<row id="msg_0722_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon summons a\nsandstorm in battle.</language>
+		<language name="English">Le Pokémon invoque une\ntempête de sable.</language>
 	</row>
 	<row id="msg_0722_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon raises the\nfoe’s PP usage.</language>
+		<language name="English">Force l’ennemi à\ndépenser plus de PP.</language>
 	</row>
 	<row id="msg_0722_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ups resistance to Fire-\nand Ice-type moves.</language>
+		<language name="English">Augmente la résistance\naux cap. Feu et Glace.</language>
 	</row>
 	<row id="msg_0722_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon awakens\nquickly from sleep.</language>
+		<language name="English">Le Pokémon se réveille\nplus rapidement.</language>
 	</row>
 	<row id="msg_0722_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Contact with the Pokémon\nmay burn the foe.</language>
+		<language name="English">Peut brûler l’ennemi s’il y\na contact.</language>
 	</row>
 	<row id="msg_0722_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enables sure getaway\nfrom wild Pokémon.</language>
+		<language name="English">Permet de fuir n’importe\nquel Pokémon sauvage.</language>
 	</row>
 	<row id="msg_0722_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom losing accuracy.</language>
+		<language name="English">Empêche le Pokémon de\nperdre en précision.</language>
 	</row>
 	<row id="msg_0722_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Attack\nstat from being lowered.</language>
+		<language name="English">Empêche la réduction de\nl’Attaque.</language>
 	</row>
 	<row id="msg_0722_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon may\npick up items.</language>
+		<language name="English">Permet parfois au Pokémon\nde ramasser des objets.</language>
 	</row>
 	<row id="msg_0722_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon can’t attack\non consecutive turns.</language>
+		<language name="English">Le Pokémon ne frappe\nqu’un tour sur deux.</language>
 	</row>
 	<row id="msg_0722_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the Attack stat,\nbut lowers accuracy.</language>
+		<language name="English">Améliore l’Attaque mais\ndiminue la précision.</language>
 	</row>
 	<row id="msg_0722_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Contact with the Pokémon\nmay cause infatuation.</language>
+		<language name="English">Séduit parfois l’ennemi\nau contact.</language>
 	</row>
 	<row id="msg_0722_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ups Sp. Atk if another\nPokémon has Minus.</language>
+		<language name="English">Améliore l’Atq. Spé. si un\nautre Pokémon a Minus.</language>
 	</row>
 	<row id="msg_0722_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ups Sp. Atk if another\nPokémon has Plus.</language>
+		<language name="English">Améliore l’Atq. Spé. si un\nautre Pokémon a Plus.</language>
 	</row>
 	<row id="msg_0722_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CASTFORM transforms with\nthe weather.</language>
+		<language name="English">MORPHEO change de forme\nselon le climat.</language>
 	</row>
 	<row id="msg_0722_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Protects the Pokémon\nfrom item theft.</language>
+		<language name="English">Protège le Pokémon\ncontre le vol d’objets.</language>
 	</row>
 	<row id="msg_0722_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon may heal its\nown status problems.</language>
+		<language name="English">Le Pokémon soigne parfois\nses problèmes de statut.</language>
 	</row>
 	<row id="msg_0722_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts Attack if there is\na status problem.</language>
+		<language name="English">Augmente l’Attaque s’il y\na un problème de statut.</language>
 	</row>
 	<row id="msg_0722_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ups Defense if there is\na status problem.</language>
+		<language name="English">Augmente la Défense s’il y\na un problème de statut.</language>
 	</row>
 	<row id="msg_0722_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Inflicts damage on foes\nusing any draining move.</language>
+		<language name="English">Blesse l’ennemi qui draine\nl’énergie du Pokémon.</language>
 	</row>
 	<row id="msg_0722_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up Grass-type\nmoves in a pinch.</language>
+		<language name="English">Booste les capacités\nPlante en cas de besoin.</language>
 	</row>
 	<row id="msg_0722_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up Fire-type\nmoves in a pinch.</language>
+		<language name="English">Booste les capacités\nFeu en cas de besoin.</language>
 	</row>
 	<row id="msg_0722_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up Water-type\nmoves in a pinch.</language>
+		<language name="English">Booste les capacités\nEau en cas de besoin.</language>
 	</row>
 	<row id="msg_0722_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up Bug-type\nmoves in a pinch.</language>
+		<language name="English">Booste les capacités\nInsecte en cas de besoin.</language>
 	</row>
 	<row id="msg_0722_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Protects the Pokémon\nfrom recoil damage.</language>
+		<language name="English">Protège le Pokémon des\ndégâts de contrecoups.</language>
 	</row>
 	<row id="msg_0722_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon makes it\nsunny if it is in battle.</language>
+		<language name="English">Invoque le soleil quand il\nest au combat.</language>
 	</row>
 	<row id="msg_0722_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the foe from\nfleeing.</language>
+		<language name="English">Empêche l’ennemi de\ns’enfuir.</language>
 	</row>
 	<row id="msg_0722_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents the Pokémon\nfrom falling asleep.</language>
+		<language name="English">Empêche le Pokémon\nde s’endormir.</language>
 	</row>
 	<row id="msg_0722_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents its stats from\nbeing lowered.</language>
+		<language name="English">Empêche la réduction des\nstats du Pokémon.</language>
 	</row>
 	<row id="msg_0722_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the power of\nphysical attacks.</language>
+		<language name="English">Augmente la puissance des\nattaques physiques.</language>
 	</row>
 	<row id="msg_0722_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon is protected\nagainst critical hits.</language>
+		<language name="English">Protège le Pokémon contre\nles coups critiques.</language>
 	</row>
 	<row id="msg_0722_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eliminates the effects of\nweather.</language>
+		<language name="English">Annule les effets du\nclimat.</language>
 	</row>
 	<row id="msg_0722_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises evasion if the\nPokémon is confused.</language>
+		<language name="English">Augmente l’esquive si le\nPokémon est confus.</language>
 	</row>
 	<row id="msg_0722_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises Speed if hit by an\nElectric-type move.</language>
+		<language name="English">Augmente la Vit. si touché\npar une cap. Electrik.</language>
 	</row>
 	<row id="msg_0722_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises Attack if the foe\nis of the same gender.</language>
+		<language name="English">Augmente l’Attaque si\nl’ennemi est du même sexe.</language>
 	</row>
 	<row id="msg_0722_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises Speed each time\nthe Pokémon flinches.</language>
+		<language name="English">Augmente la Vitesse quand\nle Pokémon a peur.</language>
 	</row>
 	<row id="msg_0722_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises evasion in a\nhailstorm.</language>
+		<language name="English">Augmente l’esquive durant\nles tempêtes de grêle.</language>
 	</row>
 	<row id="msg_0722_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Encourages the early use\nof a held Berry.</language>
+		<language name="English">Encourage l’utilisation\nd’une Baie tenue.</language>
 	</row>
 	<row id="msg_0722_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises Attack upon\ntaking a critical hit.</language>
+		<language name="English">Monte l’Attaque au max.\naprès un coup critique.</language>
 	</row>
 	<row id="msg_0722_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Raises Speed if a held\nitem is used.</language>
+		<language name="English">Augmente la Vit. si l’objet\ntenu est utilisé ou perdu.</language>
 	</row>
 	<row id="msg_0722_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Weakens the power of\nFire-type moves.</language>
+		<language name="English">Réduit la puissance des\ncapacités de type Feu.</language>
 	</row>
 	<row id="msg_0722_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon is prone to\nwild stat changes.</language>
+		<language name="English">Le Pokémon est sujet à\ndes variations de stats.</language>
 	</row>
 	<row id="msg_0722_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reduces HP if it is hot.\nWater restores HP.</language>
+		<language name="English">Perd des PV à la chaleur.\nL’eau les restaure.</language>
 	</row>
 	<row id="msg_0722_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Adjusts power according\nto the foe’s ability.</language>
+		<language name="English">Ajuste la puissance selon\nl’ennemi.</language>
 	</row>
 	<row id="msg_0722_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts the power of\npunching moves.</language>
+		<language name="English">Augmente la puissance des\ncapacités coups de poing.</language>
 	</row>
 	<row id="msg_0722_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Restores HP if the\nPokémon is poisoned.</language>
+		<language name="English">Restaure des PV si le\nPokémon est empoisonné.</language>
 	</row>
 	<row id="msg_0722_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up moves of the\nsame type.</language>
+		<language name="English">Augmente la puissance des\ncapacités de même type.</language>
 	</row>
 	<row id="msg_0722_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Increases the frequency\nof multi-strike moves.</language>
+		<language name="English">Augmente la fréquence des\nattaques multiples.</language>
 	</row>
 	<row id="msg_0722_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heals status problems if\nit is raining.</language>
+		<language name="English">Soigne les problèmes de\nstatut s’il pleut.</language>
 	</row>
 	<row id="msg_0722_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts Sp. Atk, but\nlowers HP in sunshine.</language>
+		<language name="English">Augmente l’Atq. Spé. mais\nbaisse les PV au soleil.</language>
 	</row>
 	<row id="msg_0722_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Boosts Speed if there is\na status problem.</language>
+		<language name="English">Augmente la Vitesse s’il y\na un problème de statut.</language>
 	</row>
 	<row id="msg_0722_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All the Pokémon’s moves\nbecome the Normal type.</language>
+		<language name="English">Toutes les capacités sont\nde type Normal.</language>
 	</row>
 	<row id="msg_0722_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up moves if they\nbecome critical hits.</language>
+		<language name="English">Booste les capacités qui\nsont des coups critiques.</language>
 	</row>
 	<row id="msg_0722_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon only takes\ndamage from attacks.</language>
+		<language name="English">Seule une attaque directe\npeut blesser le Pokémon.</language>
 	</row>
 	<row id="msg_0722_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ensures both Pokémon’s\nand foe’s attacks land.</language>
+		<language name="English">Attaques du Pokémon et\nde l’ennemi réussissent.</language>
 	</row>
 	<row id="msg_0722_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon moves after\neven slower foes.</language>
+		<language name="English">Attaque toujours après \nl’ennemi, même plus lent.</language>
 	</row>
 	<row id="msg_0722_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up the Pokémon’s\nweaker moves.</language>
+		<language name="English">Augmente la puissance des\ncapacités les plus faibles.</language>
 	</row>
 	<row id="msg_0722_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Prevents problems with\nstatus in sunny weather.</language>
+		<language name="English">Empêche les problèmes\nde statut au soleil.</language>
 	</row>
 	<row id="msg_0722_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon can’t use\nany held items.</language>
+		<language name="English">Le Pokémon ne peut\nutiliser aucun objet tenu.</language>
 	</row>
 	<row id="msg_0722_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Moves can be used\nregardless of abilities.</language>
+		<language name="English">Cap. utilisables quelles\nque soient les cap. spé.</language>
 	</row>
 	<row id="msg_0722_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Heightens the critical-\nhit ratios of moves.</language>
+		<language name="English">Augmente la fréquence\ndes coups critiques.</language>
 	</row>
 	<row id="msg_0722_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Damages the foe landing\nthe finishing hit.</language>
+		<language name="English">Blesse l’ennemi qui \nporte le coup de grâce.</language>
 	</row>
 	<row id="msg_0722_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Senses the foe’s\ndangerous moves.</language>
+		<language name="English">Prévoit les capacités\nennemies dangereuses.</language>
 	</row>
 	<row id="msg_0722_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Determines what moves\nthe foe has.</language>
+		<language name="English">Découvre la capacité\nennemie la plus puissante.</language>
 	</row>
 	<row id="msg_0722_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ignores any change in\nability by the foe.</language>
+		<language name="English">Ignore les changements de\nstats de l’ennemi.</language>
 	</row>
 	<row id="msg_0722_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up “not very\neffective” moves.</language>
+		<language name="English">Améliore les capacités\n“pas très efficaces”.</language>
 	</row>
 	<row id="msg_0722_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reduces damage from\nsupereffective attacks.</language>
+		<language name="English">Affaiblit les capacités\n“super efficaces”.</language>
 	</row>
 	<row id="msg_0722_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Temporarily halves\nAttack and Speed.</language>
+		<language name="English">Divise temporairement\nVitesse et Attaque par 2.</language>
 	</row>
 	<row id="msg_0722_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Enables moves to hit\nGhost-type foes.</language>
+		<language name="English">Les capacités touchent\nles Pokémon Spectre.</language>
 	</row>
 	<row id="msg_0722_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon draws in all\nWater-type moves.</language>
+		<language name="English">Attire les attaques Eau\nvisant un Pokémon.</language>
 	</row>
 	<row id="msg_0722_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon regains HP in\na hailstorm.</language>
+		<language name="English">Récupère des PV lors des\ntempêtes de grêle.</language>
 	</row>
 	<row id="msg_0722_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reduces damage from\nsupereffective attacks</language>
+		<language name="English">Affaiblit les capacités\n“super efficaces”.</language>
 	</row>
 	<row id="msg_0722_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon summons a\nhailstorm in battle.</language>
+		<language name="English">Déclenche une tempête de\ngrêle pendant le combat.</language>
 	</row>
 	<row id="msg_0722_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon may gather\nHoney from somewhere.</language>
+		<language name="English">Le Pokémon peut parfois\ntrouver du Miel.</language>
 	</row>
 	<row id="msg_0722_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon can check\nthe foe’s held item.</language>
+		<language name="English">Permet de connaître\nl’objet tenu par l’ennemi.</language>
 	</row>
 	<row id="msg_0722_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up moves that\nhave recoil damage.</language>
+		<language name="English">Booste les cap. ayant des\ndégâts de contrecoups.</language>
 	</row>
 	<row id="msg_0722_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Changes type to match\nthe held Plate.</language>
+		<language name="English">Modifie le type en fonction\nde la Plaque tenue.</language>
 	</row>
 	<row id="msg_0722_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Powers up party Pokémon\nwhen it is sunny.</language>
+		<language name="English">Pokémon de l’équipe plus\npuissants au soleil.</language>
 	</row>
 	<row id="msg_0722_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Reduces a sleeping\nfoe’s HP.</language>
+		<language name="English">Réduit les PV d’un ennemi\nendormi.</language>
 	</row>
 </body>

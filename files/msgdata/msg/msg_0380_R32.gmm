@@ -2,84 +2,84 @@
 <body language="English">
 	<row id="msg_0380_R32_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wait up!\nWhat’s the hurry?\r</language>
+		<language name="English">Hé!!\nOn se calme, la jeunesse!\r</language>
 	</row>
 	<row id="msg_0380_R32_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, right?\nSome guy wearing glasses was looking\ffor you.\rSee for yourself. He’s waiting for\nyou at the Poké Mart.</language>
+		<language name="English">C’est toi, {STRVAR_1 3, 0, 0}?\nUn bonhomme avec des lunettes\fte cherchait.\rIl a dit qu’il t’attendrait à la\nBoutique Pokémon. Va le voir!</language>
 	</row>
 	<row id="msg_0380_R32_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}, right?\nSome guy wearing glasses was looking\ffor you.\rSee for yourself. He’s waiting for\nyou at the Poké Mart.\r</language>
+		<language name="English">C’est toi, {STRVAR_1 3, 0, 0}?\nUn bonhomme avec des lunettes\fte cherchait.\rIl a dit qu’il t’attendrait à la\nBoutique Pokémon. Va le voir!\r</language>
 	</row>
 	<row id="msg_0380_R32_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you gone to the Pokémon Gym?\rYou can test your Pokémon and\nyourself there.\rIt’s a rite of passage for all Trainers!</language>
+		<language name="English">As-tu déjà visité une Arène Pokémon?\nEn y allant, tu apprendras beaucoup\fde choses, et tes Pokémon aussi.\rTous les Dresseurs savent ça!\nTu devrais y aller!</language>
 	</row>
 	<row id="msg_0380_R32_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you gone to the Pokémon Gym?\rYou can test your Pokémon and\nyourself there.\rIt’s a rite of passage for all Trainers!\r</language>
+		<language name="English">As-tu déjà visité une Arène Pokémon?\nEn y allant, tu apprendras beaucoup\fde choses, et tes Pokémon aussi.\rTous les Dresseurs savent ça!\nTu devrais y aller!\r</language>
 	</row>
 	<row id="msg_0380_R32_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have some good Pokémon there.\rIt must be from the training you gave\nthem around Violet City.\rThe training at the Gym must have\nbeen especially helpful.\rAs a souvenir of Violet City, take this.\rIt increases the power of\nGrass-type moves.\r</language>
+		<language name="English">Bien! Tu as de bons Pokémon!\nTu as dû pas mal les entraîner\fà Mauville, non?\rLes combats à l’Arène en particulier\nont dû être très enrichissants.\rTiens! En souvenir de ta visite ici,\naccepte ceci!\rCela améliore les capacités\nde type Plante!\r</language>
 	</row>
 	<row id="msg_0380_R32_00006" index="6">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0380_R32_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your experiences in Violet City\nshould be useful for your journey.</language>
+		<language name="English">Ta visite à Mauville te servira\ndans ton voyage.</language>
 	</row>
 	<row id="msg_0380_R32_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, your Bag is chock-full.</language>
+		<language name="English">Comment! Ton Sac est plein?</language>
 	</row>
 	<row id="msg_0380_R32_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey, your Bag is chock-full.\r</language>
+		<language name="English">Comment! Ton Sac est plein?\r</language>
 	</row>
 	<row id="msg_0380_R32_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WROOOOAR!\rPEOPLE RUN WHEN I ROAR!\nBUT YOU CAME LOOKING!\rTHAT PLEASES ME!\nNOW TAKE THIS!\r</language>
+		<language name="English">GROAAARH!!!\rLES GENS S’ENFUIENT QUAND JE CRIE,\nMAIS TOI TU T’APPROCHES!\rT’ES SUPER!\nVOILA POUR TOI!!!\r</language>
 	</row>
 	<row id="msg_0380_R32_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0380_R32_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WROOOAR!\nIT’S ROAR!\rEVEN POKéMON RUN\nFROM A GOOD ROAR!</language>
+		<language name="English">GROOAAAH!\nC’EST HURLEMENT!\fÇA FAIT PEUR A TES ADVERSAIRES!</language>
 	</row>
 	<row id="msg_0380_R32_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">WROOOAR! YOUR BAG IS FULL!</language>
+		<language name="English">GROOOAR!! TON SAC EST PLEIN!</language>
 	</row>
 	<row id="msg_0380_R32_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How would you like to have this\ntasty, nutritious SlowpokeTail?\rFor you right now, just $1,000,000!\nYou’ll want this! {YESNO 0}</language>
+		<language name="English">Que dirais-tu d’une friandise\npleine de bons éléments nutritifs?\rJ’te fais un prix: 1 000 000 $!\nÇa te dit? {YESNO 0}</language>
 	</row>
 	<row id="msg_0380_R32_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tch! I thought kids these days\nwere loaded...</language>
+		<language name="English">T’as pas assez d’argent!\rTss! Et moi qui pensais que les enfants\nde nos jours étaient pleins de tunes...</language>
 	</row>
 	<row id="msg_0380_R32_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want it?\nThen scram. Shoo!</language>
+		<language name="English">T’en veux pas?\nAlors dégage! Dégage!</language>
 	</row>
 	<row id="msg_0380_R32_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rt. 32\nSouth to Azalea Town</language>
+		<language name="English">Route 32\nSud: Ecorcia</language>
 	</row>
 	<row id="msg_0380_R32_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruins of Alph\nEast Entrance</language>
+		<language name="English">Ruines d’Alpha\nEntrée Est</language>
 	</row>
 	<row id="msg_0380_R32_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Union Cave ahead</language>
+		<language name="English">Direction\nCaves Jumelles</language>
 	</row>
 </body>

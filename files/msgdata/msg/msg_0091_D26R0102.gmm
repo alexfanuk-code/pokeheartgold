@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="msg_0091_D26R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kurt: Way to go, {STRVAR_1 3, 0, 0}!\rTeam Rocket has taken off.\rMy back’s better, too.\nLet’s get out of here.\r</language>
+		<language name="English">Fargas: Bravo, {STRVAR_1 3, 0, 0}!\nLa Team Rocket a décampé!\rMon dos va mieux.\nAllez... Rentrons.\r</language>
 	</row>
 	<row id="msg_0091_D26R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Proton: What do we have here?\rI am often labeled as the scariest and\ncruelest guy in Team Rocket...\rI strongly urge you not to interfere\nwith our business!\r</language>
+		<language name="English">Lance: Quoi?\nJ’ai la réputation d’être le plus cruel\fdes membres de la Team Rocket...\rJe ne te laisserai pas nous mettre\ndes bâtons dans les roues!\r</language>
 	</row>
 	<row id="msg_0091_D26R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Proton: Humph...\nTeam Rocket was indeed broken up\fthree years ago. But we continued\four activities underground.\rA small obstacle like you won’t\nbe much of a problem for our mission.\rI advise you to be very afraid of what\nis to come!\r</language>
+		<language name="English">Lance: La Team Rocket a été dissoute\nil y a trois ans, certes...\rMais nous avons continué nos activités\ndans l’ombre.\rTu peux faire tout ce que tu veux, mais\ntu n’arriveras pas à nous arrêter!\rTu devras dorénavant vivre dans\nla terreur de nos prochains coups!\r</language>
 	</row>
 	<row id="msg_0091_D26R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A SLOWPOKE with its tail cut off...\rHuh? It has Mail. Read it? {YESNO 0}</language>
+		<language name="English">Un RAMOLOSS à la queue coupée...\nHein? Il tient une Lettre.\fLa lire? {YESNO 0}</language>
 	</row>
 	<row id="msg_0091_D26R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} read the Mail.\rBe good and look after the house\nwith Grandpa and SLOWPOKE.\f           Love, Dad</language>
+		<language name="English">{STRVAR_1 3, 0, 0} lit la Lettre.\rSois sage et occupe-toi bien de la\nmaison avec papy et le RAMOLOSS.\rBisous.\n             Papa.</language>
 	</row>
 	<row id="msg_0091_D26R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A SLOWPOKE with its tail cut off...</language>
+		<language name="English">Un RAMOLOSS à la queue coupée...</language>
 	</row>
 </body>

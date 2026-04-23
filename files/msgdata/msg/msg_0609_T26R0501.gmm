@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0609_T26R0501_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Along the way to Cianwood, there are\nfour deserted islands.\rBad kids are taken to the islands\nas punishment!</language>
+		<language name="English">Il y a 4 îles désertes en allant\nvers Irisia.\rOn y abandonne les enfants qui n’ont\npas été sages!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whenever I get in trouble, Daddy\nalways scares me.</language>
+		<language name="English">Quand je fais des bêtises, papa\nme menace tout de suite...</language>
 	</row>
 	<row id="msg_0609_T26R0501_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My sister gave me a lot of Seals!\fHere, have some!\r</language>
+		<language name="English">Ma sœur m’a donné plein de Sceaux.\nJe vais les partager avec toi!\r</language>
 	</row>
 	<row id="msg_0609_T26R0501_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow!\nYou have so many Seals!\rYou can cover your Poké Balls in Seals!</language>
+		<language name="English">Wouah!\nTu as plein de Sceaux!\rColle-les sur tes Poké Balls!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can give you better ones tomorrow!</language>
+		<language name="English">Repasse demain et je t’en donnerai\ndes encore plus mieux!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nYou don’t have a Seal Case?\fI was gonna give you some Seals...</language>
+		<language name="English">Oh?\nJe voulais te donner des Sceaux, mais\ftu n’as pas de Boîte pour les ranger!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There!\nI’ll give you this!\r</language>
+		<language name="English">Tiens!\nPour toi!\r</language>
 	</row>
 	<row id="msg_0609_T26R0501_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have another!\r</language>
+		<language name="English">En voilà encore un autre!\r</language>
 	</row>
 	<row id="msg_0609_T26R0501_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have more!\r</language>
+		<language name="English">Et encore un!\r</language>
 	</row>
 	<row id="msg_0609_T26R0501_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stick them on your Ball Capsules!</language>
+		<language name="English">Il faut les coller sur tes Poké Balls!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Seal Case is full!</language>
+		<language name="English">Wouah!\nTu en as déjà plein!</language>
 	</row>
 	<row id="msg_0609_T26R0501_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The {STRVAR_1 10, 0, 0} was\nput away in the Seal Case.\r</language>
+		<language name="English">L’exemplaire du {STRVAR_1 10, 0, 0}\na été rangé dans la Boîte Sceaux!\r</language>
 	</row>
 </body>

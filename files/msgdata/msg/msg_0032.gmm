@@ -2,241 +2,241 @@
 <body language="English">
 	<row id="msg_0032_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Battle Castle.\nMy name is Darach.\rI will be your host on behalf of Lady\nCaitlin, the owner of the castle.\rFirst, I must ask you for any items\nyour Pokémon are holding.\rThey will be returned to you when you\nleave.\rNext, I have here 10 Castle Points, CP,\nthat can be used only here.\rThey are for you.\nPlease accept them.\r</language>
+		<language name="English">Bienvenue au Castel de Combat.\nJe m’appelle Parsley.\rDame Percila, propriétaire de ce\nchâteau, m’a chargé de vous guider.\rAvant tout, il me faut vous demander\ntous les objets tenus par vos Pokémon.\rIls vous seront bien évidemment\nrestitués à votre départ.\rBien, permettez-moi également de vous\nremettre ces 10 Points Castel, ou PCa.\rVous devrez les utiliser céans, car ils\nne sont acceptés nulle part ailleurs.\rTenez, les voici.\r</language>
 	</row>
 	<row id="msg_0032_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome.\r{STRVAR_1 3, 0, 0}, as per the rules, I must\nask for your Pokémon’s held items.\rThey will be returned to you when you\nleave.\rI also have for you 10 Castle Points,\nCP, that can only be used here.\r</language>
+		<language name="English">Bienvenue.\r{STRVAR_1 3, 0, 0}, il me faut vous demander\ntous les objets tenus par vos Pokémon.\rLe règlement est ainsi fait. Cela dit, ils\nvous seront restitués ultérieurement.\rJe vous remets également 10 Points\nCastel, que vous devrez utiliser céans.\r</language>
 	</row>
 	<row id="msg_0032_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please wait a moment.</language>
+		<language name="English">Veuillez patienter.</language>
 	</row>
 	<row id="msg_0032_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Very well.\nPlease proceed.</language>
+		<language name="English">Parfait.\nAllons-y.</language>
 	</row>
 	<row id="msg_0032_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your fainted Pokémon will be\nrevived.\r</language>
+		<language name="English">Tout Pokémon K.O. sera ranimé.\r</language>
 	</row>
 	<row id="msg_0032_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Coming up is battle no. {STRVAR_1 53, 0, 0}.\nI trust you are ready?</language>
+		<language name="English">Le combat nº {STRVAR_1 53, 0, 0} vous attend. Votre\ndétermination doit être sans faille!</language>
 	</row>
 	<row id="msg_0032_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you care to save the last battle\nas your Battle Video?</language>
+		<language name="English">Souhaitez-vous enregistrer la vidéo du\ndernier combat sur le Magnéto VS?</language>
 	</row>
 	<row id="msg_0032_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}’s battle has been saved\nas a Battle Video.\r</language>
+		<language name="English">La Vidéo de combat de {STRVAR_1 3, 0, 0}\na été sauvegardée.\r</language>
 	</row>
 	<row id="msg_0032_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There was an error.\nThe Battle Video couldn’t be saved.\r</language>
+		<language name="English">Une erreur est survenue.\nLa sauvegarde a échoué.\r</language>
 	</row>
 	<row id="msg_0032_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you care to delete your existing\nBattle Video and save the last battle?</language>
+		<language name="English">Voulez-vous effacer la Vidéo de combat\nprécédente afin d’enregistrer celui-ci?</language>
 	</row>
 	<row id="msg_0032_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nPlease do not turn the power off.</language>
+		<language name="English">Sauvegarde en cours...\nVeuillez ne pas éteindre.</language>
 	</row>
 	<row id="msg_0032_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Would you like to save and take a break\nfrom playing?</language>
+		<language name="English">Voulez-vous sauvegarder et faire une\npause?</language>
 	</row>
 	<row id="msg_0032_00012" index="12">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0032_00013" index="13">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0032_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you wish to retire from this\nBattle Castle challenge?</language>
+		<language name="English">Souhaitez-vous vous retirer du\ndéfi du Castel de Combat?</language>
 	</row>
 	<row id="msg_0032_00015" index="15">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0032_00016" index="16">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0032_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} is choosing.\nPlease wait.</language>
+		<language name="English">Attente d’une réponse de {STRVAR_1 3, 0, 0}.\nVeuillez patienter.</language>
 	</row>
 	<row id="msg_0032_00018" index="18">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0032_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} chose to retire.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a décidé d’abandonner.</language>
 	</row>
 	<row id="msg_0032_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please choose what you wish to do.\r</language>
+		<language name="English">Veuillez m’indiquer ce que vous\nsouhaitez faire.\r</language>
 	</row>
 	<row id="msg_0032_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may heal a Pokémon or rent an item\nfor it.</language>
+		<language name="English">Soigner un Pokémon ou louer\nun objet pour lui.</language>
 	</row>
 	<row id="msg_0032_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may check on your opponent’s\nPokémon.</language>
+		<language name="English">Obtenir des détails sur les\nPokémon adverses.</language>
 	</row>
 	<row id="msg_0032_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle against a Trainer.</language>
+		<language name="English">Démarrer le combat.</language>
 	</row>
 	<row id="msg_0032_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You may take a pass and avoid battling\na Trainer.</language>
+		<language name="English">Refuser le combat et passer un tour.</language>
 	</row>
 	<row id="msg_0032_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It will cost {STRVAR_1 52, 0, 0} CP.\nIs that acceptable?</language>
+		<language name="English">Cela vous coûtera {STRVAR_1 52, 0, 0} PCa.\nCela vous paraît-il acceptable?</language>
 	</row>
 	<row id="msg_0032_00026" index="26">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0032_00027" index="27">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0032_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m terribly sorry.\nYou have insufficient CP.\r</language>
+		<language name="English">Mille excuses, mais vous\nn’avez pas assez de PCa.\r</language>
 	</row>
 	<row id="msg_0032_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">From here on, you may choose “Pass”\nand avoid battling a Trainer.\rIf you don’t wish to battle a certain\nTrainer, choose “Pass.”\r</language>
+		<language name="English">Dorénavant, vous pourrez choisir\n“Passer un tour” si vous préférez\féviter l’affrontement suivant.\rN’hésitez pas à utiliser cette option\npour éviter un combat trop périlleux.\r</language>
 	</row>
 	<row id="msg_0032_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Caitlin: ...\nDarach! CP for this Trainer at once!</language>
+		<language name="English">Percila: Bien... Parsley! Apportez des\nPCa. Immédiatement!</language>
 	</row>
 	<row id="msg_0032_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: {STRVAR_1 3, 1, 0}, bravo.\nA fantastic victory, to be sure.</language>
+		<language name="English">Parsley: Bravo, {STRVAR_1 3, 1, 0}.\nQuelle fabuleuse victoire!</language>
 	</row>
 	<row id="msg_0032_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: {STRVAR_1 3, 1, 0}, well done.\nA quite remarkable victory it was.</language>
+		<language name="English">Parsley: Excellent, {STRVAR_1 3, 1, 0}. Ce\ncombat était tout à fait remarquable.</language>
 	</row>
 	<row id="msg_0032_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: {STRVAR_1 3, 1, 0}, good show.\nA hard-fought win, yes?</language>
+		<language name="English">Parsley: Bon travail, {STRVAR_1 3, 1, 0}. Une\nvictoire obtenue non sans mal, hm?</language>
 	</row>
 	<row id="msg_0032_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: {STRVAR_1 3, 1, 0}, good effort...</language>
+		<language name="English">Parsley: {STRVAR_1 3, 1, 0}, vos efforts\nsont louables...</language>
 	</row>
 	<row id="msg_0032_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: {STRVAR_1 3, 1, 0}, bravo.\nA fantastic victory, to be sure.\r</language>
+		<language name="English">Parsley: Bravo, {STRVAR_1 3, 1, 0}.\nQuelle fabuleuse victoire!\r</language>
 	</row>
 	<row id="msg_0032_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: {STRVAR_1 3, 1, 0}, well done.\nA quite remarkable victory it was.\r</language>
+		<language name="English">Parsley: Excellent, {STRVAR_1 3, 1, 0}. Ce\ncombat était tout à fait remarquable.\r</language>
 	</row>
 	<row id="msg_0032_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: {STRVAR_1 3, 1, 0}, good show.\nA hard-fought win, yes?\r</language>
+		<language name="English">Parsley: Bon travail, {STRVAR_1 3, 1, 0}. Une\nvictoire obtenue non sans mal, hm?\r</language>
 	</row>
 	<row id="msg_0032_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: {STRVAR_1 3, 1, 0}, good effort...\r</language>
+		<language name="English">Parsley: {STRVAR_1 3, 1, 0}, vos efforts\nsont louables...\r</language>
 	</row>
 	<row id="msg_0032_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lady Caitlin has instructed me to award\nyou {STRVAR_1 51, 0, 0} CP.</language>
+		<language name="English">Dame Percila m’a demandé de vous\nremettre {STRVAR_1 51, 0, 0} PCa en récompense.</language>
 	</row>
 	<row id="msg_0032_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: Congratulations on clearing\nseven consecutive battles.\rFor your valiant effort, {STRVAR_1 3, 0, 0},\nplease accept this BP.\r</language>
+		<language name="English">Parsley: Félicitations! Vous avez\nremporté sept victoires successives.\r{STRVAR_1 3, 0, 0}, pour célébrer ceci,\nveuillez accepter ces PCo.\r</language>
 	</row>
 	<row id="msg_0032_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received {STRVAR_1 51, 1, 0} BP!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} obtient {STRVAR_1 51, 1, 0} PCo!\r</language>
 	</row>
 	<row id="msg_0032_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ll return any items that we were\nholding for you.\r</language>
+		<language name="English">Voici l’ensemble des objets que\nnous conservions pour vous.\r</language>
 	</row>
 	<row id="msg_0032_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saving...\nDon’t turn off the power.</language>
+		<language name="English">Sauvegarde en cours...\nNe pas éteindre.</language>
 	</row>
 	<row id="msg_0032_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Caitlin: ...Pass?\n...How uncouth!</language>
+		<language name="English">Percila: Vous passez un tour?\nCela est peu délicat!</language>
 	</row>
 	<row id="msg_0032_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CONTINUE</language>
+		<language name="English">CONTINUER</language>
 	</row>
 	<row id="msg_0032_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RECORD</language>
+		<language name="English">ENREGISTRER</language>
 	</row>
 	<row id="msg_0032_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">REST</language>
+		<language name="English">FAIRE UNE PAUSE</language>
 	</row>
 	<row id="msg_0032_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">RETIRE</language>
+		<language name="English">ABANDONNER</language>
 	</row>
 	<row id="msg_0032_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SELF</language>
+		<language name="English">PROPRE EQUIPE</language>
 	</row>
 	<row id="msg_0032_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OPPONENT</language>
+		<language name="English">EQUIPE ADVERSE</language>
 	</row>
 	<row id="msg_0032_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BATTLE</language>
+		<language name="English">COMBATTRE</language>
 	</row>
 	<row id="msg_0032_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">PASS</language>
+		<language name="English">PASSER UN TOUR</language>
 	</row>
 	<row id="msg_0032_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: {STRVAR_1 3, 0, 0}, congratulations!\rYou are to be commended on your\nmastery for keeping the streak alive.\rOur owner, appreciating your worth,\ndemands you battle the Castle Valet.\rYou are prepared, yes?\r</language>
+		<language name="English">Parsley: {STRVAR_1 3, 0, 0}, je vous\nfélicite!\rVous volez de victoire en victoire et\nvos exploits inspirent le respect.\rDame Percila est impressionnée et\nsouhaiterait vous voir affronter\fson Chambellan.\rJ’ose espérer que vous relèverez\nle défi.\r</language>
 	</row>
 	<row id="msg_0032_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: Welcome.\rI am Darach, as you know, and I am\nthe Castle Valet.\rLady Caitlin, my employer, is not one\nto accept defeat willingly.\rHowever, for a reason I’m not at\nliberty to disclose, she cannot battle.\rConsequently, I will do battle in her\nladyship’s place.\r...Let me assure you that you won’t be\nshortchanged by facing me.\rEn garde!\r</language>
+		<language name="English">Parsley: Bienvenue.\rComme vous le savez, mon nom est\nParsley. Je suis le Chambellan du\fCastel de Combat.\rPour une raison que je ne puis révéler,\nDame Percila ne peut vous affronter\fen personne.\rDe ce fait, c’est moi, Parsley, qui \ncombattrai en son nom.\rEn tant que représentant de Dame\nPercila, je ne saurais accepter\fla défaite.\rN’allez pas croire que je suis un\nadversaire facile. En garde!\r</language>
 	</row>
 	<row id="msg_0032_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: Your mastery of Pokémon is as\nbreathtaking as ever.\r{STRVAR_1 3, 0, 0}, you certainly are to be\ncommended.\r...However, if I may say so, I noticed\nsomething about the way you battle.\rAfter all, I have had the opportunity\nto watch you closely firsthand.\rSo, what is it that I noticed?\rAs a Trainer myself, it is but proper\netiquette to show you in a battle.\rLet us begin!\nEn garde!\r</language>
+		<language name="English">Parsley: Votre maîtrise des Pokémon\nest très impressionnante.\r{STRVAR_1 3, 0, 0}, vous avez toute mon\nadmiration.\rCependant, sauf votre respect, votre\nstratégie n’est pas sans faille.\rAprès tout, j’ai eu maintes occasions\nde vous observer au combat.\rVous souhaitez savoir où le bât blesse?\rEn tant que Dresseur, il est de mon\ndevoir de vous le montrer au combat.\rEn garde!\r</language>
 	</row>
 	<row id="msg_0032_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: {STRVAR_1 3, 0, 0}, you are truly in\npossession of a superlative talent!\rI drew on every reserve of experience\nand etiquette handed down through\four heritage of glorious servitude.\rBut even then, I failed to fend off your\ninspired and inspiring challenge.\rI shall see to appeasing Lady Caitlin’s\ndispleasure at my loss.\r{STRVAR_1 3, 0, 0}, please do return to our\nBattle Castle.\rWe will be delighted and feel privileged\nto have you back!\r</language>
+		<language name="English">Parsley: {STRVAR_1 3, 0, 0}, votre style est\ntout simplement magistral!\rNi mes observations passées ni ma\nlongue expérience de Dresseur ne m’ont\fpermis de vous faire obstacle.\rVotre manière de combattre est une\nvéritable source d’inspiration.\rDame Percila sera peinée de ma\ndéfaite, mais je suis certain que\fla beauté de ce combat l’aura ravie.\r{STRVAR_1 3, 0, 0}, je vous engage à revenir\nau Castel de Combat aussi souvent qu’il\fvous plaira.\rVotre présence sera une grande joie et\nun immense honneur pour nous!\r</language>
 	</row>
 	<row id="msg_0032_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Darach: I am humbled...\rWhat I’d perceived to be a weakness\nwas only illusory...\rOr, perhaps you corrected it in the\ncourse of our battle.\rRegardless, your performance was\nstunning again.\rThough she cannot say it, Lady Caitlin\nappears quite taken by your style.\rFor her sake at the very least, please\ndo return to our Battle Castle!\r</language>
+		<language name="English">Parsley: L’audace dont j’ai fait\npreuve était donc bien déplacée...\rMoi qui pensais avoir identifié\nvotre faiblesse, me voilà fort marri...\rPeut-être avez-vous su la corriger\nlorsque que je tâchais de l’exploiter.\rQuoi qu’il en soit, votre victoire\nest éclatante, une fois encore.\rDame Percila se joint à moi pour\nsaluer vos qualités de Dresseur.\rJe vous assure que nous serons tous\ndeux honorés de vous compter à nouveau\fparmi les visiteurs du Castel de Combat!\r</language>
 	</row>
 </body>

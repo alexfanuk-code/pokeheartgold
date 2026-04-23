@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0055_D15R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">However hard we battle, the tower\nwill stand strong.</language>
+		<language name="English">Même en y mettant toutes nos forces,\non pourra à peine ébranler la tour!</language>
 	</row>
 	<row id="msg_0055_D15R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I sway like leaves in the wind...</language>
+		<language name="English">Comme une feuille d’arbre\nsecouée par le vent...!</language>
 	</row>
 	<row id="msg_0055_D15R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A Pokémon statue...\nIt looks very distinguished.</language>
+		<language name="English">C’est le Pokémon vénéré ici...\nCette seule pensée impose le respect.</language>
 	</row>
 </body>

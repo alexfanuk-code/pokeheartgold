@@ -2,202 +2,202 @@
 <body language="English">
 	<row id="msg_0761_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What sort of adventure do you like?</language>
+		<language name="English">Qu’est-ce qui vous plaît le plus\npendant votre aventure?</language>
 	</row>
 	<row id="msg_0761_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What type of Trainer would you like\nto be?</language>
+		<language name="English">Quel Dresseur rêveriez-vous d’être?</language>
 	</row>
 	<row id="msg_0761_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What type of Pokémon did you start\nyour adventure with?</language>
+		<language name="English">Vous avez commencé votre aventure\navec un Pokémon de type...</language>
 	</row>
 	<row id="msg_0761_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When you play with a friend, what do\nyou do?</language>
+		<language name="English">Souvent, lorsque vous jouez avec vos\namis, vous faites...</language>
 	</row>
 	<row id="msg_0761_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you ever traded Pokémon over\nNintendo Wi-Fi Connection?</language>
+		<language name="English">Avez-vous déjà échangé un Pokémon via\nla connexion Wi-Fi Nintendo?</language>
 	</row>
 	<row id="msg_0761_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where do you go most often?</language>
+		<language name="English">Où allez-vous le plus souvent?</language>
 	</row>
 	<row id="msg_0761_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you care about most when\nit comes to your Pokémon?</language>
+		<language name="English">Quel est le plus important pour vous\nchez les Pokémon?</language>
 	</row>
 	<row id="msg_0761_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where do you usually play Pokémon?</language>
+		<language name="English">Où jouez-vous le plus souvent à\nPokémon?</language>
 	</row>
 	<row id="msg_0761_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What have you done while playing?</language>
+		<language name="English">Cela vous est déjà arrivé alors que\nvous étiez en train de jouer...</language>
 	</row>
 	<row id="msg_0761_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What status don’t you like your\nPokémon to get?</language>
+		<language name="English">En combat, quel changement de statut\nvous inquiète le plus?</language>
 	</row>
 	<row id="msg_0761_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What status do you inflict after\nreducing HP to capture a Pokémon?</language>
+		<language name="English">Quel changement de statut infligez-vous\naux Pokémon avant de les capturer?</language>
 	</row>
 	<row id="msg_0761_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you use most on your\nadventure?</language>
+		<language name="English">Quel objet utilisez-vous le plus\nsouvent lors de votre aventure?</language>
 	</row>
 	<row id="msg_0761_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Where do you catch Pokémon most often?</language>
+		<language name="English">Quel est votre lieu de prédilection\npour la capture de Pokémon sauvages?</language>
 	</row>
 	<row id="msg_0761_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">When do you play Pokémon?</language>
+		<language name="English">A quel moment de la journée\npréférez-vous jouer à Pokémon?</language>
 	</row>
 	<row id="msg_0761_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Who are your Pokémon rivals?</language>
+		<language name="English">Qui sont vos plus grands rivaux\nen matière de Pokémon?</language>
 	</row>
 	<row id="msg_0761_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What item would you like to use on\nyourself?</language>
+		<language name="English">Quel objet aimeriez-vous utiliser sur\nvous-même?</language>
 	</row>
 	<row id="msg_0761_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Pokémon’s Plaza Game do you like?</language>
+		<language name="English">Quel est votre Jeu du Square préféré?</language>
 	</row>
 	<row id="msg_0761_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you watch for in moves?</language>
+		<language name="English">Qu’est-ce qui vous pousse à choisir\nune capacité plutôt qu’une autre?</language>
 	</row>
 	<row id="msg_0761_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you let your favorite Pokémon\nevolve?</language>
+		<language name="English">Faites-vous évoluer vos Pokémon\nfavoris?</language>
 	</row>
 	<row id="msg_0761_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which drink sounds the most delicious?</language>
+		<language name="English">Quelle boisson aimeriez-vous commander?</language>
 	</row>
 	<row id="msg_0761_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which item would you most like to wear\nyourself?</language>
+		<language name="English">De quel objet aimeriez-vous pouvoir\nvous équiper?</language>
 	</row>
 	<row id="msg_0761_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of gift pleases you most?</language>
+		<language name="English">Quel cadeau vous fait le plus plaisir?</language>
 	</row>
 	<row id="msg_0761_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of Pokémon do you enjoy\ngetting the most?</language>
+		<language name="English">De quelle manière préférez-vous\nobtenir un Pokémon?</language>
 	</row>
 	<row id="msg_0761_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of Gym Leader do you like\nbest?</language>
+		<language name="English">Quelles qualités admirez-vous le plus\nchez un Champion d’Arène?</language>
 	</row>
 	<row id="msg_0761_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you see your favorite\nPokémon as?</language>
+		<language name="English">Vous considérez votre Pokémon\npréféré comme...</language>
 	</row>
 	<row id="msg_0761_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What would you do if you were a\nPokémon?</language>
+		<language name="English">Qu’aimeriez-vous faire si vous étiez\nun Pokémon?</language>
 	</row>
 	<row id="msg_0761_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What makes you the angriest?</language>
+		<language name="English">Qu’est-ce qui vous énerve le plus?</language>
 	</row>
 	<row id="msg_0761_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of Pokémon music do you like\nbest?</language>
+		<language name="English">Quelles musiques Pokémon\npréférez-vous?</language>
 	</row>
 	<row id="msg_0761_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you do with Technical Machines?</language>
+		<language name="English">Les Capsules Techniques, vous êtes\nplutôt du genre à les...</language>
 	</row>
 	<row id="msg_0761_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What are your PC Boxes like?</language>
+		<language name="English">Dans quel état sont vos Boîtes\ndu PC?</language>
 	</row>
 	<row id="msg_0761_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What are the levels of the six Pokémon\nin your party?</language>
+		<language name="English">Le niveau des Pokémon de votre\néquipe est...</language>
 	</row>
 	<row id="msg_0761_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you let your Pokémon hold?</language>
+		<language name="English">Que faites-vous tenir à vos Pokémon?</language>
 	</row>
 	<row id="msg_0761_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do other people know that you like\nPokémon?</language>
+		<language name="English">Les gens qui vous entourent savent-ils\nque vous jouez à Pokémon?</language>
 	</row>
 	<row id="msg_0761_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How do you like to get around?</language>
+		<language name="English">Comment aimez-vous vous déplacer?</language>
 	</row>
 	<row id="msg_0761_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you like to do in a battle?</language>
+		<language name="English">Au combat, que préférez-vous utiliser?</language>
 	</row>
 	<row id="msg_0761_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you like most about your\nPokémon?</language>
+		<language name="English">Que préférez-vous chez vos\nPokémon?</language>
 	</row>
 	<row id="msg_0761_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What scares you the most about\nPokémon?</language>
+		<language name="English">Ce qui vous effraie le plus dans\nPokémon, ce sont...</language>
 	</row>
 	<row id="msg_0761_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you save your money?</language>
+		<language name="English">Votre argent, vous avez tendance à...</language>
 	</row>
 	<row id="msg_0761_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What would you like to be, \nout of these choices?</language>
+		<language name="English">Si vous pouviez devenir un personnage\ndu jeu, lequel choisiriez-vous?</language>
 	</row>
 	<row id="msg_0761_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you consider to be the most\nimportant in Pokémon?</language>
+		<language name="English">Quelle est la chose la plus importante\nchez un Pokémon?</language>
 	</row>
 	<row id="msg_0761_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Were there any Trainers with the same\nname as you?</language>
+		<language name="English">Avez-vous déjà rencontré un Dresseur\nportant le même nom que vous?</language>
 	</row>
 	<row id="msg_0761_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of nicknames do you give your\nPokémon?</language>
+		<language name="English">Quel genre de surnoms aimez-vous\ndonner à vos Pokémon?</language>
 	</row>
 	<row id="msg_0761_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which move would you most like to use?</language>
+		<language name="English">Quelle capacité aimeriez-vous\nutiliser?</language>
 	</row>
 	<row id="msg_0761_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you do if a Pokémon is\npoisoned?</language>
+		<language name="English">Si votre Pokémon est empoisonné, quel\nsera votre premier réflexe?</language>
 	</row>
 	<row id="msg_0761_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you know anyone that looks like\na Gym Leader?</language>
+		<language name="English">Connaissez-vous quelqu’un qui\nressemble à un Champion d’Arène?</language>
 	</row>
 	<row id="msg_0761_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which move would you most like to use?</language>
+		<language name="English">Quelle capacité aimeriez-vous\nutiliser?</language>
 	</row>
 	<row id="msg_0761_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Have you ever drawn a picture of any\nPokémon?</language>
+		<language name="English">Avez-vous déjà essayé de dessiner un\nPokémon?</language>
 	</row>
 	<row id="msg_0761_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What intrigues you about the Trainers\nvisiting the Plaza?</language>
+		<language name="English">Quand vous rencontrez un Dresseur au\nSquare Wi-Fi, vous vous intéressez à...</language>
 	</row>
 	<row id="msg_0761_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What do you focus on in battles?</language>
+		<language name="English">En combat, vous vous concentrez sur...</language>
 	</row>
 	<row id="msg_0761_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What kind of Pokémon do you like best?</language>
+		<language name="English">Quel genre de Pokémon préférez-vous?</language>
 	</row>
 </body>

@@ -2,82 +2,82 @@
 <body language="English">
 	<row id="msg_0420_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainer Profiles</language>
+		<language name="English">Portrait de Dresseur</language>
 	</row>
 	<row id="msg_0420_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Snap</language>
+		<language name="English">Présentateur</language>
 	</row>
 	<row id="msg_0420_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re always watching you!\nIt’s time for Trainer Profiles!</language>
+		<language name="English">Et maintenant c’est l’heure\npour un nouveau Portrait de Dresseur!</language>
 	</row>
 	<row id="msg_0420_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">That town, this town,\nbringing people together.\nThe Street Corner Channel.</language>
+		<language name="English">La radio qui vous ressemble,\nla radio qui rassemble!</language>
 	</row>
 	<row id="msg_0420_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This boy loves Bug types! He’s so\nenergetic, and he doesn’t mind running\nthrough thick grass to catch Bug-type\nPokémon! He does what he wants, on the\nhills and in the fields, this Bug Catcher!</language>
+		<language name="English">Il adore les insectes.\nToujours en forme, prêt à vous bondir\ndessus, caché dans un buisson.\nPar monts et par vaux, il ne manque pas\nde ressources, le Scout!</language>
 	</row>
 	<row id="msg_0420_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">These two are always together.\nThey have the same birthday.\nThey always eat together.\nDo you think you can tell them apart?\nThese Twins!</language>
+		<language name="English">Elles sont inséparables!\nElles ont évidemment le même anniversaire\net elles mangent la même chose!\nSauriez-vous distinguer... les Jumelles?</language>
 	</row>
 	<row id="msg_0420_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flying majestically through the sky.\nRejecting the land for the open air.\nGracefully flapping its wings. Riding the\nwind to soar high into the sky.\nI want to fly there, too, sometime!\nThe Bird Keeper!</language>
+		<language name="English">Il prend son essor et il vole dans\nle ciel!\nIl étend ses ailes et se laisse porter\npar le vent.\nIl est libre, l’Ornithologue!</language>
 	</row>
 	<row id="msg_0420_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Singing in the cabin.\nLaa... Laa... La la la la...\nThe plan is to take a three-night, four-\nday holiday. To fish off the boat, hike\nin the mountains, and look for EEVEE to\nthe east and west. That’s the Camper!</language>
+		<language name="English">Il chante sous la douche...\nTralala la la la lala...\nIl a prévu 4 jours de vacances.\nPêche en canot, promenade en montagne,\net surtout retourner toutes les pierres\npour trouver un EVOLI.\nSacré Campeur!</language>
 	</row>
 	<row id="msg_0420_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Greeting you with a peace sign, stuffing\ndrinks into a cooler, smiling brightly\nwhile hiking through the mountains, you\ncan see her clearly on the horizon.\nOh no! Forgot the lunchbox! The number\none rule is to protect nature.\nThe Picnicker!</language>
+		<language name="English">Elle vous saluera toujours!\nDes boissons dans la glacière, et la\nvoilà partie en montagne le sourire aux\nlèvres!\nZut! Elle a oublié les sandwiches!\nMais elle fera bien attention à respecter\nl’environnement, la fillette Pique-Nique!</language>
 	</row>
 	<row id="msg_0420_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Accidentally inhaling a little ocean\nwater, he now has a sore nose. Swimming\naround the rocks, pushing ahead with a\nbreaststroke, tirelessly swimming along,\nand getting a leg cramp! His lungs\nexpand easily but it’s an unlucky day--\nit’s raining! That poor Swimmer!</language>
+		<language name="English">L’eau de mer lui pique le nez.\nIl contourne les rochers à la brasse.\nSans trêve ni repos, il fait des pieds\net des mains!\nIl nage comme un poisson dans l’eau\navec ce corps de triton!\nMais pas de chance, il pleut aujourd’hui!\nSacré Nageur!</language>
 	</row>
 	<row id="msg_0420_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A silhouette like that of Venus. An\nadorably dazzling smile. A nickname of\n“Mermaid.” Swimming around carefree in\nthe early afternoon. Feeling hungry but\non a diet. The number of enthusiastic\nfans. Droplets of water in her dimples.\nPlaying in the water rather than taking\na walk, this Swimmer!</language>
+		<language name="English">Un corps de vénus, un sourire charmeur,\non la surnomme “la sirène”, tant elle\nfend les eaux avec grâce.\nToujours au régime malgré sa silhouette\nparfaite, on ne compte plus ses fans!\nElle s’ébat dans l’onde, les yeux\nbrillants... c’est la Nageuse.</language>
 	</row>
 	<row id="msg_0420_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dropping a line in the cold water, in\nthe hopes of catching something big.\nThe line is yanked. The float drops\nunderwater. What was caught? Some lively\nrubber boots! This poor Fisherman!</language>
+		<language name="English">La ligne plantée dans l’eau glacée,\nil ne rêve que de grosses prises.\nAh, une prise! Mais...\nOh la belle botte!\nSacré Pêcheur!</language>
 	</row>
 	<row id="msg_0420_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The day has come to an end, but it’s still\nbright. That’s strange, you’d think.\nThere’s an intense fire burning, and it\nlooks like it’s going to burn them.\nHe doesn’t need a candle. He’s a human\nablaze, carelessly playing with fire.\nThe Firebreather!</language>
+		<language name="English">Le soleil se couche et pourtant il fait\nsi clair! Normal, car un type\nbouillant joue avec le feu!\nAttention à ce que cette torche humaine\nne se brûle pas!\nSacré Crache-Feu!</language>
 	</row>
 	<row id="msg_0420_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is so cool isn’t it, this Pokémon?\nThe tail is such a great shape.\nWant to trade figurines? Want to come\nover and see my collection?\nOh hey! This mark is in the wrong place.\nLooks like I fell for a counterfeit...\nBut it’s art anyway!\nThat’s a Poké Maniac!</language>
+		<language name="English">“Il est trop bien ce Pokémon!\nIl a l’air super balèze! Tu me\nl’échanges, dis?\nTu veux voir ma collection?\nBon, c’est pas des vrais, je suis tombé\nsur des copies. Mais bon, ça reste de\nbelles pièces, non?”\nSacré Pokémaniac!</language>
 	</row>
 	<row id="msg_0420_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can break ten roof tiles in one chop!\nSome people think I’m just a hooligan.\nThe palm of my hand becomes covered\nin blisters. I never forget to bow, and\nI shout out to psych myself up!\nI’m the Black Belt!</language>
+		<language name="English">10 tuiles brisées en deux d’un seul coup!\nOn le prend souvent pour une brute avec\nses mains couvertes d’ampoules.\nIl n’oublie jamais le salut respectueux,\nmais attention les oreilles quand il\npousse son cri d’attaque!\nSacré Karatéka!</language>
 	</row>
 	<row id="msg_0420_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hold it close, cheek to cheek. I always\nwant to be with you, surrounded by\nwonderful Pokémon. I’ll mutter your\nname. So happy, I’m dizzy.\nI love Pokémon! That’s a Pokéfan!</language>
+		<language name="English">Toujours entouré de ses Pokémon chéris,\nil ne pense qu’à les chouchouter,\nles câliner, les serrer très fort.\nIl marmonne à peine votre nom et le voilà\ndéjà reparti dans son monde de Pokémon.\nSacré Pokéfan!</language>
 	</row>
 	<row id="msg_0420_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A strong guy on a boat, plunging on\nthrough the waves. Dancing and singing\nand having a merry old time. But gentle\nas kittens once they get back on land.\nThat’s a Sailor!</language>
+		<language name="English">Il défie les éléments sur son bateau,\nfilant sur les vagues!\nIl râle, il chante mais redevient un\ngentleman dès qu’il met pied à terre.\nSacré Marin!</language>
 	</row>
 	<row id="msg_0420_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Had plenty of success. Learning through\nconstant repetition. Recklessly carrying\naround notebooks. Attending classes\nfor gifted kids.\nA wonderful Pokémon Trainer, that\nSchool Kid!</language>
+		<language name="English">Pour passer en classe supérieure,\nil révise encore et encore.\nTout, il apprend tout par cœur!\nEt il note tout aussi!\nAvec une telle éducation, il\ndeviendra un Dresseur de talent!\nSacré Elève!</language>
 	</row>
 	<row id="msg_0420_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hey kid, get out of my way! If you hang\naround, I’ll smack you! Get out of the\nway. Out of the way. My Bike is coming\nthrough! It’s so very loud, you’ll cover\nyour ears! We’ll line up and get in the\nway. Go ahead. Try to stop us Bikers!</language>
+		<language name="English">“Allez pépé! Dégage de là!\nJ’vais te tailler un short sinon!\nPlace, place pour ma moto!\nT’as qu’à te boucher les oreilles si c’est\ntrop bruyant!\nAh, essaye de m’arrêter pour voir!”\nSacré Motard!</language>
 	</row>
 	<row id="msg_0420_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yaho... Yaho... Yahohoho...\nSinging in a loud voice without worrying\nabout what’s around. A bearded man\nshouts out to the sky. From the far\nmountain. Yahohoho... So happy that the\necho came back to the Hiker!</language>
+		<language name="English">Lalala lilou!\nCe grand gaillard barbu pousse son cri\nde guerre sans se soucier des gens.\nDans la montagne résonne son lalala lilou\nporté par l’écho. Il adore ça!\nSacré Montagnard!</language>
 	</row>
 </body>

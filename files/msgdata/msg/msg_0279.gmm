@@ -2,67 +2,67 @@
 <body language="English">
 	<row id="msg_0279_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mystery Zone</language>
+		<language name="English">Endroit mystér.</language>
 	</row>
 	<row id="msg_0279_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Twinleaf Town</language>
+		<language name="English">Bonaugure</language>
 	</row>
 	<row id="msg_0279_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sandgem Town</language>
+		<language name="English">Littorella</language>
 	</row>
 	<row id="msg_0279_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Floaroma Town</language>
+		<language name="English">Floraville</language>
 	</row>
 	<row id="msg_0279_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Solaceon Town</language>
+		<language name="English">Bonville</language>
 	</row>
 	<row id="msg_0279_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celestic Town</language>
+		<language name="English">Célestia</language>
 	</row>
 	<row id="msg_0279_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jubilife City</language>
+		<language name="English">Féli-Cité</language>
 	</row>
 	<row id="msg_0279_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Canalave City</language>
+		<language name="English">Joliberges</language>
 	</row>
 	<row id="msg_0279_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oreburgh City</language>
+		<language name="English">Charbourg</language>
 	</row>
 	<row id="msg_0279_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eterna City</language>
+		<language name="English">Vestigion</language>
 	</row>
 	<row id="msg_0279_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hearthome City</language>
+		<language name="English">Unionpolis</language>
 	</row>
 	<row id="msg_0279_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pastoria City</language>
+		<language name="English">Verchamps</language>
 	</row>
 	<row id="msg_0279_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Veilstone City</language>
+		<language name="English">Voilaroc</language>
 	</row>
 	<row id="msg_0279_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunyshore City</language>
+		<language name="English">Rivamar</language>
 	</row>
 	<row id="msg_0279_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Snowpoint City</language>
+		<language name="English">Frimapic</language>
 	</row>
 	<row id="msg_0279_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon League</language>
+		<language name="English">Ligue Pokémon</language>
 	</row>
 	<row id="msg_0279_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
@@ -142,7 +142,7 @@
 	</row>
 	<row id="msg_0279_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 220</language>
+		<language name="English">Chenal 220</language>
 	</row>
 	<row id="msg_0279_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
@@ -154,7 +154,7 @@
 	</row>
 	<row id="msg_0279_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 223</language>
+		<language name="English">Chenal 223</language>
 	</row>
 	<row id="msg_0279_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
@@ -166,7 +166,7 @@
 	</row>
 	<row id="msg_0279_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 226</language>
+		<language name="English">Chenal 226</language>
 	</row>
 	<row id="msg_0279_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
@@ -182,191 +182,191 @@
 	</row>
 	<row id="msg_0279_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 230</language>
+		<language name="English">Chenal 230</language>
 	</row>
 	<row id="msg_0279_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oreburgh Mine</language>
+		<language name="English">Mine Charbourg</language>
 	</row>
 	<row id="msg_0279_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Valley Windworks</language>
+		<language name="English">Les Eoliennes</language>
 	</row>
 	<row id="msg_0279_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Eterna Forest</language>
+		<language name="English">Forêt Vestigion</language>
 	</row>
 	<row id="msg_0279_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fuego Ironworks</language>
+		<language name="English">Forge Fuego</language>
 	</row>
 	<row id="msg_0279_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mt. Coronet</language>
+		<language name="English">Mont Couronné</language>
 	</row>
 	<row id="msg_0279_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spear Pillar</language>
+		<language name="English">Colonnes Lances</language>
 	</row>
 	<row id="msg_0279_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Great Marsh</language>
+		<language name="English">Grand Marais</language>
 	</row>
 	<row id="msg_0279_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Solaceon Ruins</language>
+		<language name="English">Ruines Bonville</language>
 	</row>
 	<row id="msg_0279_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Victory Road</language>
+		<language name="English">Route Victoire</language>
 	</row>
 	<row id="msg_0279_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pal Park</language>
+		<language name="English">Parc des Amis</language>
 	</row>
 	<row id="msg_0279_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Amity Square</language>
+		<language name="English">Square Paisible</language>
 	</row>
 	<row id="msg_0279_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ravaged Path</language>
+		<language name="English">Chemin Rocheux</language>
 	</row>
 	<row id="msg_0279_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Floaroma Meadow</language>
+		<language name="English">Pré Floraville</language>
 	</row>
 	<row id="msg_0279_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oreburgh Gate</language>
+		<language name="English">Entrée Charbourg</language>
 	</row>
 	<row id="msg_0279_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fullmoon Island</language>
+		<language name="English">Ile Pleine Lune</language>
 	</row>
 	<row id="msg_0279_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sendoff Spring</language>
+		<language name="English">Source Adieu</language>
 	</row>
 	<row id="msg_0279_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Turnback Cave</language>
+		<language name="English">Grotte Retour</language>
 	</row>
 	<row id="msg_0279_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flower Paradise</language>
+		<language name="English">Paradis Fleuri</language>
 	</row>
 	<row id="msg_0279_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Snowpoint Temple</language>
+		<language name="English">Temple Frimapic</language>
 	</row>
 	<row id="msg_0279_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wayward Cave</language>
+		<language name="English">Grotte Revêche</language>
 	</row>
 	<row id="msg_0279_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruin Maniac Cave</language>
+		<language name="English">Grotte Ruineman.</language>
 	</row>
 	<row id="msg_0279_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Maniac Tunnel</language>
+		<language name="English">Tunnel Ruineman.</language>
 	</row>
 	<row id="msg_0279_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trophy Garden</language>
+		<language name="English">Jardin Trophée</language>
 	</row>
 	<row id="msg_0279_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Iron Island</language>
+		<language name="English">Ile de Fer</language>
 	</row>
 	<row id="msg_0279_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Old Chateau</language>
+		<language name="English">Vieux Château</language>
 	</row>
 	<row id="msg_0279_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Galactic HQ</language>
+		<language name="English">QG Galaxie</language>
 	</row>
 	<row id="msg_0279_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Verity Lakefront</language>
+		<language name="English">Rive Lac Vérité</language>
 	</row>
 	<row id="msg_0279_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Valor Lakefront</language>
+		<language name="English">Rive Lac Courage</language>
 	</row>
 	<row id="msg_0279_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Acuity Lakefront</language>
+		<language name="English">Rive Lac Savoir</language>
 	</row>
 	<row id="msg_0279_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Spring Path</language>
+		<language name="English">Chemin Source</language>
 	</row>
 	<row id="msg_0279_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake Verity</language>
+		<language name="English">Lac Vérité</language>
 	</row>
 	<row id="msg_0279_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake Valor</language>
+		<language name="English">Lac Courage</language>
 	</row>
 	<row id="msg_0279_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake Acuity</language>
+		<language name="English">Lac Savoir</language>
 	</row>
 	<row id="msg_0279_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Newmoon Island</language>
+		<language name="English">Ile Nouvellune</language>
 	</row>
 	<row id="msg_0279_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Tower</language>
+		<language name="English">Tour de Combat</language>
 	</row>
 	<row id="msg_0279_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fight Area</language>
+		<language name="English">Aire de Combat</language>
 	</row>
 	<row id="msg_0279_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Survival Area</language>
+		<language name="English">Aire de Survie</language>
 	</row>
 	<row id="msg_0279_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Resort Area</language>
+		<language name="English">Aire de Détente</language>
 	</row>
 	<row id="msg_0279_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stark Mountain</language>
+		<language name="English">Mont Abrupt</language>
 	</row>
 	<row id="msg_0279_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Seabreak Path</language>
+		<language name="English">Passage Marin</language>
 	</row>
 	<row id="msg_0279_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hall of Origin</language>
+		<language name="English">Salle Originelle</language>
 	</row>
 	<row id="msg_0279_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Verity Cavern</language>
+		<language name="English">Caverne Vérité</language>
 	</row>
 	<row id="msg_0279_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Valor Cavern</language>
+		<language name="English">Caverne Courage</language>
 	</row>
 	<row id="msg_0279_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Acuity Cavern</language>
+		<language name="English">Caverne Savoir</language>
 	</row>
 	<row id="msg_0279_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jubilife TV</language>
+		<language name="English">Féli-Télé</language>
 	</row>
 	<row id="msg_0279_00091" index="91">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokétch Co.</language>
+		<language name="English">Pokémontre S.A.</language>
 	</row>
 	<row id="msg_0279_00092" index="92">
 		<attribute name="window_context_name">used</attribute>
@@ -374,63 +374,63 @@
 	</row>
 	<row id="msg_0279_00093" index="93">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trainers’ School</language>
+		<language name="English">Ecole Dresseurs</language>
 	</row>
 	<row id="msg_0279_00094" index="94">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mining Museum</language>
+		<language name="English">Musée Minier</language>
 	</row>
 	<row id="msg_0279_00095" index="95">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Flower Shop</language>
+		<language name="English">Fleuriste</language>
 	</row>
 	<row id="msg_0279_00096" index="96">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cycle Shop</language>
+		<language name="English">Boutique de Vélo</language>
 	</row>
 	<row id="msg_0279_00097" index="97">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Contest Hall</language>
+		<language name="English">Salle Concours</language>
 	</row>
 	<row id="msg_0279_00098" index="98">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Poffin House</language>
+		<language name="English">Poffinerie</language>
 	</row>
 	<row id="msg_0279_00099" index="99">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Foreign Building</language>
+		<language name="English">Bâtiment Etrange</language>
 	</row>
 	<row id="msg_0279_00100" index="100">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Day Care</language>
+		<language name="English">Pension Pokémon</language>
 	</row>
 	<row id="msg_0279_00101" index="101">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Veilstone Store</language>
+		<language name="English">C. Com. Voilaroc</language>
 	</row>
 	<row id="msg_0279_00102" index="102">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Game Corner</language>
+		<language name="English">Casino</language>
 	</row>
 	<row id="msg_0279_00103" index="103">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Canalave Library</language>
+		<language name="English">Bibl. Joliberges</language>
 	</row>
 	<row id="msg_0279_00104" index="104">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vista Lighthouse</language>
+		<language name="English">Phare Panorama</language>
 	</row>
 	<row id="msg_0279_00105" index="105">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sunyshore Market</language>
+		<language name="English">Marché Rivamar</language>
 	</row>
 	<row id="msg_0279_00106" index="106">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Mansion</language>
+		<language name="English">Manoir Pokémon</language>
 	</row>
 	<row id="msg_0279_00107" index="107">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Footstep House</language>
+		<language name="English">Abri Petitpas</language>
 	</row>
 	<row id="msg_0279_00108" index="108">
 		<attribute name="window_context_name">used</attribute>
@@ -438,7 +438,7 @@
 	</row>
 	<row id="msg_0279_00109" index="109">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Grand Lake</language>
+		<language name="English">Grand Lac</language>
 	</row>
 	<row id="msg_0279_00110" index="110">
 		<attribute name="window_context_name">used</attribute>
@@ -446,35 +446,35 @@
 	</row>
 	<row id="msg_0279_00111" index="111">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Park</language>
+		<language name="English">Parc des Combats</language>
 	</row>
 	<row id="msg_0279_00112" index="112">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Frontier</language>
+		<language name="English">Zone de Combat</language>
 	</row>
 	<row id="msg_0279_00113" index="113">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Factory</language>
+		<language name="English">Usine de Combat</language>
 	</row>
 	<row id="msg_0279_00114" index="114">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Castle</language>
+		<language name="English">Castel de Combat</language>
 	</row>
 	<row id="msg_0279_00115" index="115">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Arcade</language>
+		<language name="English">Arcade de Combat</language>
 	</row>
 	<row id="msg_0279_00116" index="116">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battle Hall</language>
+		<language name="English">Scène de Combat</language>
 	</row>
 	<row id="msg_0279_00117" index="117">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Distortion World</language>
+		<language name="English">Monde Distorsion</language>
 	</row>
 	<row id="msg_0279_00118" index="118">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Global Terminal</language>
+		<language name="English">Terminal Mondial</language>
 	</row>
 	<row id="msg_0279_00119" index="119">
 		<attribute name="window_context_name">used</attribute>
@@ -482,119 +482,119 @@
 	</row>
 	<row id="msg_0279_00120" index="120">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Battleground</language>
+		<language name="English">Café Combats</language>
 	</row>
 	<row id="msg_0279_00121" index="121">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ROTOM’s Room</language>
+		<language name="English">Salle MOTISMA</language>
 	</row>
 	<row id="msg_0279_00122" index="122">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">T.G. Eterna Bldg</language>
+		<language name="English">Team G Vestigion</language>
 	</row>
 	<row id="msg_0279_00123" index="123">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Iron Ruins</language>
+		<language name="English">Ruines de Fer</language>
 	</row>
 	<row id="msg_0279_00124" index="124">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Iceberg Ruins</language>
+		<language name="English">Ruines Iceberg</language>
 	</row>
 	<row id="msg_0279_00125" index="125">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rock Peak Ruins</language>
+		<language name="English">Ruines Pic Roche</language>
 	</row>
 	<row id="msg_0279_00126" index="126">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">New Bark Town</language>
+		<language name="English">Bourg Geon</language>
 	</row>
 	<row id="msg_0279_00127" index="127">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cherrygrove City</language>
+		<language name="English">Ville Griotte</language>
 	</row>
 	<row id="msg_0279_00128" index="128">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Violet City</language>
+		<language name="English">Mauville</language>
 	</row>
 	<row id="msg_0279_00129" index="129">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Azalea Town</language>
+		<language name="English">Ecorcia</language>
 	</row>
 	<row id="msg_0279_00130" index="130">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cianwood City</language>
+		<language name="English">Irisia</language>
 	</row>
 	<row id="msg_0279_00131" index="131">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod City</language>
+		<language name="English">Doublonville</language>
 	</row>
 	<row id="msg_0279_00132" index="132">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Olivine City</language>
+		<language name="English">Oliville</language>
 	</row>
 	<row id="msg_0279_00133" index="133">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ecruteak City</language>
+		<language name="English">Rosalia</language>
 	</row>
 	<row id="msg_0279_00134" index="134">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mahogany Town</language>
+		<language name="English">Acajou</language>
 	</row>
 	<row id="msg_0279_00135" index="135">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lake of Rage</language>
+		<language name="English">Lac Colère</language>
 	</row>
 	<row id="msg_0279_00136" index="136">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blackthorn City</language>
+		<language name="English">Ebènelle</language>
 	</row>
 	<row id="msg_0279_00137" index="137">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mt. Silver</language>
+		<language name="English">Mont Argenté</language>
 	</row>
 	<row id="msg_0279_00138" index="138">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pallet Town</language>
+		<language name="English">Bourg Palette</language>
 	</row>
 	<row id="msg_0279_00139" index="139">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian City</language>
+		<language name="English">Jadielle</language>
 	</row>
 	<row id="msg_0279_00140" index="140">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pewter City</language>
+		<language name="English">Argenta</language>
 	</row>
 	<row id="msg_0279_00141" index="141">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cerulean City</language>
+		<language name="English">Azuria</language>
 	</row>
 	<row id="msg_0279_00142" index="142">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lavender Town</language>
+		<language name="English">Lavanville</language>
 	</row>
 	<row id="msg_0279_00143" index="143">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Vermilion City</language>
+		<language name="English">Carmin sur Mer</language>
 	</row>
 	<row id="msg_0279_00144" index="144">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Celadon City</language>
+		<language name="English">Céladopole</language>
 	</row>
 	<row id="msg_0279_00145" index="145">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fuchsia City</language>
+		<language name="English">Parmanie</language>
 	</row>
 	<row id="msg_0279_00146" index="146">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cinnabar Island</language>
+		<language name="English">Cramois’Ile</language>
 	</row>
 	<row id="msg_0279_00147" index="147">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Indigo Plateau</language>
+		<language name="English">Plateau Indigo</language>
 	</row>
 	<row id="msg_0279_00148" index="148">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Saffron City</language>
+		<language name="English">Safrania</language>
 	</row>
 	<row id="msg_0279_00149" index="149">
 		<attribute name="window_context_name">used</attribute>
@@ -670,15 +670,15 @@
 	</row>
 	<row id="msg_0279_00167" index="167">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 19</language>
+		<language name="English">Chenal 19</language>
 	</row>
 	<row id="msg_0279_00168" index="168">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 20</language>
+		<language name="English">Chenal 20</language>
 	</row>
 	<row id="msg_0279_00169" index="169">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 21</language>
+		<language name="English">Chenal 21</language>
 	</row>
 	<row id="msg_0279_00170" index="170">
 		<attribute name="window_context_name">used</attribute>
@@ -754,11 +754,11 @@
 	</row>
 	<row id="msg_0279_00188" index="188">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 40</language>
+		<language name="English">Chenal 40</language>
 	</row>
 	<row id="msg_0279_00189" index="189">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Route 41</language>
+		<language name="English">Chenal 41</language>
 	</row>
 	<row id="msg_0279_00190" index="190">
 		<attribute name="window_context_name">used</attribute>
@@ -790,147 +790,147 @@
 	</row>
 	<row id="msg_0279_00197" index="197">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DIGLETT’s Cave</language>
+		<language name="English">Cave TAUPIQUEUR</language>
 	</row>
 	<row id="msg_0279_00198" index="198">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mt. Moon</language>
+		<language name="English">Mont Sélénite</language>
 	</row>
 	<row id="msg_0279_00199" index="199">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cerulean Cave</language>
+		<language name="English">Caverne Azurée</language>
 	</row>
 	<row id="msg_0279_00200" index="200">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rock Tunnel</language>
+		<language name="English">Grotte</language>
 	</row>
 	<row id="msg_0279_00201" index="201">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Power Plant</language>
+		<language name="English">Centrale</language>
 	</row>
 	<row id="msg_0279_00202" index="202">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Safari Zone</language>
+		<language name="English">Parc Safari</language>
 	</row>
 	<row id="msg_0279_00203" index="203">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Seafoam Islands</language>
+		<language name="English">Iles Ecume</language>
 	</row>
 	<row id="msg_0279_00204" index="204">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sprout Tower</language>
+		<language name="English">Tour CHETIFLOR</language>
 	</row>
 	<row id="msg_0279_00205" index="205">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bell Tower</language>
+		<language name="English">Tour Carillon</language>
 	</row>
 	<row id="msg_0279_00206" index="206">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Burned Tower</language>
+		<language name="English">Tour Cendrée</language>
 	</row>
 	<row id="msg_0279_00207" index="207">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">National Park</language>
+		<language name="English">Parc Naturel</language>
 	</row>
 	<row id="msg_0279_00208" index="208">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Radio Tower</language>
+		<language name="English">Tour Radio</language>
 	</row>
 	<row id="msg_0279_00209" index="209">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ruins of Alph</language>
+		<language name="English">Ruines d’Alpha</language>
 	</row>
 	<row id="msg_0279_00210" index="210">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Union Cave</language>
+		<language name="English">Caves Jumelles</language>
 	</row>
 	<row id="msg_0279_00211" index="211">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">SLOWPOKE Well</language>
+		<language name="English">Puits RAMOLOSS</language>
 	</row>
 	<row id="msg_0279_00212" index="212">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lighthouse</language>
+		<language name="English">Phare</language>
 	</row>
 	<row id="msg_0279_00213" index="213">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket HQ</language>
+		<language name="English">Repaire Rocket</language>
 	</row>
 	<row id="msg_0279_00214" index="214">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ilex Forest</language>
+		<language name="English">Bois aux Chênes</language>
 	</row>
 	<row id="msg_0279_00215" index="215">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Goldenrod Tunnel</language>
+		<language name="English">Doublon-Tunnel</language>
 	</row>
 	<row id="msg_0279_00216" index="216">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mt. Mortar</language>
+		<language name="English">Mont Creuset</language>
 	</row>
 	<row id="msg_0279_00217" index="217">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ice Path</language>
+		<language name="English">Route de Glace</language>
 	</row>
 	<row id="msg_0279_00218" index="218">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Whirl Islands</language>
+		<language name="English">Tourb’Iles</language>
 	</row>
 	<row id="msg_0279_00219" index="219">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mt. Silver Cave</language>
+		<language name="English">Grotte Argentée</language>
 	</row>
 	<row id="msg_0279_00220" index="220">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dark Cave</language>
+		<language name="English">Antre Noir</language>
 	</row>
 	<row id="msg_0279_00221" index="221">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Victory Road</language>
+		<language name="English">Route Victoire</language>
 	</row>
 	<row id="msg_0279_00222" index="222">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dragon’s Den</language>
+		<language name="English">Antre du Dragon</language>
 	</row>
 	<row id="msg_0279_00223" index="223">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tohjo Falls</language>
+		<language name="English">Chutes Tohjo</language>
 	</row>
 	<row id="msg_0279_00224" index="224">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Viridian Forest</language>
+		<language name="English">Forêt de Jade</language>
 	</row>
 	<row id="msg_0279_00225" index="225">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokéathlon Dome</language>
+		<language name="English">Dôme Pokéathlon</language>
 	</row>
 	<row id="msg_0279_00226" index="226">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">S.S. Aqua</language>
+		<language name="English">Aquaria</language>
 	</row>
 	<row id="msg_0279_00227" index="227">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Safari Zone Gate</language>
+		<language name="English">Portail Safari</language>
 	</row>
 	<row id="msg_0279_00228" index="228">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cliff Cave</language>
+		<language name="English">Grotte Falaise</language>
 	</row>
 	<row id="msg_0279_00229" index="229">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Frontier Access</language>
+		<language name="English">Atrium Combat</language>
 	</row>
 	<row id="msg_0279_00230" index="230">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bellchime Trail</language>
+		<language name="English">Sentier Carillon</language>
 	</row>
 	<row id="msg_0279_00231" index="231">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sinjoh Ruins</language>
+		<language name="English">Ruines Sinjoh</language>
 	</row>
 	<row id="msg_0279_00232" index="232">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Embedded Tower</language>
+		<language name="English">Tour Enfouie</language>
 	</row>
 	<row id="msg_0279_00233" index="233">
 		<attribute name="window_context_name">used</attribute>
@@ -938,6 +938,6 @@
 	</row>
 	<row id="msg_0279_00234" index="234">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cliff Edge Gate</language>
+		<language name="English">Portail Falaise</language>
 	</row>
 </body>

@@ -2,75 +2,75 @@
 <body language="English">
 	<row id="msg_0541_T11R0802_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Hi! Do you like Pokémon?\r{STRVAR_1 3, 0, 0}: Uh, no, I just asked you.\r{STRVAR_1 3, 0, 0}: Huh? You’re strange!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Salut! Tu aimes\nles Pokémon?\r{STRVAR_1 3, 0, 0}: Non, pas moi, toi!\r{STRVAR_1 3, 0, 0}: Hé! Tu fais quoi?!\nT’es trop bizarre!\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Hi. You must like\nPokémon.\r{STRVAR_1 3, 0, 0}: No, not me. I asked you.\r{STRVAR_1 3, 0, 0}: Pardon? You’re weird!\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Salut! Tu aimes\nles Pokémon?\r{STRVAR_1 3, 0, 0}: Non, pas moi, toi!\r{STRVAR_1 3, 0, 0}: Hé! Tu fais quoi?!\nT’es trop bizarre!\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Copycat: Hmm? Quit mimicking?\nBut that’s my main hobby!\r</language>
+		<language name="English">Copieuse: Hmm?\nQue j’arrête de copier?\rMais... C’est toute ma vie!\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Hi! I heard that you\nlost your cherished Poké Doll.\r{STRVAR_1 3, 0, 0}: If I find it, you’ll give\nme a Magnet Train Pass?\r{STRVAR_1 3, 0, 0}: I’ll go find it for you.\r{STRVAR_1 3, 0, 0}: You think you lost it\nwhen you went to Vermilion City?\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Salut!\nOn dit que tu as perdu ta Poképoupée\fpréférée.\r{STRVAR_1 3, 0, 0}: Si je la retrouve, tu\nme donnes un Passe pour le train?\r{STRVAR_1 3, 0, 0}: Je vais la chercher!\nTu l’as perdue en allant\fà Carmin sur Mer?\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Hi! I heard that you\nlost your cherished Poké Doll.\r{STRVAR_1 3, 0, 0}: If I find it, you’ll give\nme a Magnet Train Pass?\r{STRVAR_1 3, 0, 0}: I’ll go find it for you.\r{STRVAR_1 3, 0, 0}: You think you lost it\nwhen you went to Vermilion City?\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Salut!\nOn dit que tu as perdu ta Poképoupée\fpréférée.\r{STRVAR_1 3, 0, 0}: Si je la retrouve, tu\nme donnes un Passe pour le train?\r{STRVAR_1 3, 0, 0}: Je vais la chercher!\nTu l’as perdue en allant\fà Carmin sur Mer?\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Copycat: Pardon?\rI shouldn’t decide what you should do?\rBut I’m really worried...\nWhat if someone finds it?\r</language>
+		<language name="English">Copieuse: Pardon? Tu ne veux pas que\nje prenne des décisions pour toi?\rMais j’ai si peur!\nEt si quelqu’un d’autre la trouve?\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Copycat: Yay! That’s my CLEFAIRY\nPoké Doll!\rSee the tear where the right arm is\nsewn on? That’s proof!\rOK. I’ll give you this Magnet Train Pass\nas I promised!\r</language>
+		<language name="English">Copieuse: Hé! C’est ma\nPoképoupée MELOFEE!\rElle est un peu déchirée près de\nla jambe! C’est la mienne!\rOK. Voilà le Passe Train,\ncomme promis!\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00007" index="7">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0541_T11R0802_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Copycat: You show it at the ticket\ngate to get on the Magnet Train.\rThe rail-company man gave me that\nwhen they tore down our old house\ffor the station.</language>
+		<language name="English">Copieuse: C’est un Passe pour le\nTrain Magnétique.\rOn me l’a donné quand ils ont démoli\nma maison pour construire la gare.</language>
 	</row>
 	<row id="msg_0541_T11R0802_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Hi!\nThanks a lot for the Magnet Train Pass!\r{STRVAR_1 3, 0, 0}: Pardon?\r{STRVAR_1 3, 0, 0}: Is it that fun to mimic\nmy every move?\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Salut!\nMerci pour le Passe!\r{STRVAR_1 3, 0, 0}: Pardon?\r{STRVAR_1 3, 0, 0}: C’est si amusant que ça\nde me copier?\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0}: Hi!\nThanks a lot for the Magnet Train Pass!\r{STRVAR_1 3, 0, 0}: Pardon?\r{STRVAR_1 3, 0, 0}: Is it that fun to mimic\nmy every move?\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0}: Salut!\nMerci pour le Passe!\r{STRVAR_1 3, 0, 0}: Pardon?\r{STRVAR_1 3, 0, 0}: C’est si amusant que ça\nde me copier?\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Copycat: You bet! It’s a scream!\r</language>
+		<language name="English">Copieuse: Ah! Que c’est drôle\nd’imiter les gens!\r</language>
 	</row>
 	<row id="msg_0541_T11R0802_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This Poké Doll looks just like the\nreal thing...\rAw! It moved!\nIt’s a real BANETTE!</language>
+		<language name="English">C’est une poupée très bien faite...\rOh! Elle a bougé!\nC’est un vrai BRANETTE!</language>
 	</row>
 	<row id="msg_0541_T11R0802_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BANETTE: Giggle!</language>
+		<language name="English">BRANETTE: Brabrabra!</language>
 	</row>
 	<row id="msg_0541_T11R0802_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a flowerlike Poké Doll...\nIt is a CHERRIM Poké Doll!</language>
+		<language name="English">C’est une poupée qui a la forme d’un\nPokémon qui a la forme d’une fleur...\rC’est CERIFLOR!</language>
 	</row>
 	<row id="msg_0541_T11R0802_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">This is a nose-like Poké Doll...\nIt is a NOSEPASS Poké Doll!</language>
+		<language name="English">C’est une poupée ressemblant à un\nPokémon qui a la forme d’un gros nez...\rC’est TARINOR!</language>
 	</row>
 	<row id="msg_0541_T11R0802_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a CLEFAIRY!\nHuh?\rOh, right. It’s a CLEFAIRY Poké Doll.</language>
+		<language name="English">C’est un MELOFEE!\nHein?\rAh, non, c’est une Poképoupée\nd’un MELOFEE.</language>
 	</row>
 	<row id="msg_0541_T11R0802_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a CLEFAIRY Poké Doll.\rIt has a tear where the right arm\nwas sewn on.</language>
+		<language name="English">C’est une Poképoupée MELOFEE!\rElle est un peu déchirée près\nde la jambe!</language>
 	</row>
 </body>

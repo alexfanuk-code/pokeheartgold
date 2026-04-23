@@ -2,75 +2,75 @@
 <body language="English">
 	<row id="msg_0200_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rocky</language>
+		<language name="English">Lombric</language>
 	</row>
 	<row id="msg_0200_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Muscle</language>
+		<language name="English">Gonflor</language>
 	</row>
 	<row id="msg_0200_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Billy</language>
+		<language name="English">Voltounet</language>
 	</row>
 	<row id="msg_0200_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Doris</language>
+		<language name="English">Triolo</language>
 	</row>
 	<row id="msg_0200_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sprints</language>
+		<language name="English">Tornado</language>
 	</row>
 	<row id="msg_0200_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rusty</language>
+		<language name="English">Métallo</language>
 	</row>
 	<row id="msg_0200_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shuckie</language>
+		<language name="English">Nessie</language>
 	</row>
 	<row id="msg_0200_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kenya</language>
+		<language name="English">Piou Piou</language>
 	</row>
 	<row id="msg_0200_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Maggie</language>
+		<language name="English">Ovni</language>
 	</row>
 	<row id="msg_0200_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Paul</language>
+		<language name="English">Quetzal</language>
 	</row>
 	<row id="msg_0200_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Volty</language>
+		<language name="English">Electron</language>
 	</row>
 	<row id="msg_0200_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hornlette</language>
+		<language name="English">Cornu</language>
 	</row>
 	<row id="msg_0200_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Iron</language>
+		<language name="English">Pôlo</language>
 	</row>
 	<row id="msg_0200_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rudy</language>
+		<language name="English">Gontran</language>
 	</row>
 	<row id="msg_0200_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jose</language>
+		<language name="English">Devon</language>
 	</row>
 	<row id="msg_0200_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Richard</language>
+		<language name="English">Austin</language>
 	</row>
 	<row id="msg_0200_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ayana</language>
+		<language name="English">Aglaé</language>
 	</row>
 	<row id="msg_0200_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stuart</language>
+		<language name="English">Sandie</language>
 	</row>
 	<row id="msg_0200_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
@@ -78,30 +78,30 @@
 	</row>
 	<row id="msg_0200_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kirk</language>
+		<language name="English">Otto</language>
 	</row>
 	<row id="msg_0200_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Webster</language>
+		<language name="English">Vijay</language>
 	</row>
 	<row id="msg_0200_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lorenzo</language>
+		<language name="English">Quantin</language>
 	</row>
 	<row id="msg_0200_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mondo</language>
+		<language name="English">Médi</language>
 	</row>
 	<row id="msg_0200_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Surge</language>
+		<language name="English">Mjr Bob</language>
 	</row>
 	<row id="msg_0200_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Brock</language>
+		<language name="English">Pierre</language>
 	</row>
 	<row id="msg_0200_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Steven</language>
+		<language name="English">Rochard</language>
 	</row>
 </body>

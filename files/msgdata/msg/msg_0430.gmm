@@ -2,54 +2,54 @@
 <body language="English">
 	<row id="msg_0430_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Place the {STRVAR_1 8, 0, 0}?</language>
+		<language name="English">Poser Bloc {STRVAR_1 8, 0, 0}?</language>
 	</row>
 	<row id="msg_0430_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Placed the {STRVAR_1 8, 0, 0}.</language>
+		<language name="English">Bloc {STRVAR_1 8, 0, 0} posé.</language>
 	</row>
 	<row id="msg_0430_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are {STRVAR_1 51, 0, 0} left to place.</language>
+		<language name="English">Vous pouvez encore en poser {STRVAR_1 51, 0, 0}.</language>
 	</row>
 	<row id="msg_0430_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cannot place any more.</language>
+		<language name="English">Vous ne pouvez plus en poser.</language>
 	</row>
 	<row id="msg_0430_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No open spaces left.</language>
+		<language name="English">Il n’y a plus de place.</language>
 	</row>
 	<row id="msg_0430_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cannot place on land.</language>
+		<language name="English">Impossible à poser sur la terre.</language>
 	</row>
 	<row id="msg_0430_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cannot place on the waterside.</language>
+		<language name="English">Impossible à poser sur l’eau.</language>
 	</row>
 	<row id="msg_0430_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cannot place any more.</language>
+		<language name="English">Vous ne pouvez pas en poser plus.</language>
 	</row>
 	<row id="msg_0430_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Return</language>
+		<language name="English">Retour</language>
 	</row>
 	<row id="msg_0430_00009" index="9">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0430_00010" index="10">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0430_00011" index="11">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0430_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
@@ -61,23 +61,23 @@
 	</row>
 	<row id="msg_0430_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shrubbery</language>
+		<language name="English">Bosquet</language>
 	</row>
 	<row id="msg_0430_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Red Flower</language>
+		<language name="English">Fleur rouge</language>
 	</row>
 	<row id="msg_0430_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">White Flower</language>
+		<language name="English">Fleur rose</language>
 	</row>
 	<row id="msg_0430_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Tree</language>
+		<language name="English">Arbre</language>
 	</row>
 	<row id="msg_0430_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Stump</language>
+		<language name="English">Souche</language>
 	</row>
 	<row id="msg_0430_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
@@ -85,170 +85,170 @@
 	</row>
 	<row id="msg_0430_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Small Rock</language>
+		<language name="English">Petit rocher</language>
 	</row>
 	<row id="msg_0430_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Big Rock</language>
+		<language name="English">Gros rocher</language>
 	</row>
 	<row id="msg_0430_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mossy Rock</language>
+		<language name="English">Roc moussu</language>
 	</row>
 	<row id="msg_0430_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Puddle</language>
+		<language name="English">Flaque</language>
 	</row>
 	<row id="msg_0430_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Fountain</language>
+		<language name="English">Geyser</language>
 	</row>
 	<row id="msg_0430_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Water Hole</language>
+		<language name="English">Point d’eau</language>
 	</row>
 	<row id="msg_0430_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Bench</language>
+		<language name="English">Banc</language>
 	</row>
 	<row id="msg_0430_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Short Fence1</language>
+		<language name="English">Mini haie 1</language>
 	</row>
 	<row id="msg_0430_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Short Fence2</language>
+		<language name="English">Mini haie 2</language>
 	</row>
 	<row id="msg_0430_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Long Fence1</language>
+		<language name="English">Maxi haie 1</language>
 	</row>
 	<row id="msg_0430_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Long Fence2</language>
+		<language name="English">Maxi haie 2</language>
 	</row>
 	<row id="msg_0430_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Signboard</language>
+		<language name="English">Panneau</language>
 	</row>
 	<row id="msg_0430_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Statue</language>
+		<language name="English">Statue</language>
 	</row>
 	<row id="msg_0430_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Flag</language>
+		<language name="English">Drapeau</language>
 	</row>
 	<row id="msg_0430_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Outside Lamp</language>
+		<language name="English">Lampadaire</language>
 	</row>
 	<row id="msg_0430_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guidepost(R)</language>
+		<language name="English">Signe droite</language>
 	</row>
 	<row id="msg_0430_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Guidepost(L)</language>
+		<language name="English">Signe gauche</language>
 	</row>
 	<row id="msg_0430_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Trash Can</language>
+		<language name="English">Corbeille</language>
 	</row>
 	<row id="msg_0430_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A thick tuft of grass.\nThe Pokémon on the\nPlains seem to like it.</language>
+		<language name="English">Un bosquet herbu.\nLes Pokémon vivant dans les herbes\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very intensely colored flower.\nThe Pokémon on the\nPlains seem to like it.</language>
+		<language name="English">Une fleur aux couleurs éclatantes.\nLes Pokémon vivant dans les herbes\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A very tenderly colored flower.\nThe Pokémon on the\nPlains seem to like it.</language>
+		<language name="English">Une fleur aux couleurs tendres.\nLes Pokémon vivant dans les herbes\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A somewhat short tree.\nThe Pokémon in the\nForest seem to like it.</language>
+		<language name="English">Un petit arbre.\nLes Pokémon vivant dans les bois\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A remainder from a tree that was\ncut down. The Pokémon in the\nForest seem to like it.</language>
+		<language name="English">La souche d’un arbre coupé.\nLes Pokémon vivant dans les bois\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A pile of broken branches.\nThe Pokémon in the\nForest seem to like it.</language>
+		<language name="English">Un tas de branches cassées.\nLes Pokémon vivant dans les bois\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A smallish round rock.\nThe Pokémon in the\nrocky Areas seem to like it.</language>
+		<language name="English">Un petit rocher rond.\nLes Pokémon vivant dans les rochers\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A big, scraggy rock.\nThe Pokémon in the\nrocky Areas seem to like it.</language>
+		<language name="English">Un gros rocher irrégulier.\nLes Pokémon vivant dans les rochers\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A mossy rock.\nThe Pokémon in the\nrocky Areas seem to like it.</language>
+		<language name="English">Un rocher couvert de mousse.\nLes Pokémon vivant dans les rochers\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Water collected on the ground.\nThe Pokémon by the\nwater seem to like it.</language>
+		<language name="English">De l’eau accumulée sur le sol.\nLes Pokémon vivant dans l’eau\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can place it using Surf.\nThe Pokémon by the\nwater seem to like it.</language>
+		<language name="English">On peut en créer grâce à Surf.\nLes Pokémon vivant dans l’eau\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Cool, delicious drinking\nwater. The Pokémon by the\nwater seem to like it.</language>
+		<language name="English">Une eau fraîche et pure en sort.\nLes Pokémon vivant dans l’eau\nl’apprécient.</language>
 	</row>
 	<row id="msg_0430_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A long and thin bench.\nThe kind you would find in\nany park or rest area.</language>
+		<language name="English">Un long banc étroit.\nOn en voit souvent dans les parcs et\nles aires de repos.</language>
 	</row>
 	<row id="msg_0430_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A short, horizontal fence.\nIf you used a few of these, you could\nprobably enclose a lake or flower patch.</language>
+		<language name="English">Une courte haie horizontale.\nIl est possible d’en raccorder plusieurs\npour clôturer une zone, comme un étang.</language>
 	</row>
 	<row id="msg_0430_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A short, vertical fence.\nIf you used a few of these, you could\nprobably enclose a lake or flower patch.</language>
+		<language name="English">Une courte haie verticale.\nIl est possible d’en raccorder plusieurs\npour clôturer une zone, comme un étang.</language>
 	</row>
 	<row id="msg_0430_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A long, horizontal fence.\nIf you used a few of these, you could\nprobably enclose a lake or flower patch.</language>
+		<language name="English">Une longue haie horizontale.\nIl est possible d’en raccorder plusieurs\npour clôturer une zone, comme un étang.</language>
 	</row>
 	<row id="msg_0430_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A long, vertical fence.\nIf you used a few of these, you could\nprobably enclose a lake or flower patch.</language>
+		<language name="English">Une longue haie verticale.\nIl est possible d’en raccorder plusieurs\npour clôturer une zone, comme un étang.</language>
 	</row>
 	<row id="msg_0430_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A signboard made of wood. If you\nplanted a stake in the ground, you\ncould post this sign on it.</language>
+		<language name="English">Un panneau en bois.\nIl est constitué d’un poteau planté dans\nle sol et d’une planche.</language>
 	</row>
 	<row id="msg_0430_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A stone statue made in your image.\nIf you placed this, you could really\nget the sense of being a great hero.</language>
+		<language name="English">Une fidèle reproduction de vous en\npierre. Goûtez à la gloire!</language>
 	</row>
 	<row id="msg_0430_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your own flag that you drew. If you\nplaced this, you could really get the\nsense of being the ruler of the land.</language>
+		<language name="English">Un drapeau à votre effigie.\nGoûtez à la mégalomanie!</language>
 	</row>
 	<row id="msg_0430_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">An electric light that illuminates the\nArea. If placed in the darkness, it could\ncreate a beautiful path of light.</language>
+		<language name="English">Un lumineux réverbère.\nAlignez-en plusieurs pour baigner le\nparc dans une douce lumière la nuit.</language>
 	</row>
 	<row id="msg_0430_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sign pointing right. Any person who\nsees this would naturally want to go find\nout what it could be pointing to.</language>
+		<language name="English">Un panneau qui indique la droite.\nLes gens qui le verront suivront\nsûrement la flèche.</language>
 	</row>
 	<row id="msg_0430_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A sign pointing left. Any person who\nsees this would naturally want to go find\nout what it could be pointing to.</language>
+		<language name="English">Un panneau qui indique la gauche.\nLes gens qui le verront suivront\nsûrement la flèche.</language>
 	</row>
 	<row id="msg_0430_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A trash can for disposing of litter.\nIf you have any litter, be sure to\nthrow it away or take it with you.</language>
+		<language name="English">Un panier pour jeter les déchets.\nUtilisons-le, ou ramenons les ordures\nà la maison!</language>
 	</row>
 </body>

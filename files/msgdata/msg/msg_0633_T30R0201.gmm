@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0633_T30R0201_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A clan of Trainers who can freely\ncommand Dragon-type Pokémon lives\fright here in Blackthorn.\rAs a result, there are many legends\nabout dragons in this town.</language>
+		<language name="English">Un clan de Dresseurs commandant\nles dragons vit ici à Ebènelle.\rC’est pour cela qu’il y a beaucoup\nde légendes sur les dragons dans\fcette ville.</language>
 	</row>
 	<row id="msg_0633_T30R0201_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Clair and Lance also trained here to\ngain skills as Pokémon Trainers!</language>
+		<language name="English">C’est ici que Sandra et Peter se sont\nentraînés et ont aiguisé leurs talents\fde Dresseur.</language>
 	</row>
 	<row id="msg_0633_T30R0201_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">DRATINI: Draa!</language>
+		<language name="English">MINIDRACO: Draa!</language>
 	</row>
 </body>

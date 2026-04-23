@@ -2,114 +2,114 @@
 <body language="English">
 	<row id="msg_0131_D45R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\rI don’t know why you have come here.\rAnyway, I have to warn you that\nthis is not a place for kids like you.\r</language>
+		<language name="English">...\rJe ne sais pas ce que vous venez faire\nici, mais ce n’est pas un endroit pour\fdes gamins comme vous.\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have a certain look...\rIt reminds me of the kid who stood in\nfront of me three years ago...\fYou have the same eyes...\r...\rI’m on my way to Goldenrod City to\nanswer the call and join my team.\fAre you going to get in my way?\r</language>
+		<language name="English">Ce regard...\rTu me rappelles cet enfant...\rCelui qui, il y a trois ans, m’a\nbarré le passage...\fTu as les mêmes yeux que lui...\r...\rEs-tu là pour m’empêcher de rejoindre\nmes troupes, qui m’appellent\fà Doublonville?\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\nThis is the Radio Tower.\fThis is the Radio Tower.\fWe are pleased to declare\fTeam Rocket’s revival.\f...Giovanni?\f...Can you hear us?\fWe have finally made it!\f...\r</language>
+		<language name="English">...\nIci la Tour Radio de Doublonville...\fIci la Tour Radio de Doublonville...\fAprès trois ans d’efforts, nous\fannonçons au monde la renaissance de\fla Team Rocket!\f... Maître Giovanni!\f... Nous entendez-vous?\fOn a enfin réussi!\f...\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My old associates need me...\rWe will not repeat the failure of three\nyears ago!\r{COLOR 1}Team Rocket{COLOR 0} will be born again, and I\nwill rule the world!\r</language>
+		<language name="English">Mes anciens subordonnés ont toujours\nbesoin de moi...\rJe ne laisserai pas la cuisante erreur\nd’il y a 3 ans se reproduire!\rLa {COLOR 1}Team Rocket {COLOR 0}va renaître,\net conquérir le monde!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Giovanni: How is this possible...?\rThe past three years have been\na waste...?\rHow can a kid like you manage to\ndestroy my dream once again?\rThe precious dream of Team Rocket has\nbecome little more than an illusion...\r</language>
+		<language name="English">Giovanni: Pou... Pourquoi...!\rAurais-je passé ces trois années\nen vain?\rPourquoi mes projets sont-ils toujours\nmis en pièces par de simples mômes?\rLes rêves de grandeur de la Team\nRocket s’évaporent et disparaissent...\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...\n...Hey!\fWhere has Giovanni gone?\fI wonder if he is listening to\four broadcast...\f...\r</language>
+		<language name="English">...\n... Hé oh!\fJe me demande où Maître\fGiovanni peut bien se trouver...\fJ’espère qu’il écoute notre émission...\f...\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Giovanni: Mark my words.\rNot being able to measure your own\nstrength shows that you are still\fbut a child.\r</language>
+		<language name="English">Giovanni: Tu restes un enfant tant que\ntu ne maîtrises pas l’étendue de tes\fpossibilités...\rSouviens-toi de cela...\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Huh?\rThat’s the guy we just saw arguing with\nthat boy!\r</language>
+		<language name="English">Luth: Hé!\rC’est le monsieur qui se disputait\navec le garçon malpoli!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Huh?\rThat’s the guy we just saw arguing with\nthat boy!\r</language>
+		<language name="English">Célesta: Hé!\rC’est le monsieur qui se disputait\navec le garçon malpoli!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: Three years ago...?\nGoldenrod City...?\r</language>
+		<language name="English">Luth: Il y a 3 ans...?\nDoublonville...?\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: Three years ago...?\nGoldenrod City...?\r</language>
+		<language name="English">Célesta: Il y a 3 ans...?\nDoublonville...?\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Could this be the one that the radio\nwas trying to reach?\fGiovanni, their boss?\r</language>
+		<language name="English">Tu crois que c’est le type qu’ils\nappelaient depuis la Tour Radio?\fLeur chef, Giovanni?!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Could this be the one that the radio\nwas trying to reach?\fGiovanni, their boss?\r</language>
+		<language name="English">Tu crois que c’est le type qu’ils\nappelaient depuis la Tour Radio?\fLeur chef, Giovanni?!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you hear it, {STRVAR_1 3, 0, 0}?\nThe radio is saying something strange!\rTeam Rocket has occupied the Radio\nTower at Goldenrod City!\rIt can’t be! {STRVAR_1 3, 0, 0}, you solved\nthis case already!\r</language>
+		<language name="English">Ecoute, {STRVAR_1 3, 0, 0}!\nL’émission radio est bizarre!\rLa Team Rocket s’est approprié la\nTour Radio!\rPourtant, tu as déjà réglé ce problème!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you hear it, {STRVAR_1 3, 0, 0}?\nThe radio is saying something strange!\rTeam Rocket has occupied the Radio\nTower at Goldenrod City!\rIt can’t be! {STRVAR_1 3, 0, 0}, you solved\nthis case already!\r</language>
+		<language name="English">Ecoute, {STRVAR_1 3, 0, 0}!\nL’émission radio est bizarre!\rLa Team Rocket s’est approprié la\nTour Radio!\rPourtant, tu as déjà réglé ce problème!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan: They keep calling for their boss.\nI feel sorry they don’t know he’s\fnot coming.\rAfter this, {STRVAR_1 3, 0, 0}, you will\ndefeat them!\r...Wait a second!\r{STRVAR_1 3, 0, 0}, you’re still here.\nThen, who will defeat Team Rocket...?\r</language>
+		<language name="English">Luth: Les pauvres, ils continuent à\nl’appeler alors qu’il ne viendra pas...\rEt en plus, après, tu vas venir et\nleur faire mordre la poussière!\r... Hein?\nMais maintenant, tu es là,\f{STRVAR_1 3, 0, 0}!\rAlors qui va battre la Team Rocket\nà la Tour Radio...?\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra: They keep calling for their boss.\nI feel sorry they don’t know he’s\fnot coming.\rAfter this, {STRVAR_1 3, 0, 0}, you will\ndefeat them!\r...Wait a second!\r{STRVAR_1 3, 0, 0}, you’re still here.\nThen, who will defeat Team Rocket...?\r</language>
+		<language name="English">Célesta: Les pauvres, ils continuent à\nl’appeler alors qu’il ne viendra pas...\rEt en plus, après, tu vas venir et\nleur faire mordre la poussière!\r... Hein?\nMais maintenant, tu es là,\f{STRVAR_1 3, 0, 0}!\rAlors qui va battre la Team Rocket\nà la Tour Radio...?\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not again...!\nI’ve had enough!\fPlease let me go back to my time!\r</language>
+		<language name="English">Encore...!\nOh, j’en ai marre!\fFais-nous rentrer à notre époque!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Not again...!\nI’ve had enough!\fPlease let me go back to my time!\r</language>
+		<language name="English">Encore...!\nOh, ça suffit, hein!\fFais-nous rentrer à notre époque!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CELEBI is traveling through time!\nIt is going back to the time before\fthis strange adventure began...\r</language>
+		<language name="English">Le CELEBI blessé a traversé le temps!\rVous voici de retour dans une époque\nprécédant cette étrange aventure...\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a radio that no longer works...</language>
+		<language name="English">C’est une radio éteinte...</language>
 	</row>
 	<row id="msg_0131_D45R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You cannot turn on the radio.\nGiovanni must have left it here...</language>
+		<language name="English">C’est une radio éteinte.\nGiovanni a dû la laisser derrière lui...</language>
 	</row>
 	<row id="msg_0131_D45R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CELEBI...!\rWe need it to get better, or we will\nnever be able to go back to our time!\r</language>
+		<language name="English">CELEBI!!!\rS’il ne se rétablit pas, il ne pourra\njamais nous ramener à notre époque!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">CELEBI...!\rWe need it to get better, or we will\nnever be able to go back to our time!\r</language>
+		<language name="English">CELEBI!!!\rS’il ne se rétablit pas, il ne pourra\njamais nous ramener à notre époque!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ethan used Max Revive on CELEBI!\r</language>
+		<language name="English">Luth utilise un Rappel Max\nsur CELEBI!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lyra used Max Revive on CELEBI!\r</language>
+		<language name="English">Célesta utilise un Rappel Max\nsur CELEBI!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 1}Time Travel{COLOR 0}......!\rThis is it! Please take us to our time!\r</language>
+		<language name="English">Une {COLOR 1}faille temporelle{COLOR 0}...!\rJ’espère que cette fois, il va nous\nramener à notre époque!\r</language>
 	</row>
 	<row id="msg_0131_D45R0102_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{COLOR 1}Time Travel{COLOR 0}......!\rThis is it! Please take us to our time!\r</language>
+		<language name="English">Une {COLOR 1}faille temporelle{COLOR 0}...!\rJ’espère que cette fois, il va nous\nramener à notre époque!\r</language>
 	</row>
 </body>

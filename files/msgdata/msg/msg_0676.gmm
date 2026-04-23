@@ -2,58 +2,58 @@
 <body language="English">
 	<row id="msg_0676_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wilton</language>
+		<language name="English">Renan</language>
 	</row>
 	<row id="msg_0676_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, that was a very interesting\nbattle now, wasn’t it?\rWhen I’m fishing here, I sometimes\ncatch items that people have dropped.\fIf I find anything, I’ll give it to you.\rWill you give me your\nphone number? {YESNO 0}</language>
+		<language name="English">Ce combat était particulièrement\nintéressant...\rIl m’arrive de pêcher des objets que\nles gens ont fait tomber à l’eau.\fTu voudrais que je te les donne?\rDans ce cas, on échange\nnos numéros, d’accord? {YESNO 0}</language>
 	</row>
 	<row id="msg_0676_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If I snag anything good, I’ll be sure to\nlet you know.</language>
+		<language name="English">Si je trouve quelque chose, je te\ntéléphone.</language>
 	</row>
 	<row id="msg_0676_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right... Come back if you have a\nchange of heart.</language>
+		<language name="English">D’accord...\nReviens si tu changes d’avis.</language>
 	</row>
 	<row id="msg_0676_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If I snag an item while I’m fishing,\nit’s yours. Trade me numbers? {YESNO 0}</language>
+		<language name="English">Si je pêche quelque chose,\nje te le donne!\rTu veux mon numéro alors? {YESNO 0}</language>
 	</row>
 	<row id="msg_0676_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah! Here it is!\rCome on!\nI caught a Poké Ball!\rIt’s kind of covered with algae and\nseaweed. I can’t really tell what kind\fof Poké Ball it is, but I bet you know!\r</language>
+		<language name="English">Te voilà!\rTiens!\nCette Poké Ball est pour toi!\rBon, elle est un peu couverte d’algues,\net on ne voit pas bien ce que c’est,\fmais je suis sûr que c’est\fune Poké Ball!\fTu saurais dire quel genre?\r</language>
 	</row>
 	<row id="msg_0676_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Shhh!!!\nThe POLIWHIRL will run away!\rDon’t bother calling me, come talk to me\nin person, that way we can whisper!</language>
+		<language name="English">Ah! Encore un TETARTE enfui!\rBon ben, pourquoi tu ne viens pas\ndirectement me voir plutôt que\ftéléphoner?</language>
 	</row>
 	<row id="msg_0676_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0}’s grown impressive!\nMy fishing skills have improved, too!\rWe beat a wild {STRVAR_1 0, 11, 0}...\nYou know, I have more fun fishing\fthan beating wild Pokémon.\rAll right, later.</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0} a bien grandi!\nJe suis un sacré Pêcheur!\rOn a battu un {STRVAR_1 0, 11, 0} l’autre\njour...\rMais tu sais quoi, la pêche, je trouve\nça plus marrant.\rA plus tard.</language>
 	</row>
 	<row id="msg_0676_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My {STRVAR_1 0, 10, 0}’s grown impressive!\nMy fishing skills have improved, too!\rBut some time ago, we came this close\nto landing a wild {STRVAR_1 0, 11, 0}.\fI tell you, it was huge. Believe me.\rAll right, later.</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0} a bien grandi!\nJe suis un sacré Pêcheur!\rL’autre jour, j’ai laissé filer\nun {STRVAR_1 0, 11, 0}. Il était ENORME!\rA plus tard.</language>
 	</row>
 	<row id="msg_0676_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m fishing on {STRVAR_1 4, 3, 0}, but\nnothing’s biting today.\rHelp me while my time away--come over\nfor a battle.</language>
+		<language name="English">Je pêche vers la {STRVAR_1 4, 3, 0},\nmais ça ne mord pas.\rCe n’est pas une raison pour me\ndisperser, mais... tu ne voudrais pas\ffaire un combat?</language>
 	</row>
 	<row id="msg_0676_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sigh...They’re not biting like before on\n{STRVAR_1 4, 3, 0}...\rYou have to come for a battle!</language>
+		<language name="English">Y’a pas grand chose d’excitant\nces derniers temps du côté de\fla {STRVAR_1 4, 3, 0}...\rIl faut qu’on se batte!</language>
 	</row>
 	<row id="msg_0676_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nah, I haven’t found anything that’s\nworth your time.\rYou have to have patience.</language>
+		<language name="English">Non. Je n’ai rien trouvé d’intéressant.\nTu dois encore attendre.</language>
 	</row>
 	<row id="msg_0676_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I snagged an item while fishing.\nCome pick it up on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">J’ai remonté un objet en pêchant!\rViens le chercher sur la\n{STRVAR_1 4, 3, 0} si ça t’intéresse!</language>
 	</row>
 	<row id="msg_0676_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Don’t you want this item?\nHah? You don’t know where?\r{STRVAR_1 4, 3, 0}...\nJust head from Mahogany toward\fBlackthorn!</language>
+		<language name="English">Tu ne veux pas de cet objet?\rQuoi? Tu ne sais pas où je suis?\r{STRVAR_1 4, 3, 0}...\nC’est vers Ebènelle quand tu viens\fd’Acajou.</language>
 	</row>
 </body>

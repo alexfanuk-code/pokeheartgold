@@ -2,26 +2,26 @@
 <body language="English">
 	<row id="msg_0446_T01_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m raising Pokémon, too.\nThey serve as my private guards.</language>
+		<language name="English">Moi aussi j’entraîne des Pokémon!\nIls me servent de gardes du corps!</language>
 	</row>
 	<row id="msg_0446_T01_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Technology is incredible!\rYou can now trade Pokémon\noverseas like email.</language>
+		<language name="English">Le progrès... C’est dingue!\rIl paraît qu’à Johto, ils ont un\ndispositif qui permet d’échanger les\fPokémon avec des gens qui vivent de\fl’autre côté de l’océan!</language>
 	</row>
 	<row id="msg_0446_T01_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pallet Town\nA Pure White Beginning</language>
+		<language name="English">Bourg Palette\nLa ville des grands départs!</language>
 	</row>
 	<row id="msg_0446_T01_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Red’s House</language>
+		<language name="English">Chez Red</language>
 	</row>
 	<row id="msg_0446_T01_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oak Pokémon\nResearch Lab</language>
+		<language name="English">Laboratoire Pokémon\ndu Professeur Chen</language>
 	</row>
 	<row id="msg_0446_T01_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Blue’s House</language>
+		<language name="English">Chez Blue</language>
 	</row>
 </body>

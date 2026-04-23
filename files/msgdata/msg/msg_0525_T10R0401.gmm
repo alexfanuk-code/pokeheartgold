@@ -2,14 +2,14 @@
 <body language="English">
 	<row id="msg_0525_T10R0401_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I am Bruno of the Elite Four.\rI always train to the extreme because\nI believe in our potential.\rThat is how we became strong.\nCan you withstand our power?\rHm? I see no fear in you. You look\ndetermined. Perfect for battle!\rReady, {STRVAR_1 3, 0, 0}?\rYou will bow down to our\noverwhelming power!\rHoo hah!\r</language>
+		<language name="English">Je suis Aldo du Conseil 4.\rMa philosophie, c’est d’avoir confiance\nen son potentiel et de s’entraîner\fjusqu’à ses ultimes limites.\rEt tu crois pourtant pouvoir nous\négaler malgré cela?\rHo, ça ne t’intimide pas on dirait...\nTrès bien! Ton visage me dit\fque le combat peut commencer!\rEn garde! {STRVAR_1 3, 0, 0}!\nVoyons voir si tu résistes à notre\fsurpuissance!\rYaaaah!\r</language>
 	</row>
 	<row id="msg_0525_T10R0401_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Having lost, I have no right to\nsay anything...\fGo face your next challenge!\r</language>
+		<language name="English">J’ai perdu.\nJ’ai perdu le droit de te parler.\fAvance vers la prochaine salle!\r</language>
 	</row>
 	<row id="msg_0525_T10R0401_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Having lost, I have no right to\nsay anything...\fGo face your next challenge!</language>
+		<language name="English">J’ai perdu.\nJ’ai perdu le droit de te parler.\fAvance vers la prochaine salle!</language>
 	</row>
 </body>

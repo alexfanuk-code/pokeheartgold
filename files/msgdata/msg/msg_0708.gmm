@@ -2,50 +2,50 @@
 <body language="English">
 	<row id="msg_0708_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Parry</language>
+		<language name="English">Noa</language>
 	</row>
 	<row id="msg_0708_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sheesh, the way you attacked! That was\nsomething else! We should meet again!\rHow about giving me your number?{YESNO 0}</language>
+		<language name="English">Ouaiiiis!\nT’es fortiche, ma parole! Il faut se\frefaire ça!\rTu me donnes ton numéro? {YESNO 0}</language>
 	</row>
 	<row id="msg_0708_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll call you when I feel like battling!</language>
+		<language name="English">Je t’appelle si je veux encore\ncombattre!</language>
 	</row>
 	<row id="msg_0708_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No? That’s fine.\nA definite no is easy to take!\rI’ll be right here when you’re ready for\na rematch.</language>
+		<language name="English">Ah! Même quand tu refuses, tu me\nplais!\rReviens me voir si tu veux combattre à\nnouveau.</language>
 	</row>
 	<row id="msg_0708_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So you want to register my phone\nnumber for a rematch, huh?{YESNO 0}</language>
+		<language name="English">Tu veux enregistrer mon numéro\npour combattre à nouveau? {YESNO 0}</language>
 	</row>
 	<row id="msg_0708_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Well, you are special, all right.\rIf only I’d begun training Pokémon when\nI was a tad younger...\rI want you to work hard and succeed\nfor both of us.\fSo, take this, OK?\r</language>
+		<language name="English">Tu n’es pas comme les autres...\rJ’aurais dû commencer à m’entraîner\nplus jeune...\rJe te souhaite plein de succès!\nPrends ceci... J’y tiens.\r</language>
 	</row>
 	<row id="msg_0708_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uh-huh?\nIs that a river I hear in the\fbackground? You’re nearby!</language>
+		<language name="English">Mais?\nJ’entends la rivière.\fTu es dans les parages?</language>
 	</row>
 	<row id="msg_0708_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nothing can match my {STRVAR_1 0, 10, 0} now.\rYeah, we KO’d a wild {STRVAR_1 0, 11, 0}!\rThat was OK, but what I wanted was\nto catch it...\rOK, give me a call again!</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0} est au top.\rOn a mis K.O. un {STRVAR_1 0, 11, 0} sauvage!\rEn fait je voulais l’attraper...\rOK, rappelle-moi vite!</language>
 	</row>
 	<row id="msg_0708_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Nothing can match my {STRVAR_1 0, 10, 0} now.\rAnd, yesterday, we spotted a wild\n{STRVAR_1 0, 11, 0}.\rWe were debating whether to catch\nit or just gain experience battling it.\rThen, along came another guy,\nwho caught it! How about that!\rOK, give me a call again!</language>
+		<language name="English">Mon {STRVAR_1 0, 10, 0} est au top.\rHier, on a vu un {STRVAR_1 0, 11, 0}\nsauvage.\fOn savait pas s’il fallait l’attraper\fou le battre.\rEt puis un type est arrivé et l’a\nchopé! Tu le crois ça?\rOK, rappelle-moi vite!</language>
 	</row>
 	<row id="msg_0708_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re thinking you’d like to battle me.\nAm I right or what?\rYep! We’ll meet on {STRVAR_1 4, 3, 0}!</language>
+		<language name="English">Tu veux te battre contre moi, non?\nJ’ai bon? Hein?\rOn s’retrouve\nsur la {STRVAR_1 4, 3, 0}!</language>
 	</row>
 	<row id="msg_0708_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Haven’t you gone as far as\n{STRVAR_1 4, 3, 0}?\rWaiting here is no problem,\nbut I’d sure like to battle!</language>
+		<language name="English">Tu as visité la {STRVAR_1 4, 3, 0}?\rJ’attends là.\nJe veux combattre!</language>
 	</row>
 	<row id="msg_0708_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ll battle with me again, right?</language>
+		<language name="English">Tu vas encore m’affronter, non?</language>
 	</row>
 </body>

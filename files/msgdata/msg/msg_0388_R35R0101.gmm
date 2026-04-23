@@ -2,70 +2,70 @@
 <body language="English">
 	<row id="msg_0388_R35R0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Excuse me, kid!\nI received this letter the other day\ffrom a friend of mine.\rHere’s the reply that I wrote.\rI am stuck here and was wondering\nif you could deliver it...\rHe’s on Route 31.\fCan you help a guy out? {YESNO 0}</language>
+		<language name="English">Hé! Toi! Toi, là!\nJ’ai reçu une Lettre d’un ami, et j’ai\fécrit une réponse, mais je ne peux\fpas sortir d’ici pour la lui envoyer.\rEst-ce que tu voudrais bien la lui\nfaire parvenir?\rIl se trouve sur la Route 31.\nJe peux te faire confiance? {YESNO 0}</language>
 	</row>
 	<row id="msg_0388_R35R0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... Never mind, then...\nYou must be busy, too.</language>
+		<language name="English">Ah bon...\nTu dois avoir beaucoup à faire...</language>
 	</row>
 	<row id="msg_0388_R35R0101_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nYour party is full!</language>
+		<language name="English">Oups!\nTu as trop de Pokémon!</language>
 	</row>
 	<row id="msg_0388_R35R0101_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, thanks!\r</language>
+		<language name="English">Wah! Merci!\r</language>
 	</row>
 	<row id="msg_0388_R35R0101_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received the\nSPEAROW with Mail!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit un PIAFABEC\navec une Lettre!</language>
 	</row>
 	<row id="msg_0388_R35R0101_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My friend is on Route 31.\rHe looks obviously eager to read\nletters, so you’ll know who he is\fright away!</language>
+		<language name="English">Mon ami est sur la Route 31.\rDès que tu verras un type qui a l’air\nd’attendre une Lettre, c’est lui!</language>
 	</row>
 	<row id="msg_0388_R35R0101_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My friend is on Route 31.\rOh, yeah.\nThere was a weird tree\fblocking the road.\fI wonder if it’s been cleared?</language>
+		<language name="English">Mon ami est sur la Route 31.\n... Ah, au fait!\rJ’ai entendu dire qu’un arbre bizarre\nbloque le chemin...\rTu crois qu’on peut passer,\nmaintenant?</language>
 	</row>
 	<row id="msg_0388_R35R0101_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thank you for making the delivery!\r...What about a cave exploration?\nAh, you can go right through here.\rI want you to have this for\nyour kindness!\r</language>
+		<language name="English">Merci de la lui avoir livrée!\rHein? Une exploration souterraine?\nAh, c’est vrai!\fEn fait, il suffit de sortir par ici...\rJe te remercie encore pour ta\ngentillesse. Tu mérites un cadeau!\r</language>
 	</row>
 	<row id="msg_0388_R35R0101_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">My pal was snoozing, right?\nHeh, he’s always sleeping.</language>
+		<language name="English">Mon pote dormait, je suis sûr!\nIl dort sans arrêt!</language>
 	</row>
 	<row id="msg_0388_R35R0101_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">What?!\nYou lost the Mail?\fOh, well. That’s OK.\fDon’t worry about it.</language>
+		<language name="English">QUOI?!\nTu as perdu ma Lettre?\fOh non... Quel dommage...\fTant pis, on ne peut rien y faire...</language>
 	</row>
 	<row id="msg_0388_R35R0101_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Everything is fine!</language>
+		<language name="English">Rien à signaler aujourd’hui non plus!</language>
 	</row>
 	<row id="msg_0388_R35R0101_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A strange tree is blocking the road.\nIt wriggles around if you talk to it.\rI heard it became wild when someone\nwatered it with a SquirtBottle.</language>
+		<language name="English">Un arbre bizarre bloque le chemin.\nIl gigote si on s’en approche.\rIl paraît qu’il devient dingue si\non l’asperge avec un CARAPUCE à O.</language>
 	</row>
 	<row id="msg_0388_R35R0101_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I like the Pokémon Lullaby they play\non the radio.</language>
+		<language name="English">J’aime la berceuse Pokémon\nqui passe à la radio.</language>
 	</row>
 	<row id="msg_0388_R35R0101_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I can’t believe such a tiny change\nturns the Pokégear into a radio!\rOh, your Pokégear doesn’t have\nthat feature yet?\rIt’s a shame!\rThey happen to give quizzes at the\nRadio Tower reception on the\ffirst floor.\rIf you can answer them correctly,\nthey’ll give you the Radio Card!\rYou better try it while they\nhave some left!</language>
+		<language name="English">Quand on y pense, il suffit d’un petit\ntruc comme ça pour écouter la radio\fsur son Pokématos... On croit rêver!\rHein? Tu ne peux toujours pas écouter\nla radio sur ton Pokématos?\fQuel dommage!\rTu sais, au rez-de-chaussée de la Tour\nRadio, tu peux jouer à un quiz...\fSi tu as toutes les bonnes réponses,\ftu peux gagner un Coupon Radio!\rVa vite gagner le tien avant\nqu’ils arrêtent!</language>
 	</row>
 	<row id="msg_0388_R35R0101_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I may not look it, but I’m pretty good\nat mechanics.\rDo you want to know how to\nlisten to the radio? {YESNO 0}</language>
+		<language name="English">On ne dirait pas, mais malgré mon âge,\nje m’y connais en trucs techniques!\rTu veux que je t’apprenne à\nécouter la radio? {YESNO 0}</language>
 	</row>
 	<row id="msg_0388_R35R0101_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You open your Pokégear and press the\nradio button. Then you see the screen\ffor tuning in a signal.\rThe middle of the screen is the\nradio-reception map.\rYou can move the blinking mark on the\nmap around to tune in to different\fradio shows.\rFor those who think this is a pain,\nthere are four channels, two on each\fside, for easy tuning.</language>
+		<language name="English">En ouvrant ton Pokématos, y’a un\nbouton radio, non? Appuie dessus!\rTu te retrouveras sur l’écran de\nsélection de signal.\rAu milieu, il y a l’écran de réception,\navec un point qui clignote.\fEn bougeant ce point, tu changes de\fchaîne, et tu choisis celle que tu veux!\rEt pour ceux qui trouvent que c’est\ntrop compliqué, il y a 4 boutons autour\fpour changer facilement de chaîne!</language>
 	</row>
 	<row id="msg_0388_R35R0101_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Was I being a backseat driver?</language>
+		<language name="English">Tu n’as pas besoin de moi, alors?</language>
 	</row>
 </body>

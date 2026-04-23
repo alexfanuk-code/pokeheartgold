@@ -3,68 +3,68 @@
 	<row id="msg_0344_R10R0201_00000" index="0">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0344_R10R0201_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0344_R10R0201_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0344_R10R0201_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Manager: My beloved generator!\rKeep pumping the electricity out to\nprovide a pleasant life for Kanto!</language>
+		<language name="English">Patron: Mon petit générateur chéri!\nGénère! Génère! Grâce à toi, toute\fla région de Kanto pourra retrouver\fune vie plus facile!</language>
 	</row>
 	<row id="msg_0344_R10R0201_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’ll have to beef up our security\npresence so something like this will\fnever happen again!</language>
+		<language name="English">Il faut renforcer la sécurité\npour éviter qu’un tel incident\fne se reproduise!</language>
 	</row>
 	<row id="msg_0344_R10R0201_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The generator’s up and running.\nIt’s making electricity to spare.</language>
+		<language name="English">Le générateur est en marche. Il crée\nde l’électricité continuellement.</language>
 	</row>
 	<row id="msg_0344_R10R0201_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The generator’s running again!</language>
+		<language name="English">Le générateur est en marche!</language>
 	</row>
 	<row id="msg_0344_R10R0201_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Since the generator’s been fixed, the\nManager has been cheerful.</language>
+		<language name="English">Depuis que tout a été réparé,\nle Patron est au comble du bonheur!</language>
 	</row>
 	<row id="msg_0344_R10R0201_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">All right! We can finally get the\nMagnet Train running again.</language>
+		<language name="English">Le Train Magnétique peut à nouveau\nfonctionner!</language>
 	</row>
 	<row id="msg_0344_R10R0201_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I collect Pokémon.\nDo you have a DUGTRIO?\rWant to trade it for my MAGNETON? {YESNO 0}</language>
+		<language name="English">Je collectionne les Pokémon.\nAs-tu un TRIOPIKEUR?\rÇa te dirait de l’échanger\ncontre mon MAGNETON? {YESNO 0}</language>
 	</row>
 	<row id="msg_0344_R10R0201_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yay! I got myself a DUGTRIO!\nThanks!</language>
+		<language name="English">Hourra! J’ai un TRIOPIKEUR!\nMerci!</language>
 	</row>
 	<row id="msg_0344_R10R0201_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? That’s not DUGTRIO.\nWhat a letdown...</language>
+		<language name="English">Hein...?\nMais c’est pas un TRIOPIKEUR...\fPfff... Tant pis...</language>
 	</row>
 	<row id="msg_0344_R10R0201_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You don’t want to trade? Aww...</language>
+		<language name="English">Tu ne veux pas l’échanger?\nPfff, quelle déception...</language>
 	</row>
 	<row id="msg_0344_R10R0201_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hi, how’s my old MAGNETON doing?</language>
+		<language name="English">Salut!\nComment va le MAGNETON que\fje t’ai échangé?</language>
 	</row>
 	<row id="msg_0344_R10R0201_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Staff Mottos:\r1. Electricity is not infinite.\n2. Conserve wherever possible.\f3. Watch out for each other.\f4. Idle hands are not allowed.\f5. Wear shoes with rubber soles.\f6. The Manager is awesome.</language>
+		<language name="English">Règles de base pour les employés\r1 L’électricité n’est pas infinie.\n2 Economisons autant que possible.\f3 Parlons à tout le monde.\f4 Ne relâchons jamais notre attention.\f5 Portons des bottes en caoutchouc.\f6 Le Patron est un génie.</language>
 	</row>
 	<row id="msg_0344_R10R0201_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Use electricity wisely\nfor a bright and pleasant life.\f           Kanto Power Plant</language>
+		<language name="English">Utilisons l’électricité avec modération\npour une vie plus belle et plus moderne.\r             Générateur de Kanto</language>
 	</row>
 </body>

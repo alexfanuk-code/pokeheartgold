@@ -2,79 +2,79 @@
 <body language="English">
 	<row id="msg_0488_T06R0301_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m the Chairman of the\nPokémon Fan Club.\rI’ve raised over 150 Pokémon.\rI’m very fussy when it comes\nto Pokémon.\rDid you visit just to hear about\nmy Pokémon? {YESNO 0}</language>
+		<language name="English">Je suis le Président\ndu Fan Club Pokémon!\rJ’ai élevé plus de 150 Pokémon!\nJe suis très difficile\fdès qu’il s’agit de Pokémon!\rTu es ici pour profiter de mon\nimmense expérience en Pokémon? {YESNO 0}</language>
 	</row>
 	<row id="msg_0488_T06R0301_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good! Then listen up!\rSo...my precious RAPIDASH...\rIt’s...cute...lovely...smart...\nadorable...irresistible...plus...\famazing... Don’t you think so?\fOh, so...wild...beautiful...\fkind... I love it!\rHug it... It’s warm and cuddly...\nOh, it’s...spectacular...captivating...\fsimply divine... I treasure it...\fOops! Look at the time! I’ve kept\fyou too long!\rThanks for hearing me out. I want to\ngive you this present!\r</language>
+		<language name="English">Bien!\nAlors, écoute!\rBon, déjà... mon préféré...\nGALOPA, parce que...\r... Tu vois? Et... alors...\n... trop mignon! Parce que...\fWah! Et... En plein combat...\f... Et en plus... Un! Deux! ...\f... Du moins, c’est ce que je pensais...\f... Wah! Mais tout d’un coup...\f... PAN!\f... Incroyable...\f... Se reposer...\f... Nager...\f... Pas vrai? Alors...\f... Génial! Et...\f... magnifique...\f... faire des poutoux...\f... zigouzigoux... ... Oups!\rIl est déjà si tard?\nJe ne pensais pas avoir parlé autant!\rMerci de m’avoir écouté...\nVoilà pour toi!\r</language>
 	</row>
 	<row id="msg_0488_T06R0301_00002" index="2">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0488_T06R0301_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a Rare Candy that makes\nPokémon stronger.\rI prefer making my Pokémon stronger\nby battling, so you can have it.</language>
+		<language name="English">Un Super Bonbon, ça rend les\nPokémon plus forts!\rMoi je préfère les renforcer en faisant\ndes combats, alors il est pour toi.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, {STRVAR_1 3, 0, 0}!\rDid you come see me about my\nPokémon again?\rNo? Oh... I had more tales to tell...</language>
+		<language name="English">Salut salut, {STRVAR_1 3, 0, 0}!\rTu es ici pour profiter encore de mon\nimmense expérience en Pokémon?\rHein? Non? Oh...\nPfff... C’est nul.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, {STRVAR_1 3, 0, 0}!\rDid you come see me about my\nPokémon again?\rNo? Oh... I had more tales to tell...</language>
+		<language name="English">Salut salut, {STRVAR_1 3, 0, 0}!\rTu es ici pour profiter encore de mon\nimmense expérience en Pokémon?\rHein? Non? Oh...\nPfff... C’est nul.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How disappointing...\rCome back if you want to listen\nto me again!</language>
+		<language name="English">Pfff... C’est nul...\rReviens me voir si tu changes d’avis!</language>
 	</row>
 	<row id="msg_0488_T06R0301_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Your Bag is jammed full.</language>
+		<language name="English">Ton Sac est plein!</language>
 	</row>
 	<row id="msg_0488_T06R0301_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Our Chairman is very vocal when it\ncomes to Pokémon...</language>
+		<language name="English">Notre Président ne s’arrête\njamais de parler de Pokémon...</language>
 	</row>
 	<row id="msg_0488_T06R0301_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I love the way CLEFAIRY opens up\nits arms!\rIt’s so adorable!</language>
+		<language name="English">Regarde-le quand il écarte les bras\net qu’il prend sa pose trop mignonne!\rHiiiii!\nMELOFEE, t’es le plus beau!</language>
 	</row>
 	<row id="msg_0488_T06R0301_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I love CLEFAIRY, but I could never\ncatch one.\rSo I’m making do with a Poké Doll\nthat I found.</language>
+		<language name="English">J’adore MELOFEE, mais je n’ai toujours\npas réussi à en attraper un.\rTant pis!\nJe m’amuse avec cette Poképoupée\fque j’ai trouvée...</language>
 	</row>
 	<row id="msg_0488_T06R0301_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I love CLEFAIRY, but I could never\ncatch one. So I’m making do with a\fPoké Doll that I found.\rWhat?\nThe girl who lost this Poké Doll\fis sad...!\rOK. Could you take this Poké Doll\nback to that poor little girl?\rI’ll befriend a real CLEFAIRY on\nmy own one day!\r</language>
+		<language name="English">J’adore MELOFEE, mais je n’ai toujours\npas réussi à en attraper un.\rTant pis!\nJe m’amuse avec cette Poképoupée\fque j’ai trouvée...\rQuoi?!\nLa petite fille qui a perdu\fsa Poképoupée est triste?\r... Très bien! Va rendre la poupée\nà sa propriétaire!\fMoi, je trouverai un vrai MELOFEE!\r</language>
 	</row>
 	<row id="msg_0488_T06R0301_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} received\nthe lost Poké Doll!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} reçoit la Poképoupée\nperdue!</language>
 	</row>
 	<row id="msg_0488_T06R0301_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You watch. I’m going to get a\nreal CLEFAIRY as my friend.</language>
+		<language name="English">J’attraperai un MELOFEE et il sera\nmon ami pour la vie!</language>
 	</row>
 	<row id="msg_0488_T06R0301_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Look at my darling BAYLEEF!\rThe leaf on its head is so cute\nand fashionable!</language>
+		<language name="English">Regarde donc mon MACRONIUM!\nLa feuille sur sa tête est si mignonne!</language>
 	</row>
 	<row id="msg_0488_T06R0301_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a CLEFAIRY!\nHuh?\rOh, right. It’s a CLEFAIRY Poké Doll.</language>
+		<language name="English">C’est un MELOFEE!\n...?\rAh, non: c’est une Poképoupée\nMELOFEE.</language>
 	</row>
 	<row id="msg_0488_T06R0301_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">BAYLEEF: Li liif!</language>
+		<language name="English">MACRONIUM: Niuuum!</language>
 	</row>
 	<row id="msg_0488_T06R0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Let’s all listen politely to\nother Trainers.</language>
+		<language name="English">Si un Dresseur se vante devant vous,\nécoutez-le patiemment!</language>
 	</row>
 	<row id="msg_0488_T06R0301_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If someone brags, brag right back!</language>
+		<language name="English">Si un Dresseur se vante devant vous,\nvantez-vous dix fois plus!</language>
 	</row>
 </body>

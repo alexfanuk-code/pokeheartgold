@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0412_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercials</language>
+		<language name="English">Publicité</language>
 	</row>
 	<row id="msg_0412_00001" index="1">
 		<attribute name="window_context_name">garbage</attribute>
@@ -11,146 +11,146 @@
 	</row>
 	<row id="msg_0412_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Always where you need it!\nYour local Pokémon Center!</language>
+		<language name="English">Publicité: Le Centre Pokémon!\nIl y en a toujours un près de chez soi!</language>
 	</row>
 	<row id="msg_0412_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Full of smiling faces!\nYour cheerful Poké Mart!</language>
+		<language name="English">Publicité: Boutique Pokémon. On y trouve\ntout, surtout des sourires!</language>
 	</row>
 	<row id="msg_0412_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Your friend for adventure,\nyour Pokégear...Pokégear...Pokégear!\nYour Pokégear from Silph Co. Take our\nlatest model on your next adventure!</language>
+		<language name="English">Publicité: Le compagnon de l’aventure,\nc’est le Pokématos bien sûûûûr!\nLe Pokématos de la Sylphe SARL,\npour des voyages qui donnent des ailes!</language>
 	</row>
 	<row id="msg_0412_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Catch that Trainer’s eye for\nan intense battle! But don’t pick fights\nwith those who aren’t Trainers. This has\nbeen a message from the Pokémon League.</language>
+		<language name="English">Publicité: Des regards qui se croisent,\nc’est un combat qui commence! Evitez les\ncombats si vous n’êtes pas un Dresseur!\nC’était un communiqué\nde la Ligue Pokémon.</language>
 	</row>
 	<row id="msg_0412_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Whenever you turn your head,\nthere it is. Your constant companion in\nlife’s journey. Your Pokémon is always\nthere to help. This has been a message\nfrom the Pokémon League.</language>
+		<language name="English">Publicité: Vous vous retournez, et il est\nlà, derrière vous! Votre fidèle\npartenaire, votre Pokémon!\nC’était un communiqué\nde la Ligue Pokémon.</language>
 	</row>
 	<row id="msg_0412_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: The gentle flow of time, an\nancient figure... The gentle vibrations\nof Sprout Tower in Violet City... \nIt’s waiting for you. This message\nbrought to you by the Johto Bureau\nof Tourism.</language>
+		<language name="English">Publicité: Prenez le temps...\nGoûtez au temps jadis!\nA l’ombre de la Tour CHETIFLOR...\nMauville vous attend!\nOffice du Tourisme de Johto.</language>
 	</row>
 	<row id="msg_0412_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: An ancient message is being\ndiscovered, right now, in the Ruins of\nAlph! This message brought to you by the\nJohto Bureau of Tourism.</language>
+		<language name="English">Publicité: Venez déchiffrez les mystères\ndu passé aux Ruines d’Alpha!\nOffice du Tourisme de Johto.</language>
 	</row>
 	<row id="msg_0412_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A beautiful sound and\ngraceful dance, together at the\nEcruteak Dance Theater.\nThis message brought to you by the\nJohto Bureau of Tourism.</language>
+		<language name="English">Publicité: Au rythme d’une musique\nlancinante, une danse fascinante...\nSuccombez aux charmes de Rosalia!\nOffice du Tourisme de Johto.</language>
 	</row>
 	<row id="msg_0412_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: The light of hope shines over\nan anxious boat trip to this port city’s\nlandmark! Come see the lighthouse!\nThis message brought to you by the\nJohto Bureau of Tourism.</language>
+		<language name="English">Publicité: Un voyage en mer angoissant...\nEt des ténèbres jaillit la lumière!\nLa réconfortante lumière du Phare\nd’Oliville! Laissez-vous guider!\nOffice du Tourisme de Johto.</language>
 	</row>
 	<row id="msg_0412_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Gulp gulp! Yum! Aprijuice!\nAprijuice! Run and shake, make Aprijuice!\nGulp gulp! Drink it up! Aprijuice!\nEveryone loves Aprijuice! Just for\nPokémon! None for humans! Aprijuice!</language>
+		<language name="English">Publicité: Noiiiiiigruuuuuuume Driiiink!\nCourez, secouez...\nNoiiiiiigruuuuuuume Driiiink!\nTout le monde adore...\nNoiiiiiigruuuuuuume Driiiink!\nAttention: boisson destinée\nEXCLUSIVEMENT aux Pokémon.</language>
 	</row>
 	<row id="msg_0412_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A polished design, a lively\nsilhouette. A cloud of dust rising up.\nRunning along with your Pokémon in your\nrunning shoes!</language>
+		<language name="English">Publicité: Un design élégant.\nUne silhouette sportive.\nAvec votre fidèle Pokémon,\nfilez comme le vent...\ngrâce aux Chaussures de Sport!</language>
 	</row>
 	<row id="msg_0412_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A fateful encounter that\nbegins in the Pokémon Center...\nA connection between two people...\nIf you climb the stairs, you’ll find it.\nThe Union Room.</language>
+		<language name="English">Publicité: Une rencontre qui change\nvotre vie au Centre Pokémon.\nPuis, une autre, et une autre encore!\nC’est là, en haut de l’escalier...\nLa Salle Union!</language>
 	</row>
 	<row id="msg_0412_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A fateful encounter that\nbegins in the Pokémon Center...\nA connection between two people...\nIf you take the escalator down, you’ll\nfind it--the Wi-Fi Club.</language>
+		<language name="English">Publicité: Une rencontre qui change\nvotre vie au Centre Pokémon.\nPuis, une autre, et une autre encore!\nC’est là, en bas de l’escalator...\nLe Club Wi-Fi!!</language>
 	</row>
 	<row id="msg_0412_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: The symbol of Goldenrod City,\nthe Global Terminal! A place where you\ncan experience the world, where the\nworld can meet you, and the Global Trade\nStation where you can trade Pokémon.</language>
+		<language name="English">Publicité: Le Terminal Mondial, la fierté\nde Doublonville!\nEt votre fenêtre sur le monde!\nConnectez-vous et échangez à la GTS!</language>
 	</row>
 	<row id="msg_0412_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Come one, come all! Welcome!\nWelcome to the Wi-Fi Plaza, where\neveryone meets! Play games with others\nin the Wi-Fi Plaza! The wa...! Wi-Fi Plaza!</language>
+		<language name="English">Publicité: Le Square Wi-Fi...\nle rendez-vous des amis!\nLe Square Wi-Fi...\nOn y joue, on y rit!\nDites OUIIIIIIII, au Square Wi-Fi!</language>
 	</row>
 	<row id="msg_0412_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: If it’s Pokémon goods you\nwant, you can get anything here.\nFrom top to bottom, a wonderful world\nof shopping in the Goldenrod\nDepartment Store.</language>
+		<language name="English">Publicité: “Mon Pokémon veut un objet,\nmais je ne l’ai pas! Que faire?”\n“Mais voyons chéri, il sera forcément au\nCentre Commercial de Doublonville!\nEn plus à des prix IMBATTABLES!”</language>
 	</row>
 	<row id="msg_0412_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Between battles, why not\ntake a break and relax at the Goldenrod\nGame Corner?</language>
+		<language name="English">Publicité: Entre deux combats,\nune pause s’impose!\nAh, le Casino de Doublonville!</language>
 	</row>
 	<row id="msg_0412_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Hey, all you radio listeners\nout there. This is the Johto Radio\nBroadcasting Network. We’re sending out\ndreams over our radio waves. La la la,\nthe Johto Radio Station!</language>
+		<language name="English">Publicité: Chers auditeurs...\nLaissez-vous porter sur les ailes du\nrêve par la Radio de Johto!\nNous avons le permis pour vous emmener\njusqu’au paradis!</language>
 	</row>
 	<row id="msg_0412_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: All right, all right, all right!\nDon’t you also want to be certain your\nPokémon is victorious? Let’s go to the\nPokéathlon! There are ten different\nevents for you to compete in!</language>
+		<language name="English">Publicité: Hé! Toi!\nTu veux tester ton amitié avec tes\nPokémon? Alors, file au Pokéathlon!\n10 épreuves t’y attendent!\nLe Pokéathlon, sponsor de l’amitié!</language>
 	</row>
 	<row id="msg_0412_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Da da da dum dum dum da da!\nFriendship!\nCooperation!\nTrust!\nBelief in the possibilities!\nThe dripping sweat is a sign of your\nhard work!\n...\nThe Pokéathlon anthem,\n“Believe in Pokémon!” On sale soon!</language>
+		<language name="English">Publicité: Lalala lalala la la lala la Ohhh!\nAAAAAAA-MITIE!\nCOOOOOOO-OPERATION!\nCOOOOOOON-FIANCE!\nCROIIIIIII-RE EN SOI!\nSE DEEEEEEE-PENSER\nSANS COMPTER! SANS ECHOUER!\n...\n“Crois en tes Pokémon!”, la chanson\nofficielle du Pokéathlon.\nBientôt dans les bacs.\n\n</language>
 	</row>
 	<row id="msg_0412_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Are you catching Bug-type\nPokémon? Well Tuesdays, Thursdays,\nand Saturdays of every week are\nBug-Catching Contest Days!\nThose of you who love Bug-type Pokémon,\ngather at the National Park every\nTuesday, Thursday, and Saturday!\nSee you there!</language>
+		<language name="English">Publicité: Tu aimes les Pokémon Insecte?\nAlors, tous les mardis, jeudis et samedis,\nfonce au Concours de Capture\nd’insecte!\nTu vas A-DO-RER!\nAllez! Tous au Parc Naturel!</language>
 	</row>
 	<row id="msg_0412_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Dum da da dum dum da da\ndum dum. Pa pa pa pa da dum pa pa pa pa\nda dum Pokémon! Catch as many Pokémon\nas you like until the Poké Balls run out\nat Warden Baoba’s Safari Zone...zone...</language>
+		<language name="English">Publicité: Il court il court le Pokémon,\nle Pokémon du Safari!\nIl est passé par ici, je l’attraperai\npar là...\n... Au Parc Safariiiii de M. Baoba!!</language>
 	</row>
 	<row id="msg_0412_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Mahogany Town’s famous Rage\nCandy Bar! They work so hard every day\nto make these famous RageCandyBars!\nWhy not take one back home to your\nfriends--a RageCandyBar!</language>
+		<language name="English">Publicité: Ah, les véritables Bonbons\nRage d’Acajou! Je me souviens encore de\nla première fois que je les ai goûtés...\nMaintenant, c’est moi qui les fais\ndécouvrir aux gens que j’aime!\nAh, le goût authentique du Bonbon Rage!</language>
 	</row>
 	<row id="msg_0412_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Extraordinary Pokémon\nbattles, the kind you’ve always wished\nfor, are found only in the Battle Tower.\nTake part in the highest-grade battles.\nWill you take on the challenge by\nyourself or with a partner?</language>
+		<language name="English">Publicité: Lassé des combats ordinaires?\nVous cherchez le grand frisson?\nVous le trouverez...\nà la Tour de Combat!\nEn solo ou en duo, pour des combats\nd’exception, pensez Tour de Combat!</language>
 	</row>
 	<row id="msg_0412_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Do you know the true face of\nthe Battle Tower? Opening every door on\nthe planet; every Trainer awaits you!\nHow far will you be able to go?</language>
+		<language name="English">Publicité: Connaissez-vous vraiment\nla Tour de Combat?\nLes meilleurs Dresseurs du monde entier\nsont réunis pour vous affronter!\nJusqu’où serez-vous capable d’aller?</language>
 	</row>
 	<row id="msg_0412_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: A place where your beloved\nPokémon can become number one.\nThe battle of a lifetime in the\nBattle Hall! \nMake your Pokémon shine bright here;\nyou’re the only Trainer who can!</language>
+		<language name="English">Publicité: Vos Pokémon méritent de\ndevenir des stars! A eux la célébrité...\nA vous la gloire!\nSur la scène où tous les regards sont\ntournés... la Scène de Combat!</language>
 	</row>
 	<row id="msg_0412_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Collect Castle Points!\nManage your Castle Points and use them\nbefore each battle in the Battle Castle!</language>
+		<language name="English">Publicité: Accumulez les Points Castel!\nUtilisez-les avec discernement!\nAu berceau du combat Pokémon,\nle Castel de Combat!</language>
 	</row>
 	<row id="msg_0412_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Luck is so fickle and selfish\nat the Battle Arcade! Just believe in\nyour Pokémon and go! Fight against fate\nin the Battle Arcade! Will the next step\nlead you closer to paradise, or\nto failure?</language>
+		<language name="English">Publicité: La vie est un jeu!\nLe hasard est capricieux!\nCroyez en vos Pokémon!\nChangez la donne!\nA l’Arcade de Combat!\nRien n’est joué d’avance!</language>
 	</row>
 	<row id="msg_0412_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Do you know the best\nbattle techniques to get Pokémon to\nshow off their true potential?\nThe Battle Factory! If you don’t know,\nyou won’t win! See you at the\nBattle Factory!</language>
+		<language name="English">Publicité: Avez-vous une connaissance\nabsolue des Pokémon?\nVenez prouver vos capacités\nà l’Usine de Combat!\nPourquoi ne pas tenter votre chance?\nL’Usine de Combat n’attend que vous!</language>
 	</row>
 	<row id="msg_0412_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: We invite you to travel the\nlightning-fast trip between Olivine and\nVermilion Cities on a hydroplane-like\nboat ride!</language>
+		<language name="English">Publicité: Détente et volupté pour\nune croisière de rêve.\nRalliez Oliville ou Carmin d’une traite\ngrâce au Bateau Express!</language>
 	</row>
 	<row id="msg_0412_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: If you’d like to ride your\nBike around as much as you want\nunder the Kanto sky, why not try\nCycling Road?\nIt’s waiting for you on Route 17.</language>
+		<language name="English">Publicité: Qu’il fait bon sous le soleil de\nKanto!\nProfitez de la Piste Cyclable!\nRendez-vous Route 17!</language>
 	</row>
 	<row id="msg_0412_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: The Pokémon League is\nwaiting for you, when you’re ready\nto challenge us. If you’re coming from\nKanto, we’re right at the end of\nRoute 22.\nThis message brought to you by the\nPokémon League.</language>
+		<language name="English">Publicité: La Ligue Pokémon vous attend!\nSaurez-vous relever le défi?\nTraversez la Route 22!\nC’était un communiqué de\nla Ligue Pokémon.</language>
 	</row>
 	<row id="msg_0412_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: The man who restored a town\ndevastated by a volcanic eruption. That\nman was none other than Blaine! He may\nhave lost his Cinnabar Gym, but he’s been\nable to reopen it on Seafoam Islands!</language>
+		<language name="English">Publicité: Il ne s’est pas laissé abattre\npar la destruction de son Arène dans une\néruption. Son nom: Auguste!\nRetrouvez la nouvelle Arène de\nCramois’Ile aux Iles Ecume!</language>
 	</row>
 	<row id="msg_0412_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Hey all you radio listeners\nout there. This is the Kanto Radio\nBroadcasting Network. We’re sending out\ndreams over the radio waves. La la la,\nthe Kanto Radio Station!</language>
+		<language name="English">Publicité: Chers auditeurs...\nLaissez-vous bercer sur les ailes du\nrêve par la Radio de Kanto!\nNous avons la permission de vous emmener\njusqu’au paradis!</language>
 	</row>
 	<row id="msg_0412_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: Silph Co. is a special\nhigh-tech innovation company dedicated\nto making people’s lives better and\nbringing about a wonderful future.</language>
+		<language name="English">Publicité: La Sylphe SARL: des produits\nhigh-tech pour un avenir radieux!\nPour que chaque jour soit plus facile\nà vivre: Sylphe SARL.</language>
 	</row>
 	<row id="msg_0412_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Commercial: From Goldenrod to Saffron\nCity, a surprising high-speed arrival and\na high-quality journey!\nRide the Magnet Train--the\ntransportation of the future!</language>
+		<language name="English">Publicité: En un clin d’œil,\nde Doublonville à Safrania! \nRapidité et service au top-niveau!\nGoûtez vous aussi au futur avec\nle Train Magnétique!</language>
 	</row>
 </body>

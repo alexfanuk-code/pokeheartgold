@@ -2,264 +2,264 @@
 <body language="English">
 	<row id="msg_0117_D37R0102_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello, dear.\rI sell inexpensive herbal medicine.\nThey’re good, but a trifle bitter.\rYour Pokémon may not like them.\nHehehehe... {YESNO 0}</language>
+		<language name="English">... Bienvenue.\rJe vends des herbes médicinales\nà bon marché.\rC’est très efficace, mais un peu amer.\nLes Pokémon ne les aiment\fpas beaucoup.\rHéhéhéhéhé... {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hiya! Care to see some bargains?\rI sell rare items that nobody else\ncarries--but only one of\feach item. {YESNO 0}</language>
+		<language name="English">Salut! Tu cherches une bonne affaire?\nJe vends des objets pour pas cher!\rC’est des trucs que tu ne trouveras\nnulle part ailleurs!\fMais je n’en ai qu’un de chaque... {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 8, 0, 0} costs\n${STRVAR_1 53, 1, 0}. Want it?</language>
+		<language name="English">{STRVAR_1 8, 0, 0} coûte {STRVAR_1 53, 1, 0} $.\nTu veux l’acheter? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thanks.\r</language>
+		<language name="English">Parfait!\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You put the {STRVAR_1 8, 0, 0} in\nthe {STRVAR_1 18, 1, 0} Pocket. {YESNO 0}</language>
+		<language name="English">Vous rangez l’objet {STRVAR_1 8, 0, 0}\ndans la Poche {STRVAR_1 18, 1, 0}. {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You bought that already. I’m all\nsold out of it. {YESNO 0}</language>
+		<language name="English">Tu viens d’en acheter.\nJe n’en ai plus en stock. {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uh-oh, you’re short on funds. {YESNO 0}</language>
+		<language name="English">On dirait que t’as pas assez. {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Uh-oh, your Bag is chock-full. {YESNO 0}</language>
+		<language name="English">On dirait que ton Sac est plein. {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">We’re closed for the day.</language>
+		<language name="English">C’est fermé pour aujourd’hui.</language>
 	</row>
 	<row id="msg_0117_D37R0102_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come by again sometime.</language>
+		<language name="English">Reviens me voir!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome!\rI run the Pokémon Salon!\rI’m the older and better of the two\nHaircut Brothers.\rI can make your Pokémon beautiful for\njust $500.\rGrooming gives a better look.\nYour Pokémon will become friendlier and\fmore beautiful.\rWould you like me to do that? {YESNO 0}</language>
+		<language name="English">Bienvenue au Salon Pokémon!\rJe suis l’aîné et le meilleur des\nfrères coiffeurs.\rPour juste 500 $, je peux toiletter\ntes Pokémon, leur faire le poil soyeux,\fbref, les rendre plus beaux!\rVeux-tu que je m’en occupe? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Which Pokémon should I work on?</language>
+		<language name="English">Quel Pokémon veux-tu me confier?</language>
 	</row>
 	<row id="msg_0117_D37R0102_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK! Watch it become beautiful!</language>
+		<language name="English">Bien!\nIl va être magnifique!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There! All done!</language>
+		<language name="English">Et voilà! Fini!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Is that right? That’s a shame!</language>
+		<language name="English">Vraiment?\nQuel dommage!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’ll need more money than that.</language>
+		<language name="English">Tu n’as pas assez d’argent...</language>
 	</row>
 	<row id="msg_0117_D37R0102_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I do only one haircut a day, sorry.\nI’m done for today.</language>
+		<language name="English">Je ne fais qu’un toilettage par jour.\nDésolé, c’est fini pour aujourd’hui!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Pokémon Salon!\rI’m the younger and less expensive of\nthe two Haircut Brothers.\rI’ll spruce up your Pokémon for\njust $300.\rGrooming gives a better look.\nYour Pokémon will become friendlier and\fmore beautiful.\rSo? How about it?</language>
+		<language name="English">Bienvenue au Salon Pokémon!\rJe suis le cadet et le moins cher des\nfrères coiffeurs.\rPour juste 300 $, je peux toiletter\ntes Pokémon, leur faire le poil soyeux,\fbref, les rendre plus beaux!\rVeux-tu que je m’en occupe? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK, which Pokémon should I spruce up?</language>
+		<language name="English">Quel Pokémon veux-tu me confier?</language>
 	</row>
 	<row id="msg_0117_D37R0102_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">OK! I hope I do a good job!</language>
+		<language name="English">Bien!\nEspérons que ça se passera bien!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There we go! All done!</language>
+		<language name="English">Et voilà! Fini!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">No? How disappointing!</language>
+		<language name="English">Vraiment?\nQuel dommage!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You’re a little short on funds.</language>
+		<language name="English">Tu n’as pas assez d’argent...</language>
 	</row>
 	<row id="msg_0117_D37R0102_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I have a feeling that it won’t go well\nnext time. Let me close for the day!</language>
+		<language name="English">J’ai peur de me planter la deuxième fois,\nalors j’arrête là pour aujourd’hui!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} looks a little happier.</language>
+		<language name="English">{STRVAR_1 0, 0, 0} a l’air un peu plus\nheureux.</language>
 	</row>
 	<row id="msg_0117_D37R0102_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} looks happy.</language>
+		<language name="English">{STRVAR_1 0, 0, 0} a l’air plus\nheureux.</language>
 	</row>
 	<row id="msg_0117_D37R0102_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 0, 0, 0} looks delighted!</language>
+		<language name="English">{STRVAR_1 0, 0, 0} a l’air ravi!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">NO ENTRY BEYOND THIS POINT</language>
+		<language name="English">ENTREE INTERDITE</language>
 	</row>
 	<row id="msg_0117_D37R0102_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} inserted the\nBasement Key.\r</language>
+		<language name="English">{STRVAR_1 3, 0, 0} met la Clé Sous-Sol\ndans la serrure.\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Welcome to the Memorial Photo Studio.\nWe are no ordinary studio!\rYou can wear a Team Rocket uniform\nto take a picture!\rWould you like to try it? {YESNO 0}</language>
+		<language name="English">Oh, bonjour!\nBienvenue au studio de photos souvenir.\rEt on n’est pas un simple studio photo,\nfigure-toi!\rIci, tu peux te faire prendre en photo\ndans un déguisement de membre\fde la Team Rocket!\rAlors? Ça te dit? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please stand in front of the camera\nonce you have changed.\r</language>
+		<language name="English">Bon, dès que tu auras enfilé le costume,\nviens devant l’appareil!\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Are you ready?\rCome on!\nLook cool as if you own the world!\r</language>
+		<language name="English">Allez, on ne bouge plus!\rFais comme si tu pensais que le monde\nentier était à toi!\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Good job.\rYou can check the picture using the PC.</language>
+		<language name="English">Parfait!\rTu peux voir la photo depuis un PC!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You can wear a Team Rocket uniform\nto take a picture!\rWould you like to try it? {YESNO 0}</language>
+		<language name="English">Ici, on peut se faire prendre en photo\nen uniforme de la Team Rocket!\rAlors? Ça te dit? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Fair enough.\rNo one should look up to Team Rocket.</language>
+		<language name="English">Ah ouais...\rBah, c’est sans doute mieux de ne pas\nadmirer la Team Rocket...</language>
 	</row>
 	<row id="msg_0117_D37R0102_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hmm. Your Photo Album is full.\rAccess your PC and delete\nsome pictures.</language>
+		<language name="English">Ah? On dirait que ton Album Photo est\nplein...\rDésolé, mais il va falloir que tu ailles\nfaire le ménage dans ton PC...\fReviens me voir!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh?\nAre you a newcomer, too?\rWe had to recruit new members for the\nRadio Tower mission.\fThen we ran out of uniforms.\rI heard this studio has some, so I\ndecided to “borrow” one.\rSince you are here, why don’t you\nchange as well?\r</language>
+		<language name="English">Mmmh?\nEncore une nouvelle recrue?\rOn a engagé tellement de nouveaux pour\nce plan avec la Tour Radio qu’on n’a\fplus assez d’uniformes Team Rocket\fpour tout le monde...\rJe sais pas pourquoi, mais le studio\nphoto en avait en stock, alors on les\fleur a piqués!\rÇa tombait bien!\nAllez, va te changer!\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Look at you! Pretty good!\rOh, but you shouldn’t try to scare\npeople walking around looking\flike that, OK?</language>
+		<language name="English">Très bien, ça te va à merveille!\rMais tiens-toi à carreau dans cette\ntenue; ne va pas terroriser les\fhonnêtes gens dans la rue!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00038" index="38">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0117_D37R0102_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooh, your Pokémon are so very\ncharming! How enchanting!\rIf you dress up your Pokémon here,\nmake it a sight to behold!\rThen I will even hang a picture of one\nin the other room!\rYou will do this, won’t you? {YESNO 0}</language>
+		<language name="English">Ton Pokémon est absôôôlument\ncharmant!\rEt encore, si tu l’habilles, il sera\nencore plus, super plus, méga plus\fcharmant!\rEt même, tu pourras exceptionnellement\naccrocher une photo là-bas!\rAlors? Ça vaut le coup, non? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you silly thing...\nWhere’s your sense of adventure?</language>
+		<language name="English">Mais voyons!\nQuel manque de classe...</language>
 	</row>
 	<row id="msg_0117_D37R0102_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooh, ooh, yes! How nice!\nLet’s not delay!\rShould I explain to you how\nto dress up your Pokémon? {YESNO 0}</language>
+		<language name="English">Bien! Parfait!\nAllons-y, tout de suite!\rAu fait... Tu es de ces gens\nqui veulent des explications? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooh, I wonder which Pokémon you’ll\ndress up?\r</language>
+		<language name="English">Vas-y, dis-moi quel Pokémon tu veux\nhabiller?\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Teeheehee...\nI hope you will dress it up adorably!\r</language>
+		<language name="English">Fort bien!\nMets-lui un joli costume!\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You have a Fashion Case, don’t you?\nAh, oui, wonderful!\rJust choose the Accessories and put\nthem on your Pokémon.\rWhen you’re done, I will snap a photo\nand put it up beside me!\rIf you mix your records with others,\nyou can get their photos, too!\rI think it will be much easier if \nyou will just try! {YESNO 0}</language>
+		<language name="English">Choisis un joli Accessoire dans ton\nCoffret Mode, et mets-le\fà ton Pokémon!\rQuand il sera prêt, on accrochera sa\nphoto dans la pièce du fond.\rSi tu échanges des données avec\ndes amis, tu obtiendras leurs photos!\rEssaie, tu verras, c’est facile! {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooh, nice work!\nLet’s display the photo right away!\fOh, but it needs to have a title!\r</language>
+		<language name="English">Bravo-ltorbe!\nAccrochons la photo au mur!\fN’oublie pas de lui donner un nom!\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 28, 0, 0}...\rOoh, yes, yes! I get it now!\nYour aesthetics shine through!\r</language>
+		<language name="English">{STRVAR_1 28, 0, 0}\n...\rMerveilleux! Parfait! Formidable!\nQuel sens esthétique irréprochable!\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, non, non, non!\nIt will be forlorn without a title.\r</language>
+		<language name="English">Oh, mais non enfin!\nSans titre, ça perd tout son charme...\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh... You came out without doing\nanything... How disappointing.</language>
+		<language name="English">Oh, quel drame... Tu ressors sans\navoir rien fait, que c’est déprimant.</language>
 	</row>
 	<row id="msg_0117_D37R0102_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">If you dress up any Pokémon again,\nthe photo here will be changed.\rWould you like to dress up\na Pokémon, dearie? {YESNO 0}</language>
+		<language name="English">Si tu fais une nouvelle séance\nd’habillage, on fera une photo pour\fremplacer l’ancienne!\rD’accord? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Why don’t I dress up myself and hang a\npicture...?\rThe title should be...\nHmm...how about “Girl’s Paradise”?</language>
+		<language name="English">Et si moi aussi, je me costumais\npour une photo...\rEt le titre, ça serait... par exemple...\n“Le Paradis d’une jeune fille en fleur”!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ooh, non, non, non! That’s an Egg!\nIt’s too young to be dressing up!\r</language>
+		<language name="English">Mais non, enfin, mon bouchon! C’est un\nOeuf! C’est encore un peu tôt pour ça!\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I put your photo up right here.\nIt just looks so perfect there!</language>
+		<language name="English">Et voilà, ta photo est accrochée\nà sa place!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00053" index="53">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It’s a frame for holding a\nportrait photo.</language>
+		<language name="English">C’est un cadre pour photo!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00054" index="54">
 		<attribute name="window_context_name">garbage</attribute>
 		<language name="English"></language>
-		<language name="日本語">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</language>
+		<language name="日本語"></language>
 	</row>
 	<row id="msg_0117_D37R0102_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket members in black suits\nhave been running around...\rI was wondering what was going on.\nSo, you took on Team Rocket?\fYou are impressive!\rYou may be able to face the\nlegendary Poké...\r</language>
+		<language name="English">Ces membres de la Team Rocket tout de\nnoir vêtus vont et viennent depuis\ftout à l’heure complètement affolés...\rJe me demandais justement ce qui leur\nprenait... Ça veut dire que tu les as...\fHa! Quelle force tu as!\rTu serais peut-être même capable de\nfaire venir le légendaire Po...\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hahaha! Never mind.\rI must go now.\r</language>
+		<language name="English">Ohohoho! Ce n’est rien!\rBien, je dois m’éclipser à présent.\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Take a look!\rThis is a drawing for Accessories.\nYou never know what you’re gonna get.\rWould you like to try for $100? {YESNO 0}</language>
+		<language name="English">Bienvenue!\rBienvenue à la loterie d’Accessoires!\nOn ne sait jamais ce qui va sortir!\r100 $ l’essai, tu veux tenter\nta chance? {YESNO 0}</language>
 	</row>
 	<row id="msg_0117_D37R0102_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wow, you are great!\nSo many Accessories and wallpapers!\rGo ahead and dress up your Pokémon!</language>
+		<language name="English">Wah! Extraordinaire!\nTous ces Accessoires! Tous ces Décors!\rTes Pokémon vont être absolument\nmerveilleux, avec tout ça!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Please come again!</language>
+		<language name="English">Reviens vite!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, no!\nYou’re short on funds.</language>
+		<language name="English">Pfft!\nTu n’as pas assez d’argent!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Here we go!\r..................\n..................\f......\fYou win!\r</language>
+		<language name="English">Accrochez-vous!\r... ...\n...\f...!\fGagné!\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">How about a wallpaper?\r</language>
+		<language name="English">Et un Décor, ça te dit?\r</language>
 	</row>
 	<row id="msg_0117_D37R0102_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Come again!</language>
+		<language name="English">A bientôt!</language>
 	</row>
 	<row id="msg_0117_D37R0102_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Oh, you didn’t win. Sorry.\r</language>
+		<language name="English">Dommage! C’est raté!\r</language>
 	</row>
 </body>

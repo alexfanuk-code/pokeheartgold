@@ -2,62 +2,62 @@
 <body language="English">
 	<row id="msg_0655_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Sabrina</language>
+		<language name="English">Morgane</language>
 	</row>
 	<row id="msg_0655_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Huh? I can’t hear you very well.\nI wonder if it’s our connection?\rTry calling again from somewhere else.</language>
+		<language name="English">On n’entend pas grand-chose...\rRappelle-moi depuis un autre endroit!</language>
 	</row>
 	<row id="msg_0655_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hello...\nAnything new going on with you?\fI’m the same as usual.\r</language>
+		<language name="English">Allô?\nAlors, quoi de neuf?\fPas grand-chose de mon côté...\r</language>
 	</row>
 	<row id="msg_0655_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are stronger Gym Leaders\nthan me, you know. That’s no good!</language>
+		<language name="English">Il te reste encore plein de Champions\nà battre!\fTu n’as pas le droit de perdre!</language>
 	</row>
 	<row id="msg_0655_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I think I’ve got some free time on\nSundays around noon.\rCould you call me back then?</language>
+		<language name="English">Je peux me libérer le dimanche\nen journée.\rTu pourrais essayer de me rappeler à\nce moment-là?</language>
 	</row>
 	<row id="msg_0655_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ah, wonderful!\nI’ve got some free time right now.\rWould you like to battle again? {YESNO 0}</language>
+		<language name="English">Ah! Tu tombes bien!\rTu veux me défier à nouveau? {YESNO 0}</language>
 	</row>
 	<row id="msg_0655_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I knew it. That’s just like you.\rSo, I’ll see you at the Fighting Dojo in\nSaffron City then!</language>
+		<language name="English">Je savais que tu dirais cela.\rRendez-vous est donc pris au Dojo\nde Safrania!</language>
 	</row>
 	<row id="msg_0655_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I see...\nYou have the right to refuse an offer.\fI shouldn’t have gotten my hopes up.\fBut I’m still a little disappointed...</language>
+		<language name="English">Hum...\nJe pensais bien que tu refuserais.\fMais c’est bien dommage quand même!</language>
 	</row>
 	<row id="msg_0655_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Do you really have some free time to\nbattle me?\rIf you’ve got plans with other people,\nyou should really do that first.</language>
+		<language name="English">Tu es libre pour me voir?\rPense d’abord aux autres promesses\nque tu as faites!</language>
 	</row>
 	<row id="msg_0655_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll be waiting in Saffron City’s\nFighting Dojo. Don’t forget!</language>
+		<language name="English">Rendez-vous est donc pris au Dojo\nde Safrania!\fJe te fais confiance!</language>
 	</row>
 	<row id="msg_0655_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Yeah, this is Sabrina.\nHow are you doing?\r</language>
+		<language name="English">C’est Morgane!\nTu vas bien?\r</language>
 	</row>
 	<row id="msg_0655_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">So, I’m pretty sure we made plans to\nmeet at the Fighting Dojo in\fSaffron City... Did you really forget?</language>
+		<language name="English">On a pris rendez-vous au Dojo\nde Safrania.\fTu n’as pas oublié, non?</language>
 	</row>
 	<row id="msg_0655_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’ll tell you a little about a Psychic’s\ntraining.\rPsychic ability is the power to influence\npeople.\rYou close your eyes and clear your mind\nof excessive thoughts...then you look\fhard at your sleeping self.\rThat’s it.\rTrue Psychics aren’t the kind who can\nmove things around with their minds.\rIt’s about controlling your own mind.</language>
+		<language name="English">Je vais t’apprendre quelques trucs sur\nl’entraînement des Kinésistes.\rIls contrôlent leur cœur. Et comment?\rIls ferment les yeux, font le vide dans\nleur tête... et parviennent à réveiller\fles pouvoirs qui sommeillent en eux.\rHé oui!\rUn vrai Kinésiste n’est pas celui qui\nfait voler les objets autour de lui,\fmais celui qui parvient à maîtriser\fparfaitement son cœur.</language>
 	</row>
 	<row id="msg_0655_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You... You’ll become even stronger\nthan you are now, I know it...\rYou will defeat every Trainer you face\nand eventually reach the\fglowing glory...\rI just wanted to tell you that.\nTalk to you later!</language>
+		<language name="English">Tu vas gagner en puissance.\nJe le sais, je le sens.\rJe peux voir que tu vaincras tous\nles autres Dresseurs et qu’un futur\fglorieux te tend les bras.\rJe ne dis pas ça pour te faire plaisir!</language>
 	</row>
 	<row id="msg_0655_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">You are a great Trainer, with a good\nbalance between intellect, power, and\fyour heart.\rBut above all, the power of your heart\nis what is special.\rWhat do you think of honestly trying to\nstudy how to be a Psychic once to see?\rI bet you could become a better Psychic\nthan me if you tried...</language>
+		<language name="English">Tes capacités intellectuelles,\nphysiques et émotionnelles sont en\fparfaite harmonie.\rTon cœur surtout...\nIl est très spécial...\rQue dirais-tu d’essayer de devenir\nKinésiste?\rQui sais, tu pourrais même me dépasser!</language>
 	</row>
 </body>

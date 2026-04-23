@@ -2,18 +2,18 @@
 <body language="English">
 	<row id="msg_0481_T05R0601_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Mr. Fuji: Welcome.\rHmm... You appear to be raising your\nPokémon in a kind and loving manner.\rThose who love Pokémon come here to\npay their respects to Pokémon.\rPlease pay homage to the spirits\nof Pokémon.\rI’m sure that will make them happy.</language>
+		<language name="English">M. Fuji: Bienvenue à toi.\rHmm... Tu as l’air d’être un Dresseur\nde Pokémon doux et attentionné.\rIci se rassemblent les gens qui aiment\nles Pokémon pour leur rendre hommage.\rTu voudrais bien te recueillir pour eux\nquelques instants?\fJe suis sûr qu’ils apprécieront.</language>
 	</row>
 	<row id="msg_0481_T05R0601_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There are other resting places of\nPokémon here, I think.\rThere are many chambers that only\nMr. Fuji may enter.</language>
+		<language name="English">Ce n’est pas le seul endroit où l’on\ntrouve des tombes de Pokémon.\rOn dit qu’il y en a aussi dans des pièces\noù seul M. Fuji a le droit d’entrer.</language>
 	</row>
 	<row id="msg_0481_T05R0601_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I came with my mom to visit\nPokémon resting places...</language>
+		<language name="English">Je suis venue avec ma maman pour me\nrecueillir sur les tombes de Pokémon...</language>
 	</row>
 	<row id="msg_0481_T05R0601_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The Pokémon that lived with me a\nlong time...\rI didn’t treat them as Pokémon!\fI loved them like my grandchildren...</language>
+		<language name="English">Certains de mes Pokémon ont vécu\ntellement longtemps avec moi que je\fne les considérais plus comme des\fPokémon, mais comme mes enfants...</language>
 	</row>
 </body>

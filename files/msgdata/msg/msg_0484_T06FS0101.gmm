@@ -2,10 +2,10 @@
 <body language="English">
 	<row id="msg_0484_T06FS0101_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Team Rocket is no longer in Kanto.\nThat alone makes me happy.</language>
+		<language name="English">Il n’y a plus de Team Rocket à Kanto.\nVoilà qui suffit à me mettre en joie!</language>
 	</row>
 	<row id="msg_0484_T06FS0101_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">I’m thinking about going shopping\nin Saffron.\rFollow the northern route, and you’ll\nbe there in no time.</language>
+		<language name="English">Je crois que je vais aller faire du\nshopping à Safrania.\rSafrania? Tu n’as qu’à prendre la route\nqui va vers le nord, c’est tout près!</language>
 	</row>
 </body>

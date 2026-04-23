@@ -2,54 +2,54 @@
 <body language="English">
 	<row id="msg_0094_D27R0107_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...This Pokémon always kept\nthe sea lit at night.\r...But it suddenly got sick...\nIt’s gasping for air...\r...I understand that there is a\nwonderful Pharmacy in Cianwood...\rBut that’s across the sea...\nAnd I can’t leave Amphy unattended...\r</language>
+		<language name="English">Jasmine: ... Ce Pokémon éclairait la mer\nen permanence...\r... Mais...\nIl est tombé malade tout d’un coup...\fIl a du mal à respirer...\rOn dit qu’il y a une bonne pharmacie\nde l’autre côté de la mer, à Irisia...\rMais je ne peux pas laisser Phary\ntout seul!\rEuh... Est-ce que je peux te demander\nd’aller y chercher un médicament\fà ma place? Je t’en prie!\rJe t’ouvre le passage ici...\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...May I ask you to get some medicine\nfor me? Please?\r</language>
+		<language name="English">Je... Je t’en prie!\nVa chercher le médicament\fà ma place! Par pitié!\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...Will that medicine cure\nAmphy? {YESNO 0}</language>
+		<language name="English">Jasmine: ... Ce médicament va-t-il\nvraiment soigner Phary? {YESNO 0}\n</language>
 	</row>
 	<row id="msg_0094_D27R0107_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} handed the SecretPotion\nto Jasmine.</language>
+		<language name="English">{STRVAR_1 3, 0, 0} donne la Potionsecret\nà Jasmine.</language>
 	</row>
 	<row id="msg_0094_D27R0107_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...Um, please don’t be\noffended...\rAmphy will not take anything from\nanyone but me...\r</language>
+		<language name="English">Jasmine: Euh... Ne le prends pas mal,\nmais Phary n’accepte que les choses\fqui viennent de moi, alors...\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...\rAmphy, how are you feeling?\r</language>
+		<language name="English">Jasmine: ...\rPhary, comment te sens-tu?\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Amphy: Palu!\nPalulu!\r</language>
+		<language name="English">Phary: Phapha!\nPhaaaaaa!\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...Oh, I’m so relieved...\nThis is just so wonderful...\rThank you so very, very much.\n...I will return to the Gym...\r</language>
+		<language name="English">Jasmine: Oh! Ça a marché!\nQuel soulagement!\rMerci infiniment!\nTu nous as sauvés!\r... Bon,\nje retourne à l’Arène.\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Jasmine: ...I see...\r</language>
+		<language name="English">Jasmine: ... Ah, bon...\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...Amphy, hang on!\r</language>
+		<language name="English">... Phary! Tiens bon!\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Amphy: ...\n...Pa...paloo...\r</language>
+		<language name="English">Phary: ...\n... Pha! Phaaa...\r</language>
 	</row>
 	<row id="msg_0094_D27R0107_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Its breathing is slight...</language>
+		<language name="English">Il respire avec difficulté...</language>
 	</row>
 	<row id="msg_0094_D27R0107_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Amphy: Palu!\nPalulu!</language>
+		<language name="English">Phary: Phapha! Phaaaaaa!</language>
 	</row>
 </body>

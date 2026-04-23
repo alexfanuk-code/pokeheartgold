@@ -2,215 +2,215 @@
 <body language="English">
 	<row id="msg_0275_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Went on a great adventure with\n{STRVAR_1 3, 2, 0}’s {STRVAR_1 1, 3, 0}!</language>
+		<language name="English">Une grande aventure avec\nle {STRVAR_1 1, 3, 0} de {STRVAR_1 3, 2, 0}!</language>
 	</row>
 	<row id="msg_0275_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} did a great job! It looks\nvery proud!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} déborde d’énergie!\nIl n’aurait pas grandi?</language>
 	</row>
 	<row id="msg_0275_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is very eager! It took\nthe lead!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} a de l’énergie à\nrevendre! Il marche devant!</language>
 	</row>
 	<row id="msg_0275_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is very eager! It’s\nrunning in circles...</language>
+		<language name="English">{STRVAR_1 1, 1, 0} a de l’énergie à\nrevendre! Il tournicote.</language>
 	</row>
 	<row id="msg_0275_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 3, 0} saved us from a tough\nsituation! It made us closer!</language>
+		<language name="English">Sauvé par {STRVAR_1 1, 3, 0}!\nDes liens solides ont été tissés.</language>
 	</row>
 	<row id="msg_0275_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Had a fun battle with {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language>
+		<language name="English">Combat avec le {STRVAR_1 1, 3, 0}\nde {STRVAR_1 3, 2, 0}.</language>
 	</row>
 	<row id="msg_0275_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} moves very quickly!\n{STRVAR_1 1, 3, 0} kept away!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est si vif! {STRVAR_1 1, 3, 0}\nne pouvait pas se rapprocher!</language>
 	</row>
 	<row id="msg_0275_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A big wrestling match!\n{STRVAR_1 1, 1, 0} barely won!</language>
+		<language name="English">Le combat du siècle!\n{STRVAR_1 1, 1, 0} a gagné de justesse!</language>
 	</row>
 	<row id="msg_0275_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">A big wrestling match!\nThat last move was crucial...!</language>
+		<language name="English">Le combat du siècle!\nQuelle regrettable erreur sur la fin!</language>
 	</row>
 	<row id="msg_0275_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is quite agile! Or so\nit seemed, but then it fell over!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} tente de lancer un coup\nde semonce... et se casse la figure!</language>
 	</row>
 	<row id="msg_0275_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ran around with {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language>
+		<language name="English">Course avec le {STRVAR_1 1, 3, 0}\nde {STRVAR_1 3, 2, 0}.</language>
 	</row>
 	<row id="msg_0275_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} was very fast! It shook\noff {STRVAR_1 1, 3, 0}!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est rapide!\nIl a semé {STRVAR_1 1, 3, 0}.</language>
 	</row>
 	<row id="msg_0275_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} just hit its second wind!\nIt’s showing off its reserve strength!</language>
+		<language name="English">Le rush final de {STRVAR_1 1, 1, 0}!\nIl a puisé dans ses dernières réserves!</language>
 	</row>
 	<row id="msg_0275_00013" index="13">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} was exhausted\nin the last half.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} était épuisé sur la fin.</language>
 	</row>
 	<row id="msg_0275_00014" index="14">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 3, 0} is too fast!\nNo one can catch it!</language>
+		<language name="English">{STRVAR_1 1, 3, 0} est impossible à\nrattraper!</language>
 	</row>
 	<row id="msg_0275_00015" index="15">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Took a Stroll with {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language>
+		<language name="English">Promenade avec le {STRVAR_1 1, 3, 0}\nde {STRVAR_1 3, 2, 0}.</language>
 	</row>
 	<row id="msg_0275_00016" index="16">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} pulled {STRVAR_1 1, 3, 0}\nalong.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} tire {STRVAR_1 1, 3, 0}.</language>
 	</row>
 	<row id="msg_0275_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} cheerily walked ahead!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} marche devant\navec entrain.</language>
 	</row>
 	<row id="msg_0275_00018" index="18">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Walked together as good friends.</language>
+		<language name="English">Quelle sympathique promenade!</language>
 	</row>
 	<row id="msg_0275_00019" index="19">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} tripped and fell down!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est tombé!</language>
 	</row>
 	<row id="msg_0275_00020" index="20">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Played some with {STRVAR_1 3, 2, 0}’s\n{STRVAR_1 1, 3, 0}.</language>
+		<language name="English">Jeu avec le {STRVAR_1 1, 3, 0}\nde {STRVAR_1 3, 2, 0}.</language>
 	</row>
 	<row id="msg_0275_00021" index="21">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is interfering with\n{STRVAR_1 1, 3, 0}.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} embêtait {STRVAR_1 1, 3, 0}.</language>
 	</row>
 	<row id="msg_0275_00022" index="22">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} smirked and taunted\n{STRVAR_1 1, 3, 0}!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} sourit tout en regardant\n{STRVAR_1 1, 3, 0}.</language>
 	</row>
 	<row id="msg_0275_00023" index="23">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems sleepy?</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est fatigué?</language>
 	</row>
 	<row id="msg_0275_00024" index="24">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} fell asleep...!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} dort!</language>
 	</row>
 	<row id="msg_0275_00025" index="25">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Met {STRVAR_1 3, 2, 0}’s {STRVAR_1 1, 3, 0}\nthat came here from far away.\nIt was a rare Pokémon...but I can’t\nremember what it was!</language>
+		<language name="English">Rencontre avec le {STRVAR_1 1, 3, 0}\nde {STRVAR_1 3, 2, 0}, qui venait de loin.\nC’était un Pokémon rare...\nMais un quoi déjà...?</language>
 	</row>
 	<row id="msg_0275_00026" index="26">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Used the Dowsing Machine\nand found the {STRVAR_1 8, 4, 0}!</language>
+		<language name="English">Utilisé le Radar à Objet et trouvé\nl’objet {STRVAR_1 8, 4, 0}!</language>
 	</row>
 	<row id="msg_0275_00027" index="27">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today, {STRVAR_1 1, 1, 0}’s perception is\nclear, and it’s very confident!</language>
+		<language name="English">Quel flair aujourd’hui!\n{STRVAR_1 1, 1, 0} est bien confiant.</language>
 	</row>
 	<row id="msg_0275_00028" index="28">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0}’s senses seem to\nbe honed!</language>
+		<language name="English">On dirait que {STRVAR_1 1, 1, 0} a les sens\nparticulièrement aiguisés!</language>
 	</row>
 	<row id="msg_0275_00029" index="29">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is in a great mood and\nseems like it’s about to start dancing!</language>
+		<language name="English">Quelle pêche ce {STRVAR_1 1, 1, 0}!\nOn dirait qu’il va danser!</language>
 	</row>
 	<row id="msg_0275_00030" index="30">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} looks very happy and\nwants to play with the {STRVAR_1 8, 4, 0}.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est ravi! On dirait qu’il\nva jouer avec l’objet {STRVAR_1 8, 4, 0}.</language>
 	</row>
 	<row id="msg_0275_00031" index="31">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is looking this way and\nfocusing on the {STRVAR_1 8, 4, 0}.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} regarde par ici.\nL’objet {STRVAR_1 8, 4, 0} l’intrigue...</language>
 	</row>
 	<row id="msg_0275_00032" index="32">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is feeling pretty proud.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} fait le fier!</language>
 	</row>
 	<row id="msg_0275_00033" index="33">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...What?\nThe {STRVAR_1 8, 4, 0} was dropped here!\n{STRVAR_1 1, 1, 0} is very excited to have\nfound such a rare item!</language>
+		<language name="English">... Mais...?!\nL’objet {STRVAR_1 8, 4, 0} est tombé!\n{STRVAR_1 1, 1, 0} est tout excité d’avoir\ntrouvé un objet rare!</language>
 	</row>
 	<row id="msg_0275_00034" index="34">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">...What?\nThe {STRVAR_1 8, 4, 0} was dropped here!\nSuch a strange coincidence!</language>
+		<language name="English">... Mais...?!\nL’objet {STRVAR_1 8, 4, 0} est tombé!\nComme c’est étrange!</language>
 	</row>
 	<row id="msg_0275_00035" index="35">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Found {STRVAR_1 0, 5, 0} with the\nPoké Radar! It was caught with skill!</language>
+		<language name="English">Un {STRVAR_1 0, 5, 0} repéré sur le Poké\nRadar! Quelle belle prise!</language>
 	</row>
 	<row id="msg_0275_00036" index="36">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today seems like a great day!\n{STRVAR_1 1, 1, 0} is full of confidence!</language>
+		<language name="English">Quelle forme aujourd’hui!\n{STRVAR_1 1, 1, 0} est bien confiant!</language>
 	</row>
 	<row id="msg_0275_00037" index="37">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is full of vigor!\nIt walked so much, and it’s not tired!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} a la forme! Il a beaucoup\nmarché, mais n’est pas fatigué!</language>
 	</row>
 	<row id="msg_0275_00038" index="38">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">The clever way that {STRVAR_1 1, 1, 0} moves\nis very graceful!</language>
+		<language name="English">Quel élégant et gracieux mouvement\n{STRVAR_1 1, 1, 0} a fait!</language>
 	</row>
 	<row id="msg_0275_00039" index="39">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} has such beautiful steps!\nIs it predicting its opponent’s moves?</language>
+		<language name="English">{STRVAR_1 1, 1, 0} fait un bond gracieux.\nIl cherche à deviner l’ennemi?</language>
 	</row>
 	<row id="msg_0275_00040" index="40">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There’s not the slightest hint of\nhesitation in {STRVAR_1 1, 1, 0}’s moves!</language>
+		<language name="English">Il n’y a aucune hésitation dans les\nmouvements de {STRVAR_1 1, 1, 0}!</language>
 	</row>
 	<row id="msg_0275_00041" index="41">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is composed and\ncontinues to try its hardest!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} a encore de la ressource.\nIl peut continuer!</language>
 	</row>
 	<row id="msg_0275_00042" index="42">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Met {STRVAR_1 0, 5, 0}!\n{STRVAR_1 1, 1, 0} is so startled, all it can\ndo is stare blankly at {STRVAR_1 0, 5, 0}.</language>
+		<language name="English">Vous rencontrez un {STRVAR_1 0, 5, 0}!\n{STRVAR_1 1, 1, 0} est surpris et\nfixe le {STRVAR_1 0, 5, 0}.</language>
 	</row>
 	<row id="msg_0275_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Met {STRVAR_1 0, 5, 0}!\n{STRVAR_1 0, 5, 0} is staring blankly at\n{STRVAR_1 3, 0, 0}.</language>
+		<language name="English">Vous rencontrez un {STRVAR_1 0, 5, 0}!\n{STRVAR_1 0, 5, 0} fixe {STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0275_00044" index="44">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Found {STRVAR_1 0, 5, 0} with the\nPoké Radar! Unfortunately, it ran away.</language>
+		<language name="English">Un {STRVAR_1 0, 5, 0} trouvé sur le Poké\nRadar! Mais il s’est enfui...</language>
 	</row>
 	<row id="msg_0275_00045" index="45">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Found {STRVAR_1 0, 5, 0} with the\nPoké Radar! What a tough opponent!\nUnfortunately, {STRVAR_1 1, 1, 0} lost...</language>
+		<language name="English">Un {STRVAR_1 0, 5, 0} trouvé sur le Poké\nRadar! Mais il était trop fort...\n{STRVAR_1 1, 1, 0} a perdu...</language>
 	</row>
 	<row id="msg_0275_00046" index="46">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} found the\n{STRVAR_1 8, 4, 0}!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} a trouvé l’objet\n{STRVAR_1 8, 4, 0}!</language>
 	</row>
 	<row id="msg_0275_00047" index="47">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Seems to have wanted to give\n{STRVAR_1 3, 0, 0} a present...</language>
+		<language name="English">C’était un cadeau pour {STRVAR_1 3, 0, 0}\non dirait...</language>
 	</row>
 	<row id="msg_0275_00048" index="48">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems to want\n{STRVAR_1 3, 0, 0} to use the item.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} veut que {STRVAR_1 3, 0, 0}\nl’utilise...</language>
 	</row>
 	<row id="msg_0275_00049" index="49">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} proudly handed over\nthe item.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} a donné l’objet\navec fierté!</language>
 	</row>
 	<row id="msg_0275_00050" index="50">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">It threw it at you briskly!\n...Is it giving it to you?</language>
+		<language name="English">Quelqu’un l’a jeté violemment.\nOn peut le ramasser?</language>
 	</row>
 	<row id="msg_0275_00051" index="51">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems so very happy!\nIt’s even skipping along!\nIt seems so happy to be with\n{STRVAR_1 3, 0, 0}!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est ravi.\nIl n’arrête pas de batifoler.\nIl a l’air heureux d’être avec\n{STRVAR_1 3, 0, 0}.</language>
 	</row>
 	<row id="msg_0275_00052" index="52">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems so very happy!\nIt’s even skipping along!\nIt’s doing everything it can to get\n{STRVAR_1 3, 0, 0}’s attention!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est ravi.\nIl n’arrête pas de batifoler.\nIl cherche à attirer l’attention de\n{STRVAR_1 3, 0, 0}!</language>
 	</row>
 	<row id="msg_0275_00053" index="53">
 		<attribute name="window_context_name">garbage</attribute>
@@ -219,151 +219,151 @@
 	</row>
 	<row id="msg_0275_00054" index="54">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is very happy!\nIt’s running circles around and around\nand around {STRVAR_1 3, 0, 0}!\nWon’t it get tired?</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est content.\nIl court autour de {STRVAR_1 3, 0, 0} sans\ns’arrêter!\nIl ne se fatigue donc jamais?</language>
 	</row>
 	<row id="msg_0275_00055" index="55">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is so very happy!\nIt ran way ahead of {STRVAR_1 3, 0, 0} and\nsuddenly noticed the distance and\nthen came running back confused!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est content.\nIl court tout droit sans s’arrêter!\nMais quand il s’aperçoit qu’il est loin\ndevant {STRVAR_1 3, 0, 0}, il revient vite!</language>
 	</row>
 	<row id="msg_0275_00056" index="56">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is very happy!\nIt’s running around in circles in a\ndaze! It doesn’t seem to hear you...</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est content et court\nen rond, emporté par le jeu.\nIl n’a pas l’air d’entendre, même quand\non lui parle...</language>
 	</row>
 	<row id="msg_0275_00057" index="57">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is walking silently next\nto {STRVAR_1 3, 0, 0}. What could it possibly\nbe thinking about?</language>
+		<language name="English">{STRVAR_1 1, 1, 0} jette un regard...\nQu’est-ce qu’il peut bien penser en\nmarchant silencieusement aux côtés\nde {STRVAR_1 3, 0, 0}?</language>
 	</row>
 	<row id="msg_0275_00058" index="58">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} looked this way.\nIt’s looking all around as it’s walking.\nDid it find something?</language>
+		<language name="English">{STRVAR_1 1, 1, 0} jette un regard...\nIl regarde partout, il a peut-être\ntrouvé quelque chose...</language>
 	</row>
 	<row id="msg_0275_00059" index="59">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} looked this way.\nWell, so it seemed, but its eyes\nturned in another direction...!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} jette un regard...\nMais en fait, non.</language>
 	</row>
 	<row id="msg_0275_00060" index="60">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems a little bored.\nIt seems to be expecting something.\nIt’s facing this way and staring...</language>
+		<language name="English">{STRVAR_1 1, 1, 0} se tient tranquille...\nIl n’arrête pas de vous regarder,\ncomme s’il attendait quelque chose...</language>
 	</row>
 	<row id="msg_0275_00061" index="61">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems a little bored.\nIt’s looking at you and staring.\nThere’s a sense of eagerness to play.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} se tient tranquille...\nIl n’arrête pas de vous regarder,\ncomme s’il voulait que vous vous\noccupiez de lui...</language>
 	</row>
 	<row id="msg_0275_00062" index="62">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems a little bored...\nMaybe it’s angry...?</language>
+		<language name="English">{STRVAR_1 1, 1, 0} ne fait rien...\nSe fâcher?</language>
 	</row>
 	<row id="msg_0275_00063" index="63">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems to want to go\nhome... Maybe it’s played so much it\nwants to go home and rest...</language>
+		<language name="English">{STRVAR_1 1, 1, 0} veut rentrer.\nIl veut peut-être se reposer après\navoir autant joué.</language>
 	</row>
 	<row id="msg_0275_00064" index="64">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems to want to go\nhome... Maybe it’s played so much it\nwants to go home and rest...</language>
+		<language name="English">{STRVAR_1 1, 1, 0} veut rentrer.\nIl veut peut-être se reposer après\navoir autant joué.</language>
 	</row>
 	<row id="msg_0275_00065" index="65">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems to want to go\nhome... Maybe it’s played so much it\nwants to go home and rest...</language>
+		<language name="English">{STRVAR_1 1, 1, 0} veut rentrer.\nIl veut peut-être se reposer après\navoir autant joué.</language>
 	</row>
 	<row id="msg_0275_00066" index="66">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Before you knew it, {STRVAR_1 1, 1, 0}\njoined you! It seems to want to walk\nwith you.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est apparu sans prévenir!\nIl veut marcher avec vous on dirait...</language>
 	</row>
 	<row id="msg_0275_00067" index="67">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} went home already.\nIt’s too tired...</language>
+		<language name="English">{STRVAR_1 1, 1, 0} était fatigué et\nest rentré.</language>
 	</row>
 	<row id="msg_0275_00068" index="68">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 51, 9, 0}/{STRVAR_1 51, 10, 0}</language>
+		<language name="English">{STRVAR_1 51, 10, 0}/{STRVAR_1 51, 9, 0}</language>
 	</row>
 	<row id="msg_0275_00069" index="69">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} set out on a Stroll\nthrough {STRVAR_34 19, 8, 0}.</language>
+		<language name="English">Promenade avec {STRVAR_1 1, 1, 0} sur\nla Route {STRVAR_34 19, 8, 0}.</language>
 	</row>
 	<row id="msg_0275_00070" index="70">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Set out on {STRVAR_34 19, 8, 0}!</language>
+		<language name="English">Promenade sur\nla Route {STRVAR_34 19, 8, 0}.</language>
 	</row>
 	<row id="msg_0275_00071" index="71">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Returned at {STRVAR_1 33, 6, 0} AM.</language>
+		<language name="English">Retour à {STRVAR_1 33, 6, 0} h</language>
 	</row>
 	<row id="msg_0275_00072" index="72">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems so very content!\nThis is a day it will never ever forget!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est enchanté!\nQuelle journée inoubliable!</language>
 	</row>
 	<row id="msg_0275_00073" index="73">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} played a lot and is feeling\nvery content!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est enchanté d’avoir\nautant joué!</language>
 	</row>
 	<row id="msg_0275_00074" index="74">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems very happy!\nIt’s written all over its face!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} a l’air si heureux!\nOn le lit sur son visage!</language>
 	</row>
 	<row id="msg_0275_00075" index="75">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seemed to really enjoy\nplaying along with you!</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est ravi d’avoir pu jouer\navec vous!</language>
 	</row>
 	<row id="msg_0275_00076" index="76">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems very happy.\nIt’s grown to enjoy these Strolls.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} est ravi!\nLa balade lui a plu visiblement.</language>
 	</row>
 	<row id="msg_0275_00077" index="77">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is pulling at your clothes.\nIt seems to want to play more.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} vous tire la manche.\nIl veut encore jouer?</language>
 	</row>
 	<row id="msg_0275_00078" index="78">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is sulking for\nsome reason...</language>
+		<language name="English">{STRVAR_1 1, 1, 0} n’a pas l’air content...</language>
 	</row>
 	<row id="msg_0275_00079" index="79">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Walked {STRVAR_1 54, 7, 0} steps!\n{STRVAR_1 1, 1, 0} is very happy to have\nwalked so much with {STRVAR_1 3, 0, 0}!\nIt’s got a pleased look on its face.</language>
+		<language name="English">Ça fait {STRVAR_1 54, 7, 0} pas!\n{STRVAR_1 1, 1, 0} est super content\nd’avoir tellement marché avec\n{STRVAR_1 3, 0, 0}. On le lit sur son visage!</language>
 	</row>
 	<row id="msg_0275_00080" index="80">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Walked {STRVAR_1 54, 7, 0} steps!\n{STRVAR_1 1, 1, 0} is so very happy, it’s\nfrolicking around! It seems like it will\njump on your back.</language>
+		<language name="English">Ça fait {STRVAR_1 54, 7, 0} pas!\n{STRVAR_1 1, 1, 0} en est tout frétillant!\nOn dirait qu’il va vous sauter dessus!</language>
 	</row>
 	<row id="msg_0275_00081" index="81">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Walked {STRVAR_1 54, 7, 0} steps.\n{STRVAR_1 1, 1, 0} looks lively and\nenergetic! It’s sticking right nearby.</language>
+		<language name="English">Ça fait {STRVAR_1 54, 7, 0} pas!\n{STRVAR_1 1, 1, 0} est plein d’énergie!\nIl suit avec entrain!</language>
 	</row>
 	<row id="msg_0275_00082" index="82">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Walked {STRVAR_1 54, 7, 0} steps.\n{STRVAR_1 1, 1, 0} is leisurely strolling\nalong behind you.</language>
+		<language name="English">Ça fait {STRVAR_1 54, 7, 0} pas!\n{STRVAR_1 1, 1, 0} suit tranquillement\nderrière...</language>
 	</row>
 	<row id="msg_0275_00083" index="83">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} fell soundly asleep.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} dort à poings fermés.</language>
 	</row>
 	<row id="msg_0275_00084" index="84">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} seems to be enjoying an\nafternoon nap.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} fait une petite sieste.</language>
 	</row>
 	<row id="msg_0275_00085" index="85">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 1, 1, 0} is taking a bit of a nap.\nIt must be a little tired.</language>
+		<language name="English">{STRVAR_1 1, 1, 0} prend une petite pause...\nIl traîne un peu on dirait.</language>
 	</row>
 	<row id="msg_0275_00086" index="86">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 51, 9, 0}/{STRVAR_1 51, 10, 0}</language>
+		<language name="English">{STRVAR_1 51, 10, 0}/{STRVAR_1 51, 9, 0}</language>
 	</row>
 	<row id="msg_0275_00087" index="87">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 33, 6, 0} AM</language>
+		<language name="English">{STRVAR_1 33, 6, 0} h</language>
 	</row>
 	<row id="msg_0275_00088" index="88">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 33, 6, 0} PM</language>
+		<language name="English">{STRVAR_1 33, 6, 0} h</language>
 	</row>
 	<row id="msg_0275_00089" index="89">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Quit</language>
+		<language name="English">QUIT.</language>
 	</row>
 	<row id="msg_0275_00090" index="90">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Returned at {STRVAR_1 33, 6, 0} PM.</language>
+		<language name="English">Retour à {STRVAR_1 33, 6, 0} h</language>
 	</row>
 	<row id="msg_0275_00091" index="91">
 		<attribute name="window_context_name">used</attribute>

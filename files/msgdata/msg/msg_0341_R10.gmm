@@ -2,42 +2,42 @@
 <body language="English">
 	<row id="msg_0341_R10_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh, yay!\nYou have the Pokémon I love best:\fPIKACHU!\rExcellent!\nI’ll give you my telephone number! {YESNO 0}</language>
+		<language name="English">Major Bob: Oh yeah!\nTu as my préféred Pokémon, un PIKACHU!\rExcellent!\rJe vais te donner mon\ntelephone number!\fTu le veux, hein? {YESNO 0}</language>
 	</row>
 	<row id="msg_0341_R10_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">{STRVAR_1 3, 0, 0} registered Lt. Surge\nin the Pokégear!</language>
+		<language name="English">{STRVAR_1 3, 0, 0} a enregistré\nle Major Bob dans son Pokématos!</language>
 	</row>
 	<row id="msg_0341_R10_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Give me a call on Friday\nmorning!\rWe can have an electrifying battle!</language>
+		<language name="English">Major Bob: Call-moi le vendredi\nmatin!\rOn fera des batailles electric!</language>
 	</row>
 	<row id="msg_0341_R10_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh no!\nHow disappointing!</language>
+		<language name="English">Major Bob: Oh noes!\nJe suis very désappointé!</language>
 	</row>
 	<row id="msg_0341_R10_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Aha!\nNow you want to know my telephone\fnumber, don’t you? {YESNO 0}</language>
+		<language name="English">Major Bob: Je knew it!\nTu le veux, mon telephone number! {YESNO 0}</language>
 	</row>
 	<row id="msg_0341_R10_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Lt. Surge: Oh! What are the chances\nof seeing you at a place like this?\rI can feel electric power around\nthe Power Plant.\rYou may want to catch a PIKACHU in\nthe Viridian Forest and bring it here!</language>
+		<language name="English">Major Bob: Oh! Je ne pensais pas te\rmeet again dans un endroit pareil!\nJ’aime toute cette énergie electric!\rSi tu captures un PIKACHU dans la\nForêt de Jade, ramène-le here!</language>
 	</row>
 	<row id="msg_0341_R10_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">There is a large Pokémon staring\nat you...!\r</language>
+		<language name="English">Un grand Pokémon vous fixe!\r</language>
 	</row>
 	<row id="msg_0341_R10_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">ZAPDOS: Rorrrrrkoom!\r</language>
+		<language name="English">ELECTHOR: Thooooooor!\r</language>
 	</row>
 	<row id="msg_0341_R10_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Kanto Power Plant</language>
+		<language name="English">Centrale de Kanto</language>
 	</row>
 	<row id="msg_0341_R10_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Rock Tunnel</language>
+		<language name="English">Azuria - Grotte</language>
 	</row>
 </body>

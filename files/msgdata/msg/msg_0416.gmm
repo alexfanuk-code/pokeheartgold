@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0416_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Pokémon Music</language>
+		<language name="English">Musique Pokémon</language>
 	</row>
 	<row id="msg_0416_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
@@ -10,46 +10,46 @@
 	</row>
 	<row id="msg_0416_00002" index="2">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ben: This is your DJ Ben, bringing you the\nPokémon Music Channel!</language>
+		<language name="English">DJ Ben: C’est moi, DJ Ben, pour\nMusique Pokémon!</language>
 	</row>
 	<row id="msg_0416_00003" index="3">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today’s a happy Sunday! This is a great\nalbum with some famous songs that always\ntakes me back to wonderful memories of\nmy best friend!</language>
+		<language name="English">C’est un super dimanche aujourd’hui!\nPour tous les potes, voici un album\nd’enfer plein de souvenirs!</language>
 	</row>
 	<row id="msg_0416_00004" index="4">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today’s Monday, and you know what that\nmeans, right? It means it’s time to\nwake your Pokémon up with a march!</language>
+		<language name="English">Pour un lundi en pleine forme, voici la\nFanfare Pokémon!</language>
 	</row>
 	<row id="msg_0416_00005" index="5">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today’s Tuesday! Time to put your\nPokémon to sleep with a soothing Pokémon\nlullaby!</language>
+		<language name="English">Aujourd’hui, mardi!\nUne Berceuse Pokémon pour nos p’tits\nPokémon chéris endormis.</language>
 	</row>
 	<row id="msg_0416_00006" index="6">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today’s Wednesday, and you know what\nthat means, right? It means it’s time to\nwake your Pokémon up with a march!</language>
+		<language name="English">Pour un mercredi en pleine forme, voici la\nFanfare Pokémon!</language>
 	</row>
 	<row id="msg_0416_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today’s Thursday! Time to put your\nPokémon to sleep with a soothing Pokémon\nlullaby!</language>
+		<language name="English">Aujourd’hui, jeudi!\nUne Berceuse Pokémon pour nos p’tits\nPokémon chéris endormis.</language>
 	</row>
 	<row id="msg_0416_00008" index="8">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today’s Friday, and you know what that\nmeans, right? It means it’s time to\nwake your Pokémon up with a march!</language>
+		<language name="English">Pour un vendredi en pleine forme, voici la\nFanfare Pokémon!</language>
 	</row>
 	<row id="msg_0416_00009" index="9">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today’s Saturday! Time to put your\nPokémon to sleep with a soothing Pokémon\nlullaby!</language>
+		<language name="English">Aujourd’hui, samedi!\nUne Berceuse Pokémon pour nos p’tits\nPokémon chéris endormis.</language>
 	</row>
 	<row id="msg_0416_00010" index="10">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Wednesday’s Pokémon Music is the Hoenn\nSound that carries a hint of Hoenn Region\ntaste! The Hoenn music might just lure a\nbunch of Pokémon to follow you!</language>
+		<language name="English">Ce mercredi, Musique Pokémon\nvous fait goûter au son de Hoenn!\nQui sait, les Pokémon de Hoenn vont\npeut-être répondre à l’appel!</language>
 	</row>
 	<row id="msg_0416_00011" index="11">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Thursday’s Pokémon Music is the Sinnoh\nSound that carries a hint of Sinnoh\nRegion atmosphere! The Sinnoh music, the\nsound of the great land to the north,\nmight just lure a bunch of Pokémon to\nfollow you!</language>
+		<language name="English">Ce jeudi, Musique Pokémon\nvous fait goûter au son de Sinnoh!\nQui sait, les Pokémon de Sinnoh vont\npeut-être répondre à l’appel!</language>
 	</row>
 	<row id="msg_0416_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Today’s Sunday, and you know what that\nmeans, right? It means it’s time to\nwake your Pokémon up with a march!</language>
+		<language name="English">Pour un dimanche en pleine forme, voici la\nFanfare Pokémon!</language>
 	</row>
 </body>
