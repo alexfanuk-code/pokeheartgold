@@ -50,7 +50,7 @@
 	</row>
 	<row id="msg_0601_T25R1202_00012" index="12">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Ici, vous pouvez diffuser les Clichés\nhabillage de vos Pokémon.\rRendez-vous au Doublon-Tunnel pour\nréaliser et sauvegarder\fdes Clichés habillage.\rVous pouvez aussi voir ceux diffusés\npar d’autres Dresseurs.\rPour faciliter la recherche, les clichés\nsont classés par type de Pokémon.\r</language>
+		<language name="English">Ici, vous pouvez diffuser les Clichés\nhabillage de vos Pokémon.\rRendez-vous au Doublon-Tunnel pour\nréaliser et sauvegarder\fdes Clichés habillage.\rVous pouvez aussi voir ceux diffusés\npar d’autres Dresseurs.\rPour faciliter la recherche, les clichés\nsont classés par type de Pokémon. \r</language>
 	</row>
 	<row id="msg_0601_T25R1202_00013" index="13">
 		<attribute name="window_context_name">used</attribute>

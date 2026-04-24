@@ -182,7 +182,7 @@
 	</row>
 	<row id="msg_0040_00043" index="43">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Maman: Eh bien, toi et ton\nPokémon avez l’air d’aller mieux.\rFais attention, ton Pokémon sera\nK.O. s’il perd tous ses PV.\rSi ton Pokémon perd des PV,\nreviens à la maison avant qu’il soit K.O.\rIl retrouvera tous ses PV\naprès un peu de repos.\rMaman est fière de toi, mon poussin.\nFais attention à toi!</language>
+		<language name="English">Maman: Eh bien, toi et ton\nPokémon avez l’air d’aller mieux.\rFais attention, ton Pokémon sera\nK.O. s’il perd tous ses PV.\rSi ton Pokémon perd des PV,\nreviens à la maison avant qu’il soit K.O.\rIl retrouvera tous ses PV\naprès un peu de repos.\rMaman est fière de toi, mon poussin. \nFais attention à toi!</language>
 	</row>
 	<row id="msg_0040_00044" index="44">
 		<attribute name="window_context_name">used</attribute>

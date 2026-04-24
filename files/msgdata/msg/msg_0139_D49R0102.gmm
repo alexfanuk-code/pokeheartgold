@@ -30,7 +30,7 @@
 	</row>
 	<row id="msg_0139_D49R0102_00007" index="7">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Alors je vais t’expliquer de quoi\nretourne Capture Drapeau!\rÇa consiste à courir sur la plage en\nrécoltant autant de drapeaux que\fpossible, en les volant si besoin est!\rMais il ne suffit pas de les prendre!\rCe n’est qu’en les ramenant à la ligne\nde départ que tu gagnes des points!\rLes Pokémon rapides et habiles comme\nmoi sont avantagés dans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
+		<language name="English">Alors je vais t’expliquer de quoi\nretourne Capture Drapeau!\rÇa consiste à courir sur la plage en\nrécoltant autant de drapeaux que\fpossible, en les volant si besoin est!\rMais il ne suffit pas de les prendre!\rCe n’est qu’en les ramenant à la ligne\nde départ que tu gagnes des points! \rLes Pokémon rapides et habiles comme\nmoi sont avantagés dans cette épreuve!\rC’est clair, maintenant?\nPassons à autre chose...\r</language>
 	</row>
 	<row id="msg_0139_D49R0102_00008" index="8">
 		<attribute name="window_context_name">used</attribute>

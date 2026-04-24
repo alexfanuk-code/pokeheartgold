@@ -71,7 +71,7 @@
 	</row>
 	<row id="msg_0451_T01R0301_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Chen: Si nous avions l’Orbe Bleu, nous\npourrions faire apparaître KYOGRE\fdans la Tour Enfouie...\rMais M. Pokémon nous a dit que seul un\nDresseur dont le cœur rayonne comme\fl’or pourra rencontrer KYOGRE...\rHmmm... {STRVAR_1 3, 0, 0}... Cela paraît peu\nprobable que tu y arrives seul...\rMais si tu parviens à attraper KYOGRE\nen plus de l’autre, reviens me voir!\rJe te raconterai alors d’autres\nmythes de Hoenn!\r</language>
+		<language name="English">Chen: Si nous avions l’Orbe Bleu, nous\npourrions faire apparaître KYOGRE\fdans la Tour Enfouie...\rMais M. Pokémon nous a dit que seul un\nDresseur dont le cœur rayonne comme\fl’or pourra rencontrer KYOGRE...\rHmmm... {STRVAR_1 3, 0, 0}... Cela paraît peu\nprobable que tu y arrives seul... \rMais si tu parviens à attraper KYOGRE\nen plus de l’autre, reviens me voir!\rJe te raconterai alors d’autres\nmythes de Hoenn!\r</language>
 	</row>
 	<row id="msg_0451_T01R0301_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

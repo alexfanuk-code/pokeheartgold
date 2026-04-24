@@ -2,7 +2,7 @@
 <body language="English">
 	<row id="msg_0407_R47_00000" index="0">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Hé, salut toi!\rOn raconte que de l’autre côté de\ncette grotte s’élevait une tour géante\fqui allait jusqu’au ciel!\rIl paraît qu’elle avait une structure\nun peu bizarre...\rPour moitié, elle avait été bâtie\nsur cette falaise, mais...\rEn plus de s’élancer vers le ciel, elle\ns’enfonçait aussi loin dans le sol!\rEt même, jusqu’à l’océan!\rCes ruines reliaient donc le ciel,\nla terre et la mer!\rIl n’en reste plus grand-chose de nos\njours, à part l’entrée et un hall\fcouvert de signes étranges...</language>
+		<language name="English">Hé, salut toi!\rOn raconte que de l’autre côté de\ncette grotte s’élevait une tour géante\fqui allait jusqu’au ciel!\rIl paraît qu’elle avait une structure\nun peu bizarre...\rPour moitié, elle avait été bâtie\nsur cette falaise, mais...\rEn plus de s’élancer vers le ciel, elle \ns’enfonçait aussi loin dans le sol!\rEt même, jusqu’à l’océan!\rCes ruines reliaient donc le ciel,\nla terre et la mer!\rIl n’en reste plus grand-chose de nos\njours, à part l’entrée et un hall\fcouvert de signes étranges...</language>
 	</row>
 	<row id="msg_0407_R47_00001" index="1">
 		<attribute name="window_context_name">used</attribute>

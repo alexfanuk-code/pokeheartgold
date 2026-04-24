@@ -70,7 +70,7 @@
 	</row>
 	<row id="msg_0137_D49_00017" index="17">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">Dis, tu connais les Noigrume Drinks?\nOn dit que les performances des\fPokémon changent selon\fleur alimentation...\rLes Noigrume Drinks sont élaborés pour\nfournir tous les nutriments nécessaires\fà des performances optimales!\rFais-en boire à tes Pokémon avant un\nPokéathlon, ils battront\ftous les records!</language>
+		<language name="English">Dis, tu connais les Noigrume Drinks?\nOn dit que les performances des\fPokémon changent selon\fleur alimentation...\rLes Noigrume Drinks sont élaborés pour\nfournir tous les nutriments nécessaires\fà des performances optimales!\rFais-en boire à tes Pokémon avant un\nPokéathlon, ils battront \ftous les records!</language>
 	</row>
 	<row id="msg_0137_D49_00018" index="18">
 		<attribute name="window_context_name">used</attribute>

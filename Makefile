@@ -101,7 +101,7 @@ sdk9: $(ALL_LIB_OBJS)
 $(WORK_DIR)/include/global.h: $(FX_CONST_H) ;
 
 # Convenience targets
-heartgold:          ; @$(MAKE) GAME_VERSION=HEARTGOLD
+heartgold:          ; @$(MAKE) GAME_VERSION=HEARTGOLD COMPARE=0
 soulsilver:         ; @$(MAKE) GAME_VERSION=SOULSILVER
 compare_heartgold:  ; @$(MAKE) GAME_VERSION=HEARTGOLD  COMPARE=1
 compare_soulsilver: ; @$(MAKE) GAME_VERSION=SOULSILVER COMPARE=1

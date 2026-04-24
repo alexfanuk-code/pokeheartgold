@@ -6,6 +6,6 @@
 	</row>
 	<row id="msg_0061_D18R0102_00001" index="1">
 		<attribute name="window_context_name">used</attribute>
-		<language name="English">En tous cas, il faut reconnaître que\nSUICUNE semblait visiblement intrigué\fpar toi...\rLes Pokémon légendaires de Rosalia\nne s’approchent que des humains\fdont ils ont décelé la force...\rLa prochaine fois, moi aussi je\nm’approcherai de SUICUNE directement!\rAllez, {STRVAR_1 3, 0, 0}!\nA la prochaine!\r</language>
+		<language name="English">En tous cas, il faut reconnaître que\nSUICUNE semblait visiblement intrigué\fpar toi...\rLes Pokémon légendaires de Rosalia\nne s’approchent que des humains\fdont ils ont décelé la force...\rLa prochaine fois, moi aussi je\nm’approcherai de SUICUNE directement!\rAllez, {STRVAR_1 3, 0, 0}! \nA la prochaine!\r</language>
 	</row>
 </body>
