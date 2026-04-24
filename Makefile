@@ -12,6 +12,11 @@ ALL_BUILDDIRS  := $(BUILD_DIR)/lib
 include common.mk
 include filesystem.mk
 
+# Override patch_mwasmarm: the MSYS2 path with double-slash (/project//tools/) causes fopen
+# failure in the Windows-native patcher exe. Use cygpath to convert to a proper Windows path.
+patch_mwasmarm:
+	$(ASPATCH) -q $(shell cygpath -w $(MWAS) | sed 's/\\/\//g')
+
 $(ASM_OBJS): MWASFLAGS += -DPM_ASM
 
 $(BUILD_DIR)/asm/nitrocrypto.o:  MWCCVER := 1.2/sp2p3
