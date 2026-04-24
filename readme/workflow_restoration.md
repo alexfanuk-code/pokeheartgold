@@ -18,7 +18,7 @@
 LIRE l'ancien repo (intent)
 → VÉRIFIER dans le repo sain (réalité)
 → IMPLÉMENTER
-→ MAKE
+→ MAKE heartgold nproc
 → TEST sur partie neuve
 → COMMIT atomique
 ```
