@@ -81,8 +81,9 @@ cmake-build-*
 # MacOS garbage
 .DS_Store
 
-# Depfiles
+# Depfiles (compiler dependency files only - not NARC unpacked dirs in files/a/)
 *.d
+!files/a/**/*.d/
 
 diff.txt
 
