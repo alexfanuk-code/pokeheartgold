@@ -381,7 +381,19 @@
 #define VAR_UNK_416E                       0x416E
 #define VAR_UNK_416F                       0x416F
 
-#define NUM_VARS (0x170)
+// ── EverElectrum vars (0x4170–0x4178) ───────────────────────────────────
+#define VAR_STARTER_JOHTO                  0x4170 // Espèce du 1er starter Johto choisi
+#define VAR_STARTER_KANTO_COUNT            0x4171 // Nb de starters Kanto obtenus (0-3)
+#define VAR_PIERRE_ETAT                    0x4172 // État PNJ Pierre Rochard (starters Hoenn)
+#define VAR_CYNTHIA_DON                    0x4173 // État dons Cynthia (starters Sinnoh)
+#define VAR_CYNTHIA_GARDIENS               0x4174 // Progression chaîne Gardiens Sinnoh
+#define VAR_EE_TEMP_SPECIES                0x4175 // Espèce légendaire courante (temp)
+#define VAR_EE_TEMP_STARTER                0x4176 // Choix starter (temp)
+#define VAR_EE_REGIGIGAS_B1F               0x4177 // Champ coord zone_event Tour Éboulis B1F (Regigigas)
+#define VAR_EE_THEON_SCENE_VIOLET          0x4178 // Théon Écorcia : 0 = éligible init, 1 = cutscene en cours, 2 = terminé
+// ────────────────────────────────────────────────────────────────────────
+
+#define NUM_VARS (0x179)
 
 #define SPECIAL_VAR_BASE 0x8000
 #define NUM_SPECIAL_VARS 14

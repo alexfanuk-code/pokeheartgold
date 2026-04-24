@@ -2220,7 +2220,106 @@
 #define FLAG_UNK_B5E                      0xB5E
 #define FLAG_UNK_B5F                      0xB5F
 
-#define NUM_FLAGS 2912
+// ── EverElectrum flags (0xB60–0xB9F) ─────────────────────────────────────
+// Confort items — distribution gates (one-shot gives)
+#define FLAG_EE_GOT_SAC_DE_COUCHAGE       0xB60
+#define FLAG_EE_GOT_LAPTOP_SYLPHE         0xB61
+#define FLAG_EE_GOT_POKEANALYSEUR         0xB62
+#define FLAG_EE_SHINY_CHARM               0xB63 // Shiny Charm owned (halves shiny rate)
+#define FLAG_EE_GOT_OMEGA                 0xB64 // Concentrateur Oméga given by Prof. Chen
+// Sprint Final — set after Red beaten, lifts legendary seals
+#define FLAG_EE_SPRINT_FINAL              0xB65
+// Legendary quest activation flags
+#define FLAG_EE_MEW_KEY_GIVEN             0xB66
+#define FLAG_EE_CELEBI_KEY_GIVEN          0xB67
+#define FLAG_EE_ARCEUS_KEY_GIVEN          0xB68
+#define FLAG_EE_LATIOS_KEY_GIVEN          0xB69
+#define FLAG_EE_MOTISMA_APPARU            0xB6A
+#define FLAG_EE_JIRACHI_KEY_GIVEN         0xB6B
+#define FLAG_EE_DEOXYS_KEY_GIVEN          0xB6C
+#define FLAG_EE_DARKRAI_KEY_GIVEN         0xB6D
+#define FLAG_EE_MANAPHY_KEY_GIVEN         0xB6E
+#define FLAG_EE_SHAYMIN_KEY_GIVEN         0xB6F
+#define FLAG_EE_HEATRAN_KEY_GIVEN         0xB70
+#define FLAG_EE_REGI_PIERRE_GIVEN         0xB71
+#define FLAG_EE_REGI_GLACE_GIVEN          0xB72
+#define FLAG_EE_REGI_ACIER_GIVEN          0xB73
+#define FLAG_EE_GARDIENS_KEY_GIVEN        0xB74 // Notes de Cynthia given
+#define FLAG_EE_GROUDON_ORB_GIVEN         0xB75
+// Legendary caught flags (for respawn after League)
+#define FLAG_EE_LATIOS_CAUGHT             0xB76
+#define FLAG_EE_GROUDON_CAUGHT            0xB77
+#define FLAG_EE_HEATRAN_CAUGHT            0xB78
+#define FLAG_EE_DARKRAI_CAUGHT            0xB79
+#define FLAG_EE_CRESSELIA_UNLOCK          0xB7A // Darkrai caught → Cresselia unlocked
+#define FLAG_EE_CRESSELIA_CAUGHT          0xB7B
+#define FLAG_EE_MANAPHY_CAUGHT            0xB7C
+#define FLAG_EE_PHIONE_UNLOCK             0xB7D // Manaphy caught → Phione unlocked
+#define FLAG_EE_PHIONE_CAUGHT             0xB7E
+#define FLAG_EE_REGIROCK_CAUGHT           0xB7F
+#define FLAG_EE_REGICE_CAUGHT             0xB80
+#define FLAG_EE_REGISTEEL_CAUGHT          0xB81
+#define FLAG_EE_REGIGIGAS_CAUGHT          0xB82
+#define FLAG_EE_CREHELF_CAUGHT            0xB83
+#define FLAG_EE_CREFOLLET_CAUGHT          0xB84
+#define FLAG_EE_CREFADET_CAUGHT           0xB85
+// Starter distribution flags
+#define FLAG_EE_STARTER_JOHTO2            0xB86
+#define FLAG_EE_STARTER_JOHTO3            0xB87
+#define FLAG_EE_STARTER_KANTO2            0xB88
+#define FLAG_EE_STARTER_KANTO3            0xB89
+#define FLAG_EE_STARTER_HOENN2            0xB8A
+#define FLAG_EE_STARTER_HOENN3            0xB8B
+#define FLAG_EE_STARTER_SINNOH1           0xB8C
+#define FLAG_EE_STARTER_SINNOH2           0xB8D
+#define FLAG_EE_STARTER_SINNOH3           0xB8E
+// Legendary defeat (KO'd without catching) — for respawn triggers
+#define FLAG_EE_LATIOS_DEFEATED           0xB8F
+#define FLAG_EE_GROUDON_DEFEATED          0xB90
+#define FLAG_EE_HEATRAN_DEFEATED          0xB91
+#define FLAG_EE_DARKRAI_DEFEATED          0xB92
+#define FLAG_EE_CRESSELIA_DEFEATED        0xB93
+#define FLAG_EE_MANAPHY_DEFEATED          0xB94
+#define FLAG_EE_PHIONE_DEFEATED           0xB95
+#define FLAG_EE_REGIROCK_DEFEATED         0xB96
+#define FLAG_EE_REGICE_DEFEATED           0xB97
+#define FLAG_EE_REGISTEEL_DEFEATED        0xB98
+#define FLAG_EE_REGIGIGAS_DEFEATED        0xB99
+#define FLAG_EE_CREHELF_DEFEATED          0xB9A
+#define FLAG_EE_CREFOLLET_DEFEATED        0xB9B
+#define FLAG_EE_CREFADET_DEFEATED         0xB9C
+#define FLAG_EE_MEW_APPARU                0xB9D // Mew encounter triggered (no respawn)
+#define FLAG_EE_CELEBI_APPARU             0xB9E // Célébi encounter triggered (no respawn)
+#define FLAG_EE_ARCEUS_APPARU             0xB9F // Arceus encounter triggered (no respawn)
+#define FLAG_EE_MOTISMA_CAUGHT            0xBA0
+#define FLAG_EE_JIRACHI_APPARU            0xBA1
+#define FLAG_EE_JIRACHI_CAUGHT            0xBA2
+#define FLAG_HIDE_D02R0104_ASTRONOMER     0xBA3
+#define FLAG_EE_DEOXYS_APPARU             0xBA4
+#define FLAG_EE_DEOXYS_CAUGHT             0xBA5
+#define FLAG_EE_NOTES_CYNTHIA_GIVEN       0xBA6 // Gardiens du lac — Cynthia a remis les Notes
+#define FLAG_EE_CREHELF_APPARU            0xBA7 // Créhelf encounter triggered (no respawn)
+#define FLAG_EE_CREFOLLET_APPARU          0xBA8 // Créfollet encounter triggered
+#define FLAG_EE_CREFADET_APPARU           0xBA9 // Créfadet encounter triggered
+#define FLAG_EE_MANAPHY_APPARU            0xBAA // Manaphy encounter triggered (respawn post-Ligue si KO)
+#define FLAG_EE_PHIONE_APPARU             0xBAB // Phione encounter triggered
+#define FLAG_EE_MANAPHY_PASSAGE           0xBAC // Accès B4F Manaphy définitivement ouvert (post-capture)
+#define FLAG_EE_SHAYMIN_APPARU            0xBAD // Shaymin rencontre déclenchée (Parc national)
+#define FLAG_EE_SHAYMIN_CAUGHT            0xBAE
+#define FLAG_EE_SHAYMIN_GRACIDEA_GIVEN    0xBAF // Fleuriste Doublonville — don Gracidée
+#define FLAG_EE_SHAYMIN_DEFEATED          0xBB0
+#define FLAG_EE_REGIROCK_APPARU           0xBB1 // Trio Regis — rencontre déclenchée (Route 45)
+#define FLAG_EE_REGICE_APPARU             0xBB2 // Route de Glace B3F
+#define FLAG_EE_REGISTEEL_APPARU          0xBB3 // Mont Creuset 1F
+#define FLAG_EE_REGIGIGAS_APPARU          0xBB4 // Tour Éboulis B1F — rencontre déclenchée
+#define FLAG_EE_REGIGIGAS_RESEARCH        0xBB5 // Chercheur Ruines d'Alpha — indice Regigigas donné
+#define FLAG_EE_THEON_MET                 0xBB6 // Théon — scène Écorcia jouée (oracle Ville Griotte)
+#define FLAG_EE_LEO_MEW_MAP_SYNCED        0xBB7 // Théon — synchro carte Mew (Léo) — réservé quête Mew
+#define FLAG_EE_GS_BALL_FARGAS_DONE       0xBB8 // Théon — analyse GS Ball (Fargas) terminée — réservé L-2
+#define FLAG_EE_THEON_VIOLET_NPC_RESERVE  0xBB9 // réservé (PNJ Écorcia futur si besoin)
+// ─────────────────────────────────────────────────────────────────────────
+
+#define NUM_FLAGS 3000
 
 #define NUM_TEMP_FLAGS 64
 #define TEMP_FLAG_BASE 0x4000
